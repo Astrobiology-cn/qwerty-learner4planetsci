@@ -1,0 +1,7952 @@
+[
+    {
+        "name": "pachnolite",
+        "trans": [
+            "霜晶石"
+        ]
+    },
+    {
+        "name": "pacific geosyncline",
+        "trans": [
+            "太平洋地槽"
+        ]
+    },
+    {
+        "name": "pacific suite",
+        "trans": [
+            "太平洋岩群"
+        ]
+    },
+    {
+        "name": "pack ice",
+        "trans": [
+            "浮冰"
+        ]
+    },
+    {
+        "name": "packing",
+        "trans": [
+            "充填"
+        ]
+    },
+    {
+        "name": "paehoehoe lava",
+        "trans": [
+            "波纹熔岩"
+        ]
+    },
+    {
+        "name": "pagodite",
+        "trans": [
+            "叶蜡石"
+        ]
+    },
+    {
+        "name": "pahoehoe lava",
+        "trans": [
+            "波纹熔岩"
+        ]
+    },
+    {
+        "name": "paigeite",
+        "trans": [
+            "硼铁矿"
+        ]
+    },
+    {
+        "name": "painite",
+        "trans": [
+            "红硅硼铝钙石"
+        ]
+    },
+    {
+        "name": "pair production",
+        "trans": [
+            "偶生成"
+        ]
+    },
+    {
+        "name": "paired fins",
+        "trans": [
+            "偶"
+        ]
+    },
+    {
+        "name": "paired metamorphic belt",
+        "trans": [
+            "双变质带"
+        ]
+    },
+    {
+        "name": "pairing of electrons",
+        "trans": [
+            "生成电子对"
+        ]
+    },
+    {
+        "name": "paisanite",
+        "trans": [
+            "钠闪微岗岩"
+        ]
+    },
+    {
+        "name": "palaeobiology",
+        "trans": [
+            "古生物学"
+        ]
+    },
+    {
+        "name": "palaeontology",
+        "trans": [
+            "古生物学"
+        ]
+    },
+    {
+        "name": "palaeosedimentology",
+        "trans": [
+            "古沉积学"
+        ]
+    },
+    {
+        "name": "palaeotectonics",
+        "trans": [
+            "古地质构造学"
+        ]
+    },
+    {
+        "name": "palagonite",
+        "trans": [
+            "橙玄玻璃"
+        ]
+    },
+    {
+        "name": "palaite",
+        "trans": [
+            "红磷锰矿"
+        ]
+    },
+    {
+        "name": "palate",
+        "trans": [
+            "口盖"
+        ]
+    },
+    {
+        "name": "palatine",
+        "trans": [
+            "腭骨"
+        ]
+    },
+    {
+        "name": "palatinite",
+        "trans": [
+            "直辉中基性岩"
+        ]
+    },
+    {
+        "name": "paleo oceanography",
+        "trans": [
+            "古海洋学"
+        ]
+    },
+    {
+        "name": "paleo plate tectonics",
+        "trans": [
+            "古板块构造"
+        ]
+    },
+    {
+        "name": "paleoanthropology",
+        "trans": [
+            "古人类学"
+        ]
+    },
+    {
+        "name": "paleoarctic subregion",
+        "trans": [
+            "古北亚区"
+        ]
+    },
+    {
+        "name": "paleoautochthon",
+        "trans": [
+            "古原地岩"
+        ]
+    },
+    {
+        "name": "paleobathymetric map",
+        "trans": [
+            "古等深线图"
+        ]
+    },
+    {
+        "name": "paleobiocenose",
+        "trans": [
+            "古生物群落"
+        ]
+    },
+    {
+        "name": "paleobiocenosis",
+        "trans": [
+            "古生物群落"
+        ]
+    },
+    {
+        "name": "paleobiochemistry",
+        "trans": [
+            "古生物化学"
+        ]
+    },
+    {
+        "name": "paleobiogeographic province",
+        "trans": [
+            "古生物地理区"
+        ]
+    },
+    {
+        "name": "paleobiogeography",
+        "trans": [
+            "古生物地理学"
+        ]
+    },
+    {
+        "name": "paleobiology",
+        "trans": [
+            "古生物学"
+        ]
+    },
+    {
+        "name": "paleobotanic province",
+        "trans": [
+            "古植物地理区"
+        ]
+    },
+    {
+        "name": "paleobotany",
+        "trans": [
+            "古植物学"
+        ]
+    },
+    {
+        "name": "paleocene",
+        "trans": [
+            "古新世"
+        ]
+    },
+    {
+        "name": "paleochannel",
+        "trans": [
+            "古水道"
+        ]
+    },
+    {
+        "name": "paleoclimate",
+        "trans": [
+            "古气候"
+        ]
+    },
+    {
+        "name": "paleoclimatology",
+        "trans": [
+            "古气候学"
+        ]
+    },
+    {
+        "name": "paleoecology",
+        "trans": [
+            "古生态学"
+        ]
+    },
+    {
+        "name": "paleoenvironment",
+        "trans": [
+            "古环境"
+        ]
+    },
+    {
+        "name": "paleogene",
+        "trans": [
+            "老第三纪"
+        ]
+    },
+    {
+        "name": "paleogenetics",
+        "trans": [
+            "古遗传学"
+        ]
+    },
+    {
+        "name": "paleogeographical map",
+        "trans": [
+            "古地理图"
+        ]
+    },
+    {
+        "name": "paleogeography",
+        "trans": [
+            "古地理学"
+        ]
+    },
+    {
+        "name": "paleogeology",
+        "trans": [
+            "古地质学"
+        ]
+    },
+    {
+        "name": "paleogeomorphic trap",
+        "trans": [
+            "古地貌圈闭"
+        ]
+    },
+    {
+        "name": "paleogeomorphology",
+        "trans": [
+            "古地貌学"
+        ]
+    },
+    {
+        "name": "paleogeophysics",
+        "trans": [
+            "古地球物理学"
+        ]
+    },
+    {
+        "name": "paleoichnology",
+        "trans": [
+            "古遗迹学"
+        ]
+    },
+    {
+        "name": "paleoichtyology",
+        "trans": [
+            "古鱼类学"
+        ]
+    },
+    {
+        "name": "paleoisotherm",
+        "trans": [
+            "古等温线"
+        ]
+    },
+    {
+        "name": "paleolithic age",
+        "trans": [
+            "旧石票代"
+        ]
+    },
+    {
+        "name": "paleomagnetism",
+        "trans": [
+            "古地磁"
+        ]
+    },
+    {
+        "name": "paleometamorphism",
+        "trans": [
+            "古变质酌"
+        ]
+    },
+    {
+        "name": "paleontological facies",
+        "trans": [
+            "古生物相"
+        ]
+    },
+    {
+        "name": "paleontology",
+        "trans": [
+            "古生物学"
+        ]
+    },
+    {
+        "name": "paleophyre",
+        "trans": [
+            "古云英斑岩"
+        ]
+    },
+    {
+        "name": "paleophytic era",
+        "trans": [
+            "古植物代"
+        ]
+    },
+    {
+        "name": "paleophytology",
+        "trans": [
+            "古植物学"
+        ]
+    },
+    {
+        "name": "paleopole",
+        "trans": [
+            "古极"
+        ]
+    },
+    {
+        "name": "paleosalinity",
+        "trans": [
+            "古盐度"
+        ]
+    },
+    {
+        "name": "paleosome",
+        "trans": [
+            "古残体"
+        ]
+    },
+    {
+        "name": "paleostructure",
+        "trans": [
+            "古构造"
+        ]
+    },
+    {
+        "name": "paleotectonic",
+        "trans": [
+            "古构造的"
+        ]
+    },
+    {
+        "name": "paleotemperature",
+        "trans": [
+            "古温度"
+        ]
+    },
+    {
+        "name": "paleotropical region",
+        "trans": [
+            "古热带区"
+        ]
+    },
+    {
+        "name": "paleotypal",
+        "trans": [
+            "古相的"
+        ]
+    },
+    {
+        "name": "paleovolcanic",
+        "trans": [
+            "古火山的"
+        ]
+    },
+    {
+        "name": "paleozoic era",
+        "trans": [
+            "古生代"
+        ]
+    },
+    {
+        "name": "paleozoologic province",
+        "trans": [
+            "古动物地理区"
+        ]
+    },
+    {
+        "name": "paleozoology",
+        "trans": [
+            "古动物学"
+        ]
+    },
+    {
+        "name": "palermoite",
+        "trans": [
+            "柱磷锶锂矿"
+        ]
+    },
+    {
+        "name": "palichnology",
+        "trans": [
+            "古遗迹学"
+        ]
+    },
+    {
+        "name": "palimpsest",
+        "trans": [
+            "变余构造"
+        ]
+    },
+    {
+        "name": "palingenesis",
+        "trans": [
+            "再生"
+        ]
+    },
+    {
+        "name": "palingenetic granite",
+        "trans": [
+            "再生花岗岩"
+        ]
+    },
+    {
+        "name": "palingenetic petrographic province",
+        "trans": [
+            "再生岩区"
+        ]
+    },
+    {
+        "name": "palingenite",
+        "trans": [
+            "再生岩"
+        ]
+    },
+    {
+        "name": "palinspastic map",
+        "trans": [
+            "复原地图"
+        ]
+    },
+    {
+        "name": "palinspastic reconstruction",
+        "trans": [
+            "空间复原"
+        ]
+    },
+    {
+        "name": "palladinite",
+        "trans": [
+            "方铂矿"
+        ]
+    },
+    {
+        "name": "palladium",
+        "trans": [
+            "钯"
+        ]
+    },
+    {
+        "name": "pallasite",
+        "trans": [
+            "石铁陨石"
+        ]
+    },
+    {
+        "name": "pallial eye",
+        "trans": [
+            "外套眼"
+        ]
+    },
+    {
+        "name": "pallial groove",
+        "trans": [
+            "套膜沟"
+        ]
+    },
+    {
+        "name": "pallial line",
+        "trans": [
+            "套线"
+        ]
+    },
+    {
+        "name": "palmate",
+        "trans": [
+            "掌状的"
+        ]
+    },
+    {
+        "name": "palmate leaf",
+        "trans": [
+            "掌状叶"
+        ]
+    },
+    {
+        "name": "palmate nerve",
+        "trans": [
+            "掌状脉"
+        ]
+    },
+    {
+        "name": "palmate vein",
+        "trans": [
+            "掌状脉"
+        ]
+    },
+    {
+        "name": "palmierite",
+        "trans": [
+            "硫钾钠铅矿"
+        ]
+    },
+    {
+        "name": "palpon",
+        "trans": [
+            "触管"
+        ]
+    },
+    {
+        "name": "paludal",
+        "trans": [
+            "沼泽的"
+        ]
+    },
+    {
+        "name": "paludification",
+        "trans": [
+            "沼泽化"
+        ]
+    },
+    {
+        "name": "palygorskite",
+        "trans": [
+            "坡缕石"
+        ]
+    },
+    {
+        "name": "palynoflora",
+        "trans": [
+            "孢粉植物群"
+        ]
+    },
+    {
+        "name": "palynology",
+        "trans": [
+            "孢粉学"
+        ]
+    },
+    {
+        "name": "palynostratigraphy",
+        "trans": [
+            "孢粉地层学"
+        ]
+    },
+    {
+        "name": "pampas",
+        "trans": [
+            "滂沛大草原"
+        ]
+    },
+    {
+        "name": "pan geosyncline",
+        "trans": [
+            "泛地槽"
+        ]
+    },
+    {
+        "name": "pan platform",
+        "trans": [
+            "泛陆台"
+        ]
+    },
+    {
+        "name": "panallotriomorphic granular",
+        "trans": [
+            "全他形晶粒状的"
+        ]
+    },
+    {
+        "name": "panallotriomorphoblastic",
+        "trans": [
+            "全他形变晶的"
+        ]
+    },
+    {
+        "name": "pandermite",
+        "trans": [
+            "白硼钙石"
+        ]
+    },
+    {
+        "name": "pangaea",
+        "trans": [
+            "泛古陆"
+        ]
+    },
+    {
+        "name": "pangeosyncline hypothesis",
+        "trans": [
+            "泛地槽说"
+        ]
+    },
+    {
+        "name": "panidiomorphic",
+        "trans": [
+            "全自形的"
+        ]
+    },
+    {
+        "name": "panning",
+        "trans": [
+            "淘洗"
+        ]
+    },
+    {
+        "name": "panning plate",
+        "trans": [
+            "淘砂盘"
+        ]
+    },
+    {
+        "name": "pantellerite",
+        "trans": [
+            "碱烈"
+        ]
+    },
+    {
+        "name": "pantograph",
+        "trans": [
+            "缩放仪"
+        ]
+    },
+    {
+        "name": "pantometer",
+        "trans": [
+            "万测仪"
+        ]
+    },
+    {
+        "name": "para amphibolite",
+        "trans": [
+            "副闪岩"
+        ]
+    },
+    {
+        "name": "paraallochthon",
+        "trans": [
+            "准移置体"
+        ]
+    },
+    {
+        "name": "parabola of cohesion",
+        "trans": [
+            "内聚力抛物线"
+        ]
+    },
+    {
+        "name": "paracelsian",
+        "trans": [
+            "副钡长石"
+        ]
+    },
+    {
+        "name": "parachronology",
+        "trans": [
+            "实际年代学"
+        ]
+    },
+    {
+        "name": "parachrysotile",
+        "trans": [
+            "副纤维蛇纹石"
+        ]
+    },
+    {
+        "name": "paraclase",
+        "trans": [
+            "断层裂缝"
+        ]
+    },
+    {
+        "name": "paraconformity",
+        "trans": [
+            "似整合"
+        ]
+    },
+    {
+        "name": "paraconglomerate",
+        "trans": [
+            "副砾岩"
+        ]
+    },
+    {
+        "name": "paracoquimbite",
+        "trans": [
+            "紫铁矾"
+        ]
+    },
+    {
+        "name": "paracrosis",
+        "trans": [
+            "脱色"
+        ]
+    },
+    {
+        "name": "paradoxite",
+        "trans": [
+            "肉红长石"
+        ]
+    },
+    {
+        "name": "paraendokinetic crystallization",
+        "trans": [
+            "副内动结晶"
+        ]
+    },
+    {
+        "name": "paraffine base crude oil",
+        "trans": [
+            "石蜡基油"
+        ]
+    },
+    {
+        "name": "paragenesis",
+        "trans": [
+            "共生"
+        ]
+    },
+    {
+        "name": "parageosyncline",
+        "trans": [
+            "副地槽"
+        ]
+    },
+    {
+        "name": "paragneiss",
+        "trans": [
+            "副片麻岩"
+        ]
+    },
+    {
+        "name": "paragonite",
+        "trans": [
+            "钠云母"
+        ]
+    },
+    {
+        "name": "parahopeite",
+        "trans": [
+            "磷锌矿"
+        ]
+    },
+    {
+        "name": "paralaurionite",
+        "trans": [
+            "单斜水氯铅矿"
+        ]
+    },
+    {
+        "name": "paraliageosyncline",
+        "trans": [
+            "滨海地槽"
+        ]
+    },
+    {
+        "name": "paralic",
+        "trans": [
+            "近海的"
+        ]
+    },
+    {
+        "name": "paralimestone",
+        "trans": [
+            "副灰岩"
+        ]
+    },
+    {
+        "name": "parallax",
+        "trans": [
+            "视差"
+        ]
+    },
+    {
+        "name": "parallel",
+        "trans": [
+            "平行的"
+        ]
+    },
+    {
+        "name": "parallel banded structure",
+        "trans": [
+            "平行带状构造"
+        ]
+    },
+    {
+        "name": "parallel cleavage",
+        "trans": [
+            "平行劈理"
+        ]
+    },
+    {
+        "name": "parallel concentric folds",
+        "trans": [
+            "平行褶皱"
+        ]
+    },
+    {
+        "name": "parallel evolution",
+        "trans": [
+            "平行进化"
+        ]
+    },
+    {
+        "name": "parallel faults",
+        "trans": [
+            "平行断层"
+        ]
+    },
+    {
+        "name": "parallel folding",
+        "trans": [
+            "平行褶皱"
+        ]
+    },
+    {
+        "name": "parallel growth",
+        "trans": [
+            "平行共生"
+        ]
+    },
+    {
+        "name": "parallel unconformity",
+        "trans": [
+            "假整合"
+        ]
+    },
+    {
+        "name": "parallel vein",
+        "trans": [
+            "平行脉"
+        ]
+    },
+    {
+        "name": "parallel venation",
+        "trans": [
+            "平行脉"
+        ]
+    },
+    {
+        "name": "paraluminite",
+        "trans": [
+            "丝铝矾"
+        ]
+    },
+    {
+        "name": "paramagnetism",
+        "trans": [
+            "顺磁性"
+        ]
+    },
+    {
+        "name": "parametamorphism",
+        "trans": [
+            "副变质"
+        ]
+    },
+    {
+        "name": "parameter",
+        "trans": [
+            "参数"
+        ]
+    },
+    {
+        "name": "paramontroseite",
+        "trans": [
+            "次铁钒矿"
+        ]
+    },
+    {
+        "name": "paramorph",
+        "trans": [
+            "同质异晶体"
+        ]
+    },
+    {
+        "name": "paramorphic hemihedry",
+        "trans": [
+            "副象半面象"
+        ]
+    },
+    {
+        "name": "parankerite",
+        "trans": [
+            "铁白云石"
+        ]
+    },
+    {
+        "name": "paraperidotite",
+        "trans": [
+            "副橄榄岩"
+        ]
+    },
+    {
+        "name": "paraplatform",
+        "trans": [
+            "准地台"
+        ]
+    },
+    {
+        "name": "parapyroxenite",
+        "trans": [
+            "副辉岩"
+        ]
+    },
+    {
+        "name": "paraquartzite",
+        "trans": [
+            "副石英岩"
+        ]
+    },
+    {
+        "name": "pararock",
+        "trans": [
+            "副变质岩"
+        ]
+    },
+    {
+        "name": "paraschist",
+        "trans": [
+            "副片岩"
+        ]
+    },
+    {
+        "name": "parasedimentary breccia",
+        "trans": [
+            "副沉积角砾岩"
+        ]
+    },
+    {
+        "name": "parasepiolite",
+        "trans": [
+            "多水海泡石"
+        ]
+    },
+    {
+        "name": "paraserpentinite",
+        "trans": [
+            "副蛇纹岩"
+        ]
+    },
+    {
+        "name": "parasilicates",
+        "trans": [
+            "副硅酸盐"
+        ]
+    },
+    {
+        "name": "parasitic crater",
+        "trans": [
+            "寄生火口"
+        ]
+    },
+    {
+        "name": "parasitic fold",
+        "trans": [
+            "寄生褶皱"
+        ]
+    },
+    {
+        "name": "parasitic volcano",
+        "trans": [
+            "寄生火山"
+        ]
+    },
+    {
+        "name": "parasitism",
+        "trans": [
+            "寄生"
+        ]
+    },
+    {
+        "name": "parastratigraphy",
+        "trans": [
+            "实用地层学"
+        ]
+    },
+    {
+        "name": "paratectonics",
+        "trans": [
+            "准构造"
+        ]
+    },
+    {
+        "name": "paratype",
+        "trans": [
+            "副型"
+        ]
+    },
+    {
+        "name": "paravauxite",
+        "trans": [
+            "磷铁铝矿"
+        ]
+    },
+    {
+        "name": "parcel",
+        "trans": [
+            "小区"
+        ]
+    },
+    {
+        "name": "parent element",
+        "trans": [
+            "母元素"
+        ]
+    },
+    {
+        "name": "parent material",
+        "trans": [
+            "母质"
+        ]
+    },
+    {
+        "name": "parent population",
+        "trans": [
+            "母体"
+        ]
+    },
+    {
+        "name": "parent rock",
+        "trans": [
+            "母岩"
+        ]
+    },
+    {
+        "name": "parental magma",
+        "trans": [
+            "母岩浆"
+        ]
+    },
+    {
+        "name": "pargasite",
+        "trans": [
+            "韭角闪石"
+        ]
+    },
+    {
+        "name": "parisite",
+        "trans": [
+            "氟碳钙铈矿"
+        ]
+    },
+    {
+        "name": "parity",
+        "trans": [
+            "宇称"
+        ]
+    },
+    {
+        "name": "paroxism",
+        "trans": [
+            "暴发高潮"
+        ]
+    },
+    {
+        "name": "paroxysm",
+        "trans": [
+            "暴发高潮"
+        ]
+    },
+    {
+        "name": "paroxysm of orogenic cycle",
+        "trans": [
+            "造山旋回粥"
+        ]
+    },
+    {
+        "name": "parsonsite",
+        "trans": [
+            "斜磷铝铀矿"
+        ]
+    },
+    {
+        "name": "partial anatexis",
+        "trans": [
+            "余深溶酌"
+        ]
+    },
+    {
+        "name": "partial automatic",
+        "trans": [
+            "半自动的"
+        ]
+    },
+    {
+        "name": "partial carbondioxide pressure",
+        "trans": [
+            "二氧化碳分压力"
+        ]
+    },
+    {
+        "name": "partial correlation coefficient",
+        "trans": [
+            "偏相关系数"
+        ]
+    },
+    {
+        "name": "partial melting",
+        "trans": [
+            "部分熔融"
+        ]
+    },
+    {
+        "name": "partial pressure of vapor",
+        "trans": [
+            "汽分压力"
+        ]
+    },
+    {
+        "name": "partial valence",
+        "trans": [
+            "余价"
+        ]
+    },
+    {
+        "name": "particle",
+        "trans": [
+            "颗粒"
+        ]
+    },
+    {
+        "name": "particle charge",
+        "trans": [
+            "粒子电荷"
+        ]
+    },
+    {
+        "name": "particle size",
+        "trans": [
+            "颗粒大小"
+        ]
+    },
+    {
+        "name": "particle size analysis",
+        "trans": [
+            "粒度分析"
+        ]
+    },
+    {
+        "name": "parting",
+        "trans": [
+            "裂理;夹层"
+        ]
+    },
+    {
+        "name": "partition",
+        "trans": [
+            "划分"
+        ]
+    },
+    {
+        "name": "partition coefficient",
+        "trans": [
+            "分配系数"
+        ]
+    },
+    {
+        "name": "partition equilibrium",
+        "trans": [
+            "分配平衡"
+        ]
+    },
+    {
+        "name": "parts per billion",
+        "trans": [
+            "亿分率"
+        ]
+    },
+    {
+        "name": "parts per million",
+        "trans": [
+            "百万分率"
+        ]
+    },
+    {
+        "name": "partschinite",
+        "trans": [
+            "锰铝榴石"
+        ]
+    },
+    {
+        "name": "pascoite",
+        "trans": [
+            "橙钒钙石"
+        ]
+    },
+    {
+        "name": "pass",
+        "trans": [
+            "山口"
+        ]
+    },
+    {
+        "name": "passive remote sensing",
+        "trans": [
+            "被动式遥感"
+        ]
+    },
+    {
+        "name": "pasture grass",
+        "trans": [
+            "牧草"
+        ]
+    },
+    {
+        "name": "patch cord",
+        "trans": [
+            "软线"
+        ]
+    },
+    {
+        "name": "pateraite",
+        "trans": [
+            "黑钼钴矿"
+        ]
+    },
+    {
+        "name": "paternoite",
+        "trans": [
+            "水硼镁石"
+        ]
+    },
+    {
+        "name": "pathogenic bacteria",
+        "trans": [
+            "病源细菌"
+        ]
+    },
+    {
+        "name": "patina",
+        "trans": [
+            "氧化膜"
+        ]
+    },
+    {
+        "name": "patrinite",
+        "trans": [
+            "针硫铋铅矿"
+        ]
+    },
+    {
+        "name": "patronite",
+        "trans": [
+            "绿硫钒矿"
+        ]
+    },
+    {
+        "name": "pattern",
+        "trans": [
+            "模型"
+        ]
+    },
+    {
+        "name": "pattern recognition",
+        "trans": [
+            "模式识别"
+        ]
+    },
+    {
+        "name": "paucilithionite",
+        "trans": [
+            "钾锂云母"
+        ]
+    },
+    {
+        "name": "pawdite",
+        "trans": [
+            "云英微闪长岩"
+        ]
+    },
+    {
+        "name": "pay dirt",
+        "trans": [
+            "可采矿石"
+        ]
+    },
+    {
+        "name": "pay ore",
+        "trans": [
+            "可采矿石"
+        ]
+    },
+    {
+        "name": "pay set",
+        "trans": [
+            "可采油层组"
+        ]
+    },
+    {
+        "name": "pay zone unit",
+        "trans": [
+            "油层单元"
+        ]
+    },
+    {
+        "name": "payable",
+        "trans": [
+            "宜于开采的"
+        ]
+    },
+    {
+        "name": "pea structure",
+        "trans": [
+            "豌豆状结构"
+        ]
+    },
+    {
+        "name": "peak",
+        "trans": [
+            "山顶"
+        ]
+    },
+    {
+        "name": "peak power output",
+        "trans": [
+            "峰值输出功率"
+        ]
+    },
+    {
+        "name": "peak pulse power",
+        "trans": [
+            "脉冲峰值功率"
+        ]
+    },
+    {
+        "name": "peak runoff",
+        "trans": [
+            "最大径流"
+        ]
+    },
+    {
+        "name": "peak voltage",
+        "trans": [
+            "峰值电压"
+        ]
+    },
+    {
+        "name": "pealite",
+        "trans": [
+            "蛋白硅华"
+        ]
+    },
+    {
+        "name": "pear shaped",
+        "trans": [
+            "梨形的"
+        ]
+    },
+    {
+        "name": "pearceite",
+        "trans": [
+            "砷硫锑铜银矿"
+        ]
+    },
+    {
+        "name": "pearly luster",
+        "trans": [
+            "珍珠光泽"
+        ]
+    },
+    {
+        "name": "peastone",
+        "trans": [
+            "豆石"
+        ]
+    },
+    {
+        "name": "peat",
+        "trans": [
+            "泥炭"
+        ]
+    },
+    {
+        "name": "peat bog",
+        "trans": [
+            "泥炭沼泽"
+        ]
+    },
+    {
+        "name": "peat formation",
+        "trans": [
+            "泥炭形成"
+        ]
+    },
+    {
+        "name": "peat land",
+        "trans": [
+            "泥炭地"
+        ]
+    },
+    {
+        "name": "peat soil",
+        "trans": [
+            "泥炭土"
+        ]
+    },
+    {
+        "name": "peatification",
+        "trans": [
+            "泥炭化酌"
+        ]
+    },
+    {
+        "name": "peaty",
+        "trans": [
+            "泥炭的"
+        ]
+    },
+    {
+        "name": "peaty clay",
+        "trans": [
+            "泥炭地"
+        ]
+    },
+    {
+        "name": "pebble",
+        "trans": [
+            "砾石"
+        ]
+    },
+    {
+        "name": "pebble bed",
+        "trans": [
+            "卵石层"
+        ]
+    },
+    {
+        "name": "pebblestone",
+        "trans": [
+            "砾石"
+        ]
+    },
+    {
+        "name": "pebbly sandstone",
+        "trans": [
+            "卵石砂岩"
+        ]
+    },
+    {
+        "name": "pectinate",
+        "trans": [
+            "栉状"
+        ]
+    },
+    {
+        "name": "pectolite",
+        "trans": [
+            "针钠钙石"
+        ]
+    },
+    {
+        "name": "pectoral fin",
+        "trans": [
+            "胸"
+        ]
+    },
+    {
+        "name": "pedal ganglion",
+        "trans": [
+            "足神经节"
+        ]
+    },
+    {
+        "name": "pedalfer",
+        "trans": [
+            "铁铝土"
+        ]
+    },
+    {
+        "name": "pedestal",
+        "trans": [
+            "基座"
+        ]
+    },
+    {
+        "name": "pedicle",
+        "trans": [
+            "肉基"
+        ]
+    },
+    {
+        "name": "pediment",
+        "trans": [
+            "麓原"
+        ]
+    },
+    {
+        "name": "pedion",
+        "trans": [
+            "单面"
+        ]
+    },
+    {
+        "name": "pedionite",
+        "trans": [
+            "熔岩台地"
+        ]
+    },
+    {
+        "name": "pediplain",
+        "trans": [
+            "山麓侵蚀平原"
+        ]
+    },
+    {
+        "name": "pediplanation",
+        "trans": [
+            "山麓准平原化"
+        ]
+    },
+    {
+        "name": "pedocal",
+        "trans": [
+            "钙层土"
+        ]
+    },
+    {
+        "name": "pedogenesis",
+        "trans": [
+            "成土酌"
+        ]
+    },
+    {
+        "name": "pedogeochemistry",
+        "trans": [
+            "土壤地球化学"
+        ]
+    },
+    {
+        "name": "pedologist",
+        "trans": [
+            "土壤学家"
+        ]
+    },
+    {
+        "name": "pedology",
+        "trans": [
+            "土壤学"
+        ]
+    },
+    {
+        "name": "pedometer",
+        "trans": [
+            "计步器计距器"
+        ]
+    },
+    {
+        "name": "pedosphere",
+        "trans": [
+            "土圈"
+        ]
+    },
+    {
+        "name": "peel",
+        "trans": [
+            "皮"
+        ]
+    },
+    {
+        "name": "peeling",
+        "trans": [
+            "去皮"
+        ]
+    },
+    {
+        "name": "peganite",
+        "trans": [
+            "磷矾土"
+        ]
+    },
+    {
+        "name": "pegmatite",
+        "trans": [
+            "伟晶岩"
+        ]
+    },
+    {
+        "name": "pegmatite deposit",
+        "trans": [
+            "伟晶岩矿床"
+        ]
+    },
+    {
+        "name": "pegmatite mineral",
+        "trans": [
+            "伟晶岩矿物"
+        ]
+    },
+    {
+        "name": "pegmatitic",
+        "trans": [
+            "伟晶岩的"
+        ]
+    },
+    {
+        "name": "pegmatitic stage",
+        "trans": [
+            "伟晶岩期"
+        ]
+    },
+    {
+        "name": "pegmatoid",
+        "trans": [
+            "伟晶岩相"
+        ]
+    },
+    {
+        "name": "pegmatophyre",
+        "trans": [
+            "伟斑岩"
+        ]
+    },
+    {
+        "name": "pelagic clay",
+        "trans": [
+            "远海粘土"
+        ]
+    },
+    {
+        "name": "pelagic deposit",
+        "trans": [
+            "深海沉积"
+        ]
+    },
+    {
+        "name": "pelagic facies",
+        "trans": [
+            "远海相"
+        ]
+    },
+    {
+        "name": "pelagic sediment",
+        "trans": [
+            "远海沉积物"
+        ]
+    },
+    {
+        "name": "pelagite",
+        "trans": [
+            "海底锰块"
+        ]
+    },
+    {
+        "name": "pele's hair",
+        "trans": [
+            "火山毛"
+        ]
+    },
+    {
+        "name": "pele's tear",
+        "trans": [
+            "火山泪"
+        ]
+    },
+    {
+        "name": "pelean eruption",
+        "trans": [
+            "培利型火山喷发"
+        ]
+    },
+    {
+        "name": "peleeite",
+        "trans": [
+            "斑苏玄武岩"
+        ]
+    },
+    {
+        "name": "pelionite",
+        "trans": [
+            "烛沥青煤"
+        ]
+    },
+    {
+        "name": "pelite",
+        "trans": [
+            "泥质岩"
+        ]
+    },
+    {
+        "name": "pelitic",
+        "trans": [
+            "泥质的"
+        ]
+    },
+    {
+        "name": "pelitic rock",
+        "trans": [
+            "泥质岩"
+        ]
+    },
+    {
+        "name": "pelitomorphic",
+        "trans": [
+            "泥岩状的"
+        ]
+    },
+    {
+        "name": "pell mell structure",
+        "trans": [
+            "杂乱构造"
+        ]
+    },
+    {
+        "name": "pellet",
+        "trans": [
+            "球团矿"
+        ]
+    },
+    {
+        "name": "pelletizing",
+        "trans": [
+            "球团"
+        ]
+    },
+    {
+        "name": "pellicular water",
+        "trans": [
+            "薄膜水"
+        ]
+    },
+    {
+        "name": "pelma",
+        "trans": [
+            "茎"
+        ]
+    },
+    {
+        "name": "pelmicrite",
+        "trans": [
+            "球粒微晶灰岩"
+        ]
+    },
+    {
+        "name": "peltate leaf",
+        "trans": [
+            "盾形叶"
+        ]
+    },
+    {
+        "name": "pen trace",
+        "trans": [
+            "记录笔迹"
+        ]
+    },
+    {
+        "name": "pencatite",
+        "trans": [
+            "水滑大理岩"
+        ]
+    },
+    {
+        "name": "pencil of light",
+        "trans": [
+            "锥光线"
+        ]
+    },
+    {
+        "name": "pendular regime",
+        "trans": [
+            "摆方法"
+        ]
+    },
+    {
+        "name": "pendulum",
+        "trans": [
+            "摆"
+        ]
+    },
+    {
+        "name": "penecontemporaneous",
+        "trans": [
+            "准同期的"
+        ]
+    },
+    {
+        "name": "peneplain",
+        "trans": [
+            "准平原"
+        ]
+    },
+    {
+        "name": "peneplanation",
+        "trans": [
+            "准平原酌"
+        ]
+    },
+    {
+        "name": "penetrability",
+        "trans": [
+            "贯穿性"
+        ]
+    },
+    {
+        "name": "penetrate",
+        "trans": [
+            "穿入"
+        ]
+    },
+    {
+        "name": "penetrating power",
+        "trans": [
+            "穿透能力"
+        ]
+    },
+    {
+        "name": "penetration",
+        "trans": [
+            "穿透"
+        ]
+    },
+    {
+        "name": "penetration rate",
+        "trans": [
+            "进尺速度"
+        ]
+    },
+    {
+        "name": "penetration ratio",
+        "trans": [
+            "井的穿率"
+        ]
+    },
+    {
+        "name": "penetration twin",
+        "trans": [
+            "穿插双晶"
+        ]
+    },
+    {
+        "name": "penetrative structure",
+        "trans": [
+            "透入性构造"
+        ]
+    },
+    {
+        "name": "penetrometer",
+        "trans": [
+            "透度计"
+        ]
+    },
+    {
+        "name": "penfieldite",
+        "trans": [
+            "六方氯铅矿"
+        ]
+    },
+    {
+        "name": "peninsula",
+        "trans": [
+            "半岛"
+        ]
+    },
+    {
+        "name": "pennant",
+        "trans": [
+            "羽毛状"
+        ]
+    },
+    {
+        "name": "pennate diatoms",
+        "trans": [
+            "羽纹纲"
+        ]
+    },
+    {
+        "name": "pennates",
+        "trans": [
+            "羽纹纲"
+        ]
+    },
+    {
+        "name": "pennine",
+        "trans": [
+            "叶绿泥石"
+        ]
+    },
+    {
+        "name": "penninite",
+        "trans": [
+            "叶绿泥石"
+        ]
+    },
+    {
+        "name": "pennite",
+        "trans": [
+            "绿水云母"
+        ]
+    },
+    {
+        "name": "pennsylvanian",
+        "trans": [
+            "宾夕法尼亚系"
+        ]
+    },
+    {
+        "name": "penroseite",
+        "trans": [
+            "硒铜铅镍矿"
+        ]
+    },
+    {
+        "name": "pentagonal dodecahedron",
+        "trans": [
+            "五角十二面体"
+        ]
+    },
+    {
+        "name": "pentagonal icositetrahedral class",
+        "trans": [
+            "五角三八面体晶族"
+        ]
+    },
+    {
+        "name": "pentahydrite",
+        "trans": [
+            "五水泻盐"
+        ]
+    },
+    {
+        "name": "pentlandite",
+        "trans": [
+            "镍黄铁矿"
+        ]
+    },
+    {
+        "name": "peplolite",
+        "trans": [
+            "块堇青石"
+        ]
+    },
+    {
+        "name": "peptization",
+        "trans": [
+            "胶熔酌"
+        ]
+    },
+    {
+        "name": "peralkaline rock",
+        "trans": [
+            "过碱性岩"
+        ]
+    },
+    {
+        "name": "percentage of consolidation",
+        "trans": [
+            "固结率"
+        ]
+    },
+    {
+        "name": "percentage of modulation",
+        "trans": [
+            "灯度"
+        ]
+    },
+    {
+        "name": "perceptible",
+        "trans": [
+            "易感的"
+        ]
+    },
+    {
+        "name": "perched block",
+        "trans": [
+            "坡栖岩块"
+        ]
+    },
+    {
+        "name": "perched ground water",
+        "trans": [
+            "滞水"
+        ]
+    },
+    {
+        "name": "perched water table",
+        "trans": [
+            "滞水台"
+        ]
+    },
+    {
+        "name": "percolate",
+        "trans": [
+            "过滤"
+        ]
+    },
+    {
+        "name": "percolation",
+        "trans": [
+            "渗透"
+        ]
+    },
+    {
+        "name": "percrystalline",
+        "trans": [
+            "过晶质"
+        ]
+    },
+    {
+        "name": "percussion",
+        "trans": [
+            "冲击"
+        ]
+    },
+    {
+        "name": "percussion boring",
+        "trans": [
+            "冲魂进"
+        ]
+    },
+    {
+        "name": "percussion drill",
+        "trans": [
+            "冲唤钻机"
+        ]
+    },
+    {
+        "name": "percussion drilling",
+        "trans": [
+            "冲魂井"
+        ]
+    },
+    {
+        "name": "percussion drilling machine",
+        "trans": [
+            "冲唤钻机"
+        ]
+    },
+    {
+        "name": "percussion drilling system",
+        "trans": [
+            "冲魂井方法"
+        ]
+    },
+    {
+        "name": "percussion figure",
+        "trans": [
+            "撞晃状"
+        ]
+    },
+    {
+        "name": "percussion marks",
+        "trans": [
+            "慧"
+        ]
+    },
+    {
+        "name": "percussion rotary boring",
+        "trans": [
+            "冲积钻钻探"
+        ]
+    },
+    {
+        "name": "percussive rotary drilling",
+        "trans": [
+            "冲积钻钻探"
+        ]
+    },
+    {
+        "name": "percylite",
+        "trans": [
+            "氯铜铅矿"
+        ]
+    },
+    {
+        "name": "perennial spring",
+        "trans": [
+            "常年泉"
+        ]
+    },
+    {
+        "name": "perennial stream",
+        "trans": [
+            "常劣"
+        ]
+    },
+    {
+        "name": "perennial yield",
+        "trans": [
+            "持久不断的量"
+        ]
+    },
+    {
+        "name": "perfect crystal",
+        "trans": [
+            "理想晶体"
+        ]
+    },
+    {
+        "name": "perfect geosyncline",
+        "trans": [
+            "完整式地槽"
+        ]
+    },
+    {
+        "name": "perfectly mobile components",
+        "trans": [
+            "全活动组分"
+        ]
+    },
+    {
+        "name": "perforation",
+        "trans": [
+            "穿孔"
+        ]
+    },
+    {
+        "name": "perforator",
+        "trans": [
+            "射孔器穿孔器"
+        ]
+    },
+    {
+        "name": "perhyaline",
+        "trans": [
+            "过玻璃质的"
+        ]
+    },
+    {
+        "name": "peribranchial cavity",
+        "trans": [
+            "围鳃腔"
+        ]
+    },
+    {
+        "name": "periclase",
+        "trans": [
+            "方镁石"
+        ]
+    },
+    {
+        "name": "periclinal",
+        "trans": [
+            "穹状的"
+        ]
+    },
+    {
+        "name": "periclinal structure",
+        "trans": [
+            "穹状构造"
+        ]
+    },
+    {
+        "name": "pericline",
+        "trans": [
+            "围斜构造;常钠长石"
+        ]
+    },
+    {
+        "name": "pericline twin",
+        "trans": [
+            "肖钠长石双晶"
+        ]
+    },
+    {
+        "name": "periderm",
+        "trans": [
+            "周皮"
+        ]
+    },
+    {
+        "name": "peridot",
+        "trans": [
+            "橄榄石"
+        ]
+    },
+    {
+        "name": "peridotite",
+        "trans": [
+            "橄榄岩"
+        ]
+    },
+    {
+        "name": "periglacial phenomena",
+        "trans": [
+            "冰缘现象"
+        ]
+    },
+    {
+        "name": "perimagmatic",
+        "trans": [
+            "岩浆缘的"
+        ]
+    },
+    {
+        "name": "perimorph",
+        "trans": [
+            "结壳假象"
+        ]
+    },
+    {
+        "name": "period",
+        "trans": [
+            "纪"
+        ]
+    },
+    {
+        "name": "period of angiosperms",
+        "trans": [
+            "被子植物时代"
+        ]
+    },
+    {
+        "name": "periodic law",
+        "trans": [
+            "周期律"
+        ]
+    },
+    {
+        "name": "periodic motion",
+        "trans": [
+            "周期运动"
+        ]
+    },
+    {
+        "name": "periodic precipitation",
+        "trans": [
+            "周期的沉积"
+        ]
+    },
+    {
+        "name": "periodic system",
+        "trans": [
+            "周期系"
+        ]
+    },
+    {
+        "name": "periodic table of elements",
+        "trans": [
+            "元素周期表"
+        ]
+    },
+    {
+        "name": "periodicity",
+        "trans": [
+            "周期性"
+        ]
+    },
+    {
+        "name": "periostracum",
+        "trans": [
+            "角质层"
+        ]
+    },
+    {
+        "name": "peripheral",
+        "trans": [
+            "周边的"
+        ]
+    },
+    {
+        "name": "peripheral fault",
+        "trans": [
+            "边缘断层"
+        ]
+    },
+    {
+        "name": "periproct",
+        "trans": [
+            "围肛部"
+        ]
+    },
+    {
+        "name": "peristerite",
+        "trans": [
+            "蓝彩钠长石"
+        ]
+    },
+    {
+        "name": "peristome",
+        "trans": [
+            "围口部"
+        ]
+    },
+    {
+        "name": "peritectic",
+        "trans": [
+            "包晶"
+        ]
+    },
+    {
+        "name": "peritectic crystallization",
+        "trans": [
+            "包晶结晶"
+        ]
+    },
+    {
+        "name": "peritectic point",
+        "trans": [
+            "包晶点"
+        ]
+    },
+    {
+        "name": "peritectoid point",
+        "trans": [
+            "包析点"
+        ]
+    },
+    {
+        "name": "peritectoid reaction",
+        "trans": [
+            "包析反应"
+        ]
+    },
+    {
+        "name": "perknite",
+        "trans": [
+            "辉闪岩"
+        ]
+    },
+    {
+        "name": "perlite",
+        "trans": [
+            "珍珠岩"
+        ]
+    },
+    {
+        "name": "perlitic",
+        "trans": [
+            "珍珠状的"
+        ]
+    },
+    {
+        "name": "perlitic structure",
+        "trans": [
+            "珍珠岩结构"
+        ]
+    },
+    {
+        "name": "permafrost",
+        "trans": [
+            "永冻土"
+        ]
+    },
+    {
+        "name": "permafrost table",
+        "trans": [
+            "永久冻土台"
+        ]
+    },
+    {
+        "name": "permalloy",
+        "trans": [
+            "坡莫合金"
+        ]
+    },
+    {
+        "name": "permanent",
+        "trans": [
+            "永久的"
+        ]
+    },
+    {
+        "name": "permanent deformation",
+        "trans": [
+            "永久变形"
+        ]
+    },
+    {
+        "name": "permanent hardness",
+        "trans": [
+            "稳定硬度"
+        ]
+    },
+    {
+        "name": "permanent load",
+        "trans": [
+            "永久负载"
+        ]
+    },
+    {
+        "name": "permanent magnet",
+        "trans": [
+            "永久磁铁"
+        ]
+    },
+    {
+        "name": "permanent magnetic field",
+        "trans": [
+            "永久磁场"
+        ]
+    },
+    {
+        "name": "permanent magnetization",
+        "trans": [
+            "永久磁化"
+        ]
+    },
+    {
+        "name": "permanent set",
+        "trans": [
+            "永久变形"
+        ]
+    },
+    {
+        "name": "permanent wilting point",
+        "trans": [
+            "永久萎蔫点"
+        ]
+    },
+    {
+        "name": "permanganate",
+        "trans": [
+            "高锰酸盐"
+        ]
+    },
+    {
+        "name": "permeability",
+        "trans": [
+            "磁导率"
+        ]
+    },
+    {
+        "name": "permeability barrier",
+        "trans": [
+            "阻渗层"
+        ]
+    },
+    {
+        "name": "permeability coefficient",
+        "trans": [
+            "渗滤系数"
+        ]
+    },
+    {
+        "name": "permeability tensor",
+        "trans": [
+            "渗透率张量"
+        ]
+    },
+    {
+        "name": "permeable",
+        "trans": [
+            "透水的"
+        ]
+    },
+    {
+        "name": "permeameter",
+        "trans": [
+            "磁导计"
+        ]
+    },
+    {
+        "name": "permeance",
+        "trans": [
+            "磁导"
+        ]
+    },
+    {
+        "name": "permian",
+        "trans": [
+            "二叠纪"
+        ]
+    },
+    {
+        "name": "permian period",
+        "trans": [
+            "二叠纪"
+        ]
+    },
+    {
+        "name": "permissible dose",
+        "trans": [
+            "容许剂量"
+        ]
+    },
+    {
+        "name": "permissible error",
+        "trans": [
+            "允许误差"
+        ]
+    },
+    {
+        "name": "permissible load",
+        "trans": [
+            "容许负荷"
+        ]
+    },
+    {
+        "name": "permissible stress",
+        "trans": [
+            "许可应力"
+        ]
+    },
+    {
+        "name": "permissible tolerance",
+        "trans": [
+            "容许剂量"
+        ]
+    },
+    {
+        "name": "permittivity",
+        "trans": [
+            "介电常数"
+        ]
+    },
+    {
+        "name": "permutation",
+        "trans": [
+            "置换"
+        ]
+    },
+    {
+        "name": "permutite",
+        "trans": [
+            "人造沸石"
+        ]
+    },
+    {
+        "name": "perovskite",
+        "trans": [
+            "钙钛矿"
+        ]
+    },
+    {
+        "name": "perowskite",
+        "trans": [
+            "钙钛矿"
+        ]
+    },
+    {
+        "name": "persistent fossil",
+        "trans": [
+            "持续化石"
+        ]
+    },
+    {
+        "name": "perspective",
+        "trans": [
+            "透视画法"
+        ]
+    },
+    {
+        "name": "perspective projection",
+        "trans": [
+            "透视投影"
+        ]
+    },
+    {
+        "name": "perthite",
+        "trans": [
+            "纹长石"
+        ]
+    },
+    {
+        "name": "perthitophyre",
+        "trans": [
+            "条纹长斑岩"
+        ]
+    },
+    {
+        "name": "perturbation",
+        "trans": [
+            "扰动"
+        ]
+    },
+    {
+        "name": "petalite",
+        "trans": [
+            "透锂长石"
+        ]
+    },
+    {
+        "name": "petiole",
+        "trans": [
+            "叶柄"
+        ]
+    },
+    {
+        "name": "petiolule",
+        "trans": [
+            "小叶柄"
+        ]
+    },
+    {
+        "name": "petrifaction",
+        "trans": [
+            "石化"
+        ]
+    },
+    {
+        "name": "petrifactology",
+        "trans": [
+            "化石学"
+        ]
+    },
+    {
+        "name": "petrification",
+        "trans": [
+            "石化"
+        ]
+    },
+    {
+        "name": "petro bitumen",
+        "trans": [
+            "岩石沥青"
+        ]
+    },
+    {
+        "name": "petrochemical trend",
+        "trans": [
+            "岩石化学的球"
+        ]
+    },
+    {
+        "name": "petrochemistry",
+        "trans": [
+            "岩石化学"
+        ]
+    },
+    {
+        "name": "petrofabric analysis",
+        "trans": [
+            "岩组分析"
+        ]
+    },
+    {
+        "name": "petrofabrics",
+        "trans": [
+            "岩组学"
+        ]
+    },
+    {
+        "name": "petrofacies",
+        "trans": [
+            "岩相"
+        ]
+    },
+    {
+        "name": "petrogenesis",
+        "trans": [
+            "岩石成因论"
+        ]
+    },
+    {
+        "name": "petrogenetic element",
+        "trans": [
+            "造岩元素"
+        ]
+    },
+    {
+        "name": "petrogenetic grid",
+        "trans": [
+            "成岩格子"
+        ]
+    },
+    {
+        "name": "petrogenetic model",
+        "trans": [
+            "岩石成因模型"
+        ]
+    },
+    {
+        "name": "petrogenic element",
+        "trans": [
+            "造岩元素"
+        ]
+    },
+    {
+        "name": "petrogeochemistry",
+        "trans": [
+            "岩石地球化学"
+        ]
+    },
+    {
+        "name": "petrogeometry",
+        "trans": [
+            "岩石几何学"
+        ]
+    },
+    {
+        "name": "petrographer",
+        "trans": [
+            "岩石学者"
+        ]
+    },
+    {
+        "name": "petrographic geomorphology",
+        "trans": [
+            "岩石地貌学"
+        ]
+    },
+    {
+        "name": "petrographic microscope",
+        "trans": [
+            "岩石显微镜"
+        ]
+    },
+    {
+        "name": "petrographical formation",
+        "trans": [
+            "岩层"
+        ]
+    },
+    {
+        "name": "petrographical province",
+        "trans": [
+            "岩区"
+        ]
+    },
+    {
+        "name": "petrography",
+        "trans": [
+            "岩石学"
+        ]
+    },
+    {
+        "name": "petroleum",
+        "trans": [
+            "石油"
+        ]
+    },
+    {
+        "name": "petroleum gas",
+        "trans": [
+            "石油气"
+        ]
+    },
+    {
+        "name": "petroleum geology",
+        "trans": [
+            "石油地质学"
+        ]
+    },
+    {
+        "name": "petroleum industry",
+        "trans": [
+            "石油工业"
+        ]
+    },
+    {
+        "name": "petroleum output",
+        "trans": [
+            "采油"
+        ]
+    },
+    {
+        "name": "petroleum reservoir",
+        "trans": [
+            "油贮"
+        ]
+    },
+    {
+        "name": "petroliferous",
+        "trans": [
+            "含油的"
+        ]
+    },
+    {
+        "name": "petroliferous basin",
+        "trans": [
+            "含油盆地"
+        ]
+    },
+    {
+        "name": "petroliferous formation",
+        "trans": [
+            "含油建造"
+        ]
+    },
+    {
+        "name": "petrologen",
+        "trans": [
+            "油母岩"
+        ]
+    },
+    {
+        "name": "petrology",
+        "trans": [
+            "岩石学"
+        ]
+    },
+    {
+        "name": "petromineralogy",
+        "trans": [
+            "岩石矿物学"
+        ]
+    },
+    {
+        "name": "petromorphology",
+        "trans": [
+            "岩石形态学;构造岩石学"
+        ]
+    },
+    {
+        "name": "petrophysics",
+        "trans": [
+            "岩石物理学"
+        ]
+    },
+    {
+        "name": "petrophytes",
+        "trans": [
+            "石生植物"
+        ]
+    },
+    {
+        "name": "petrosilex",
+        "trans": [
+            "潜晶霏细岩"
+        ]
+    },
+    {
+        "name": "petrostratigraphy",
+        "trans": [
+            "岩石地层学"
+        ]
+    },
+    {
+        "name": "petrotectonics",
+        "trans": [
+            "岩石构造学"
+        ]
+    },
+    {
+        "name": "petrous",
+        "trans": [
+            "岩状的"
+        ]
+    },
+    {
+        "name": "petzite",
+        "trans": [
+            "碲金银矿"
+        ]
+    },
+    {
+        "name": "ph indicator",
+        "trans": [
+            "指示剂"
+        ]
+    },
+    {
+        "name": "ph value",
+        "trans": [
+            "值"
+        ]
+    },
+    {
+        "name": "phacelite",
+        "trans": [
+            "钾霞石"
+        ]
+    },
+    {
+        "name": "phacolite",
+        "trans": [
+            "岩脊"
+        ]
+    },
+    {
+        "name": "phacolith",
+        "trans": [
+            "岩脊"
+        ]
+    },
+    {
+        "name": "phanerite",
+        "trans": [
+            "显晶岩"
+        ]
+    },
+    {
+        "name": "phaneritic",
+        "trans": [
+            "粗晶的"
+        ]
+    },
+    {
+        "name": "phaneritric",
+        "trans": [
+            "显晶质的"
+        ]
+    },
+    {
+        "name": "phanerocryst",
+        "trans": [
+            "显斑晶"
+        ]
+    },
+    {
+        "name": "phanerocrystalline",
+        "trans": [
+            "粗晶的"
+        ]
+    },
+    {
+        "name": "phanerogames",
+        "trans": [
+            "显花植物"
+        ]
+    },
+    {
+        "name": "phanerohyaline",
+        "trans": [
+            "显晶玻质的"
+        ]
+    },
+    {
+        "name": "phanerozoic eons",
+        "trans": [
+            "显生代"
+        ]
+    },
+    {
+        "name": "phantomhorizon",
+        "trans": [
+            "假想层"
+        ]
+    },
+    {
+        "name": "pharmacolite",
+        "trans": [
+            "毒石"
+        ]
+    },
+    {
+        "name": "pharmacosiderite",
+        "trans": [
+            "毒铁矿"
+        ]
+    },
+    {
+        "name": "phase",
+        "trans": [
+            "相位"
+        ]
+    },
+    {
+        "name": "phase boundary potential",
+        "trans": [
+            "界面电压"
+        ]
+    },
+    {
+        "name": "phase compensator",
+        "trans": [
+            "相位补偿器"
+        ]
+    },
+    {
+        "name": "phase contrast microscope",
+        "trans": [
+            "相差显微镜"
+        ]
+    },
+    {
+        "name": "phase control",
+        "trans": [
+            "相位控制"
+        ]
+    },
+    {
+        "name": "phase corrector",
+        "trans": [
+            "相位校正器"
+        ]
+    },
+    {
+        "name": "phase determination",
+        "trans": [
+            "相位测定"
+        ]
+    },
+    {
+        "name": "phase deviation",
+        "trans": [
+            "相位偏移"
+        ]
+    },
+    {
+        "name": "phase diagram",
+        "trans": [
+            "相图"
+        ]
+    },
+    {
+        "name": "phase difference",
+        "trans": [
+            "相位差"
+        ]
+    },
+    {
+        "name": "phase discriminator",
+        "trans": [
+            "鉴相器"
+        ]
+    },
+    {
+        "name": "phase displacement",
+        "trans": [
+            "相移"
+        ]
+    },
+    {
+        "name": "phase equilibrium",
+        "trans": [
+            "相平衡"
+        ]
+    },
+    {
+        "name": "phase inversion",
+        "trans": [
+            "倒相"
+        ]
+    },
+    {
+        "name": "phase inverter",
+        "trans": [
+            "倒相器"
+        ]
+    },
+    {
+        "name": "phase lag",
+        "trans": [
+            "相位滞后"
+        ]
+    },
+    {
+        "name": "phase lead",
+        "trans": [
+            "相位超前"
+        ]
+    },
+    {
+        "name": "phase rule",
+        "trans": [
+            "相律"
+        ]
+    },
+    {
+        "name": "phase spectrum",
+        "trans": [
+            "相位谱"
+        ]
+    },
+    {
+        "name": "phase splitting",
+        "trans": [
+            "分相"
+        ]
+    },
+    {
+        "name": "phase swinging",
+        "trans": [
+            "相位摆动"
+        ]
+    },
+    {
+        "name": "phase transition",
+        "trans": [
+            "相变"
+        ]
+    },
+    {
+        "name": "phase velocity",
+        "trans": [
+            "相位速度;相速度"
+        ]
+    },
+    {
+        "name": "phenacite",
+        "trans": [
+            "硅铍石"
+        ]
+    },
+    {
+        "name": "phenanthroline",
+        "trans": [
+            "菲统啉"
+        ]
+    },
+    {
+        "name": "phengite",
+        "trans": [
+            "多硅白云母"
+        ]
+    },
+    {
+        "name": "phenocryst",
+        "trans": [
+            "斑晶"
+        ]
+    },
+    {
+        "name": "phenomena of volcanism",
+        "trans": [
+            "火山现象"
+        ]
+    },
+    {
+        "name": "phillipsite",
+        "trans": [
+            "钙十字石"
+        ]
+    },
+    {
+        "name": "phlebite",
+        "trans": [
+            "脉成岩类"
+        ]
+    },
+    {
+        "name": "phlogopite",
+        "trans": [
+            "金云母"
+        ]
+    },
+    {
+        "name": "phoenicochroite",
+        "trans": [
+            "红铬铅矿"
+        ]
+    },
+    {
+        "name": "pholerite",
+        "trans": [
+            "鳞高岭石"
+        ]
+    },
+    {
+        "name": "pholidolite",
+        "trans": [
+            "绿硬云母"
+        ]
+    },
+    {
+        "name": "phonolite",
+        "trans": [
+            "响岩"
+        ]
+    },
+    {
+        "name": "phonolitic",
+        "trans": [
+            "响岩状的"
+        ]
+    },
+    {
+        "name": "phosgenite",
+        "trans": [
+            "角铅矿"
+        ]
+    },
+    {
+        "name": "phosphate",
+        "trans": [
+            "磷酸盐"
+        ]
+    },
+    {
+        "name": "phosphatic fertilizer",
+        "trans": [
+            "磷肥"
+        ]
+    },
+    {
+        "name": "phosphorescence",
+        "trans": [
+            "磷光"
+        ]
+    },
+    {
+        "name": "phosphoric acid",
+        "trans": [
+            "磷酸"
+        ]
+    },
+    {
+        "name": "phosphorite",
+        "trans": [
+            "磷灰岩"
+        ]
+    },
+    {
+        "name": "phosphoroscope",
+        "trans": [
+            "磷光计"
+        ]
+    },
+    {
+        "name": "phosphoruranylite",
+        "trans": [
+            "磷铀矿"
+        ]
+    },
+    {
+        "name": "phosphorus",
+        "trans": [
+            "磷"
+        ]
+    },
+    {
+        "name": "phosphosiderite",
+        "trans": [
+            "磷铁矿"
+        ]
+    },
+    {
+        "name": "photic zone",
+        "trans": [
+            "透光层"
+        ]
+    },
+    {
+        "name": "photo interpretation",
+        "trans": [
+            "像片判读"
+        ]
+    },
+    {
+        "name": "photocathode",
+        "trans": [
+            "光电阴极"
+        ]
+    },
+    {
+        "name": "photochemical reaction",
+        "trans": [
+            "光化反应"
+        ]
+    },
+    {
+        "name": "photoconductive effect",
+        "trans": [
+            "内光电效应"
+        ]
+    },
+    {
+        "name": "photocurrent",
+        "trans": [
+            "光电流"
+        ]
+    },
+    {
+        "name": "photoelastic model",
+        "trans": [
+            "光弹性模型"
+        ]
+    },
+    {
+        "name": "photoelasticity",
+        "trans": [
+            "光弹性"
+        ]
+    },
+    {
+        "name": "photoelectric absorption",
+        "trans": [
+            "光电吸收"
+        ]
+    },
+    {
+        "name": "photoelectric cell",
+        "trans": [
+            "光电池"
+        ]
+    },
+    {
+        "name": "photoelectric effect",
+        "trans": [
+            "光电效应"
+        ]
+    },
+    {
+        "name": "photoelectric emission",
+        "trans": [
+            "光电子放射"
+        ]
+    },
+    {
+        "name": "photoelectric threshold",
+        "trans": [
+            "光电效应阈值"
+        ]
+    },
+    {
+        "name": "photoelectric tube",
+        "trans": [
+            "光电管"
+        ]
+    },
+    {
+        "name": "photoelectron",
+        "trans": [
+            "光电子"
+        ]
+    },
+    {
+        "name": "photogenic animals",
+        "trans": [
+            "发光动物"
+        ]
+    },
+    {
+        "name": "photogeology",
+        "trans": [
+            "摄影地质学"
+        ]
+    },
+    {
+        "name": "photogeomorphology",
+        "trans": [
+            "航摄地貌学"
+        ]
+    },
+    {
+        "name": "photogrammetry",
+        "trans": [
+            "摄影测量学"
+        ]
+    },
+    {
+        "name": "photographic",
+        "trans": [
+            "摄影的"
+        ]
+    },
+    {
+        "name": "photographic detection",
+        "trans": [
+            "照相探测"
+        ]
+    },
+    {
+        "name": "photographic dosimeter",
+        "trans": [
+            "摄影剂量仪"
+        ]
+    },
+    {
+        "name": "photographic recording",
+        "trans": [
+            "照相记录"
+        ]
+    },
+    {
+        "name": "photomultiplier tube",
+        "trans": [
+            "光电倍增管"
+        ]
+    },
+    {
+        "name": "photoneutron",
+        "trans": [
+            "光激中子"
+        ]
+    },
+    {
+        "name": "photoreceptor",
+        "trans": [
+            "感光器受光体"
+        ]
+    },
+    {
+        "name": "photostratigraphy",
+        "trans": [
+            "摄影地层学"
+        ]
+    },
+    {
+        "name": "phototropism",
+        "trans": [
+            "向光性"
+        ]
+    },
+    {
+        "name": "phreatic decline",
+        "trans": [
+            "地下水位下降"
+        ]
+    },
+    {
+        "name": "phreatic eruption",
+        "trans": [
+            "蒸汽喷发"
+        ]
+    },
+    {
+        "name": "phreatic explosion",
+        "trans": [
+            "蒸汽爆发"
+        ]
+    },
+    {
+        "name": "phreatic fluctuation",
+        "trans": [
+            "地下水面波动"
+        ]
+    },
+    {
+        "name": "phreatic gas",
+        "trans": [
+            "准火山瓦斯"
+        ]
+    },
+    {
+        "name": "phreatic rise",
+        "trans": [
+            "地下水上升"
+        ]
+    },
+    {
+        "name": "phreatic zone",
+        "trans": [
+            "潜水带"
+        ]
+    },
+    {
+        "name": "phycology",
+        "trans": [
+            "藻类学"
+        ]
+    },
+    {
+        "name": "phyllite",
+        "trans": [
+            "千枚岩"
+        ]
+    },
+    {
+        "name": "phyllitic",
+        "trans": [
+            "千枚状的"
+        ]
+    },
+    {
+        "name": "phyllodium",
+        "trans": [
+            "假叶"
+        ]
+    },
+    {
+        "name": "phyllosilicate",
+        "trans": [
+            "页硅酸盐"
+        ]
+    },
+    {
+        "name": "phyllosilicates",
+        "trans": [
+            "层状硅酸盐"
+        ]
+    },
+    {
+        "name": "phyllotaxis",
+        "trans": [
+            "叶序"
+        ]
+    },
+    {
+        "name": "phyllotaxy",
+        "trans": [
+            "叶序"
+        ]
+    },
+    {
+        "name": "phylogenesis",
+        "trans": [
+            "种系发生"
+        ]
+    },
+    {
+        "name": "phylogenetic classification",
+        "trans": [
+            "系统分类"
+        ]
+    },
+    {
+        "name": "phylogenetic tree",
+        "trans": [
+            "系统树系谱树"
+        ]
+    },
+    {
+        "name": "phylogeny",
+        "trans": [
+            "种系发生"
+        ]
+    },
+    {
+        "name": "phylum",
+        "trans": [
+            "门"
+        ]
+    },
+    {
+        "name": "physical analysis",
+        "trans": [
+            "物理分析"
+        ]
+    },
+    {
+        "name": "physical atomic weight scale",
+        "trans": [
+            "物理原子量标度"
+        ]
+    },
+    {
+        "name": "physical geography",
+        "trans": [
+            "自然地理学"
+        ]
+    },
+    {
+        "name": "physical oceanography",
+        "trans": [
+            "物理海洋学"
+        ]
+    },
+    {
+        "name": "physical properties",
+        "trans": [
+            "物理性质"
+        ]
+    },
+    {
+        "name": "physical weathering",
+        "trans": [
+            "物理风化"
+        ]
+    },
+    {
+        "name": "physiognomy",
+        "trans": [
+            "外貌"
+        ]
+    },
+    {
+        "name": "physiography",
+        "trans": [
+            "地文学"
+        ]
+    },
+    {
+        "name": "physiological dryness",
+        "trans": [
+            "生理干燥"
+        ]
+    },
+    {
+        "name": "phytochemistry",
+        "trans": [
+            "植物化学"
+        ]
+    },
+    {
+        "name": "phytoclimate",
+        "trans": [
+            "植物气候"
+        ]
+    },
+    {
+        "name": "phytocoenosis",
+        "trans": [
+            "植物群落"
+        ]
+    },
+    {
+        "name": "phytoecology",
+        "trans": [
+            "植物生态学"
+        ]
+    },
+    {
+        "name": "phytogeography",
+        "trans": [
+            "植物地理学"
+        ]
+    },
+    {
+        "name": "phytolithology",
+        "trans": [
+            "植物化石学"
+        ]
+    },
+    {
+        "name": "phytoncide",
+        "trans": [
+            "植物杀菌素"
+        ]
+    },
+    {
+        "name": "phytophagous",
+        "trans": [
+            "食植物的"
+        ]
+    },
+    {
+        "name": "phytophagous animals",
+        "trans": [
+            "食植动物"
+        ]
+    },
+    {
+        "name": "phytoplankton",
+        "trans": [
+            "浮游植物"
+        ]
+    },
+    {
+        "name": "phytosociology",
+        "trans": [
+            "植物社会学"
+        ]
+    },
+    {
+        "name": "picite",
+        "trans": [
+            "土磷铁矿"
+        ]
+    },
+    {
+        "name": "pick",
+        "trans": [
+            "鹤嘴镐"
+        ]
+    },
+    {
+        "name": "pick hand",
+        "trans": [
+            "手选"
+        ]
+    },
+    {
+        "name": "pick ore",
+        "trans": [
+            "手选"
+        ]
+    },
+    {
+        "name": "pickeringite",
+        "trans": [
+            "镁茂"
+        ]
+    },
+    {
+        "name": "picking",
+        "trans": [
+            "手选"
+        ]
+    },
+    {
+        "name": "picnometer",
+        "trans": [
+            "比重瓶"
+        ]
+    },
+    {
+        "name": "picotite",
+        "trans": [
+            "铬尖晶石"
+        ]
+    },
+    {
+        "name": "picric acid",
+        "trans": [
+            "苦味酸"
+        ]
+    },
+    {
+        "name": "picrite",
+        "trans": [
+            "苦橄岩"
+        ]
+    },
+    {
+        "name": "picrochromite",
+        "trans": [
+            "镁铬矿"
+        ]
+    },
+    {
+        "name": "picrolite",
+        "trans": [
+            "硬蛇纹石"
+        ]
+    },
+    {
+        "name": "picrolonic acid",
+        "trans": [
+            "苦硝酸"
+        ]
+    },
+    {
+        "name": "picromerite",
+        "trans": [
+            "软钾镁矾"
+        ]
+    },
+    {
+        "name": "picropharmacolite",
+        "trans": [
+            "镁毒石"
+        ]
+    },
+    {
+        "name": "picture element",
+        "trans": [
+            "像素"
+        ]
+    },
+    {
+        "name": "picture reproduction",
+        "trans": [
+            "图像再生"
+        ]
+    },
+    {
+        "name": "picture telegraphy",
+        "trans": [
+            "传真电披"
+        ]
+    },
+    {
+        "name": "piedmont",
+        "trans": [
+            "山麓"
+        ]
+    },
+    {
+        "name": "piedmont alluvial plain",
+        "trans": [
+            "山前冲积平原"
+        ]
+    },
+    {
+        "name": "piedmont benchland",
+        "trans": [
+            "山麓阶地"
+        ]
+    },
+    {
+        "name": "piedmont glacier",
+        "trans": [
+            "山麓冰川"
+        ]
+    },
+    {
+        "name": "piedmont plain",
+        "trans": [
+            "山麓冲积平原"
+        ]
+    },
+    {
+        "name": "piedmontite",
+        "trans": [
+            "红帘石"
+        ]
+    },
+    {
+        "name": "piedmontite schist",
+        "trans": [
+            "红帘石片岩"
+        ]
+    },
+    {
+        "name": "piemontite",
+        "trans": [
+            "红帘石"
+        ]
+    },
+    {
+        "name": "pienaarite",
+        "trans": [
+            "富榍霓霞正长岩"
+        ]
+    },
+    {
+        "name": "piercing",
+        "trans": [
+            "刺穿"
+        ]
+    },
+    {
+        "name": "piestic",
+        "trans": [
+            "压缩度测定的"
+        ]
+    },
+    {
+        "name": "piezochemistry",
+        "trans": [
+            "压力化学"
+        ]
+    },
+    {
+        "name": "piezoclase",
+        "trans": [
+            "挤压节理"
+        ]
+    },
+    {
+        "name": "piezocrystallization",
+        "trans": [
+            "压结晶"
+        ]
+    },
+    {
+        "name": "piezoelectricity",
+        "trans": [
+            "压电性"
+        ]
+    },
+    {
+        "name": "piezometer",
+        "trans": [
+            "压力计"
+        ]
+    },
+    {
+        "name": "piezometric",
+        "trans": [
+            "压缩度测定的"
+        ]
+    },
+    {
+        "name": "piezometric head",
+        "trans": [
+            "测压水头"
+        ]
+    },
+    {
+        "name": "piezometric potential",
+        "trans": [
+            "测压的势能"
+        ]
+    },
+    {
+        "name": "piezometric surface",
+        "trans": [
+            "水压面"
+        ]
+    },
+    {
+        "name": "piezoremanent magnetization",
+        "trans": [
+            "压剩余磁化"
+        ]
+    },
+    {
+        "name": "pig iron",
+        "trans": [
+            "生铁"
+        ]
+    },
+    {
+        "name": "pigeonite",
+        "trans": [
+            "易变辉石"
+        ]
+    },
+    {
+        "name": "pilandite",
+        "trans": [
+            "歪长正长斑岩"
+        ]
+    },
+    {
+        "name": "pilarite",
+        "trans": [
+            "铝硅孔雀石"
+        ]
+    },
+    {
+        "name": "pilbarite",
+        "trans": [
+            "硅铀铅钍矿"
+        ]
+    },
+    {
+        "name": "pile",
+        "trans": [
+            "堆"
+        ]
+    },
+    {
+        "name": "pillar",
+        "trans": [
+            "柱"
+        ]
+    },
+    {
+        "name": "pillow lava",
+        "trans": [
+            "枕状熔岩"
+        ]
+    },
+    {
+        "name": "pillow like",
+        "trans": [
+            "枕状的"
+        ]
+    },
+    {
+        "name": "pillow structure",
+        "trans": [
+            "枕状构造"
+        ]
+    },
+    {
+        "name": "pilot balloon",
+        "trans": [
+            "测风气球"
+        ]
+    },
+    {
+        "name": "pilot balloon observation",
+        "trans": [
+            "测风气球观测"
+        ]
+    },
+    {
+        "name": "pilotaxitic",
+        "trans": [
+            "交织的"
+        ]
+    },
+    {
+        "name": "pilotaxitic texture",
+        "trans": [
+            "交织结构"
+        ]
+    },
+    {
+        "name": "pimelite",
+        "trans": [
+            "脂光蛇纹石"
+        ]
+    },
+    {
+        "name": "pinacoid",
+        "trans": [
+            "双面"
+        ]
+    },
+    {
+        "name": "pinacoidal class",
+        "trans": [
+            "双面类"
+        ]
+    },
+    {
+        "name": "pinakiolite",
+        "trans": [
+            "硼镁锰矿"
+        ]
+    },
+    {
+        "name": "pinaliolite",
+        "trans": [
+            "硼镁锰矿"
+        ]
+    },
+    {
+        "name": "pine",
+        "trans": [
+            "松树"
+        ]
+    },
+    {
+        "name": "pinite",
+        "trans": [
+            "块云母"
+        ]
+    },
+    {
+        "name": "pinnacle",
+        "trans": [
+            "海塔"
+        ]
+    },
+    {
+        "name": "pinnate",
+        "trans": [
+            "羽状的"
+        ]
+    },
+    {
+        "name": "pinnately compound leaf",
+        "trans": [
+            "羽状复叶"
+        ]
+    },
+    {
+        "name": "pinnoite",
+        "trans": [
+            "柱硼镁石"
+        ]
+    },
+    {
+        "name": "pinnulate",
+        "trans": [
+            "具小羽片的"
+        ]
+    },
+    {
+        "name": "pinnule",
+        "trans": [
+            "小羽片"
+        ]
+    },
+    {
+        "name": "pintadoite",
+        "trans": [
+            "四水钒钉矿"
+        ]
+    },
+    {
+        "name": "pioneer plant",
+        "trans": [
+            "先锋植物"
+        ]
+    },
+    {
+        "name": "pioneer well",
+        "trans": [
+            "勘探钻孔"
+        ]
+    },
+    {
+        "name": "pipe",
+        "trans": [
+            "管"
+        ]
+    },
+    {
+        "name": "pipe casing",
+        "trans": [
+            "管套"
+        ]
+    },
+    {
+        "name": "pipe coupling",
+        "trans": [
+            "联管节"
+        ]
+    },
+    {
+        "name": "pipe drainage",
+        "trans": [
+            "管式暗沟"
+        ]
+    },
+    {
+        "name": "pipe wrench",
+        "trans": [
+            "管子扳手"
+        ]
+    },
+    {
+        "name": "pipette",
+        "trans": [
+            "吸移管"
+        ]
+    },
+    {
+        "name": "pipette method",
+        "trans": [
+            "吸量管法"
+        ]
+    },
+    {
+        "name": "pirssonite",
+        "trans": [
+            "钙水碱"
+        ]
+    },
+    {
+        "name": "pisanite",
+        "trans": [
+            "铜绿矾"
+        ]
+    },
+    {
+        "name": "pisolite",
+        "trans": [
+            "豆石"
+        ]
+    },
+    {
+        "name": "pisolitic",
+        "trans": [
+            "豆状的"
+        ]
+    },
+    {
+        "name": "pisolitic iron ore",
+        "trans": [
+            "豆状铁矿"
+        ]
+    },
+    {
+        "name": "pisolitic structure",
+        "trans": [
+            "豆状构造"
+        ]
+    },
+    {
+        "name": "pisosparite",
+        "trans": [
+            "豆状灰岩"
+        ]
+    },
+    {
+        "name": "pissophanite",
+        "trans": [
+            "钟乳铁矾石"
+        ]
+    },
+    {
+        "name": "pistacite",
+        "trans": [
+            "绿帘石"
+        ]
+    },
+    {
+        "name": "pistil",
+        "trans": [
+            "雌蕊"
+        ]
+    },
+    {
+        "name": "pit",
+        "trans": [
+            "矿井"
+        ]
+    },
+    {
+        "name": "pit crater",
+        "trans": [
+            "锅状火山口"
+        ]
+    },
+    {
+        "name": "pit mouth",
+        "trans": [
+            "竖井口"
+        ]
+    },
+    {
+        "name": "pit prospecting method",
+        "trans": [
+            "矿坑勘探法"
+        ]
+    },
+    {
+        "name": "pitch coal",
+        "trans": [
+            "沥青煤"
+        ]
+    },
+    {
+        "name": "pitch lake",
+        "trans": [
+            "沥青湖"
+        ]
+    },
+    {
+        "name": "pitchblende",
+        "trans": [
+            "沥青铀矿"
+        ]
+    },
+    {
+        "name": "pitchstone",
+        "trans": [
+            "松脂岩"
+        ]
+    },
+    {
+        "name": "pitchwork",
+        "trans": [
+            "急倾斜开采"
+        ]
+    },
+    {
+        "name": "pith",
+        "trans": [
+            "髓心"
+        ]
+    },
+    {
+        "name": "pitticite",
+        "trans": [
+            "土砷铁矾"
+        ]
+    },
+    {
+        "name": "pivotal",
+        "trans": [
+            "旋转断层"
+        ]
+    },
+    {
+        "name": "placanticline",
+        "trans": [
+            "平背斜"
+        ]
+    },
+    {
+        "name": "place name",
+        "trans": [
+            "地名"
+        ]
+    },
+    {
+        "name": "placer",
+        "trans": [
+            "砂矿"
+        ]
+    },
+    {
+        "name": "placer deposit",
+        "trans": [
+            "砂积矿床"
+        ]
+    },
+    {
+        "name": "placer gold",
+        "trans": [
+            "砂金"
+        ]
+    },
+    {
+        "name": "placer iron",
+        "trans": [
+            "砂铁"
+        ]
+    },
+    {
+        "name": "placer mining",
+        "trans": [
+            "砂矿淘采"
+        ]
+    },
+    {
+        "name": "placer tin",
+        "trans": [
+            "砂锡"
+        ]
+    },
+    {
+        "name": "placoderms",
+        "trans": [
+            "盾皮鱼纲"
+        ]
+    },
+    {
+        "name": "placoid scale",
+        "trans": [
+            "盾鳞"
+        ]
+    },
+    {
+        "name": "plaffeiite",
+        "trans": [
+            "化石尸"
+        ]
+    },
+    {
+        "name": "plagiaplite",
+        "trans": [
+            "斜长细晶岩"
+        ]
+    },
+    {
+        "name": "plagioclase",
+        "trans": [
+            "斜长石"
+        ]
+    },
+    {
+        "name": "plagioclasite",
+        "trans": [
+            "斜长岩"
+        ]
+    },
+    {
+        "name": "plagioliparite",
+        "trans": [
+            "斜长疗岩"
+        ]
+    },
+    {
+        "name": "plagionite",
+        "trans": [
+            "斜硫锑铅矿"
+        ]
+    },
+    {
+        "name": "plagiophyre",
+        "trans": [
+            "斜长斑岩"
+        ]
+    },
+    {
+        "name": "plain",
+        "trans": [
+            "平原"
+        ]
+    },
+    {
+        "name": "plain of accumulation",
+        "trans": [
+            "堆积平原"
+        ]
+    },
+    {
+        "name": "plain of denudation",
+        "trans": [
+            "剥蚀平原"
+        ]
+    },
+    {
+        "name": "plain of marine erosion",
+        "trans": [
+            "海蚀平原"
+        ]
+    },
+    {
+        "name": "plan",
+        "trans": [
+            "设计图"
+        ]
+    },
+    {
+        "name": "planar structure",
+        "trans": [
+            "面状构造"
+        ]
+    },
+    {
+        "name": "planation",
+        "trans": [
+            "均夷酌"
+        ]
+    },
+    {
+        "name": "planation surface",
+        "trans": [
+            "展平面"
+        ]
+    },
+    {
+        "name": "plancheite",
+        "trans": [
+            "纤硅铜矿"
+        ]
+    },
+    {
+        "name": "planchette",
+        "trans": [
+            "绘图板"
+        ]
+    },
+    {
+        "name": "plane deformation",
+        "trans": [
+            "平面变形"
+        ]
+    },
+    {
+        "name": "plane of inclination",
+        "trans": [
+            "倾斜面"
+        ]
+    },
+    {
+        "name": "plane of no deformation",
+        "trans": [
+            "无变形面"
+        ]
+    },
+    {
+        "name": "plane of no distortion",
+        "trans": [
+            "不变歪面"
+        ]
+    },
+    {
+        "name": "plane of polarization",
+        "trans": [
+            "偏光面"
+        ]
+    },
+    {
+        "name": "plane of shear",
+        "trans": [
+            "剪断面"
+        ]
+    },
+    {
+        "name": "plane of symmetry",
+        "trans": [
+            "对称面"
+        ]
+    },
+    {
+        "name": "plane of unconformity",
+        "trans": [
+            "不整合面"
+        ]
+    },
+    {
+        "name": "plane of uniform distortion",
+        "trans": [
+            "均匀变歪面"
+        ]
+    },
+    {
+        "name": "plane table",
+        "trans": [
+            "平板仪"
+        ]
+    },
+    {
+        "name": "plane table surveying",
+        "trans": [
+            "平板测量"
+        ]
+    },
+    {
+        "name": "plane wave",
+        "trans": [
+            "平面波"
+        ]
+    },
+    {
+        "name": "planerite",
+        "trans": [
+            "土绿磷铝石"
+        ]
+    },
+    {
+        "name": "planet",
+        "trans": [
+            "行星"
+        ]
+    },
+    {
+        "name": "planetary geology",
+        "trans": [
+            "行星地质学"
+        ]
+    },
+    {
+        "name": "planetesimal hypothesis",
+        "trans": [
+            "星子假说"
+        ]
+    },
+    {
+        "name": "planetoid",
+        "trans": [
+            "小行星"
+        ]
+    },
+    {
+        "name": "planimeter",
+        "trans": [
+            "求积仪"
+        ]
+    },
+    {
+        "name": "plankton",
+        "trans": [
+            "浮游生物"
+        ]
+    },
+    {
+        "name": "planktonic",
+        "trans": [
+            "浮游的"
+        ]
+    },
+    {
+        "name": "planktonic foraminifer",
+        "trans": [
+            "浮游性有孔虫类"
+        ]
+    },
+    {
+        "name": "plant ash",
+        "trans": [
+            "植物灰"
+        ]
+    },
+    {
+        "name": "plant community",
+        "trans": [
+            "植物群落"
+        ]
+    },
+    {
+        "name": "plant ecology",
+        "trans": [
+            "植物生态学"
+        ]
+    },
+    {
+        "name": "plant formation",
+        "trans": [
+            "植物群系"
+        ]
+    },
+    {
+        "name": "plant geography",
+        "trans": [
+            "植物地理学"
+        ]
+    },
+    {
+        "name": "plant interaction",
+        "trans": [
+            "植物相互酌"
+        ]
+    },
+    {
+        "name": "plant nutrition",
+        "trans": [
+            "植物性营养"
+        ]
+    },
+    {
+        "name": "plant resources",
+        "trans": [
+            "植物资源"
+        ]
+    },
+    {
+        "name": "plant sociology",
+        "trans": [
+            "植物社会学"
+        ]
+    },
+    {
+        "name": "plant taxonomy",
+        "trans": [
+            "植物分类学"
+        ]
+    },
+    {
+        "name": "plasma",
+        "trans": [
+            "深绿玉髓"
+        ]
+    },
+    {
+        "name": "plasma cell",
+        "trans": [
+            "浆细胞"
+        ]
+    },
+    {
+        "name": "plaster",
+        "trans": [
+            "烧石膏"
+        ]
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "可塑性的"
+        ]
+    },
+    {
+        "name": "plastic deformation",
+        "trans": [
+            "塑性变形"
+        ]
+    },
+    {
+        "name": "plastic flow",
+        "trans": [
+            "塑性流"
+        ]
+    },
+    {
+        "name": "plastic layer index",
+        "trans": [
+            "塑性"
+        ]
+    },
+    {
+        "name": "plastic limit",
+        "trans": [
+            "塑性极限"
+        ]
+    },
+    {
+        "name": "plastic strain",
+        "trans": [
+            "塑性变形"
+        ]
+    },
+    {
+        "name": "plasticity",
+        "trans": [
+            "可塑性"
+        ]
+    },
+    {
+        "name": "plasticity of soil",
+        "trans": [
+            "土壤塑性"
+        ]
+    },
+    {
+        "name": "plate",
+        "trans": [
+            "板"
+        ]
+    },
+    {
+        "name": "plate collision",
+        "trans": [
+            "板块碰撞"
+        ]
+    },
+    {
+        "name": "plate kinematics",
+        "trans": [
+            "板块运动学"
+        ]
+    },
+    {
+        "name": "plate margin",
+        "trans": [
+            "板块边缘"
+        ]
+    },
+    {
+        "name": "plate movement",
+        "trans": [
+            "板块运动"
+        ]
+    },
+    {
+        "name": "plate stratigraphy",
+        "trans": [
+            "板块地层学"
+        ]
+    },
+    {
+        "name": "plate tectonics",
+        "trans": [
+            "板块构造"
+        ]
+    },
+    {
+        "name": "plateau",
+        "trans": [
+            "高原"
+        ]
+    },
+    {
+        "name": "plateau basalt",
+        "trans": [
+            "高原玄武岩"
+        ]
+    },
+    {
+        "name": "platform",
+        "trans": [
+            "台地"
+        ]
+    },
+    {
+        "name": "platform anteclise",
+        "trans": [
+            "台背斜"
+        ]
+    },
+    {
+        "name": "platform block",
+        "trans": [
+            "台块"
+        ]
+    },
+    {
+        "name": "platform concavity",
+        "trans": [
+            "台凹"
+        ]
+    },
+    {
+        "name": "platform folding",
+        "trans": [
+            "台地褶皱酌"
+        ]
+    },
+    {
+        "name": "platform subside",
+        "trans": [
+            "台陷"
+        ]
+    },
+    {
+        "name": "platform syneclise",
+        "trans": [
+            "台向斜"
+        ]
+    },
+    {
+        "name": "platform uprise",
+        "trans": [
+            "台隆"
+        ]
+    },
+    {
+        "name": "platinum",
+        "trans": [
+            "铂"
+        ]
+    },
+    {
+        "name": "plattnerite",
+        "trans": [
+            "块黑铅矿"
+        ]
+    },
+    {
+        "name": "platy joint",
+        "trans": [
+            "板状节理"
+        ]
+    },
+    {
+        "name": "platy structure",
+        "trans": [
+            "板状构造"
+        ]
+    },
+    {
+        "name": "platynite",
+        "trans": [
+            "硫硒铋铅矿"
+        ]
+    },
+    {
+        "name": "plauenite",
+        "trans": [
+            "钾正长岩"
+        ]
+    },
+    {
+        "name": "play back",
+        "trans": [
+            "再现"
+        ]
+    },
+    {
+        "name": "plazolite",
+        "trans": [
+            "无色榴石"
+        ]
+    },
+    {
+        "name": "pleistocene",
+        "trans": [
+            "更新世"
+        ]
+    },
+    {
+        "name": "pleochroic halo",
+        "trans": [
+            "多色晕"
+        ]
+    },
+    {
+        "name": "pleochroism",
+        "trans": [
+            "多色"
+        ]
+    },
+    {
+        "name": "pleomorphism",
+        "trans": [
+            "多晶形"
+        ]
+    },
+    {
+        "name": "pleonaste",
+        "trans": [
+            "镁铁尖晶石"
+        ]
+    },
+    {
+        "name": "pleonectite",
+        "trans": [
+            "聚族矿"
+        ]
+    },
+    {
+        "name": "plerome",
+        "trans": [
+            "中柱原"
+        ]
+    },
+    {
+        "name": "plesiosaurs",
+        "trans": [
+            "蛇颈龙类"
+        ]
+    },
+    {
+        "name": "plesiotype",
+        "trans": [
+            "近型"
+        ]
+    },
+    {
+        "name": "plessite",
+        "trans": [
+            "合纹石"
+        ]
+    },
+    {
+        "name": "pleura",
+        "trans": [
+            "肋膜"
+        ]
+    },
+    {
+        "name": "pleuron",
+        "trans": [
+            "侧板"
+        ]
+    },
+    {
+        "name": "plexus",
+        "trans": [
+            "网"
+        ]
+    },
+    {
+        "name": "plication",
+        "trans": [
+            "皱纹"
+        ]
+    },
+    {
+        "name": "pliocene",
+        "trans": [
+            "上新世"
+        ]
+    },
+    {
+        "name": "plombierite",
+        "trans": [
+            "泉石华"
+        ]
+    },
+    {
+        "name": "plot",
+        "trans": [
+            "小区"
+        ]
+    },
+    {
+        "name": "plotting instrument",
+        "trans": [
+            "绘图仪器"
+        ]
+    },
+    {
+        "name": "plumasite",
+        "trans": [
+            "刚玉奥长岩"
+        ]
+    },
+    {
+        "name": "plumb line",
+        "trans": [
+            "铅垂线"
+        ]
+    },
+    {
+        "name": "plumb shaft",
+        "trans": [
+            "直井"
+        ]
+    },
+    {
+        "name": "plumbocuprite",
+        "trans": [
+            "铜硫铅矿"
+        ]
+    },
+    {
+        "name": "plumboferrite",
+        "trans": [
+            "磁铅铁矿"
+        ]
+    },
+    {
+        "name": "plumbogummite",
+        "trans": [
+            "水磷铝铅矿"
+        ]
+    },
+    {
+        "name": "plumbojarosite",
+        "trans": [
+            "铅铁矾"
+        ]
+    },
+    {
+        "name": "plumboniobite",
+        "trans": [
+            "铅铌铁矿"
+        ]
+    },
+    {
+        "name": "plumbum",
+        "trans": [
+            "铅"
+        ]
+    },
+    {
+        "name": "plume structure",
+        "trans": [
+            "羽毛状构造"
+        ]
+    },
+    {
+        "name": "plumose structure",
+        "trans": [
+            "羽毛状构造"
+        ]
+    },
+    {
+        "name": "plumosite",
+        "trans": [
+            "普通硫锑铅矿"
+        ]
+    },
+    {
+        "name": "plunger pump",
+        "trans": [
+            "柱塞泵"
+        ]
+    },
+    {
+        "name": "plunging fold",
+        "trans": [
+            "倾伏褶皱"
+        ]
+    },
+    {
+        "name": "plunging shore",
+        "trans": [
+            "下沉海岸"
+        ]
+    },
+    {
+        "name": "plunging vertical fold",
+        "trans": [
+            "倾竖褶皱"
+        ]
+    },
+    {
+        "name": "pluton",
+        "trans": [
+            "深成岩体"
+        ]
+    },
+    {
+        "name": "pluton of mesozone",
+        "trans": [
+            "中带深成岩体"
+        ]
+    },
+    {
+        "name": "plutonic",
+        "trans": [
+            "深成的"
+        ]
+    },
+    {
+        "name": "plutonic activity",
+        "trans": [
+            "深成活切"
+        ]
+    },
+    {
+        "name": "plutonic association",
+        "trans": [
+            "深成组合"
+        ]
+    },
+    {
+        "name": "plutonic cognate ejecta",
+        "trans": [
+            "深成同源喷出物"
+        ]
+    },
+    {
+        "name": "plutonic metamorphism",
+        "trans": [
+            "深部区域变质"
+        ]
+    },
+    {
+        "name": "plutonic plug",
+        "trans": [
+            "岩栓"
+        ]
+    },
+    {
+        "name": "plutonic rock",
+        "trans": [
+            "深成岩"
+        ]
+    },
+    {
+        "name": "plutonic water",
+        "trans": [
+            "深成水"
+        ]
+    },
+    {
+        "name": "plutonism",
+        "trans": [
+            "火成论"
+        ]
+    },
+    {
+        "name": "plutonium",
+        "trans": [
+            "钚"
+        ]
+    },
+    {
+        "name": "pluvial age",
+        "trans": [
+            "洪积时期"
+        ]
+    },
+    {
+        "name": "pneumatohydrothermal phase",
+        "trans": [
+            "气生热液相"
+        ]
+    },
+    {
+        "name": "pneumatolysis",
+        "trans": [
+            "气成酌"
+        ]
+    },
+    {
+        "name": "pneumatolytic",
+        "trans": [
+            "气化的"
+        ]
+    },
+    {
+        "name": "pneumatolytic deposit",
+        "trans": [
+            "气化矿床"
+        ]
+    },
+    {
+        "name": "pneumatolytic metasomatism",
+        "trans": [
+            "气化变质"
+        ]
+    },
+    {
+        "name": "pneumatolytic mineral",
+        "trans": [
+            "气成矿物"
+        ]
+    },
+    {
+        "name": "pneumatolytic stage",
+        "trans": [
+            "气化期"
+        ]
+    },
+    {
+        "name": "pocket",
+        "trans": [
+            "矿囊"
+        ]
+    },
+    {
+        "name": "podite",
+        "trans": [
+            "肢节"
+        ]
+    },
+    {
+        "name": "podolite",
+        "trans": [
+            "碳磷灰石"
+        ]
+    },
+    {
+        "name": "podomere",
+        "trans": [
+            "肢节"
+        ]
+    },
+    {
+        "name": "podsol",
+        "trans": [
+            "灰壤"
+        ]
+    },
+    {
+        "name": "podsolization",
+        "trans": [
+            "灰化酌"
+        ]
+    },
+    {
+        "name": "podzol",
+        "trans": [
+            "灰壤"
+        ]
+    },
+    {
+        "name": "podzolic boggy soil",
+        "trans": [
+            "灰化沼泽土"
+        ]
+    },
+    {
+        "name": "podzolic soil",
+        "trans": [
+            "灰化土"
+        ]
+    },
+    {
+        "name": "podzolization",
+        "trans": [
+            "灰化酌"
+        ]
+    },
+    {
+        "name": "podzolized chernozem",
+        "trans": [
+            "灰化黑土"
+        ]
+    },
+    {
+        "name": "poecilitic",
+        "trans": [
+            "嵌晶状的"
+        ]
+    },
+    {
+        "name": "poikilitic",
+        "trans": [
+            "嵌晶状的"
+        ]
+    },
+    {
+        "name": "poikilitic texture",
+        "trans": [
+            "嵌晶状结构"
+        ]
+    },
+    {
+        "name": "poikiloblast",
+        "trans": [
+            "变嵌晶"
+        ]
+    },
+    {
+        "name": "poikiloblastic",
+        "trans": [
+            "变嵌晶状的"
+        ]
+    },
+    {
+        "name": "poikiloblastic texture",
+        "trans": [
+            "变嵌晶结构"
+        ]
+    },
+    {
+        "name": "poikilophitic",
+        "trans": [
+            "辉绿嵌晶的"
+        ]
+    },
+    {
+        "name": "poikilophitic texture",
+        "trans": [
+            "辉绿嵌晶结构"
+        ]
+    },
+    {
+        "name": "poikilotherm",
+        "trans": [
+            "变温动物"
+        ]
+    },
+    {
+        "name": "poikilothermal",
+        "trans": [
+            "变温的"
+        ]
+    },
+    {
+        "name": "poikilothermal animal",
+        "trans": [
+            "变温动物"
+        ]
+    },
+    {
+        "name": "point bar",
+        "trans": [
+            "点砂坝"
+        ]
+    },
+    {
+        "name": "point bar deposit",
+        "trans": [
+            "点砂坝沉积"
+        ]
+    },
+    {
+        "name": "point contact",
+        "trans": [
+            "点式接触"
+        ]
+    },
+    {
+        "name": "point group",
+        "trans": [
+            "点群"
+        ]
+    },
+    {
+        "name": "poise",
+        "trans": [
+            "泊"
+        ]
+    },
+    {
+        "name": "polar adsorption",
+        "trans": [
+            "极性吸附"
+        ]
+    },
+    {
+        "name": "polar air mass",
+        "trans": [
+            "极地气团"
+        ]
+    },
+    {
+        "name": "polar aurora",
+        "trans": [
+            "极光"
+        ]
+    },
+    {
+        "name": "polar axis",
+        "trans": [
+            "极轴"
+        ]
+    },
+    {
+        "name": "polar bond",
+        "trans": [
+            "极性键"
+        ]
+    },
+    {
+        "name": "polar circle",
+        "trans": [
+            "极圈"
+        ]
+    },
+    {
+        "name": "polar coordinates",
+        "trans": [
+            "极座标"
+        ]
+    },
+    {
+        "name": "polar crystal",
+        "trans": [
+            "极性晶体"
+        ]
+    },
+    {
+        "name": "polar molecule",
+        "trans": [
+            "极性分子"
+        ]
+    },
+    {
+        "name": "polar motion",
+        "trans": [
+            "极运动"
+        ]
+    },
+    {
+        "name": "polar projection",
+        "trans": [
+            "极投影"
+        ]
+    },
+    {
+        "name": "polar solvent",
+        "trans": [
+            "极性溶剂"
+        ]
+    },
+    {
+        "name": "polar year",
+        "trans": [
+            "极年"
+        ]
+    },
+    {
+        "name": "polar zone",
+        "trans": [
+            "极带"
+        ]
+    },
+    {
+        "name": "polarimeter",
+        "trans": [
+            "偏振计"
+        ]
+    },
+    {
+        "name": "polariscope",
+        "trans": [
+            "偏镜"
+        ]
+    },
+    {
+        "name": "polarity",
+        "trans": [
+            "极性"
+        ]
+    },
+    {
+        "name": "polarity epoch",
+        "trans": [
+            "极性期"
+        ]
+    },
+    {
+        "name": "polarity event",
+        "trans": [
+            "极性事件"
+        ]
+    },
+    {
+        "name": "polarizability",
+        "trans": [
+            "极化率"
+        ]
+    },
+    {
+        "name": "polarization",
+        "trans": [
+            "极化"
+        ]
+    },
+    {
+        "name": "polarization force",
+        "trans": [
+            "极化力"
+        ]
+    },
+    {
+        "name": "polarization microscope",
+        "trans": [
+            "偏光显微镜"
+        ]
+    },
+    {
+        "name": "polarization pyrometer",
+        "trans": [
+            "偏振高温计"
+        ]
+    },
+    {
+        "name": "polarize",
+        "trans": [
+            "极化"
+        ]
+    },
+    {
+        "name": "polarized magnet",
+        "trans": [
+            "极化磁铁"
+        ]
+    },
+    {
+        "name": "polarizer",
+        "trans": [
+            "偏振镜"
+        ]
+    },
+    {
+        "name": "polarizing microscope",
+        "trans": [
+            "偏光显微镜"
+        ]
+    },
+    {
+        "name": "polarograph",
+        "trans": [
+            "极谱仪"
+        ]
+    },
+    {
+        "name": "polarography",
+        "trans": [
+            "极谱法"
+        ]
+    },
+    {
+        "name": "polder",
+        "trans": [
+            "堤围泽地"
+        ]
+    },
+    {
+        "name": "pole",
+        "trans": [
+            "极"
+        ]
+    },
+    {
+        "name": "pole of rotation",
+        "trans": [
+            "自转极"
+        ]
+    },
+    {
+        "name": "polianite",
+        "trans": [
+            "锰矿"
+        ]
+    },
+    {
+        "name": "polished section",
+        "trans": [
+            "磨光片"
+        ]
+    },
+    {
+        "name": "polishing",
+        "trans": [
+            "磨光"
+        ]
+    },
+    {
+        "name": "polishing machine",
+        "trans": [
+            "磨岩机"
+        ]
+    },
+    {
+        "name": "polje",
+        "trans": [
+            "灰岩盆地"
+        ]
+    },
+    {
+        "name": "pollen",
+        "trans": [
+            "花粉"
+        ]
+    },
+    {
+        "name": "pollen analysis",
+        "trans": [
+            "花粉分析"
+        ]
+    },
+    {
+        "name": "pollen diagram",
+        "trans": [
+            "花粉图式"
+        ]
+    },
+    {
+        "name": "pollen grain",
+        "trans": [
+            "花粉粒"
+        ]
+    },
+    {
+        "name": "pollen mass",
+        "trans": [
+            "花粉块"
+        ]
+    },
+    {
+        "name": "pollen mother cell",
+        "trans": [
+            "花粉母细胞"
+        ]
+    },
+    {
+        "name": "pollen rain",
+        "trans": [
+            "花粉雨"
+        ]
+    },
+    {
+        "name": "pollen sac",
+        "trans": [
+            "花粉囊"
+        ]
+    },
+    {
+        "name": "pollen spectrum",
+        "trans": [
+            "花粉谱"
+        ]
+    },
+    {
+        "name": "pollen sum",
+        "trans": [
+            "花粉统计"
+        ]
+    },
+    {
+        "name": "pollen tetrad",
+        "trans": [
+            "花粉四分体"
+        ]
+    },
+    {
+        "name": "pollen tube",
+        "trans": [
+            "花粉管"
+        ]
+    },
+    {
+        "name": "pollination",
+        "trans": [
+            "受粉"
+        ]
+    },
+    {
+        "name": "pollinium",
+        "trans": [
+            "花粉块"
+        ]
+    },
+    {
+        "name": "pollucite",
+        "trans": [
+            "铯榴石"
+        ]
+    },
+    {
+        "name": "pollutant",
+        "trans": [
+            "污染物质"
+        ]
+    },
+    {
+        "name": "polluted water",
+        "trans": [
+            "污染水"
+        ]
+    },
+    {
+        "name": "pollution",
+        "trans": [
+            "污染"
+        ]
+    },
+    {
+        "name": "pollution abatement",
+        "trans": [
+            "沾污减少"
+        ]
+    },
+    {
+        "name": "pollux",
+        "trans": [
+            "铯榴石"
+        ]
+    },
+    {
+        "name": "polyad",
+        "trans": [
+            "多价物"
+        ]
+    },
+    {
+        "name": "polyadelphite",
+        "trans": [
+            "锰铁榴石"
+        ]
+    },
+    {
+        "name": "polyargyrite",
+        "trans": [
+            "方辉锑银矿"
+        ]
+    },
+    {
+        "name": "polybasite",
+        "trans": [
+            "硫锑铜银矿"
+        ]
+    },
+    {
+        "name": "polycondensation",
+        "trans": [
+            "缩聚"
+        ]
+    },
+    {
+        "name": "polycrase",
+        "trans": [
+            "复稀金矿"
+        ]
+    },
+    {
+        "name": "polycrystal",
+        "trans": [
+            "多晶体"
+        ]
+    },
+    {
+        "name": "polydymite",
+        "trans": [
+            "辉铁镍矿"
+        ]
+    },
+    {
+        "name": "polygenetic conglomerate",
+        "trans": [
+            "复成砾岩"
+        ]
+    },
+    {
+        "name": "polygenetic volcano",
+        "trans": [
+            "复成火山"
+        ]
+    },
+    {
+        "name": "polygenic",
+        "trans": [
+            "复成的"
+        ]
+    },
+    {
+        "name": "polygeosyncline",
+        "trans": [
+            "复地槽"
+        ]
+    },
+    {
+        "name": "polygonal",
+        "trans": [
+            "多角状的"
+        ]
+    },
+    {
+        "name": "polygonal method",
+        "trans": [
+            "多角形法"
+        ]
+    },
+    {
+        "name": "polygonal tundra",
+        "trans": [
+            "多边形冻原"
+        ]
+    },
+    {
+        "name": "polyhalite",
+        "trans": [
+            "杂卤石"
+        ]
+    },
+    {
+        "name": "polyhedral projection",
+        "trans": [
+            "多面体投影"
+        ]
+    },
+    {
+        "name": "polyhedron",
+        "trans": [
+            "多面体"
+        ]
+    },
+    {
+        "name": "polylithionite",
+        "trans": [
+            "多硅锂云母"
+        ]
+    },
+    {
+        "name": "polymerism",
+        "trans": [
+            "聚合现象"
+        ]
+    },
+    {
+        "name": "polymerization",
+        "trans": [
+            "聚合酌"
+        ]
+    },
+    {
+        "name": "polymetallic deposit",
+        "trans": [
+            "多金属矿床"
+        ]
+    },
+    {
+        "name": "polymetallic ore",
+        "trans": [
+            "多金属矿"
+        ]
+    },
+    {
+        "name": "polymetamorphic diaphtoresis",
+        "trans": [
+            "多相退化变质"
+        ]
+    },
+    {
+        "name": "polymetamorphism",
+        "trans": [
+            "多相变质"
+        ]
+    },
+    {
+        "name": "polymictic conglomerate",
+        "trans": [
+            "多杂质砾岩"
+        ]
+    },
+    {
+        "name": "polymigmatite",
+        "trans": [
+            "多混合岩"
+        ]
+    },
+    {
+        "name": "polymignite",
+        "trans": [
+            "铌铈钇矿"
+        ]
+    },
+    {
+        "name": "polymineral",
+        "trans": [
+            "多矿物"
+        ]
+    },
+    {
+        "name": "polymineralization",
+        "trans": [
+            "重复矿化"
+        ]
+    },
+    {
+        "name": "polymorphic transformation",
+        "trans": [
+            "多晶转变"
+        ]
+    },
+    {
+        "name": "polymorphic transition",
+        "trans": [
+            "多晶转变"
+        ]
+    },
+    {
+        "name": "polymorphism",
+        "trans": [
+            "多晶形"
+        ]
+    },
+    {
+        "name": "polyp",
+        "trans": [
+            "珊烘"
+        ]
+    },
+    {
+        "name": "polyparagenetic",
+        "trans": [
+            "多共生"
+        ]
+    },
+    {
+        "name": "polyploidy",
+        "trans": [
+            "多倍性"
+        ]
+    },
+    {
+        "name": "polysilicate",
+        "trans": [
+            "多硅酸盐"
+        ]
+    },
+    {
+        "name": "polysynthetic",
+        "trans": [
+            "聚片状的"
+        ]
+    },
+    {
+        "name": "polysynthetic twinning",
+        "trans": [
+            "聚片双晶"
+        ]
+    },
+    {
+        "name": "polytropic atmosphere",
+        "trans": [
+            "多元大气"
+        ]
+    },
+    {
+        "name": "polyzoa",
+        "trans": [
+            "苔藓动物类"
+        ]
+    },
+    {
+        "name": "pond",
+        "trans": [
+            "池"
+        ]
+    },
+    {
+        "name": "ponite",
+        "trans": [
+            "锰铁菱石"
+        ]
+    },
+    {
+        "name": "ponor",
+        "trans": [
+            "落水洞"
+        ]
+    },
+    {
+        "name": "pontian stage",
+        "trans": [
+            "蓬蒂阶"
+        ]
+    },
+    {
+        "name": "ponzite",
+        "trans": [
+            "斜霓粗面岩类"
+        ]
+    },
+    {
+        "name": "poorly preserved fossil",
+        "trans": [
+            "保存差的化石"
+        ]
+    },
+    {
+        "name": "population",
+        "trans": [
+            "母体"
+        ]
+    },
+    {
+        "name": "porcelain clay",
+        "trans": [
+            "瓷土"
+        ]
+    },
+    {
+        "name": "porcelain stone",
+        "trans": [
+            "瓷石"
+        ]
+    },
+    {
+        "name": "porcelanite",
+        "trans": [
+            "白陶石"
+        ]
+    },
+    {
+        "name": "pore",
+        "trans": [
+            "孔隙"
+        ]
+    },
+    {
+        "name": "pore angle water",
+        "trans": [
+            "间隙水"
+        ]
+    },
+    {
+        "name": "pore entry radius",
+        "trans": [
+            "孔隙入口径"
+        ]
+    },
+    {
+        "name": "pore fluid",
+        "trans": [
+            "孔隙溶液"
+        ]
+    },
+    {
+        "name": "pore magma",
+        "trans": [
+            "孔隙岩浆"
+        ]
+    },
+    {
+        "name": "pore pressure",
+        "trans": [
+            "孔隙压力"
+        ]
+    },
+    {
+        "name": "pore solution",
+        "trans": [
+            "孔隙溶液"
+        ]
+    },
+    {
+        "name": "pore space",
+        "trans": [
+            "孔腔"
+        ]
+    },
+    {
+        "name": "pore water",
+        "trans": [
+            "孔隙水"
+        ]
+    },
+    {
+        "name": "porosimeter",
+        "trans": [
+            "孔隙仪"
+        ]
+    },
+    {
+        "name": "porosity",
+        "trans": [
+            "孔隙率"
+        ]
+    },
+    {
+        "name": "porous medium",
+        "trans": [
+            "多孔介质"
+        ]
+    },
+    {
+        "name": "porous structure",
+        "trans": [
+            "多孔构造"
+        ]
+    },
+    {
+        "name": "porpecite",
+        "trans": [
+            "钯金"
+        ]
+    },
+    {
+        "name": "porpezite",
+        "trans": [
+            "钯金"
+        ]
+    },
+    {
+        "name": "porphyric texture",
+        "trans": [
+            "斑状结构"
+        ]
+    },
+    {
+        "name": "porphyrins",
+        "trans": [
+            "卟啉类化合物"
+        ]
+    },
+    {
+        "name": "porphyrite",
+        "trans": [
+            "玢岩"
+        ]
+    },
+    {
+        "name": "porphyritic",
+        "trans": [
+            "斑状的"
+        ]
+    },
+    {
+        "name": "porphyritic granite",
+        "trans": [
+            "斑状花岗岩"
+        ]
+    },
+    {
+        "name": "porphyritic texture",
+        "trans": [
+            "斑状结构"
+        ]
+    },
+    {
+        "name": "porphyroblast",
+        "trans": [
+            "斑状变晶"
+        ]
+    },
+    {
+        "name": "porphyroblastic",
+        "trans": [
+            "斑状变晶的"
+        ]
+    },
+    {
+        "name": "porphyroblastic structure",
+        "trans": [
+            "嵌晶构造"
+        ]
+    },
+    {
+        "name": "porphyroclast",
+        "trans": [
+            "残碎斑晶"
+        ]
+    },
+    {
+        "name": "porphyroclastic",
+        "trans": [
+            "残醉斑状的"
+        ]
+    },
+    {
+        "name": "porphyroid",
+        "trans": [
+            "残斑岩"
+        ]
+    },
+    {
+        "name": "porphyry",
+        "trans": [
+            "斑岩"
+        ]
+    },
+    {
+        "name": "porphyry copper deposit",
+        "trans": [
+            "斑岩铜矿床"
+        ]
+    },
+    {
+        "name": "portage",
+        "trans": [
+            "搬运"
+        ]
+    },
+    {
+        "name": "portlandian",
+        "trans": [
+            "波特兰阶"
+        ]
+    },
+    {
+        "name": "portlandite",
+        "trans": [
+            "氢氧钙石"
+        ]
+    },
+    {
+        "name": "positive crystal",
+        "trans": [
+            "正晶体"
+        ]
+    },
+    {
+        "name": "positive element",
+        "trans": [
+            "阳性元素"
+        ]
+    },
+    {
+        "name": "positive ion",
+        "trans": [
+            "阳离子"
+        ]
+    },
+    {
+        "name": "positive ore",
+        "trans": [
+            "证实的矿量"
+        ]
+    },
+    {
+        "name": "positive relief",
+        "trans": [
+            "正地形"
+        ]
+    },
+    {
+        "name": "positive valence",
+        "trans": [
+            "正原子价"
+        ]
+    },
+    {
+        "name": "positron",
+        "trans": [
+            "阳电子"
+        ]
+    },
+    {
+        "name": "possible ore",
+        "trans": [
+            "可能矿量"
+        ]
+    },
+    {
+        "name": "possible reserves",
+        "trans": [
+            "可能储量"
+        ]
+    },
+    {
+        "name": "post glacial age",
+        "trans": [
+            "冰期后的时期"
+        ]
+    },
+    {
+        "name": "post glacial period",
+        "trans": [
+            "冰后期"
+        ]
+    },
+    {
+        "name": "postel projection",
+        "trans": [
+            "波斯托投影"
+        ]
+    },
+    {
+        "name": "postglacial trangression",
+        "trans": [
+            "冰后期海侵"
+        ]
+    },
+    {
+        "name": "postigneous stage",
+        "trans": [
+            "岩浆后期"
+        ]
+    },
+    {
+        "name": "postkinematic granite",
+        "trans": [
+            "构造后花岗岩"
+        ]
+    },
+    {
+        "name": "postkinematic magmatism",
+        "trans": [
+            "构造后岩浆酌"
+        ]
+    },
+    {
+        "name": "postmagmatic activity",
+        "trans": [
+            "后岩浆活动"
+        ]
+    },
+    {
+        "name": "postmagmatic deposit",
+        "trans": [
+            "岩浆期后矿床"
+        ]
+    },
+    {
+        "name": "postmagmatic stage",
+        "trans": [
+            "岩浆后期"
+        ]
+    },
+    {
+        "name": "postorogenic metamorphism",
+        "trans": [
+            "造山期后变质酌"
+        ]
+    },
+    {
+        "name": "posttectonic recrystallization",
+        "trans": [
+            "构造后结晶"
+        ]
+    },
+    {
+        "name": "pot",
+        "trans": [
+            "坩埚"
+        ]
+    },
+    {
+        "name": "pot hole",
+        "trans": [
+            "锅穴"
+        ]
+    },
+    {
+        "name": "potability",
+        "trans": [
+            "饮用性"
+        ]
+    },
+    {
+        "name": "potable water",
+        "trans": [
+            "饮用水"
+        ]
+    },
+    {
+        "name": "potamology",
+        "trans": [
+            "河璃"
+        ]
+    },
+    {
+        "name": "potarite",
+        "trans": [
+            "汞钯矿"
+        ]
+    },
+    {
+        "name": "potash alum",
+        "trans": [
+            "钾茂"
+        ]
+    },
+    {
+        "name": "potash feldspathization",
+        "trans": [
+            "钾长石化"
+        ]
+    },
+    {
+        "name": "potash granite",
+        "trans": [
+            "钾质花岗岩"
+        ]
+    },
+    {
+        "name": "potash rhyolite",
+        "trans": [
+            "钾疗岩"
+        ]
+    },
+    {
+        "name": "potash salt deposit",
+        "trans": [
+            "钾碱矿床"
+        ]
+    },
+    {
+        "name": "potassic metasomatism",
+        "trans": [
+            "钾质交代酌"
+        ]
+    },
+    {
+        "name": "potassium",
+        "trans": [
+            "钾"
+        ]
+    },
+    {
+        "name": "potassium alum",
+        "trans": [
+            "钾茂"
+        ]
+    },
+    {
+        "name": "potassium argon method",
+        "trans": [
+            "钾氩年代测定法"
+        ]
+    },
+    {
+        "name": "potassium dating",
+        "trans": [
+            "钾氩年代测定法"
+        ]
+    },
+    {
+        "name": "potassium ferrocyanide",
+        "trans": [
+            "亚铁氰化钾"
+        ]
+    },
+    {
+        "name": "potential determining ion",
+        "trans": [
+            "电位决定离子"
+        ]
+    },
+    {
+        "name": "potential difference",
+        "trans": [
+            "电位差"
+        ]
+    },
+    {
+        "name": "potential distribution",
+        "trans": [
+            "电位分布"
+        ]
+    },
+    {
+        "name": "potential electrode",
+        "trans": [
+            "电位电极"
+        ]
+    },
+    {
+        "name": "potential evapotranspiration",
+        "trans": [
+            "潜在蒸发"
+        ]
+    },
+    {
+        "name": "potential flow",
+        "trans": [
+            "势流"
+        ]
+    },
+    {
+        "name": "potential well",
+        "trans": [
+            "势阱"
+        ]
+    },
+    {
+        "name": "potentiometer",
+        "trans": [
+            "电位计"
+        ]
+    },
+    {
+        "name": "potentiometric analysis",
+        "trans": [
+            "电位分析"
+        ]
+    },
+    {
+        "name": "potentiometric titration",
+        "trans": [
+            "电位滴定"
+        ]
+    },
+    {
+        "name": "pothole",
+        "trans": [
+            "瓯穴"
+        ]
+    },
+    {
+        "name": "powder",
+        "trans": [
+            "粉末"
+        ]
+    },
+    {
+        "name": "powder method",
+        "trans": [
+            "粉末法"
+        ]
+    },
+    {
+        "name": "powdered coal",
+        "trans": [
+            "粉煤"
+        ]
+    },
+    {
+        "name": "powellite",
+        "trans": [
+            "钼钨钙矿"
+        ]
+    },
+    {
+        "name": "pozzolan",
+        "trans": [
+            "白榴石火灰"
+        ]
+    },
+    {
+        "name": "prairie",
+        "trans": [
+            "普列利草原"
+        ]
+    },
+    {
+        "name": "prairie soil",
+        "trans": [
+            "普列利土"
+        ]
+    },
+    {
+        "name": "prasem",
+        "trans": [
+            "葱绿玉髓"
+        ]
+    },
+    {
+        "name": "praseodymium",
+        "trans": [
+            "镨"
+        ]
+    },
+    {
+        "name": "prasinite",
+        "trans": [
+            "绿泥闪帘片岩"
+        ]
+    },
+    {
+        "name": "pratt's hypothesis",
+        "trans": [
+            "普拉特假说"
+        ]
+    },
+    {
+        "name": "precambrian",
+        "trans": [
+            "前寒武纪"
+        ]
+    },
+    {
+        "name": "preceding cycle",
+        "trans": [
+            "前期旋回"
+        ]
+    },
+    {
+        "name": "precious stone",
+        "trans": [
+            "宝石"
+        ]
+    },
+    {
+        "name": "precipice",
+        "trans": [
+            "悬崖"
+        ]
+    },
+    {
+        "name": "precipitant",
+        "trans": [
+            "沉淀剂"
+        ]
+    },
+    {
+        "name": "precipitate",
+        "trans": [
+            "沉淀物"
+        ]
+    },
+    {
+        "name": "precipitation",
+        "trans": [
+            "沉淀;沉淀"
+        ]
+    },
+    {
+        "name": "precipitation current",
+        "trans": [
+            "降水电流"
+        ]
+    },
+    {
+        "name": "predazzite",
+        "trans": [
+            "水滑结晶灰岩"
+        ]
+    },
+    {
+        "name": "prediction",
+        "trans": [
+            "预报"
+        ]
+    },
+    {
+        "name": "prediction of volcanic eruption",
+        "trans": [
+            "火山喷发预测"
+        ]
+    },
+    {
+        "name": "predrilling",
+        "trans": [
+            "打井口眼"
+        ]
+    },
+    {
+        "name": "prefrontal squall line",
+        "trans": [
+            "锋前飑线"
+        ]
+    },
+    {
+        "name": "prehnite",
+        "trans": [
+            "葡萄石"
+        ]
+    },
+    {
+        "name": "prehnitization",
+        "trans": [
+            "葡萄石化酌"
+        ]
+    },
+    {
+        "name": "preliminaries",
+        "trans": [
+            "初期微震"
+        ]
+    },
+    {
+        "name": "preliminary exploration",
+        "trans": [
+            "普查"
+        ]
+    },
+    {
+        "name": "preliminary survey",
+        "trans": [
+            "普查"
+        ]
+    },
+    {
+        "name": "preliminary tremors",
+        "trans": [
+            "初期微震"
+        ]
+    },
+    {
+        "name": "premaxillary",
+        "trans": [
+            "前颌骨"
+        ]
+    },
+    {
+        "name": "premolar",
+        "trans": [
+            "前臼齿"
+        ]
+    },
+    {
+        "name": "preorogenic magmatism",
+        "trans": [
+            "造山前的岩浆酌"
+        ]
+    },
+    {
+        "name": "preparate",
+        "trans": [
+            "薄片"
+        ]
+    },
+    {
+        "name": "preservation",
+        "trans": [
+            "保存"
+        ]
+    },
+    {
+        "name": "pressure altimeter",
+        "trans": [
+            "气压测高计"
+        ]
+    },
+    {
+        "name": "pressure cell",
+        "trans": [
+            "压力受感装置"
+        ]
+    },
+    {
+        "name": "pressure detector",
+        "trans": [
+            "压电地震检波器"
+        ]
+    },
+    {
+        "name": "pressure drop",
+        "trans": [
+            "压降"
+        ]
+    },
+    {
+        "name": "pressure gauge",
+        "trans": [
+            "压力器"
+        ]
+    },
+    {
+        "name": "pressure head",
+        "trans": [
+            "压头"
+        ]
+    },
+    {
+        "name": "pressure of water vapour",
+        "trans": [
+            "水汽压"
+        ]
+    },
+    {
+        "name": "pressure seal",
+        "trans": [
+            "压力封闭"
+        ]
+    },
+    {
+        "name": "pressure shadow",
+        "trans": [
+            "压力影"
+        ]
+    },
+    {
+        "name": "pressure surge",
+        "trans": [
+            "压力冲花"
+        ]
+    },
+    {
+        "name": "pressure system",
+        "trans": [
+            "气压系统"
+        ]
+    },
+    {
+        "name": "pressure texture",
+        "trans": [
+            "压碎结构"
+        ]
+    },
+    {
+        "name": "pretectonic recrystallization",
+        "trans": [
+            "构造变形前再结晶"
+        ]
+    },
+    {
+        "name": "preventer",
+        "trans": [
+            "防喷器"
+        ]
+    },
+    {
+        "name": "priceite",
+        "trans": [
+            "白硼钙石"
+        ]
+    },
+    {
+        "name": "priderite",
+        "trans": [
+            "柱红石"
+        ]
+    },
+    {
+        "name": "primary anomaly",
+        "trans": [
+            "原生异常"
+        ]
+    },
+    {
+        "name": "primary components",
+        "trans": [
+            "一次成分"
+        ]
+    },
+    {
+        "name": "primary deposit",
+        "trans": [
+            "原生矿床"
+        ]
+    },
+    {
+        "name": "primary electron",
+        "trans": [
+            "原电子"
+        ]
+    },
+    {
+        "name": "primary enrichment",
+        "trans": [
+            "初始富化"
+        ]
+    },
+    {
+        "name": "primary extinction effect",
+        "trans": [
+            "原生消灭效应"
+        ]
+    },
+    {
+        "name": "primary flow structure",
+        "trans": [
+            "原生怜构造"
+        ]
+    },
+    {
+        "name": "primary fracture",
+        "trans": [
+            "初始断裂"
+        ]
+    },
+    {
+        "name": "primary geosyncline",
+        "trans": [
+            "正地槽"
+        ]
+    },
+    {
+        "name": "primary lineation",
+        "trans": [
+            "原生线条"
+        ]
+    },
+    {
+        "name": "primary migration",
+        "trans": [
+            "初次运移"
+        ]
+    },
+    {
+        "name": "primary mineral",
+        "trans": [
+            "原生矿物"
+        ]
+    },
+    {
+        "name": "primary mountains",
+        "trans": [
+            "原始岩"
+        ]
+    },
+    {
+        "name": "primary ore",
+        "trans": [
+            "原生矿石"
+        ]
+    },
+    {
+        "name": "primary peneplain",
+        "trans": [
+            "始准平原"
+        ]
+    },
+    {
+        "name": "primary sedimentary structure",
+        "trans": [
+            "原始沉积构造"
+        ]
+    },
+    {
+        "name": "primary structural elements",
+        "trans": [
+            "初次构造要素"
+        ]
+    },
+    {
+        "name": "primary succession",
+        "trans": [
+            "原生演替"
+        ]
+    },
+    {
+        "name": "primary water",
+        "trans": [
+            "原生水"
+        ]
+    },
+    {
+        "name": "primary xylem",
+        "trans": [
+            "初生木质部"
+        ]
+    },
+    {
+        "name": "primeval forest",
+        "trans": [
+            "原始森林"
+        ]
+    },
+    {
+        "name": "primitive",
+        "trans": [
+            "原始的"
+        ]
+    },
+    {
+        "name": "primitive rocks",
+        "trans": [
+            "原始岩"
+        ]
+    },
+    {
+        "name": "primordial lead",
+        "trans": [
+            "原始铅"
+        ]
+    },
+    {
+        "name": "principal axis",
+        "trans": [
+            "轴"
+        ]
+    },
+    {
+        "name": "principal cycle",
+        "trans": [
+            "铸回"
+        ]
+    },
+    {
+        "name": "principal earthquake",
+        "trans": [
+            "逐"
+        ]
+    },
+    {
+        "name": "principal isobaric surfaces",
+        "trans": [
+            "标准等压面"
+        ]
+    },
+    {
+        "name": "principal quantum number",
+        "trans": [
+            "挚子数"
+        ]
+    },
+    {
+        "name": "principal refractive index",
+        "trans": [
+            "舟光率"
+        ]
+    },
+    {
+        "name": "principal stress",
+        "trans": [
+            "枝力"
+        ]
+    },
+    {
+        "name": "principal velocity",
+        "trans": [
+            "仲度"
+        ]
+    },
+    {
+        "name": "principal wave",
+        "trans": [
+            "吱"
+        ]
+    },
+    {
+        "name": "principle of equivalence",
+        "trans": [
+            "等值原理"
+        ]
+    },
+    {
+        "name": "principle of geochemical distribution",
+        "trans": [
+            "地球化学的分布法则"
+        ]
+    },
+    {
+        "name": "priorite",
+        "trans": [
+            "钇易解石"
+        ]
+    },
+    {
+        "name": "priority",
+        "trans": [
+            "优先权"
+        ]
+    },
+    {
+        "name": "prism",
+        "trans": [
+            "棱镜"
+        ]
+    },
+    {
+        "name": "prism storage",
+        "trans": [
+            "棱镜集储"
+        ]
+    },
+    {
+        "name": "prismatic",
+        "trans": [
+            "柱状的"
+        ]
+    },
+    {
+        "name": "prismatic class",
+        "trans": [
+            "柱体类"
+        ]
+    },
+    {
+        "name": "prismatic jointing",
+        "trans": [
+            "柱状节理"
+        ]
+    },
+    {
+        "name": "prismatic layer",
+        "trans": [
+            "柱状层"
+        ]
+    },
+    {
+        "name": "prismatic structure",
+        "trans": [
+            "柱状构造"
+        ]
+    },
+    {
+        "name": "prismatine",
+        "trans": [
+            "柱晶石"
+        ]
+    },
+    {
+        "name": "probability11",
+        "trans": [
+            "或然率"
+        ]
+    },
+    {
+        "name": "probable error",
+        "trans": [
+            "概率误差"
+        ]
+    },
+    {
+        "name": "probable ore",
+        "trans": [
+            "设想的矿石"
+        ]
+    },
+    {
+        "name": "probable reserves",
+        "trans": [
+            "可能储量"
+        ]
+    },
+    {
+        "name": "probe",
+        "trans": [
+            "探针;试样"
+        ]
+    },
+    {
+        "name": "probertite",
+        "trans": [
+            "基性硼钠石"
+        ]
+    },
+    {
+        "name": "problematic fossil",
+        "trans": [
+            "可疑微体化石"
+        ]
+    },
+    {
+        "name": "process",
+        "trans": [
+            "过程"
+        ]
+    },
+    {
+        "name": "process of crustal movement",
+        "trans": [
+            "地壳运动过程"
+        ]
+    },
+    {
+        "name": "processing",
+        "trans": [
+            "加工"
+        ]
+    },
+    {
+        "name": "prochlorite",
+        "trans": [
+            "蠕绿泥石"
+        ]
+    },
+    {
+        "name": "prococulum",
+        "trans": [
+            "初房"
+        ]
+    },
+    {
+        "name": "producing test",
+        "trans": [
+            "试采"
+        ]
+    },
+    {
+        "name": "producing well",
+        "trans": [
+            "生产井"
+        ]
+    },
+    {
+        "name": "product",
+        "trans": [
+            "产物"
+        ]
+    },
+    {
+        "name": "production horizon",
+        "trans": [
+            "开采的层"
+        ]
+    },
+    {
+        "name": "productive strata",
+        "trans": [
+            "生产层"
+        ]
+    },
+    {
+        "name": "productiveness",
+        "trans": [
+            "生产能力"
+        ]
+    },
+    {
+        "name": "productivity",
+        "trans": [
+            "生产能力"
+        ]
+    },
+    {
+        "name": "profile",
+        "trans": [
+            "纵断图"
+        ]
+    },
+    {
+        "name": "profile of equilibrium",
+        "trans": [
+            "平衡曲线"
+        ]
+    },
+    {
+        "name": "profitable thickness",
+        "trans": [
+            "有益厚度"
+        ]
+    },
+    {
+        "name": "proglottid",
+        "trans": [
+            "节片"
+        ]
+    },
+    {
+        "name": "proglottis",
+        "trans": [
+            "节片"
+        ]
+    },
+    {
+        "name": "prognosis",
+        "trans": [
+            "预报"
+        ]
+    },
+    {
+        "name": "prognostic map",
+        "trans": [
+            "预测图"
+        ]
+    },
+    {
+        "name": "progradation",
+        "trans": [
+            "推进"
+        ]
+    },
+    {
+        "name": "progressive continuous creep",
+        "trans": [
+            "渐进蠕动"
+        ]
+    },
+    {
+        "name": "progressive deformation",
+        "trans": [
+            "前进变形"
+        ]
+    },
+    {
+        "name": "progressive failure",
+        "trans": [
+            "前进破裂"
+        ]
+    },
+    {
+        "name": "progressive metamorphism",
+        "trans": [
+            "前进变质酌"
+        ]
+    },
+    {
+        "name": "progressive succession",
+        "trans": [
+            "进展演替"
+        ]
+    },
+    {
+        "name": "progressive wave",
+        "trans": [
+            "前进波"
+        ]
+    },
+    {
+        "name": "projection",
+        "trans": [
+            "投射"
+        ]
+    },
+    {
+        "name": "projection of crystal",
+        "trans": [
+            "晶体的投影"
+        ]
+    },
+    {
+        "name": "prolectite",
+        "trans": [
+            "粒硅镁石"
+        ]
+    },
+    {
+        "name": "prolongation",
+        "trans": [
+            "后加演化"
+        ]
+    },
+    {
+        "name": "prolonged rain",
+        "trans": [
+            "特续的雨"
+        ]
+    },
+    {
+        "name": "proluvial fan",
+        "trans": [
+            "洪积扇"
+        ]
+    },
+    {
+        "name": "proluvial placer",
+        "trans": [
+            "洪积砂矿"
+        ]
+    },
+    {
+        "name": "promethium",
+        "trans": [
+            "钜"
+        ]
+    },
+    {
+        "name": "promising",
+        "trans": [
+            "前提"
+        ]
+    },
+    {
+        "name": "promontory",
+        "trans": [
+            "岬"
+        ]
+    },
+    {
+        "name": "prophyroblast",
+        "trans": [
+            "斑晶变晶"
+        ]
+    },
+    {
+        "name": "proportion",
+        "trans": [
+            "比例"
+        ]
+    },
+    {
+        "name": "proportional counter tube",
+        "trans": [
+            "正比计数管"
+        ]
+    },
+    {
+        "name": "propylite",
+        "trans": [
+            "绿磐岩"
+        ]
+    },
+    {
+        "name": "propylitization",
+        "trans": [
+            "绿磐岩化"
+        ]
+    },
+    {
+        "name": "prosopite",
+        "trans": [
+            "水铝氟石"
+        ]
+    },
+    {
+        "name": "prospect hole",
+        "trans": [
+            "勘探钻孔"
+        ]
+    },
+    {
+        "name": "prospect opening",
+        "trans": [
+            "勘探巷道"
+        ]
+    },
+    {
+        "name": "prospect pit",
+        "trans": [
+            "探井"
+        ]
+    },
+    {
+        "name": "prospect shaft",
+        "trans": [
+            "勘探立井"
+        ]
+    },
+    {
+        "name": "prospect tunnel",
+        "trans": [
+            "勘探平硐"
+        ]
+    },
+    {
+        "name": "prospecting",
+        "trans": [
+            "勘探"
+        ]
+    },
+    {
+        "name": "prospecting bore",
+        "trans": [
+            "勘探钻孔"
+        ]
+    },
+    {
+        "name": "prospecting by drilling",
+        "trans": [
+            "钻进勘探"
+        ]
+    },
+    {
+        "name": "prospecting by panning",
+        "trans": [
+            "淘洗勘探"
+        ]
+    },
+    {
+        "name": "prospecting pit",
+        "trans": [
+            "勘探试坑"
+        ]
+    },
+    {
+        "name": "prospecting well",
+        "trans": [
+            "探井"
+        ]
+    },
+    {
+        "name": "prospecting work",
+        "trans": [
+            "勘探工作"
+        ]
+    },
+    {
+        "name": "prospection",
+        "trans": [
+            "勘探"
+        ]
+    },
+    {
+        "name": "prospector",
+        "trans": [
+            "勘探者"
+        ]
+    },
+    {
+        "name": "prostratigraphy",
+        "trans": [
+            "原始地层学"
+        ]
+    },
+    {
+        "name": "protactinium",
+        "trans": [
+            "镄"
+        ]
+    },
+    {
+        "name": "protactinium dating",
+        "trans": [
+            "镤年代测定法"
+        ]
+    },
+    {
+        "name": "protection of mineral resources",
+        "trans": [
+            "矿物资源保护"
+        ]
+    },
+    {
+        "name": "protective casing",
+        "trans": [
+            "保护套"
+        ]
+    },
+    {
+        "name": "protective colloid",
+        "trans": [
+            "保护胶体"
+        ]
+    },
+    {
+        "name": "protein",
+        "trans": [
+            "蛋白质"
+        ]
+    },
+    {
+        "name": "proteolite",
+        "trans": [
+            "英云红柱角页岩"
+        ]
+    },
+    {
+        "name": "proterozoic",
+        "trans": [
+            "元古代"
+        ]
+    },
+    {
+        "name": "protheite",
+        "trans": [
+            "水铝钙氟石"
+        ]
+    },
+    {
+        "name": "protista",
+        "trans": [
+            "原生生物"
+        ]
+    },
+    {
+        "name": "protoatmosphere",
+        "trans": [
+            "原始大气"
+        ]
+    },
+    {
+        "name": "protoclastic",
+        "trans": [
+            "原生碎屑状的"
+        ]
+    },
+    {
+        "name": "protoenstatit",
+        "trans": [
+            "原顽火辉石"
+        ]
+    },
+    {
+        "name": "protoenstatite",
+        "trans": [
+            "盲原顽火辉石"
+        ]
+    },
+    {
+        "name": "protogine",
+        "trans": [
+            "绿泥花岗岩"
+        ]
+    },
+    {
+        "name": "protolithionite",
+        "trans": [
+            "黑磷云母"
+        ]
+    },
+    {
+        "name": "proton",
+        "trans": [
+            "质子"
+        ]
+    },
+    {
+        "name": "proton magnetometer",
+        "trans": [
+            "质子磁力仪"
+        ]
+    },
+    {
+        "name": "protoplasma",
+        "trans": [
+            "原生质"
+        ]
+    },
+    {
+        "name": "protosomatic",
+        "trans": [
+            "原生的"
+        ]
+    },
+    {
+        "name": "protostele",
+        "trans": [
+            "原生中柱"
+        ]
+    },
+    {
+        "name": "protostratigraphy",
+        "trans": [
+            "原始地层学"
+        ]
+    },
+    {
+        "name": "prototectonics",
+        "trans": [
+            "原始大地构造学"
+        ]
+    },
+    {
+        "name": "prototype",
+        "trans": [
+            "原型"
+        ]
+    },
+    {
+        "name": "protoxylem",
+        "trans": [
+            "初生木质部"
+        ]
+    },
+    {
+        "name": "protozoans",
+        "trans": [
+            "原生动物"
+        ]
+    },
+    {
+        "name": "protractor",
+        "trans": [
+            "量角器分度规"
+        ]
+    },
+    {
+        "name": "proustite",
+        "trans": [
+            "淡红银矿"
+        ]
+    },
+    {
+        "name": "proved ore",
+        "trans": [
+            "证实的矿量"
+        ]
+    },
+    {
+        "name": "proved reserves",
+        "trans": [
+            "级储量"
+        ]
+    },
+    {
+        "name": "province",
+        "trans": [
+            "省"
+        ]
+    },
+    {
+        "name": "prowersite",
+        "trans": [
+            "橄辉云煌岩"
+        ]
+    },
+    {
+        "name": "proximate analysis of coal",
+        "trans": [
+            "煤工业分析"
+        ]
+    },
+    {
+        "name": "psammite",
+        "trans": [
+            "砂质岩"
+        ]
+    },
+    {
+        "name": "psammitic",
+        "trans": [
+            "砂屑的"
+        ]
+    },
+    {
+        "name": "psammitic rock",
+        "trans": [
+            "砂质岩"
+        ]
+    },
+    {
+        "name": "psammophytes",
+        "trans": [
+            "砂生植物"
+        ]
+    },
+    {
+        "name": "psammophytic vegetation",
+        "trans": [
+            "砂生植被"
+        ]
+    },
+    {
+        "name": "psephitic",
+        "trans": [
+            "砾状的"
+        ]
+    },
+    {
+        "name": "psephitic rock",
+        "trans": [
+            "砾质岩"
+        ]
+    },
+    {
+        "name": "psephyte",
+        "trans": [
+            "砾质岩"
+        ]
+    },
+    {
+        "name": "pseudo wet bulb potential temperature",
+        "trans": [
+            "假湿球势温"
+        ]
+    },
+    {
+        "name": "pseudoadiabat",
+        "trans": [
+            "假绝热线"
+        ]
+    },
+    {
+        "name": "pseudoanticline",
+        "trans": [
+            "假背斜"
+        ]
+    },
+    {
+        "name": "pseudoapatite",
+        "trans": [
+            "假磷灰石"
+        ]
+    },
+    {
+        "name": "pseudobedding",
+        "trans": [
+            "假层理"
+        ]
+    },
+    {
+        "name": "pseudobiaxial",
+        "trans": [
+            "假二轴性的"
+        ]
+    },
+    {
+        "name": "pseudobiotite",
+        "trans": [
+            "假黑云母"
+        ]
+    },
+    {
+        "name": "pseudobomb",
+        "trans": [
+            "假火山弹"
+        ]
+    },
+    {
+        "name": "pseudobreccia",
+        "trans": [
+            "假角砾岩"
+        ]
+    },
+    {
+        "name": "pseudobrookite",
+        "trans": [
+            "铁板钛矿"
+        ]
+    },
+    {
+        "name": "pseudochalcedony",
+        "trans": [
+            "假玉髓"
+        ]
+    },
+    {
+        "name": "pseudochlorite",
+        "trans": [
+            "假绿泥石"
+        ]
+    },
+    {
+        "name": "pseudoclastic",
+        "trans": [
+            "假碎屑状的"
+        ]
+    },
+    {
+        "name": "pseudocleavage",
+        "trans": [
+            "假劈理"
+        ]
+    },
+    {
+        "name": "pseudocolumella",
+        "trans": [
+            "假中轴"
+        ]
+    },
+    {
+        "name": "pseudoconcretion",
+        "trans": [
+            "假结核"
+        ]
+    },
+    {
+        "name": "pseudoconformity",
+        "trans": [
+            "假整合"
+        ]
+    },
+    {
+        "name": "pseudoconglomerate",
+        "trans": [
+            "假砾岩"
+        ]
+    },
+    {
+        "name": "pseudoconic projection",
+        "trans": [
+            "伪圆锥投影"
+        ]
+    },
+    {
+        "name": "pseudocotunnite",
+        "trans": [
+            "钾氯铅矿"
+        ]
+    },
+    {
+        "name": "pseudocylindrical projection",
+        "trans": [
+            "伪圆柱投影"
+        ]
+    },
+    {
+        "name": "pseudodendritic structure",
+        "trans": [
+            "假师状构造"
+        ]
+    },
+    {
+        "name": "pseudoequivalent potential temperature",
+        "trans": [
+            "假等价势温"
+        ]
+    },
+    {
+        "name": "pseudoeutectic",
+        "trans": [
+            "假共结的"
+        ]
+    },
+    {
+        "name": "pseudoeutectic texture",
+        "trans": [
+            "假共晶结构"
+        ]
+    },
+    {
+        "name": "pseudofluidal",
+        "trans": [
+            "假链的"
+        ]
+    },
+    {
+        "name": "pseudofossil",
+        "trans": [
+            "假化石"
+        ]
+    },
+    {
+        "name": "pseudofossils",
+        "trans": [
+            "假化石"
+        ]
+    },
+    {
+        "name": "pseudogley",
+        "trans": [
+            "假潜育"
+        ]
+    },
+    {
+        "name": "pseudogranophyric",
+        "trans": [
+            "假花斑状的"
+        ]
+    },
+    {
+        "name": "pseudographic",
+        "trans": [
+            "假文象的"
+        ]
+    },
+    {
+        "name": "pseudohexagonal twin",
+        "trans": [
+            "假六方双晶"
+        ]
+    },
+    {
+        "name": "pseudohexgonal",
+        "trans": [
+            "假六方晶系的"
+        ]
+    },
+    {
+        "name": "pseudohydrothermal solution",
+        "trans": [
+            "假热液溶液"
+        ]
+    },
+    {
+        "name": "pseudokarst",
+        "trans": [
+            "假岩溶"
+        ]
+    },
+    {
+        "name": "pseudolamination",
+        "trans": [
+            "假层理"
+        ]
+    },
+    {
+        "name": "pseudoleucite",
+        "trans": [
+            "假白榴石"
+        ]
+    },
+    {
+        "name": "pseudoleucitic",
+        "trans": [
+            "假白榴状的"
+        ]
+    },
+    {
+        "name": "pseudolibethenite",
+        "trans": [
+            "假磷铜矿"
+        ]
+    },
+    {
+        "name": "pseudomoraine",
+        "trans": [
+            "假碛"
+        ]
+    },
+    {
+        "name": "pseudomorph by alteration",
+        "trans": [
+            "蚀变假象"
+        ]
+    },
+    {
+        "name": "pseudomorphism",
+        "trans": [
+            "假象"
+        ]
+    },
+    {
+        "name": "pseudonatrolite",
+        "trans": [
+            "假钠沸石"
+        ]
+    },
+    {
+        "name": "pseudooolith",
+        "trans": [
+            "假鱼耳吞"
+        ]
+    },
+    {
+        "name": "pseudoplankton",
+        "trans": [
+            "假浮游生物"
+        ]
+    },
+    {
+        "name": "pseudopluton",
+        "trans": [
+            "假深成岩体"
+        ]
+    },
+    {
+        "name": "pseudopodium",
+        "trans": [
+            "虚足"
+        ]
+    },
+    {
+        "name": "pseudopodzol",
+        "trans": [
+            "隐灰化土"
+        ]
+    },
+    {
+        "name": "pseudopodzolization",
+        "trans": [
+            "假灰化过程"
+        ]
+    }
+]

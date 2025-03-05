@@ -1,0 +1,4382 @@
+[
+    {
+        "name": "babel quartz",
+        "trans": [
+            "塔状石英"
+        ]
+    },
+    {
+        "name": "babingtonite",
+        "trans": [
+            "铁灰石"
+        ]
+    },
+    {
+        "name": "bacillite",
+        "trans": [
+            "杆雏晶束"
+        ]
+    },
+    {
+        "name": "back",
+        "trans": [
+            "背"
+        ]
+    },
+    {
+        "name": "back deep",
+        "trans": [
+            "次生优地槽"
+        ]
+    },
+    {
+        "name": "back flow",
+        "trans": [
+            "逆流"
+        ]
+    },
+    {
+        "name": "back radiation",
+        "trans": [
+            "逆辐射"
+        ]
+    },
+    {
+        "name": "back reflection camera",
+        "trans": [
+            "逆反射照相机"
+        ]
+    },
+    {
+        "name": "back swamp",
+        "trans": [
+            "河漫滩沼泽"
+        ]
+    },
+    {
+        "name": "backfill",
+        "trans": [
+            "充填"
+        ]
+    },
+    {
+        "name": "background value",
+        "trans": [
+            "背景值"
+        ]
+    },
+    {
+        "name": "backland",
+        "trans": [
+            "腹地"
+        ]
+    },
+    {
+        "name": "backpressure",
+        "trans": [
+            "回压"
+        ]
+    },
+    {
+        "name": "backshore",
+        "trans": [
+            "后滨"
+        ]
+    },
+    {
+        "name": "backwash",
+        "trans": [
+            "回流"
+        ]
+    },
+    {
+        "name": "backwashing method",
+        "trans": [
+            "回哩"
+        ]
+    },
+    {
+        "name": "backwater",
+        "trans": [
+            "回水"
+        ]
+    },
+    {
+        "name": "bacteria",
+        "trans": [
+            "细菌"
+        ]
+    },
+    {
+        "name": "bacterial analysis",
+        "trans": [
+            "细菌分析"
+        ]
+    },
+    {
+        "name": "bacterielles fossil",
+        "trans": [
+            "细菌化石"
+        ]
+    },
+    {
+        "name": "baculite",
+        "trans": [
+            "杆菊石"
+        ]
+    },
+    {
+        "name": "bad land",
+        "trans": [
+            "恶劣地"
+        ]
+    },
+    {
+        "name": "baddeleyite",
+        "trans": [
+            "斜锆石"
+        ]
+    },
+    {
+        "name": "badenite",
+        "trans": [
+            "镍铋砷钴矿"
+        ]
+    },
+    {
+        "name": "baectuite",
+        "trans": [
+            "白头岩"
+        ]
+    },
+    {
+        "name": "bag of ore",
+        "trans": [
+            "矿袋"
+        ]
+    },
+    {
+        "name": "bagrationite",
+        "trans": [
+            "铈黑帘石"
+        ]
+    },
+    {
+        "name": "bahiaite",
+        "trans": [
+            "橄闪紫苏岩"
+        ]
+    },
+    {
+        "name": "baikalite",
+        "trans": [
+            "易裂钙铁辉石"
+        ]
+    },
+    {
+        "name": "bailer",
+        "trans": [
+            "簧头;捞砂筒"
+        ]
+    },
+    {
+        "name": "bajocian",
+        "trans": [
+            "巴柔阶"
+        ]
+    },
+    {
+        "name": "bakerite",
+        "trans": [
+            "纤硼钙石"
+        ]
+    },
+    {
+        "name": "baking coal",
+        "trans": [
+            "粘结煤"
+        ]
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "平衡"
+        ]
+    },
+    {
+        "name": "balance resources",
+        "trans": [
+            "表内储量"
+        ]
+    },
+    {
+        "name": "balanced filter",
+        "trans": [
+            "衡均滤波器"
+        ]
+    },
+    {
+        "name": "balas",
+        "trans": [
+            "玫红尖晶石"
+        ]
+    },
+    {
+        "name": "ball clay",
+        "trans": [
+            "球土"
+        ]
+    },
+    {
+        "name": "ball diorite",
+        "trans": [
+            "球状闪长岩"
+        ]
+    },
+    {
+        "name": "ball granite",
+        "trans": [
+            "球状花岗岩"
+        ]
+    },
+    {
+        "name": "ball ironstone",
+        "trans": [
+            "球状铁矿石"
+        ]
+    },
+    {
+        "name": "ball mill",
+        "trans": [
+            "球磨机"
+        ]
+    },
+    {
+        "name": "ball porphyry",
+        "trans": [
+            "球状斑岩"
+        ]
+    },
+    {
+        "name": "ball structure",
+        "trans": [
+            "球状构造"
+        ]
+    },
+    {
+        "name": "ball texture",
+        "trans": [
+            "球状结构"
+        ]
+    },
+    {
+        "name": "ballas",
+        "trans": [
+            "工业用球面金刚石"
+        ]
+    },
+    {
+        "name": "balling",
+        "trans": [
+            "球团"
+        ]
+    },
+    {
+        "name": "balsam",
+        "trans": [
+            "香胶"
+        ]
+    },
+    {
+        "name": "baltic shield",
+        "trans": [
+            "波罗的地盾"
+        ]
+    },
+    {
+        "name": "banakite",
+        "trans": [
+            "粗绿岩"
+        ]
+    },
+    {
+        "name": "banatite",
+        "trans": [
+            "正辉英闪长岩"
+        ]
+    },
+    {
+        "name": "band",
+        "trans": [
+            "夹层"
+        ]
+    },
+    {
+        "name": "banded",
+        "trans": [
+            "带状的"
+        ]
+    },
+    {
+        "name": "banded agate",
+        "trans": [
+            "带状玛瑙"
+        ]
+    },
+    {
+        "name": "banded clay",
+        "trans": [
+            "带状粘土"
+        ]
+    },
+    {
+        "name": "banded coal",
+        "trans": [
+            "条带状煤"
+        ]
+    },
+    {
+        "name": "banded gneiss",
+        "trans": [
+            "带状片麻岩"
+        ]
+    },
+    {
+        "name": "banded hematite quartzite",
+        "trans": [
+            "带状赤铁矿石英岩"
+        ]
+    },
+    {
+        "name": "banded iron ore deposit",
+        "trans": [
+            "条带状铁矿床"
+        ]
+    },
+    {
+        "name": "banded lode",
+        "trans": [
+            "带状脉"
+        ]
+    },
+    {
+        "name": "banded migmatite",
+        "trans": [
+            "带状混合岩"
+        ]
+    },
+    {
+        "name": "banded ore",
+        "trans": [
+            "带状矿石"
+        ]
+    },
+    {
+        "name": "banded structure",
+        "trans": [
+            "带状构造"
+        ]
+    },
+    {
+        "name": "banded vein",
+        "trans": [
+            "带状矿脉"
+        ]
+    },
+    {
+        "name": "banding",
+        "trans": [
+            "层状"
+        ]
+    },
+    {
+        "name": "bandy",
+        "trans": [
+            "带状的"
+        ]
+    },
+    {
+        "name": "bandylite",
+        "trans": [
+            "氯硼铜石"
+        ]
+    },
+    {
+        "name": "bank",
+        "trans": [
+            "岸"
+        ]
+    },
+    {
+        "name": "bank erosion",
+        "trans": [
+            "沙滩侵蚀"
+        ]
+    },
+    {
+        "name": "bank gravel",
+        "trans": [
+            "采石坑砾石"
+        ]
+    },
+    {
+        "name": "bank run gravel",
+        "trans": [
+            "采石坑砾石"
+        ]
+    },
+    {
+        "name": "bank side",
+        "trans": [
+            "河岸斜坡"
+        ]
+    },
+    {
+        "name": "banket",
+        "trans": [
+            "含金砾岩层"
+        ]
+    },
+    {
+        "name": "baotite",
+        "trans": [
+            "包头矿"
+        ]
+    },
+    {
+        "name": "bar",
+        "trans": [
+            "沙洲"
+        ]
+    },
+    {
+        "name": "bar theory",
+        "trans": [
+            "砂州说"
+        ]
+    },
+    {
+        "name": "barb",
+        "trans": [
+            "羽支"
+        ]
+    },
+    {
+        "name": "barbed drainage",
+        "trans": [
+            "倒钩水系统"
+        ]
+    },
+    {
+        "name": "barbierite",
+        "trans": [
+            "钠正长石"
+        ]
+    },
+    {
+        "name": "barchane",
+        "trans": [
+            "新月形砂丘"
+        ]
+    },
+    {
+        "name": "baric topography",
+        "trans": [
+            "气压形势"
+        ]
+    },
+    {
+        "name": "baricalcite",
+        "trans": [
+            "重解石"
+        ]
+    },
+    {
+        "name": "barite",
+        "trans": [
+            "重晶石"
+        ]
+    },
+    {
+        "name": "barium",
+        "trans": [
+            "钡"
+        ]
+    },
+    {
+        "name": "barium anorthitite",
+        "trans": [
+            "钡斜长岩"
+        ]
+    },
+    {
+        "name": "barium feldspar",
+        "trans": [
+            "钡长石"
+        ]
+    },
+    {
+        "name": "bark",
+        "trans": [
+            "胜"
+        ]
+    },
+    {
+        "name": "barkevikite",
+        "trans": [
+            "棕闪石"
+        ]
+    },
+    {
+        "name": "barkhan",
+        "trans": [
+            "新月形砂丘"
+        ]
+    },
+    {
+        "name": "barlte",
+        "trans": [
+            "天青重晶岩"
+        ]
+    },
+    {
+        "name": "barn",
+        "trans": [
+            "靶恩"
+        ]
+    },
+    {
+        "name": "barolite",
+        "trans": [
+            "天青重晶岩"
+        ]
+    },
+    {
+        "name": "barometric altimeter",
+        "trans": [
+            "气压测高计"
+        ]
+    },
+    {
+        "name": "barotolerancy",
+        "trans": [
+            "耐压性"
+        ]
+    },
+    {
+        "name": "barranca",
+        "trans": [
+            "峡谷"
+        ]
+    },
+    {
+        "name": "barranco",
+        "trans": [
+            "峡谷"
+        ]
+    },
+    {
+        "name": "barrandite",
+        "trans": [
+            "磷铝铁石"
+        ]
+    },
+    {
+        "name": "barremian",
+        "trans": [
+            "巴列姆阶"
+        ]
+    },
+    {
+        "name": "barren bed",
+        "trans": [
+            "哑层"
+        ]
+    },
+    {
+        "name": "barren layer",
+        "trans": [
+            "废石层"
+        ]
+    },
+    {
+        "name": "barren of coal",
+        "trans": [
+            "不含煤的"
+        ]
+    },
+    {
+        "name": "barren rock",
+        "trans": [
+            "无矿岩"
+        ]
+    },
+    {
+        "name": "barren sand",
+        "trans": [
+            "无油砂层"
+        ]
+    },
+    {
+        "name": "barrier",
+        "trans": [
+            "堡坝"
+        ]
+    },
+    {
+        "name": "barrier reef",
+        "trans": [
+            "堡礁"
+        ]
+    },
+    {
+        "name": "barrier spring",
+        "trans": [
+            "堡坝泉"
+        ]
+    },
+    {
+        "name": "barrow",
+        "trans": [
+            "矸石场"
+        ]
+    },
+    {
+        "name": "barthite",
+        "trans": [
+            "砷锌铜矿"
+        ]
+    },
+    {
+        "name": "bartonian",
+        "trans": [
+            "巴尔顿阶"
+        ]
+    },
+    {
+        "name": "barylite",
+        "trans": [
+            "硅钡铍矿"
+        ]
+    },
+    {
+        "name": "barysil",
+        "trans": [
+            "硅铅矿"
+        ]
+    },
+    {
+        "name": "barysilite",
+        "trans": [
+            "硅铅矿"
+        ]
+    },
+    {
+        "name": "barysphere",
+        "trans": [
+            "重圈"
+        ]
+    },
+    {
+        "name": "baryte",
+        "trans": [
+            "重晶石"
+        ]
+    },
+    {
+        "name": "barytocalcite",
+        "trans": [
+            "钡解石"
+        ]
+    },
+    {
+        "name": "barytocelestine",
+        "trans": [
+            "钡天青石"
+        ]
+    },
+    {
+        "name": "barytocelestite",
+        "trans": [
+            "钡天青石"
+        ]
+    },
+    {
+        "name": "basal complex",
+        "trans": [
+            "基底杂岩"
+        ]
+    },
+    {
+        "name": "basal conglomerate",
+        "trans": [
+            "底砾岩"
+        ]
+    },
+    {
+        "name": "basal granule",
+        "trans": [
+            "基粒"
+        ]
+    },
+    {
+        "name": "basal sandstone",
+        "trans": [
+            "基底砂岩"
+        ]
+    },
+    {
+        "name": "basal structure",
+        "trans": [
+            "基底构造"
+        ]
+    },
+    {
+        "name": "basalt",
+        "trans": [
+            "玄武岩"
+        ]
+    },
+    {
+        "name": "榴辉岩转化  basalt eclogite transformation",
+        "trans": [
+            "玄武岩"
+        ]
+    },
+    {
+        "name": "basaltic",
+        "trans": [
+            "玄武岩的"
+        ]
+    },
+    {
+        "name": "basaltic andesite",
+        "trans": [
+            "玄武安山岩"
+        ]
+    },
+    {
+        "name": "basaltic augite",
+        "trans": [
+            "玄武辉石"
+        ]
+    },
+    {
+        "name": "basaltic hornblende",
+        "trans": [
+            "玄闪石"
+        ]
+    },
+    {
+        "name": "basaltic layer",
+        "trans": [
+            "玄武岩层"
+        ]
+    },
+    {
+        "name": "basaltic magma",
+        "trans": [
+            "玄武岩浆"
+        ]
+    },
+    {
+        "name": "basaltic structure",
+        "trans": [
+            "玄武岩构造"
+        ]
+    },
+    {
+        "name": "basaltic substratum",
+        "trans": [
+            "玄武岩基层"
+        ]
+    },
+    {
+        "name": "basaltic tuff",
+        "trans": [
+            "玄武质凝灰岩"
+        ]
+    },
+    {
+        "name": "basaltic wacke",
+        "trans": [
+            "玄土"
+        ]
+    },
+    {
+        "name": "basanite",
+        "trans": [
+            "碧玄岩"
+        ]
+    },
+    {
+        "name": "basanitoid",
+        "trans": [
+            "玄武岩类"
+        ]
+    },
+    {
+        "name": "base",
+        "trans": [
+            "底面;盐基"
+        ]
+    },
+    {
+        "name": "base centered lattice",
+        "trans": [
+            "底心晶格"
+        ]
+    },
+    {
+        "name": "base desaturation",
+        "trans": [
+            "脱碱酌"
+        ]
+    },
+    {
+        "name": "base exchange",
+        "trans": [
+            "盐基代换"
+        ]
+    },
+    {
+        "name": "base exchange capacity",
+        "trans": [
+            "盐基交换容量"
+        ]
+    },
+    {
+        "name": "base flow",
+        "trans": [
+            "底流基本水流"
+        ]
+    },
+    {
+        "name": "base level",
+        "trans": [
+            "基准面"
+        ]
+    },
+    {
+        "name": "base level of erosion",
+        "trans": [
+            "侵蚀基准面"
+        ]
+    },
+    {
+        "name": "base line",
+        "trans": [
+            "基线"
+        ]
+    },
+    {
+        "name": "base of crude oil",
+        "trans": [
+            "原油的基类"
+        ]
+    },
+    {
+        "name": "base plate",
+        "trans": [
+            "座板"
+        ]
+    },
+    {
+        "name": "base runoff",
+        "trans": [
+            "底流基本水流"
+        ]
+    },
+    {
+        "name": "base temperature",
+        "trans": [
+            "基底温度"
+        ]
+    },
+    {
+        "name": "basement",
+        "trans": [
+            "基底"
+        ]
+    },
+    {
+        "name": "basement complex",
+        "trans": [
+            "基底杂岩"
+        ]
+    },
+    {
+        "name": "basement fold",
+        "trans": [
+            "基底褶曲"
+        ]
+    },
+    {
+        "name": "basement nappe",
+        "trans": [
+            "基底推复体"
+        ]
+    },
+    {
+        "name": "basic front",
+        "trans": [
+            "镁铁前缘"
+        ]
+    },
+    {
+        "name": "basic rock",
+        "trans": [
+            "基性岩"
+        ]
+    },
+    {
+        "name": "basic salt",
+        "trans": [
+            "碱性盐"
+        ]
+    },
+    {
+        "name": "basic xenolith",
+        "trans": [
+            "基性捕虏体"
+        ]
+    },
+    {
+        "name": "basicity",
+        "trans": [
+            "碱度"
+        ]
+    },
+    {
+        "name": "basification",
+        "trans": [
+            "基性岩化"
+        ]
+    },
+    {
+        "name": "basin",
+        "trans": [
+            "盆地"
+        ]
+    },
+    {
+        "name": "basin method",
+        "trans": [
+            "盆地法"
+        ]
+    },
+    {
+        "name": "basin perimeter",
+        "trans": [
+            "盆地周长"
+        ]
+    },
+    {
+        "name": "basin shape",
+        "trans": [
+            "盆地形态"
+        ]
+    },
+    {
+        "name": "basinal lake",
+        "trans": [
+            "内窿"
+        ]
+    },
+    {
+        "name": "basis",
+        "trans": [
+            "底"
+        ]
+    },
+    {
+        "name": "basite",
+        "trans": [
+            "基性岩"
+        ]
+    },
+    {
+        "name": "basophilic plant",
+        "trans": [
+            "喜硷植物"
+        ]
+    },
+    {
+        "name": "basophilous vegetation",
+        "trans": [
+            "喜硷植被"
+        ]
+    },
+    {
+        "name": "bassanite",
+        "trans": [
+            "烧石膏"
+        ]
+    },
+    {
+        "name": "bassetite",
+        "trans": [
+            "铁铀云母"
+        ]
+    },
+    {
+        "name": "bast",
+        "trans": [
+            "韧皮部"
+        ]
+    },
+    {
+        "name": "bast fibre",
+        "trans": [
+            "韧皮纡维"
+        ]
+    },
+    {
+        "name": "bastite",
+        "trans": [
+            "绢石"
+        ]
+    },
+    {
+        "name": "bastitic",
+        "trans": [
+            "绢石状的"
+        ]
+    },
+    {
+        "name": "bastnaesite",
+        "trans": [
+            "氟碳铈矿"
+        ]
+    },
+    {
+        "name": "batholite",
+        "trans": [
+            "岩基"
+        ]
+    },
+    {
+        "name": "batholith",
+        "trans": [
+            "岩基"
+        ]
+    },
+    {
+        "name": "batholithic joint",
+        "trans": [
+            "岩基节理"
+        ]
+    },
+    {
+        "name": "bathometer",
+        "trans": [
+            "测深计"
+        ]
+    },
+    {
+        "name": "bathonian",
+        "trans": [
+            "巴通阶"
+        ]
+    },
+    {
+        "name": "bathyal deposit",
+        "trans": [
+            "次深海沉积"
+        ]
+    },
+    {
+        "name": "bathyal facies",
+        "trans": [
+            "半深海相"
+        ]
+    },
+    {
+        "name": "bathyal zone",
+        "trans": [
+            "半深海带"
+        ]
+    },
+    {
+        "name": "bathymetry",
+        "trans": [
+            "水深测量"
+        ]
+    },
+    {
+        "name": "batukite",
+        "trans": [
+            "暗色白玄岩"
+        ]
+    },
+    {
+        "name": "batymetric chart",
+        "trans": [
+            "等深线图"
+        ]
+    },
+    {
+        "name": "baumhauerite",
+        "trans": [
+            "硫砷铅矿"
+        ]
+    },
+    {
+        "name": "bauxite",
+        "trans": [
+            "铝土矿"
+        ]
+    },
+    {
+        "name": "bauxite deposit",
+        "trans": [
+            "铝土矿床"
+        ]
+    },
+    {
+        "name": "bavenite",
+        "trans": [
+            "硬沸石"
+        ]
+    },
+    {
+        "name": "baveno twin",
+        "trans": [
+            "斜坡双晶"
+        ]
+    },
+    {
+        "name": "bay",
+        "trans": [
+            "湾"
+        ]
+    },
+    {
+        "name": "bay sediment",
+        "trans": [
+            "湾沉积物"
+        ]
+    },
+    {
+        "name": "bayldonite",
+        "trans": [
+            "乳砷铅铜矿"
+        ]
+    },
+    {
+        "name": "bayleyite",
+        "trans": [
+            "菱镁铀矿"
+        ]
+    },
+    {
+        "name": "beach barrier",
+        "trans": [
+            "堡坝"
+        ]
+    },
+    {
+        "name": "beach cusp",
+        "trans": [
+            "海岸尖头"
+        ]
+    },
+    {
+        "name": "beach drifting",
+        "trans": [
+            "海滩移动"
+        ]
+    },
+    {
+        "name": "beach erosion",
+        "trans": [
+            "海滩侵蚀"
+        ]
+    },
+    {
+        "name": "beach gravel",
+        "trans": [
+            "海岸砾石"
+        ]
+    },
+    {
+        "name": "beach placer",
+        "trans": [
+            "海滨砂矿"
+        ]
+    },
+    {
+        "name": "beach ridge",
+        "trans": [
+            "滩脊"
+        ]
+    },
+    {
+        "name": "beachrock",
+        "trans": [
+            "洋滨石灰簧砂岩"
+        ]
+    },
+    {
+        "name": "bead reaction",
+        "trans": [
+            "熔球反应"
+        ]
+    },
+    {
+        "name": "beak",
+        "trans": [
+            "喙"
+        ]
+    },
+    {
+        "name": "beak shaped",
+        "trans": [
+            "喙状的"
+        ]
+    },
+    {
+        "name": "bearded",
+        "trans": [
+            "有胡须的"
+        ]
+    },
+    {
+        "name": "bearing capacity",
+        "trans": [
+            "承载力"
+        ]
+    },
+    {
+        "name": "beat",
+        "trans": [
+            "露头"
+        ]
+    },
+    {
+        "name": "bechilite",
+        "trans": [
+            "硼酸钙石"
+        ]
+    },
+    {
+        "name": "becke line",
+        "trans": [
+            "贝克线"
+        ]
+    },
+    {
+        "name": "beckelite",
+        "trans": [
+            "方钙铈镧矿"
+        ]
+    },
+    {
+        "name": "becquerelite",
+        "trans": [
+            "深黄铀矿"
+        ]
+    },
+    {
+        "name": "bed",
+        "trans": [
+            "层"
+        ]
+    },
+    {
+        "name": "bed load",
+        "trans": [
+            "推移质"
+        ]
+    },
+    {
+        "name": "bed moisture",
+        "trans": [
+            "内在潮湿"
+        ]
+    },
+    {
+        "name": "bed roughness",
+        "trans": [
+            "层粗糙度"
+        ]
+    },
+    {
+        "name": "bed succesion",
+        "trans": [
+            "层序"
+        ]
+    },
+    {
+        "name": "bed vein",
+        "trans": [
+            "板状脉"
+        ]
+    },
+    {
+        "name": "bedded",
+        "trans": [
+            "层状的"
+        ]
+    },
+    {
+        "name": "bedded vein",
+        "trans": [
+            "板状脉"
+        ]
+    },
+    {
+        "name": "bedding",
+        "trans": [
+            "层理"
+        ]
+    },
+    {
+        "name": "bedding fault",
+        "trans": [
+            "层面断层"
+        ]
+    },
+    {
+        "name": "bedding fissility",
+        "trans": [
+            "层面裂开性"
+        ]
+    },
+    {
+        "name": "bedding foliation",
+        "trans": [
+            "顺层面理"
+        ]
+    },
+    {
+        "name": "bedding joint",
+        "trans": [
+            "层状节理"
+        ]
+    },
+    {
+        "name": "bedding thrust",
+        "trans": [
+            "层面冲断层"
+        ]
+    },
+    {
+        "name": "bedrock",
+        "trans": [
+            "基岩"
+        ]
+    },
+    {
+        "name": "beds pattern",
+        "trans": [
+            "河床型式"
+        ]
+    },
+    {
+        "name": "beegerite",
+        "trans": [
+            "辉铋铅矿"
+        ]
+    },
+    {
+        "name": "beetle",
+        "trans": [
+            "甲虫"
+        ]
+    },
+    {
+        "name": "befanamite",
+        "trans": [
+            "锆钪钇石"
+        ]
+    },
+    {
+        "name": "beheaded river",
+        "trans": [
+            "夺劣"
+        ]
+    },
+    {
+        "name": "beidellite",
+        "trans": [
+            "贝得石"
+        ]
+    },
+    {
+        "name": "bekinkinite",
+        "trans": [
+            "霞辉岩"
+        ]
+    },
+    {
+        "name": "belemnites",
+        "trans": [
+            "箭石类"
+        ]
+    },
+    {
+        "name": "bell socket",
+        "trans": [
+            "钟形打捞工具"
+        ]
+    },
+    {
+        "name": "belonite",
+        "trans": [
+            "棒皱晶"
+        ]
+    },
+    {
+        "name": "belonospherite",
+        "trans": [
+            "针皱晶球粒"
+        ]
+    },
+    {
+        "name": "belt conveyor",
+        "trans": [
+            "皮带运输机"
+        ]
+    },
+    {
+        "name": "belted coastal plain",
+        "trans": [
+            "带状沿岸平原"
+        ]
+    },
+    {
+        "name": "bementite",
+        "trans": [
+            "硅锰矿"
+        ]
+    },
+    {
+        "name": "bench",
+        "trans": [
+            "海蚀平台"
+        ]
+    },
+    {
+        "name": "bench mark",
+        "trans": [
+            "水准点"
+        ]
+    },
+    {
+        "name": "bench mining",
+        "trans": [
+            "阶梯式开采"
+        ]
+    },
+    {
+        "name": "bench placer",
+        "trans": [
+            "阶地砂矿"
+        ]
+    },
+    {
+        "name": "bench stoping",
+        "trans": [
+            "阶梯式开采"
+        ]
+    },
+    {
+        "name": "bench terrace",
+        "trans": [
+            "阶地段丘"
+        ]
+    },
+    {
+        "name": "benching",
+        "trans": [
+            "阶梯式开采"
+        ]
+    },
+    {
+        "name": "bend",
+        "trans": [
+            "弯曲"
+        ]
+    },
+    {
+        "name": "bending fold",
+        "trans": [
+            "弯曲褶皱"
+        ]
+    },
+    {
+        "name": "bending moment",
+        "trans": [
+            "弯矩"
+        ]
+    },
+    {
+        "name": "bending radius",
+        "trans": [
+            "转弯半径"
+        ]
+    },
+    {
+        "name": "benioff zone",
+        "trans": [
+            "毕鸟夫带"
+        ]
+    },
+    {
+        "name": "benitoite",
+        "trans": [
+            "蓝锥矿"
+        ]
+    },
+    {
+        "name": "benjaminite",
+        "trans": [
+            "铜银铅铋矿"
+        ]
+    },
+    {
+        "name": "bent crystal monochromator",
+        "trans": [
+            "弯曲结晶单色仪"
+        ]
+    },
+    {
+        "name": "benthonic",
+        "trans": [
+            "底栖的"
+        ]
+    },
+    {
+        "name": "benthos",
+        "trans": [
+            "底栖生物"
+        ]
+    },
+    {
+        "name": "bentonic organism",
+        "trans": [
+            "底栖生物"
+        ]
+    },
+    {
+        "name": "bentonite",
+        "trans": [
+            "斑脱岩"
+        ]
+    },
+    {
+        "name": "bentonitic shale",
+        "trans": [
+            "斑脱页岩"
+        ]
+    },
+    {
+        "name": "benzidine",
+        "trans": [
+            "联苯胺"
+        ]
+    },
+    {
+        "name": "benzoin oxime",
+        "trans": [
+            "苯偶姻肟"
+        ]
+    },
+    {
+        "name": "beraunite",
+        "trans": [
+            "簇磷铁矿"
+        ]
+    },
+    {
+        "name": "beresite",
+        "trans": [
+            "黄铁长英岩"
+        ]
+    },
+    {
+        "name": "beresitization",
+        "trans": [
+            "黄铁绢英岩化"
+        ]
+    },
+    {
+        "name": "bergmannite",
+        "trans": [
+            "假钠沸石"
+        ]
+    },
+    {
+        "name": "bergschrund",
+        "trans": [
+            "冰后隙"
+        ]
+    },
+    {
+        "name": "beringite",
+        "trans": [
+            "钠闪粗面岩"
+        ]
+    },
+    {
+        "name": "berkelium",
+        "trans": [
+            "锫"
+        ]
+    },
+    {
+        "name": "berm",
+        "trans": [
+            "后滨阶地"
+        ]
+    },
+    {
+        "name": "bernissartian stage",
+        "trans": [
+            "别尔尼萨尔阶"
+        ]
+    },
+    {
+        "name": "berthierite",
+        "trans": [
+            "辉铁锑矿"
+        ]
+    },
+    {
+        "name": "bertrand lens",
+        "trans": [
+            "勃氏镜"
+        ]
+    },
+    {
+        "name": "bertrandite",
+        "trans": [
+            "硅铍石"
+        ]
+    },
+    {
+        "name": "beryl",
+        "trans": [
+            "绿柱石"
+        ]
+    },
+    {
+        "name": "beryllium",
+        "trans": [
+            "铍"
+        ]
+    },
+    {
+        "name": "beryllonite",
+        "trans": [
+            "磷钠铍石"
+        ]
+    },
+    {
+        "name": "berzelianite",
+        "trans": [
+            "硒铜矿"
+        ]
+    },
+    {
+        "name": "berzeliite",
+        "trans": [
+            "黄榴砷矿"
+        ]
+    },
+    {
+        "name": "beta quartz",
+        "trans": [
+            "石英"
+        ]
+    },
+    {
+        "name": "beta ray detector",
+        "trans": [
+            "计数器"
+        ]
+    },
+    {
+        "name": "betafite",
+        "trans": [
+            "贝塔石"
+        ]
+    },
+    {
+        "name": "beudantite",
+        "trans": [
+            "菱铅矾"
+        ]
+    },
+    {
+        "name": "biaxial crystal",
+        "trans": [
+            "二轴晶"
+        ]
+    },
+    {
+        "name": "bicarbonate",
+        "trans": [
+            "重碳酸盐"
+        ]
+    },
+    {
+        "name": "biconcave",
+        "trans": [
+            "双凹的"
+        ]
+    },
+    {
+        "name": "biconvex",
+        "trans": [
+            "双凸的"
+        ]
+    },
+    {
+        "name": "bieberite",
+        "trans": [
+            "赤矾"
+        ]
+    },
+    {
+        "name": "bifid",
+        "trans": [
+            "二裂的"
+        ]
+    },
+    {
+        "name": "bifoliate",
+        "trans": [
+            "双叶的"
+        ]
+    },
+    {
+        "name": "bifurcation",
+        "trans": [
+            "分枝"
+        ]
+    },
+    {
+        "name": "bifurcation ratio",
+        "trans": [
+            "分枝比率"
+        ]
+    },
+    {
+        "name": "bight",
+        "trans": [
+            "大湾"
+        ]
+    },
+    {
+        "name": "bilateral symmetry",
+        "trans": [
+            "两面对称"
+        ]
+    },
+    {
+        "name": "bill",
+        "trans": [
+            "喙"
+        ]
+    },
+    {
+        "name": "billietite",
+        "trans": [
+            "黄钡铀矿"
+        ]
+    },
+    {
+        "name": "billitonite",
+        "trans": [
+            "勿里洞玻陨石"
+        ]
+    },
+    {
+        "name": "bilocular",
+        "trans": [
+            "二室的"
+        ]
+    },
+    {
+        "name": "biloculate",
+        "trans": [
+            "二室的"
+        ]
+    },
+    {
+        "name": "bimetasomatism",
+        "trans": [
+            "双交代酌"
+        ]
+    },
+    {
+        "name": "bin gate",
+        "trans": [
+            "贮仓闸门"
+        ]
+    },
+    {
+        "name": "bindheimite",
+        "trans": [
+            "水锑铅矿"
+        ]
+    },
+    {
+        "name": "binding coal",
+        "trans": [
+            "粘结煤"
+        ]
+    },
+    {
+        "name": "binding force",
+        "trans": [
+            "结合力"
+        ]
+    },
+    {
+        "name": "binding material",
+        "trans": [
+            "粘结剂"
+        ]
+    },
+    {
+        "name": "binocular",
+        "trans": [
+            "双眼的"
+        ]
+    },
+    {
+        "name": "binomial nomenclature",
+        "trans": [
+            "二名法"
+        ]
+    },
+    {
+        "name": "bioaccumulated limestone",
+        "trans": [
+            "有机生成石灰岩"
+        ]
+    },
+    {
+        "name": "biocenology",
+        "trans": [
+            "生物群落学"
+        ]
+    },
+    {
+        "name": "biochemical coalification",
+        "trans": [
+            "生物化学煤化酌"
+        ]
+    },
+    {
+        "name": "biochemical degradation",
+        "trans": [
+            "生物化学降解酌"
+        ]
+    },
+    {
+        "name": "biochemical evolution",
+        "trans": [
+            "生物化学进化"
+        ]
+    },
+    {
+        "name": "biochemical oxygen demand",
+        "trans": [
+            "生化学的需氧量"
+        ]
+    },
+    {
+        "name": "biochemical sedimentary deposit",
+        "trans": [
+            "生物化学沉积矿床"
+        ]
+    },
+    {
+        "name": "biochemistry",
+        "trans": [
+            "生化学"
+        ]
+    },
+    {
+        "name": "biochron",
+        "trans": [
+            "生物年代"
+        ]
+    },
+    {
+        "name": "biochronology",
+        "trans": [
+            "生物年代学"
+        ]
+    },
+    {
+        "name": "bioclast",
+        "trans": [
+            "生物碎屑岩"
+        ]
+    },
+    {
+        "name": "bioclastic rock",
+        "trans": [
+            "生物碎屑岩"
+        ]
+    },
+    {
+        "name": "biocoenose",
+        "trans": [
+            "生物群落"
+        ]
+    },
+    {
+        "name": "biocoenosis",
+        "trans": [
+            "生物群落"
+        ]
+    },
+    {
+        "name": "biocolloid",
+        "trans": [
+            "生物胶体"
+        ]
+    },
+    {
+        "name": "biodegradation",
+        "trans": [
+            "生物降解酌"
+        ]
+    },
+    {
+        "name": "biofacies",
+        "trans": [
+            "生物相"
+        ]
+    },
+    {
+        "name": "biogenesis",
+        "trans": [
+            "生源说"
+        ]
+    },
+    {
+        "name": "biogenetic law",
+        "trans": [
+            "生物发生律"
+        ]
+    },
+    {
+        "name": "biogenetic rock",
+        "trans": [
+            "生物岩"
+        ]
+    },
+    {
+        "name": "biogenic element",
+        "trans": [
+            "生物元素"
+        ]
+    },
+    {
+        "name": "biogenic rock",
+        "trans": [
+            "生物岩"
+        ]
+    },
+    {
+        "name": "biogeochemical",
+        "trans": [
+            "生物地球化学的"
+        ]
+    },
+    {
+        "name": "biogeochemical prospecting",
+        "trans": [
+            "生物地球化学勘探"
+        ]
+    },
+    {
+        "name": "biogeochemistry",
+        "trans": [
+            "生物地球化学"
+        ]
+    },
+    {
+        "name": "biogeocoenosis",
+        "trans": [
+            "生物地理群落"
+        ]
+    },
+    {
+        "name": "biogeographic region",
+        "trans": [
+            "生物地理区"
+        ]
+    },
+    {
+        "name": "biogeography",
+        "trans": [
+            "生物地理学"
+        ]
+    },
+    {
+        "name": "bioherm",
+        "trans": [
+            "生物岩礁"
+        ]
+    },
+    {
+        "name": "biohistory",
+        "trans": [
+            "生物史"
+        ]
+    },
+    {
+        "name": "biohorizon",
+        "trans": [
+            "生物面"
+        ]
+    },
+    {
+        "name": "biolith",
+        "trans": [
+            "生物岩"
+        ]
+    },
+    {
+        "name": "biologic effects of geothermal activity",
+        "trans": [
+            "地热活动生物效应"
+        ]
+    },
+    {
+        "name": "biological evolution",
+        "trans": [
+            "生物学的进化"
+        ]
+    },
+    {
+        "name": "biological oxidation",
+        "trans": [
+            "生物氧化"
+        ]
+    },
+    {
+        "name": "biological species",
+        "trans": [
+            "生物种"
+        ]
+    },
+    {
+        "name": "biome",
+        "trans": [
+            "生物群落"
+        ]
+    },
+    {
+        "name": "bioplasm",
+        "trans": [
+            "原生质"
+        ]
+    },
+    {
+        "name": "biospeleology",
+        "trans": [
+            "洞穴生物学"
+        ]
+    },
+    {
+        "name": "biosphere",
+        "trans": [
+            "生物圈"
+        ]
+    },
+    {
+        "name": "biostratigraphy",
+        "trans": [
+            "生物地层学"
+        ]
+    },
+    {
+        "name": "biostratonomy",
+        "trans": [
+            "化石产出学"
+        ]
+    },
+    {
+        "name": "biostrome",
+        "trans": [
+            "生物层"
+        ]
+    },
+    {
+        "name": "biosurface",
+        "trans": [
+            "生物面"
+        ]
+    },
+    {
+        "name": "biota",
+        "trans": [
+            "生物群"
+        ]
+    },
+    {
+        "name": "biotic environment",
+        "trans": [
+            "生物环境"
+        ]
+    },
+    {
+        "name": "biotic factor",
+        "trans": [
+            "生物因素"
+        ]
+    },
+    {
+        "name": "biotic habitat",
+        "trans": [
+            "生物环境"
+        ]
+    },
+    {
+        "name": "biotic succession",
+        "trans": [
+            "生物性演替"
+        ]
+    },
+    {
+        "name": "biotite",
+        "trans": [
+            "黑云母"
+        ]
+    },
+    {
+        "name": "biotite andesite",
+        "trans": [
+            "黑云安山岩"
+        ]
+    },
+    {
+        "name": "biotitization",
+        "trans": [
+            "黑云母化"
+        ]
+    },
+    {
+        "name": "biotope",
+        "trans": [
+            "群落生境"
+        ]
+    },
+    {
+        "name": "biozone",
+        "trans": [
+            "生物带"
+        ]
+    },
+    {
+        "name": "biped",
+        "trans": [
+            "二足动物"
+        ]
+    },
+    {
+        "name": "bipetalous",
+        "trans": [
+            "双瓣的"
+        ]
+    },
+    {
+        "name": "bipyramid",
+        "trans": [
+            "双锥"
+        ]
+    },
+    {
+        "name": "birch forest",
+        "trans": [
+            "桦林"
+        ]
+    },
+    {
+        "name": "bird foot delta",
+        "trans": [
+            "鸟足状三角洲"
+        ]
+    },
+    {
+        "name": "bird's eye coal",
+        "trans": [
+            "鸟眼煤"
+        ]
+    },
+    {
+        "name": "birds",
+        "trans": [
+            "鸟类"
+        ]
+    },
+    {
+        "name": "birefringence",
+        "trans": [
+            "双折射"
+        ]
+    },
+    {
+        "name": "bisbeeite",
+        "trans": [
+            "软硅铜矿"
+        ]
+    },
+    {
+        "name": "bischofite",
+        "trans": [
+            "水氯镁石"
+        ]
+    },
+    {
+        "name": "bisecting plane",
+        "trans": [
+            "二等分面"
+        ]
+    },
+    {
+        "name": "bisectrix",
+        "trans": [
+            "等分线"
+        ]
+    },
+    {
+        "name": "biserrate",
+        "trans": [
+            "重锯齿的"
+        ]
+    },
+    {
+        "name": "bishopite",
+        "trans": [
+            "水氯镁石"
+        ]
+    },
+    {
+        "name": "bismalith",
+        "trans": [
+            "岩柱"
+        ]
+    },
+    {
+        "name": "bismite",
+        "trans": [
+            "铋华"
+        ]
+    },
+    {
+        "name": "bismuth",
+        "trans": [
+            "铋"
+        ]
+    },
+    {
+        "name": "bismuth glance",
+        "trans": [
+            "辉铋矿"
+        ]
+    },
+    {
+        "name": "bismuth ochre",
+        "trans": [
+            "铋华"
+        ]
+    },
+    {
+        "name": "bismuthinite",
+        "trans": [
+            "辉铋矿"
+        ]
+    },
+    {
+        "name": "bismuthite",
+        "trans": [
+            "泡铋矿"
+        ]
+    },
+    {
+        "name": "bismutospherite",
+        "trans": [
+            "球泡铋矿"
+        ]
+    },
+    {
+        "name": "bismutotantalite",
+        "trans": [
+            "铋钽铁矿"
+        ]
+    },
+    {
+        "name": "bisphenoid",
+        "trans": [
+            "双榍"
+        ]
+    },
+    {
+        "name": "bit",
+        "trans": [
+            "钻头"
+        ]
+    },
+    {
+        "name": "bit pressure",
+        "trans": [
+            "钻压"
+        ]
+    },
+    {
+        "name": "bit weight",
+        "trans": [
+            "钻压"
+        ]
+    },
+    {
+        "name": "bitetragonal prism",
+        "trans": [
+            "复正方柱"
+        ]
+    },
+    {
+        "name": "bitumen",
+        "trans": [
+            "沥青"
+        ]
+    },
+    {
+        "name": "bituminization",
+        "trans": [
+            "沥青化"
+        ]
+    },
+    {
+        "name": "bituminous coal",
+        "trans": [
+            "烟煤"
+        ]
+    },
+    {
+        "name": "bituminous shale",
+        "trans": [
+            "沥青质页岩"
+        ]
+    },
+    {
+        "name": "bitummen ratio",
+        "trans": [
+            "沥青比值"
+        ]
+    },
+    {
+        "name": "bixbyite",
+        "trans": [
+            "方锰铁矿"
+        ]
+    },
+    {
+        "name": "black alkali soil",
+        "trans": [
+            "碱土"
+        ]
+    },
+    {
+        "name": "black band iron carbonate ore",
+        "trans": [
+            "黑泥碳酸铁矿"
+        ]
+    },
+    {
+        "name": "black cobalt",
+        "trans": [
+            "钴土矿"
+        ]
+    },
+    {
+        "name": "black copper",
+        "trans": [
+            "黑铜矿"
+        ]
+    },
+    {
+        "name": "black cotton soil",
+        "trans": [
+            "黑棉土"
+        ]
+    },
+    {
+        "name": "black diamond",
+        "trans": [
+            "黑金刚石"
+        ]
+    },
+    {
+        "name": "black earth",
+        "trans": [
+            "黑土"
+        ]
+    },
+    {
+        "name": "black iron ore",
+        "trans": [
+            "磁铁矿"
+        ]
+    },
+    {
+        "name": "black jack",
+        "trans": [
+            "铁闪锌矿"
+        ]
+    },
+    {
+        "name": "black jura",
+        "trans": [
+            "黑侏罗世"
+        ]
+    },
+    {
+        "name": "black lead",
+        "trans": [
+            "石墨"
+        ]
+    },
+    {
+        "name": "black manganese",
+        "trans": [
+            "黑锰矿"
+        ]
+    },
+    {
+        "name": "black metal",
+        "trans": [
+            "黑色金属"
+        ]
+    },
+    {
+        "name": "black mud",
+        "trans": [
+            "黑色泥"
+        ]
+    },
+    {
+        "name": "black ore deposit",
+        "trans": [
+            "黑矿型矿床"
+        ]
+    },
+    {
+        "name": "black sand",
+        "trans": [
+            "黑砂"
+        ]
+    },
+    {
+        "name": "black soil",
+        "trans": [
+            "黑土"
+        ]
+    },
+    {
+        "name": "blank",
+        "trans": [
+            "空白"
+        ]
+    },
+    {
+        "name": "blank test",
+        "trans": [
+            "空白试验"
+        ]
+    },
+    {
+        "name": "blanket",
+        "trans": [
+            "表层"
+        ]
+    },
+    {
+        "name": "blanket vein",
+        "trans": [
+            "板状脉"
+        ]
+    },
+    {
+        "name": "blast furnace",
+        "trans": [
+            "高炉"
+        ]
+    },
+    {
+        "name": "blasthole",
+        "trans": [
+            "炮眼"
+        ]
+    },
+    {
+        "name": "blasthole drilling",
+        "trans": [
+            "钻炮眼"
+        ]
+    },
+    {
+        "name": "blastic",
+        "trans": [
+            "变晶的"
+        ]
+    },
+    {
+        "name": "blasting",
+        "trans": [
+            "爆破"
+        ]
+    },
+    {
+        "name": "blasting cap",
+        "trans": [
+            "雷管"
+        ]
+    },
+    {
+        "name": "blastogranitic texture",
+        "trans": [
+            "变余花岗状结构"
+        ]
+    },
+    {
+        "name": "blastoids",
+        "trans": [
+            "海蕾类"
+        ]
+    },
+    {
+        "name": "blastomylonite",
+        "trans": [
+            "变余糜陵岩"
+        ]
+    },
+    {
+        "name": "blastophitic",
+        "trans": [
+            "变余辉绿岩的"
+        ]
+    },
+    {
+        "name": "blastophitic structure",
+        "trans": [
+            "变余辉绿状结构"
+        ]
+    },
+    {
+        "name": "blastoporphyric",
+        "trans": [
+            "变余斑状的"
+        ]
+    },
+    {
+        "name": "blastoporphyritic leptite",
+        "trans": [
+            "变余斑状长英麻粒岩"
+        ]
+    },
+    {
+        "name": "blastoporphyritic structure",
+        "trans": [
+            "变余斑晶构造"
+        ]
+    },
+    {
+        "name": "blastopsammitic structure",
+        "trans": [
+            "变余砂状结构"
+        ]
+    },
+    {
+        "name": "blastopsephitic",
+        "trans": [
+            "变余砾状的"
+        ]
+    },
+    {
+        "name": "blastopsephitic structure",
+        "trans": [
+            "变余砾状结构"
+        ]
+    },
+    {
+        "name": "bleached layer",
+        "trans": [
+            "漂白层"
+        ]
+    },
+    {
+        "name": "bleached sand",
+        "trans": [
+            "漂白砂"
+        ]
+    },
+    {
+        "name": "bleached zone",
+        "trans": [
+            "淋溶带"
+        ]
+    },
+    {
+        "name": "bleaching",
+        "trans": [
+            "淋溶酌"
+        ]
+    },
+    {
+        "name": "blind deposit",
+        "trans": [
+            "盲矿床"
+        ]
+    },
+    {
+        "name": "blind fault",
+        "trans": [
+            "隐伏断层"
+        ]
+    },
+    {
+        "name": "blind joint",
+        "trans": [
+            "盲节理"
+        ]
+    },
+    {
+        "name": "blind ore body",
+        "trans": [
+            "盲矿体"
+        ]
+    },
+    {
+        "name": "blind shaft",
+        "trans": [
+            "盲井"
+        ]
+    },
+    {
+        "name": "blind valley",
+        "trans": [
+            "盲谷"
+        ]
+    },
+    {
+        "name": "blind zone",
+        "trans": [
+            "盲区"
+        ]
+    },
+    {
+        "name": "blinded unconformity",
+        "trans": [
+            "盲不整合"
+        ]
+    },
+    {
+        "name": "block",
+        "trans": [
+            "滑车"
+        ]
+    },
+    {
+        "name": "block and tackle",
+        "trans": [
+            "滑轮组"
+        ]
+    },
+    {
+        "name": "block caving",
+        "trans": [
+            "分块崩开采法"
+        ]
+    },
+    {
+        "name": "block diagram",
+        "trans": [
+            "方块图"
+        ]
+    },
+    {
+        "name": "block faulting",
+        "trans": [
+            "块断酌"
+        ]
+    },
+    {
+        "name": "block field",
+        "trans": [
+            "块岩野"
+        ]
+    },
+    {
+        "name": "block folding",
+        "trans": [
+            "地块褶曲"
+        ]
+    },
+    {
+        "name": "block folds",
+        "trans": [
+            "块褶曲"
+        ]
+    },
+    {
+        "name": "block lava",
+        "trans": [
+            "块状熔岩"
+        ]
+    },
+    {
+        "name": "block mountain",
+        "trans": [
+            "断块山"
+        ]
+    },
+    {
+        "name": "block movement",
+        "trans": [
+            "地块运动"
+        ]
+    },
+    {
+        "name": "block stream",
+        "trans": [
+            "块状岩流"
+        ]
+    },
+    {
+        "name": "block structure",
+        "trans": [
+            "块状结构"
+        ]
+    },
+    {
+        "name": "block upwarping",
+        "trans": [
+            "地块隆起"
+        ]
+    },
+    {
+        "name": "bloedite",
+        "trans": [
+            "钠镁矾"
+        ]
+    },
+    {
+        "name": "blowaut",
+        "trans": [
+            "井喷"
+        ]
+    },
+    {
+        "name": "blowhole",
+        "trans": [
+            "吹穴"
+        ]
+    },
+    {
+        "name": "blowing",
+        "trans": [
+            "井喷"
+        ]
+    },
+    {
+        "name": "blowpipe analysis",
+        "trans": [
+            "吹管分析"
+        ]
+    },
+    {
+        "name": "blue green algae",
+        "trans": [
+            "蓝绿藻类"
+        ]
+    },
+    {
+        "name": "blue mud",
+        "trans": [
+            "青泥"
+        ]
+    },
+    {
+        "name": "blue ooze",
+        "trans": [
+            "蓝软泥"
+        ]
+    },
+    {
+        "name": "blueprint",
+        "trans": [
+            "蓝相片"
+        ]
+    },
+    {
+        "name": "blueschist belt",
+        "trans": [
+            "蓝片岩带"
+        ]
+    },
+    {
+        "name": "blythite",
+        "trans": [
+            "锰石榴石"
+        ]
+    },
+    {
+        "name": "bobierrite",
+        "trans": [
+            "磷镁石"
+        ]
+    },
+    {
+        "name": "body cavity",
+        "trans": [
+            "体腔"
+        ]
+    },
+    {
+        "name": "body centered lattice",
+        "trans": [
+            "体心晶格"
+        ]
+    },
+    {
+        "name": "body force",
+        "trans": [
+            "体积力"
+        ]
+    },
+    {
+        "name": "boehmite",
+        "trans": [
+            "水铝矿"
+        ]
+    },
+    {
+        "name": "bog",
+        "trans": [
+            "沼地"
+        ]
+    },
+    {
+        "name": "bog formation",
+        "trans": [
+            "沼泽化"
+        ]
+    },
+    {
+        "name": "bog iron ore",
+        "trans": [
+            "沼铁矿"
+        ]
+    },
+    {
+        "name": "bog peat",
+        "trans": [
+            "低位泥炭"
+        ]
+    },
+    {
+        "name": "bog soil",
+        "trans": [
+            "沼泽土"
+        ]
+    },
+    {
+        "name": "boggy soil",
+        "trans": [
+            "沼泽土"
+        ]
+    },
+    {
+        "name": "boghead",
+        "trans": [
+            "藻煤"
+        ]
+    },
+    {
+        "name": "boghead coal",
+        "trans": [
+            "藻煤"
+        ]
+    },
+    {
+        "name": "boiling line",
+        "trans": [
+            "钢丝绳"
+        ]
+    },
+    {
+        "name": "bol meter",
+        "trans": [
+            "辐射热计"
+        ]
+    },
+    {
+        "name": "bole",
+        "trans": [
+            "红玄武土"
+        ]
+    },
+    {
+        "name": "boleite",
+        "trans": [
+            "银铜氯铅矿"
+        ]
+    },
+    {
+        "name": "bolson",
+        "trans": [
+            "干燥盆地"
+        ]
+    },
+    {
+        "name": "bomb",
+        "trans": [
+            "火山弹"
+        ]
+    },
+    {
+        "name": "bonanza",
+        "trans": [
+            "富矿体"
+        ]
+    },
+    {
+        "name": "bond angle",
+        "trans": [
+            "键角"
+        ]
+    },
+    {
+        "name": "bond energy",
+        "trans": [
+            "键能"
+        ]
+    },
+    {
+        "name": "bond length",
+        "trans": [
+            "键长"
+        ]
+    },
+    {
+        "name": "bond properties",
+        "trans": [
+            "键的性质"
+        ]
+    },
+    {
+        "name": "bond strength",
+        "trans": [
+            "粘合强度"
+        ]
+    },
+    {
+        "name": "bond types",
+        "trans": [
+            "键型"
+        ]
+    },
+    {
+        "name": "bonding electron",
+        "trans": [
+            "价电子"
+        ]
+    },
+    {
+        "name": "bonding orbital",
+        "trans": [
+            "键轨函数"
+        ]
+    },
+    {
+        "name": "bone",
+        "trans": [
+            "骨"
+        ]
+    },
+    {
+        "name": "bone bed",
+        "trans": [
+            "骨层"
+        ]
+    },
+    {
+        "name": "bone black",
+        "trans": [
+            "骨炭"
+        ]
+    },
+    {
+        "name": "bone coal",
+        "trans": [
+            "骨炭"
+        ]
+    },
+    {
+        "name": "bonelet",
+        "trans": [
+            "小骨"
+        ]
+    },
+    {
+        "name": "book structure",
+        "trans": [
+            "书页构造"
+        ]
+    },
+    {
+        "name": "boothite",
+        "trans": [
+            "七水胆矾"
+        ]
+    },
+    {
+        "name": "boracite",
+        "trans": [
+            "方硼石"
+        ]
+    },
+    {
+        "name": "borax",
+        "trans": [
+            "硼砂"
+        ]
+    },
+    {
+        "name": "border furrow",
+        "trans": [
+            "外缘沟"
+        ]
+    },
+    {
+        "name": "bore hole",
+        "trans": [
+            "钻孔"
+        ]
+    },
+    {
+        "name": "bore mud",
+        "trans": [
+            "钻泥"
+        ]
+    },
+    {
+        "name": "bore pit",
+        "trans": [
+            "探井"
+        ]
+    },
+    {
+        "name": "boreal",
+        "trans": [
+            "北的"
+        ]
+    },
+    {
+        "name": "borehole bottom",
+        "trans": [
+            "钻孔底部"
+        ]
+    },
+    {
+        "name": "borehole gravimetry",
+        "trans": [
+            "井中重力测量"
+        ]
+    },
+    {
+        "name": "borehole inspection",
+        "trans": [
+            "钻孔检查"
+        ]
+    },
+    {
+        "name": "borehole resistivimeter",
+        "trans": [
+            "井内铃电阻计"
+        ]
+    },
+    {
+        "name": "borehole strainmeter",
+        "trans": [
+            "钻孔应变计"
+        ]
+    },
+    {
+        "name": "borer",
+        "trans": [
+            "钻工"
+        ]
+    },
+    {
+        "name": "boring",
+        "trans": [
+            "钻进"
+        ]
+    },
+    {
+        "name": "boring animal",
+        "trans": [
+            "钻孔动物"
+        ]
+    },
+    {
+        "name": "boring bar",
+        "trans": [
+            "钻杆"
+        ]
+    },
+    {
+        "name": "boring bit",
+        "trans": [
+            "钻头"
+        ]
+    },
+    {
+        "name": "boring head",
+        "trans": [
+            "钻头"
+        ]
+    },
+    {
+        "name": "boring machine",
+        "trans": [
+            "钻机"
+        ]
+    },
+    {
+        "name": "boring method",
+        "trans": [
+            "钻井方法"
+        ]
+    },
+    {
+        "name": "boring mud",
+        "trans": [
+            "钻泥"
+        ]
+    },
+    {
+        "name": "boring pump",
+        "trans": [
+            "钻眼用泵"
+        ]
+    },
+    {
+        "name": "boring rod",
+        "trans": [
+            "钻杆"
+        ]
+    },
+    {
+        "name": "boring rod set",
+        "trans": [
+            "钻杆装置"
+        ]
+    },
+    {
+        "name": "boring rope",
+        "trans": [
+            "钻机用的钢丝绳"
+        ]
+    },
+    {
+        "name": "boring stick",
+        "trans": [
+            "土钻"
+        ]
+    },
+    {
+        "name": "boring tube",
+        "trans": [
+            "钻管"
+        ]
+    },
+    {
+        "name": "boring with line",
+        "trans": [
+            "钢绳冲唤钻进"
+        ]
+    },
+    {
+        "name": "borings",
+        "trans": [
+            "钻孔碎屑"
+        ]
+    },
+    {
+        "name": "bornite",
+        "trans": [
+            "斑铜矿"
+        ]
+    },
+    {
+        "name": "borolanite",
+        "trans": [
+            "霞榴正长岩"
+        ]
+    },
+    {
+        "name": "boron",
+        "trans": [
+            "硼"
+        ]
+    },
+    {
+        "name": "boronatrocalcite",
+        "trans": [
+            "钠硼钙石"
+        ]
+    },
+    {
+        "name": "bort",
+        "trans": [
+            "圆粒金钢石"
+        ]
+    },
+    {
+        "name": "bortz powder",
+        "trans": [
+            "金刚石粉"
+        ]
+    },
+    {
+        "name": "bosphorite",
+        "trans": [
+            "含水磷铁矿"
+        ]
+    },
+    {
+        "name": "boss",
+        "trans": [
+            "岩瘤"
+        ]
+    },
+    {
+        "name": "bostonite",
+        "trans": [
+            "歪正细晶岩"
+        ]
+    },
+    {
+        "name": "botany",
+        "trans": [
+            "植物学"
+        ]
+    },
+    {
+        "name": "botryoidal",
+        "trans": [
+            "葡萄状的"
+        ]
+    },
+    {
+        "name": "botryoidal structure",
+        "trans": [
+            "葡萄状构造"
+        ]
+    },
+    {
+        "name": "botryolite",
+        "trans": [
+            "葡萄硼石"
+        ]
+    },
+    {
+        "name": "botryose inflorescence",
+        "trans": [
+            "总状类花序"
+        ]
+    },
+    {
+        "name": "botrys",
+        "trans": [
+            "总状类花序"
+        ]
+    },
+    {
+        "name": "bottom",
+        "trans": [
+            "底壁"
+        ]
+    },
+    {
+        "name": "bottom current",
+        "trans": [
+            "海底强流"
+        ]
+    },
+    {
+        "name": "bottom dweller",
+        "trans": [
+            "底栖生物"
+        ]
+    },
+    {
+        "name": "bottom hole",
+        "trans": [
+            "井底"
+        ]
+    },
+    {
+        "name": "bottom hole thermometer",
+        "trans": [
+            "井温仪"
+        ]
+    },
+    {
+        "name": "bottom land",
+        "trans": [
+            "低洼地"
+        ]
+    },
+    {
+        "name": "bottom material",
+        "trans": [
+            "底质"
+        ]
+    },
+    {
+        "name": "bottom moraine",
+        "trans": [
+            "底碛"
+        ]
+    },
+    {
+        "name": "bottom sampler",
+        "trans": [
+            "溶泥斗"
+        ]
+    },
+    {
+        "name": "bottomland meadow",
+        "trans": [
+            "泛滥地草甸"
+        ]
+    },
+    {
+        "name": "bottomset bed",
+        "trans": [
+            "底积层"
+        ]
+    },
+    {
+        "name": "boudinage",
+        "trans": [
+            "香肠构造"
+        ]
+    },
+    {
+        "name": "boudinage structure",
+        "trans": [
+            "香肠构造"
+        ]
+    },
+    {
+        "name": "bouguer anomaly",
+        "trans": [
+            "布格异常"
+        ]
+    },
+    {
+        "name": "bouguer correction",
+        "trans": [
+            "布格校正"
+        ]
+    },
+    {
+        "name": "bouguer gravity anomaly",
+        "trans": [
+            "布格重力异常"
+        ]
+    },
+    {
+        "name": "bouguer reduction",
+        "trans": [
+            "布格校正"
+        ]
+    },
+    {
+        "name": "boulangerite",
+        "trans": [
+            "硫锑铅矿"
+        ]
+    },
+    {
+        "name": "boulder",
+        "trans": [
+            "漂砾"
+        ]
+    },
+    {
+        "name": "boulder clay",
+        "trans": [
+            "泥砾土"
+        ]
+    },
+    {
+        "name": "bouldery",
+        "trans": [
+            "巨砾的"
+        ]
+    },
+    {
+        "name": "bound energy",
+        "trans": [
+            "束缚能"
+        ]
+    },
+    {
+        "name": "bound water",
+        "trans": [
+            "化合水"
+        ]
+    },
+    {
+        "name": "boundary",
+        "trans": [
+            "边界"
+        ]
+    },
+    {
+        "name": "boundary conditions",
+        "trans": [
+            "边界条件"
+        ]
+    },
+    {
+        "name": "boundary layer",
+        "trans": [
+            "边界层"
+        ]
+    },
+    {
+        "name": "boundary line",
+        "trans": [
+            "界线"
+        ]
+    },
+    {
+        "name": "boundary spring",
+        "trans": [
+            "溢出泉"
+        ]
+    },
+    {
+        "name": "boundary surface",
+        "trans": [
+            "边界面"
+        ]
+    },
+    {
+        "name": "bourdon gage",
+        "trans": [
+            "布尔顿规"
+        ]
+    },
+    {
+        "name": "bourne",
+        "trans": [
+            "间歇河"
+        ]
+    },
+    {
+        "name": "bournonite",
+        "trans": [
+            "车轮矿"
+        ]
+    },
+    {
+        "name": "bowlingite",
+        "trans": [
+            "包林皂石"
+        ]
+    },
+    {
+        "name": "bowralite",
+        "trans": [
+            "透长伟晶岩"
+        ]
+    },
+    {
+        "name": "box fold",
+        "trans": [
+            "箱状褶皱"
+        ]
+    },
+    {
+        "name": "brachy fold",
+        "trans": [
+            "短褶皱"
+        ]
+    },
+    {
+        "name": "brachyanticline",
+        "trans": [
+            "短背斜"
+        ]
+    },
+    {
+        "name": "brachysyncline",
+        "trans": [
+            "短向斜"
+        ]
+    },
+    {
+        "name": "brackebuschite",
+        "trans": [
+            "锰铁钒铅矿"
+        ]
+    },
+    {
+        "name": "brackish water",
+        "trans": [
+            "微咸水"
+        ]
+    },
+    {
+        "name": "brackish water lake",
+        "trans": [
+            "半咸水湖"
+        ]
+    },
+    {
+        "name": "brackish water sediment",
+        "trans": [
+            "微咸水沉积"
+        ]
+    },
+    {
+        "name": "bracteal",
+        "trans": [
+            "苞的"
+        ]
+    },
+    {
+        "name": "bradyseisms",
+        "trans": [
+            "缓震"
+        ]
+    },
+    {
+        "name": "bragite",
+        "trans": [
+            "褐钇铌矿"
+        ]
+    },
+    {
+        "name": "branch",
+        "trans": [
+            "枝"
+        ]
+    },
+    {
+        "name": "branch line",
+        "trans": [
+            "支线"
+        ]
+    },
+    {
+        "name": "branch vein",
+        "trans": [
+            "支脉"
+        ]
+    },
+    {
+        "name": "branchial",
+        "trans": [
+            "鳃的"
+        ]
+    },
+    {
+        "name": "branchial chamber",
+        "trans": [
+            "鳃室"
+        ]
+    },
+    {
+        "name": "branching",
+        "trans": [
+            "分枝"
+        ]
+    },
+    {
+        "name": "brandisite",
+        "trans": [
+            "葱绿脆云母"
+        ]
+    },
+    {
+        "name": "brandtite",
+        "trans": [
+            "砷锰钙石"
+        ]
+    },
+    {
+        "name": "braunite",
+        "trans": [
+            "褐锰矿"
+        ]
+    },
+    {
+        "name": "bravais lattice",
+        "trans": [
+            "布拉维点阵"
+        ]
+    },
+    {
+        "name": "bravaisite",
+        "trans": [
+            "漂云母"
+        ]
+    },
+    {
+        "name": "bravoite",
+        "trans": [
+            "硫铁镍矿"
+        ]
+    },
+    {
+        "name": "brazil twin",
+        "trans": [
+            "巴潍晶"
+        ]
+    },
+    {
+        "name": "breached cone",
+        "trans": [
+            "有缺口火山锥"
+        ]
+    },
+    {
+        "name": "bread crust bomb",
+        "trans": [
+            "面包皮火山弹"
+        ]
+    },
+    {
+        "name": "break",
+        "trans": [
+            "破坏"
+        ]
+    },
+    {
+        "name": "breakability",
+        "trans": [
+            "脆性"
+        ]
+    },
+    {
+        "name": "breaker",
+        "trans": [
+            "破碎机"
+        ]
+    },
+    {
+        "name": "breaker zone",
+        "trans": [
+            "破浪带"
+        ]
+    },
+    {
+        "name": "breaking strength",
+        "trans": [
+            "抗断强度"
+        ]
+    },
+    {
+        "name": "breccia",
+        "trans": [
+            "角砾岩"
+        ]
+    },
+    {
+        "name": "breccia nappe",
+        "trans": [
+            "角砾推复体"
+        ]
+    },
+    {
+        "name": "brecciaous",
+        "trans": [
+            "角砾状的"
+        ]
+    },
+    {
+        "name": "brecciated vein",
+        "trans": [
+            "角砾脉"
+        ]
+    },
+    {
+        "name": "brecciform",
+        "trans": [
+            "角砾状的"
+        ]
+    },
+    {
+        "name": "breislakite",
+        "trans": [
+            "毛石"
+        ]
+    },
+    {
+        "name": "breithauptite",
+        "trans": [
+            "红锑镍矿"
+        ]
+    },
+    {
+        "name": "breunnerite",
+        "trans": [
+            "铁菱镁矿"
+        ]
+    },
+    {
+        "name": "brevifoliate",
+        "trans": [
+            "短叶的"
+        ]
+    },
+    {
+        "name": "brewsterite",
+        "trans": [
+            "锶沸石"
+        ]
+    },
+    {
+        "name": "brick clay",
+        "trans": [
+            "砖土"
+        ]
+    },
+    {
+        "name": "brickerite",
+        "trans": [
+            "砷钙锌矿"
+        ]
+    },
+    {
+        "name": "bridge circuit",
+        "trans": [
+            "桥路"
+        ]
+    },
+    {
+        "name": "bright coal",
+        "trans": [
+            "光亮型煤"
+        ]
+    },
+    {
+        "name": "brilliant",
+        "trans": [
+            "金刚石"
+        ]
+    },
+    {
+        "name": "brilliant cut",
+        "trans": [
+            "磨光刻花法"
+        ]
+    },
+    {
+        "name": "brilliant green",
+        "trans": [
+            "亮绿"
+        ]
+    },
+    {
+        "name": "brine",
+        "trans": [
+            "盐水"
+        ]
+    },
+    {
+        "name": "brine deposit",
+        "trans": [
+            "卤水矿"
+        ]
+    },
+    {
+        "name": "brinell hardness",
+        "trans": [
+            "布氏硬度"
+        ]
+    },
+    {
+        "name": "briquet",
+        "trans": [
+            "团矿"
+        ]
+    },
+    {
+        "name": "bristle",
+        "trans": [
+            "刚毛"
+        ]
+    },
+    {
+        "name": "britholite",
+        "trans": [
+            "硒磷灰石"
+        ]
+    },
+    {
+        "name": "brittle fault",
+        "trans": [
+            "脆性断层"
+        ]
+    },
+    {
+        "name": "brittle pan",
+        "trans": [
+            "脆磐"
+        ]
+    },
+    {
+        "name": "brittleness",
+        "trans": [
+            "脆度"
+        ]
+    },
+    {
+        "name": "broad leaved forest",
+        "trans": [
+            "阔叶林"
+        ]
+    },
+    {
+        "name": "broad leaved tree",
+        "trans": [
+            "阔叶树"
+        ]
+    },
+    {
+        "name": "brochantite",
+        "trans": [
+            "水胆矾"
+        ]
+    },
+    {
+        "name": "broken stone",
+        "trans": [
+            "压碎石"
+        ]
+    },
+    {
+        "name": "bromellite",
+        "trans": [
+            "铍石"
+        ]
+    },
+    {
+        "name": "bromine",
+        "trans": [
+            "溴"
+        ]
+    },
+    {
+        "name": "bromite",
+        "trans": [
+            "溴银矿"
+        ]
+    },
+    {
+        "name": "bromlite",
+        "trans": [
+            "碳碱钙钡矿"
+        ]
+    },
+    {
+        "name": "bromyrite",
+        "trans": [
+            "溴银矿"
+        ]
+    },
+    {
+        "name": "bronze age",
+        "trans": [
+            "铜票代"
+        ]
+    },
+    {
+        "name": "bronzite",
+        "trans": [
+            "古铜辉石"
+        ]
+    },
+    {
+        "name": "bronzite andesite",
+        "trans": [
+            "古铜安山岩"
+        ]
+    },
+    {
+        "name": "bronzitite",
+        "trans": [
+            "古铜岩"
+        ]
+    },
+    {
+        "name": "brood chamber",
+        "trans": [
+            "育室"
+        ]
+    },
+    {
+        "name": "brookite",
+        "trans": [
+            "板钛矿"
+        ]
+    },
+    {
+        "name": "broom like veins",
+        "trans": [
+            "帚状矿脉"
+        ]
+    },
+    {
+        "name": "brossite",
+        "trans": [
+            "柱铁白云石"
+        ]
+    },
+    {
+        "name": "brow",
+        "trans": [
+            "额"
+        ]
+    },
+    {
+        "name": "brown algae",
+        "trans": [
+            "褐藻类"
+        ]
+    },
+    {
+        "name": "brown coal",
+        "trans": [
+            "褐煤"
+        ]
+    },
+    {
+        "name": "brown desert steppe soil",
+        "trans": [
+            "褐色荒漠草原土"
+        ]
+    },
+    {
+        "name": "brown earth",
+        "trans": [
+            "棕土"
+        ]
+    },
+    {
+        "name": "brown forest soil",
+        "trans": [
+            "棕色森林土"
+        ]
+    },
+    {
+        "name": "brown jura",
+        "trans": [
+            "褐侏罗"
+        ]
+    },
+    {
+        "name": "brown meadow steppe soil",
+        "trans": [
+            "棕色草甸草原土"
+        ]
+    },
+    {
+        "name": "brown mud",
+        "trans": [
+            "褐泥"
+        ]
+    },
+    {
+        "name": "brown soil",
+        "trans": [
+            "棕土"
+        ]
+    },
+    {
+        "name": "brucite",
+        "trans": [
+            "水镁石"
+        ]
+    },
+    {
+        "name": "brugnatellite",
+        "trans": [
+            "次碳酸镁铁矿"
+        ]
+    },
+    {
+        "name": "brunsvigite",
+        "trans": [
+            "纹绿泥石"
+        ]
+    },
+    {
+        "name": "brush joint",
+        "trans": [
+            "帚状节理"
+        ]
+    },
+    {
+        "name": "brushite",
+        "trans": [
+            "钙磷石"
+        ]
+    },
+    {
+        "name": "bryophyta",
+        "trans": [
+            "苔藓植物"
+        ]
+    },
+    {
+        "name": "bryophytes",
+        "trans": [
+            "苔藓植物"
+        ]
+    },
+    {
+        "name": "bryozoa",
+        "trans": [
+            "苔藓动物类"
+        ]
+    },
+    {
+        "name": "bubble gauge",
+        "trans": [
+            "计泡器"
+        ]
+    },
+    {
+        "name": "bubble impression",
+        "trans": [
+            "泡痕"
+        ]
+    },
+    {
+        "name": "bubble pulse",
+        "trans": [
+            "重复冲击"
+        ]
+    },
+    {
+        "name": "bucklandite",
+        "trans": [
+            "黑帘石"
+        ]
+    },
+    {
+        "name": "buckling",
+        "trans": [
+            "地壳弯曲"
+        ]
+    },
+    {
+        "name": "buckling fold",
+        "trans": [
+            "弯曲褶皱"
+        ]
+    },
+    {
+        "name": "bud",
+        "trans": [
+            "芽"
+        ]
+    },
+    {
+        "name": "buffer",
+        "trans": [
+            "缓冲器"
+        ]
+    },
+    {
+        "name": "buffer action",
+        "trans": [
+            "缓冲酌"
+        ]
+    },
+    {
+        "name": "buffer solution",
+        "trans": [
+            "缓冲溶液"
+        ]
+    },
+    {
+        "name": "buffer system",
+        "trans": [
+            "缓冲系"
+        ]
+    },
+    {
+        "name": "buffering",
+        "trans": [
+            "缓冲酌"
+        ]
+    },
+    {
+        "name": "build up factor",
+        "trans": [
+            "积累因子"
+        ]
+    },
+    {
+        "name": "bulb",
+        "trans": [
+            "鳞茎"
+        ]
+    },
+    {
+        "name": "buldymite",
+        "trans": [
+            "蛭石"
+        ]
+    },
+    {
+        "name": "bulk",
+        "trans": [
+            "容积"
+        ]
+    },
+    {
+        "name": "bulk analysis",
+        "trans": [
+            "全分析"
+        ]
+    },
+    {
+        "name": "bulk density",
+        "trans": [
+            "堆比重"
+        ]
+    },
+    {
+        "name": "bulk factor",
+        "trans": [
+            "体积因素"
+        ]
+    },
+    {
+        "name": "bulk flotation",
+        "trans": [
+            "全浮选"
+        ]
+    },
+    {
+        "name": "bulk sampling",
+        "trans": [
+            "大量取样"
+        ]
+    },
+    {
+        "name": "bulk water",
+        "trans": [
+            "重力水"
+        ]
+    },
+    {
+        "name": "bunch",
+        "trans": [
+            "小矿房"
+        ]
+    },
+    {
+        "name": "bunker",
+        "trans": [
+            "储槽"
+        ]
+    },
+    {
+        "name": "bunker gate",
+        "trans": [
+            "贮仓闸门"
+        ]
+    },
+    {
+        "name": "bunsenite",
+        "trans": [
+            "绿镍矿"
+        ]
+    },
+    {
+        "name": "buoyancy",
+        "trans": [
+            "浮力"
+        ]
+    },
+    {
+        "name": "buratite",
+        "trans": [
+            "绿铜锌矿"
+        ]
+    },
+    {
+        "name": "burdigalian",
+        "trans": [
+            "波尔迪阶"
+        ]
+    },
+    {
+        "name": "burgy",
+        "trans": [
+            "煤粉"
+        ]
+    },
+    {
+        "name": "burial metamorphism",
+        "trans": [
+            "埋藏变质"
+        ]
+    },
+    {
+        "name": "buried dune",
+        "trans": [
+            "埋藏沙丘"
+        ]
+    },
+    {
+        "name": "buried hill",
+        "trans": [
+            "埋丘"
+        ]
+    },
+    {
+        "name": "buried karst",
+        "trans": [
+            "埋藏型岩溶"
+        ]
+    },
+    {
+        "name": "buried landform",
+        "trans": [
+            "埋藏地形"
+        ]
+    },
+    {
+        "name": "buried placer",
+        "trans": [
+            "埋藏矿砂"
+        ]
+    },
+    {
+        "name": "buried relief",
+        "trans": [
+            "潜起伏"
+        ]
+    },
+    {
+        "name": "buried soil",
+        "trans": [
+            "埋藏土"
+        ]
+    },
+    {
+        "name": "buried valley",
+        "trans": [
+            "掩埋谷"
+        ]
+    },
+    {
+        "name": "burkeite",
+        "trans": [
+            "碳钠石矾"
+        ]
+    },
+    {
+        "name": "burn cut borehole",
+        "trans": [
+            "燃烷切钻孔"
+        ]
+    },
+    {
+        "name": "burst",
+        "trans": [
+            "破裂"
+        ]
+    },
+    {
+        "name": "bustamite",
+        "trans": [
+            "钙蔷薇辉石"
+        ]
+    },
+    {
+        "name": "bustite",
+        "trans": [
+            "顽火辉石无球粒陨石"
+        ]
+    },
+    {
+        "name": "butlerite",
+        "trans": [
+            "基铁矾"
+        ]
+    },
+    {
+        "name": "butte",
+        "trans": [
+            "孤山"
+        ]
+    },
+    {
+        "name": "buttgenbachite",
+        "trans": [
+            "氯铜硝石"
+        ]
+    },
+    {
+        "name": "buttom sampling tube",
+        "trans": [
+            "底质柱状取样器"
+        ]
+    },
+    {
+        "name": "bypassing",
+        "trans": [
+            "旁通"
+        ]
+    },
+    {
+        "name": "bysmalith",
+        "trans": [
+            "岩栓"
+        ]
+    },
+    {
+        "name": "byssolite",
+        "trans": [
+            "绿石棉"
+        ]
+    },
+    {
+        "name": "byssus",
+        "trans": [
+            "足丝"
+        ]
+    },
+    {
+        "name": "bytownite",
+        "trans": [
+            "倍长石"
+        ]
+    }
+]

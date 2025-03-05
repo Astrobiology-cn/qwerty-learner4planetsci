@@ -1,0 +1,4304 @@
+[
+    {
+        "name": "e type structural system",
+        "trans": [
+            "山字型构造体系"
+        ]
+    },
+    {
+        "name": "eagle stone",
+        "trans": [
+            "钤石"
+        ]
+    },
+    {
+        "name": "eakleite",
+        "trans": [
+            "硬硅钙石"
+        ]
+    },
+    {
+        "name": "earth",
+        "trans": [
+            "地球;大地"
+        ]
+    },
+    {
+        "name": "earth auger",
+        "trans": [
+            "钻土机"
+        ]
+    },
+    {
+        "name": "earth axis",
+        "trans": [
+            "地轴"
+        ]
+    },
+    {
+        "name": "earth connection",
+        "trans": [
+            "接地"
+        ]
+    },
+    {
+        "name": "earth current",
+        "trans": [
+            "大地电流"
+        ]
+    },
+    {
+        "name": "earth detector",
+        "trans": [
+            "接地指示器"
+        ]
+    },
+    {
+        "name": "earth ellipsoid",
+        "trans": [
+            "地球椭球"
+        ]
+    },
+    {
+        "name": "earth fall",
+        "trans": [
+            "土崩"
+        ]
+    },
+    {
+        "name": "earth interior",
+        "trans": [
+            "地球内部"
+        ]
+    },
+    {
+        "name": "earth layer",
+        "trans": [
+            "土层"
+        ]
+    },
+    {
+        "name": "earth magenetic field",
+        "trans": [
+            "地磁场"
+        ]
+    },
+    {
+        "name": "earth magnetism",
+        "trans": [
+            "地磁"
+        ]
+    },
+    {
+        "name": "earth pillar",
+        "trans": [
+            "土柱"
+        ]
+    },
+    {
+        "name": "earth potential",
+        "trans": [
+            "地电位"
+        ]
+    },
+    {
+        "name": "earth pressure",
+        "trans": [
+            "土压力"
+        ]
+    },
+    {
+        "name": "earth resistance",
+        "trans": [
+            "大地电阻"
+        ]
+    },
+    {
+        "name": "earth resource technology satellite",
+        "trans": [
+            "地球资源枝术卫星"
+        ]
+    },
+    {
+        "name": "earth satellite",
+        "trans": [
+            "地球卫星"
+        ]
+    },
+    {
+        "name": "earth science",
+        "trans": [
+            "地球科学"
+        ]
+    },
+    {
+        "name": "earth surface",
+        "trans": [
+            "地面"
+        ]
+    },
+    {
+        "name": "earth thermometer",
+        "trans": [
+            "地温表"
+        ]
+    },
+    {
+        "name": "earth tide",
+        "trans": [
+            "地潮"
+        ]
+    },
+    {
+        "name": "earth vortex",
+        "trans": [
+            "地旋涡"
+        ]
+    },
+    {
+        "name": "earth's axis",
+        "trans": [
+            "地轴"
+        ]
+    },
+    {
+        "name": "earth's core",
+        "trans": [
+            "地心"
+        ]
+    },
+    {
+        "name": "earth's crust",
+        "trans": [
+            "地壳"
+        ]
+    },
+    {
+        "name": "earth's mantle",
+        "trans": [
+            "地幔"
+        ]
+    },
+    {
+        "name": "earth's spheroid",
+        "trans": [
+            "地球椭圆体"
+        ]
+    },
+    {
+        "name": "earthing resistance",
+        "trans": [
+            "接地电阻"
+        ]
+    },
+    {
+        "name": "earthquake",
+        "trans": [
+            "地震"
+        ]
+    },
+    {
+        "name": "earthquake fault",
+        "trans": [
+            "地震断层"
+        ]
+    },
+    {
+        "name": "earthquake focus",
+        "trans": [
+            "地震震源"
+        ]
+    },
+    {
+        "name": "earthquake generating stress",
+        "trans": [
+            "地震发生应力"
+        ]
+    },
+    {
+        "name": "earthquake intensity",
+        "trans": [
+            "地震强度"
+        ]
+    },
+    {
+        "name": "earthquake intensity scale",
+        "trans": [
+            "地震强度分级"
+        ]
+    },
+    {
+        "name": "earthquake magnitude",
+        "trans": [
+            "震级"
+        ]
+    },
+    {
+        "name": "earthquake mechanism",
+        "trans": [
+            "震源机构"
+        ]
+    },
+    {
+        "name": "earthquake observation by mobile station",
+        "trans": [
+            "移动地震观测"
+        ]
+    },
+    {
+        "name": "earthquake prediction",
+        "trans": [
+            "地震预报"
+        ]
+    },
+    {
+        "name": "earthquake proof construction",
+        "trans": [
+            "抗震建筑"
+        ]
+    },
+    {
+        "name": "earthquake region",
+        "trans": [
+            "震区"
+        ]
+    },
+    {
+        "name": "earthquake sound",
+        "trans": [
+            "震声"
+        ]
+    },
+    {
+        "name": "earthquake vibration",
+        "trans": [
+            "地震振动"
+        ]
+    },
+    {
+        "name": "earthquake zone",
+        "trans": [
+            "地震带"
+        ]
+    },
+    {
+        "name": "earthwork",
+        "trans": [
+            "挖土"
+        ]
+    },
+    {
+        "name": "easer",
+        "trans": [
+            "辅助炮眼"
+        ]
+    },
+    {
+        "name": "east longitude",
+        "trans": [
+            "东经"
+        ]
+    },
+    {
+        "name": "east pacific rise geothermal belt",
+        "trans": [
+            "东太平洋中脊地热带"
+        ]
+    },
+    {
+        "name": "eastonite",
+        "trans": [
+            "富镁黑云母"
+        ]
+    },
+    {
+        "name": "eboulement",
+        "trans": [
+            "崩塌酌"
+        ]
+    },
+    {
+        "name": "eccentric well",
+        "trans": [
+            "偏心钻井"
+        ]
+    },
+    {
+        "name": "eccentricity",
+        "trans": [
+            "偏心率"
+        ]
+    },
+    {
+        "name": "ecesis",
+        "trans": [
+            "定居"
+        ]
+    },
+    {
+        "name": "echellite",
+        "trans": [
+            "白沸石"
+        ]
+    },
+    {
+        "name": "echelon faults",
+        "trans": [
+            "阶状断层"
+        ]
+    },
+    {
+        "name": "echelon folds",
+        "trans": [
+            "阶状褶皱"
+        ]
+    },
+    {
+        "name": "echelon like veins",
+        "trans": [
+            "斜列式矿脉"
+        ]
+    },
+    {
+        "name": "echelon structure",
+        "trans": [
+            "雁行式构造"
+        ]
+    },
+    {
+        "name": "echelon tension joint",
+        "trans": [
+            "雁行式张节理"
+        ]
+    },
+    {
+        "name": "echelon veins",
+        "trans": [
+            "雁行矿脉"
+        ]
+    },
+    {
+        "name": "echo",
+        "trans": [
+            "回波"
+        ]
+    },
+    {
+        "name": "echo sounding",
+        "trans": [
+            "回声测深"
+        ]
+    },
+    {
+        "name": "eckermannite",
+        "trans": [
+            "氟镁钠闪石"
+        ]
+    },
+    {
+        "name": "eclogite",
+        "trans": [
+            "榴辉岩"
+        ]
+    },
+    {
+        "name": "eclogite facies",
+        "trans": [
+            "榴辉岩相"
+        ]
+    },
+    {
+        "name": "ecological factor",
+        "trans": [
+            "生态因素"
+        ]
+    },
+    {
+        "name": "ecological series",
+        "trans": [
+            "生态系列"
+        ]
+    },
+    {
+        "name": "ecology",
+        "trans": [
+            "生态学"
+        ]
+    },
+    {
+        "name": "economic geography",
+        "trans": [
+            "经济地理"
+        ]
+    },
+    {
+        "name": "economic geology",
+        "trans": [
+            "经济地质学"
+        ]
+    },
+    {
+        "name": "ecostratigraphic unit",
+        "trans": [
+            "生态地层单位"
+        ]
+    },
+    {
+        "name": "ecostratigraphy",
+        "trans": [
+            "生态地层学"
+        ]
+    },
+    {
+        "name": "ecosystem",
+        "trans": [
+            "生态系"
+        ]
+    },
+    {
+        "name": "ecotope",
+        "trans": [
+            "生态环境"
+        ]
+    },
+    {
+        "name": "ecotype",
+        "trans": [
+            "生态型"
+        ]
+    },
+    {
+        "name": "ectoblast",
+        "trans": [
+            "外胚层"
+        ]
+    },
+    {
+        "name": "ectoderm",
+        "trans": [
+            "外胚层"
+        ]
+    },
+    {
+        "name": "ectoproctous polyzoa",
+        "trans": [
+            "苔藓动物"
+        ]
+    },
+    {
+        "name": "ectosarc",
+        "trans": [
+            "外质"
+        ]
+    },
+    {
+        "name": "eddy diffusion",
+        "trans": [
+            "涡动扩散"
+        ]
+    },
+    {
+        "name": "eddy friction",
+        "trans": [
+            "涡动摩擦"
+        ]
+    },
+    {
+        "name": "eddy motion",
+        "trans": [
+            "涡动"
+        ]
+    },
+    {
+        "name": "edge",
+        "trans": [
+            "边缘"
+        ]
+    },
+    {
+        "name": "edge water",
+        "trans": [
+            "边水"
+        ]
+    },
+    {
+        "name": "edingtonite",
+        "trans": [
+            "钡沸石"
+        ]
+    },
+    {
+        "name": "edisonite",
+        "trans": [
+            "斜方金红石"
+        ]
+    },
+    {
+        "name": "editycle",
+        "trans": [
+            "小旋回"
+        ]
+    },
+    {
+        "name": "edolite",
+        "trans": [
+            "长云角页岩"
+        ]
+    },
+    {
+        "name": "edwardsite",
+        "trans": [
+            "独居石"
+        ]
+    },
+    {
+        "name": "effective diameter",
+        "trans": [
+            "有效直径"
+        ]
+    },
+    {
+        "name": "effective nuclear charge",
+        "trans": [
+            "有效核电荷"
+        ]
+    },
+    {
+        "name": "effective permeability",
+        "trans": [
+            "有效渗透率"
+        ]
+    },
+    {
+        "name": "effective porosity",
+        "trans": [
+            "有效孔隙度"
+        ]
+    },
+    {
+        "name": "effective precipitation",
+        "trans": [
+            "有效降水量"
+        ]
+    },
+    {
+        "name": "effective radiation",
+        "trans": [
+            "有效辐射"
+        ]
+    },
+    {
+        "name": "effervescence",
+        "trans": [
+            "泡沸"
+        ]
+    },
+    {
+        "name": "efflorescence",
+        "trans": [
+            "粉化"
+        ]
+    },
+    {
+        "name": "effluent",
+        "trans": [
+            "瘤"
+        ]
+    },
+    {
+        "name": "effluent cave",
+        "trans": [
+            "出水洞"
+        ]
+    },
+    {
+        "name": "effluent stream",
+        "trans": [
+            "潜水补给河"
+        ]
+    },
+    {
+        "name": "effusion",
+        "trans": [
+            "溢出"
+        ]
+    },
+    {
+        "name": "effusive rock",
+        "trans": [
+            "喷发岩"
+        ]
+    },
+    {
+        "name": "egg shell",
+        "trans": [
+            "卵壳"
+        ]
+    },
+    {
+        "name": "eggonite",
+        "trans": [
+            "水磷铝石"
+        ]
+    },
+    {
+        "name": "eglestonite",
+        "trans": [
+            "氯汞矿"
+        ]
+    },
+    {
+        "name": "eh ph diagram",
+        "trans": [
+            "图表"
+        ]
+    },
+    {
+        "name": "ehrwaldite",
+        "trans": [
+            "二辉石岩"
+        ]
+    },
+    {
+        "name": "eif",
+        "trans": [
+            "艾斐尔阶"
+        ]
+    },
+    {
+        "name": "eifelian",
+        "trans": [
+            "艾斐尔阶"
+        ]
+    },
+    {
+        "name": "einsteinium",
+        "trans": [
+            "锿"
+        ]
+    },
+    {
+        "name": "ejection",
+        "trans": [
+            "喷出"
+        ]
+    },
+    {
+        "name": "ejection of slime",
+        "trans": [
+            "泥喷出"
+        ]
+    },
+    {
+        "name": "ekerite",
+        "trans": [
+            "钠闪花岗岩"
+        ]
+    },
+    {
+        "name": "ekmannite",
+        "trans": [
+            "锰叶泥石"
+        ]
+    },
+    {
+        "name": "elaeite",
+        "trans": [
+            "叶绿矾"
+        ]
+    },
+    {
+        "name": "elaeolite",
+        "trans": [
+            "脂光石"
+        ]
+    },
+    {
+        "name": "elastic aftereffect",
+        "trans": [
+            "弹性后效"
+        ]
+    },
+    {
+        "name": "elastic afterworking",
+        "trans": [
+            "弹性后效"
+        ]
+    },
+    {
+        "name": "elastic deformation",
+        "trans": [
+            "弹性形变"
+        ]
+    },
+    {
+        "name": "elastic limit",
+        "trans": [
+            "弹性极限"
+        ]
+    },
+    {
+        "name": "elastic properties",
+        "trans": [
+            "弹性"
+        ]
+    },
+    {
+        "name": "elastic wave",
+        "trans": [
+            "弹性波"
+        ]
+    },
+    {
+        "name": "elasticity",
+        "trans": [
+            "弹性"
+        ]
+    },
+    {
+        "name": "elastodynamics",
+        "trans": [
+            "弹性动力学"
+        ]
+    },
+    {
+        "name": "elastoviscous flow",
+        "trans": [
+            "弹粘性怜"
+        ]
+    },
+    {
+        "name": "elater",
+        "trans": [
+            "弹丝"
+        ]
+    },
+    {
+        "name": "elaterite",
+        "trans": [
+            "弹性沥青"
+        ]
+    },
+    {
+        "name": "elbaite",
+        "trans": [
+            "锂电气石"
+        ]
+    },
+    {
+        "name": "electric charge distribution",
+        "trans": [
+            "电荷分布"
+        ]
+    },
+    {
+        "name": "electric conductivity",
+        "trans": [
+            "导电度"
+        ]
+    },
+    {
+        "name": "electric double layer",
+        "trans": [
+            "双电层"
+        ]
+    },
+    {
+        "name": "electric drill",
+        "trans": [
+            "电钻"
+        ]
+    },
+    {
+        "name": "electric hoist",
+        "trans": [
+            "电力提升机"
+        ]
+    },
+    {
+        "name": "electric lateral curve log",
+        "trans": [
+            "横向测井"
+        ]
+    },
+    {
+        "name": "electrical exploration",
+        "trans": [
+            "电法勘探"
+        ]
+    },
+    {
+        "name": "electrical logging",
+        "trans": [
+            "电法测井"
+        ]
+    },
+    {
+        "name": "electrical prospecting",
+        "trans": [
+            "电法勘探"
+        ]
+    },
+    {
+        "name": "electrical resistance thermometer",
+        "trans": [
+            "电阻温度计"
+        ]
+    },
+    {
+        "name": "electrical resistivity",
+        "trans": [
+            "电阻率"
+        ]
+    },
+    {
+        "name": "electro chemical gaging",
+        "trans": [
+            "电化的测定"
+        ]
+    },
+    {
+        "name": "electrochemical affinity",
+        "trans": [
+            "电化亲合势"
+        ]
+    },
+    {
+        "name": "electrochemical equivalent",
+        "trans": [
+            "电化当量"
+        ]
+    },
+    {
+        "name": "electrochemical oxidation",
+        "trans": [
+            "电化氧化"
+        ]
+    },
+    {
+        "name": "electrochemical potential",
+        "trans": [
+            "电化势"
+        ]
+    },
+    {
+        "name": "electrochemical reduction",
+        "trans": [
+            "电化还原"
+        ]
+    },
+    {
+        "name": "electrochemical series",
+        "trans": [
+            "电化序"
+        ]
+    },
+    {
+        "name": "electrochemistry",
+        "trans": [
+            "电化学"
+        ]
+    },
+    {
+        "name": "electrode",
+        "trans": [
+            "电极"
+        ]
+    },
+    {
+        "name": "electrode separation",
+        "trans": [
+            "电极间距"
+        ]
+    },
+    {
+        "name": "electrode spacing",
+        "trans": [
+            "电极间距"
+        ]
+    },
+    {
+        "name": "electrodialysis",
+        "trans": [
+            "电透析"
+        ]
+    },
+    {
+        "name": "electrofiltration",
+        "trans": [
+            "电滤"
+        ]
+    },
+    {
+        "name": "electrokinetic effect",
+        "trans": [
+            "动电学效应"
+        ]
+    },
+    {
+        "name": "electrokinetic potential",
+        "trans": [
+            "动电学电位"
+        ]
+    },
+    {
+        "name": "electrolyte",
+        "trans": [
+            "电解液"
+        ]
+    },
+    {
+        "name": "electrolytic capacitor",
+        "trans": [
+            "电解电容器"
+        ]
+    },
+    {
+        "name": "electrolytic dissociation",
+        "trans": [
+            "电离"
+        ]
+    },
+    {
+        "name": "electromagnetic field",
+        "trans": [
+            "电磁场"
+        ]
+    },
+    {
+        "name": "electromagnetic induction method",
+        "trans": [
+            "电磁感应法"
+        ]
+    },
+    {
+        "name": "electromagnetic method",
+        "trans": [
+            "电磁法"
+        ]
+    },
+    {
+        "name": "electromagnetic seismometer",
+        "trans": [
+            "电磁式地震检波器"
+        ]
+    },
+    {
+        "name": "electrometallurgy",
+        "trans": [
+            "电冶金"
+        ]
+    },
+    {
+        "name": "electron absorption",
+        "trans": [
+            "电子吸附"
+        ]
+    },
+    {
+        "name": "electron affinity",
+        "trans": [
+            "电子亲合势"
+        ]
+    },
+    {
+        "name": "electron detachment",
+        "trans": [
+            "电子脱离"
+        ]
+    },
+    {
+        "name": "electron diffraction camera",
+        "trans": [
+            "电子衍射仪"
+        ]
+    },
+    {
+        "name": "electron microscope",
+        "trans": [
+            "电子显微镜"
+        ]
+    },
+    {
+        "name": "electron migration",
+        "trans": [
+            "电子迁移"
+        ]
+    },
+    {
+        "name": "electron multiplier",
+        "trans": [
+            "电子倍增器"
+        ]
+    },
+    {
+        "name": "electron pair bond",
+        "trans": [
+            "电子对键"
+        ]
+    },
+    {
+        "name": "electron probe microanalyser",
+        "trans": [
+            "电子探针显微分析器"
+        ]
+    },
+    {
+        "name": "electron tube",
+        "trans": [
+            "电子管"
+        ]
+    },
+    {
+        "name": "electron volt",
+        "trans": [
+            "电子伏特"
+        ]
+    },
+    {
+        "name": "electronegative atom",
+        "trans": [
+            "阴电原子"
+        ]
+    },
+    {
+        "name": "electronegative element",
+        "trans": [
+            "阴电性元素"
+        ]
+    },
+    {
+        "name": "electronegative gas",
+        "trans": [
+            "负电性气体"
+        ]
+    },
+    {
+        "name": "electronegativity",
+        "trans": [
+            "电负性"
+        ]
+    },
+    {
+        "name": "electroneutrality",
+        "trans": [
+            "电中性"
+        ]
+    },
+    {
+        "name": "electronic counter",
+        "trans": [
+            "电子计数管"
+        ]
+    },
+    {
+        "name": "electronic ionizaton",
+        "trans": [
+            "电子电离"
+        ]
+    },
+    {
+        "name": "electronic lens",
+        "trans": [
+            "电子透镜"
+        ]
+    },
+    {
+        "name": "electrophilic reactivity",
+        "trans": [
+            "亲电子反应性"
+        ]
+    },
+    {
+        "name": "electrophoresis",
+        "trans": [
+            "电泳"
+        ]
+    },
+    {
+        "name": "electrophoresis apparatus",
+        "trans": [
+            "电泳器"
+        ]
+    },
+    {
+        "name": "electropositive atom",
+        "trans": [
+            "阳原子"
+        ]
+    },
+    {
+        "name": "electropositive element",
+        "trans": [
+            "阳电性元素"
+        ]
+    },
+    {
+        "name": "electrostatic precipitation",
+        "trans": [
+            "静电沉积"
+        ]
+    },
+    {
+        "name": "electrostatic separation",
+        "trans": [
+            "静电分离"
+        ]
+    },
+    {
+        "name": "electrovalence",
+        "trans": [
+            "电价"
+        ]
+    },
+    {
+        "name": "electrovalent bond",
+        "trans": [
+            "电价键"
+        ]
+    },
+    {
+        "name": "electrum",
+        "trans": [
+            "银金矿"
+        ]
+    },
+    {
+        "name": "element",
+        "trans": [
+            "元素"
+        ]
+    },
+    {
+        "name": "elemental structural type",
+        "trans": [
+            "元素性构造型式"
+        ]
+    },
+    {
+        "name": "elementary",
+        "trans": [
+            "初步的"
+        ]
+    },
+    {
+        "name": "elementary fossil",
+        "trans": [
+            "分子化石"
+        ]
+    },
+    {
+        "name": "elements of iron group",
+        "trans": [
+            "铁族元素"
+        ]
+    },
+    {
+        "name": "elements of platine group",
+        "trans": [
+            "铂族元素"
+        ]
+    },
+    {
+        "name": "elements of symmetry",
+        "trans": [
+            "对称要素"
+        ]
+    },
+    {
+        "name": "eleolite syenite",
+        "trans": [
+            "脂光正长岩"
+        ]
+    },
+    {
+        "name": "elevated ral reef",
+        "trans": [
+            "升露珊焊"
+        ]
+    },
+    {
+        "name": "elevated shore",
+        "trans": [
+            "上升海岸"
+        ]
+    },
+    {
+        "name": "elevation",
+        "trans": [
+            "隆起"
+        ]
+    },
+    {
+        "name": "elevation crater",
+        "trans": [
+            "上升火山口"
+        ]
+    },
+    {
+        "name": "elevation head",
+        "trans": [
+            "位势水头"
+        ]
+    },
+    {
+        "name": "elevation theory of volcano",
+        "trans": [
+            "火山隆起说"
+        ]
+    },
+    {
+        "name": "elimination",
+        "trans": [
+            "排出"
+        ]
+    },
+    {
+        "name": "ellipsoid",
+        "trans": [
+            "椭圆体"
+        ]
+    },
+    {
+        "name": "ellipsoid of revolution",
+        "trans": [
+            "回转椭面"
+        ]
+    },
+    {
+        "name": "ellipsoidal structure",
+        "trans": [
+            "椭球形构造"
+        ]
+    },
+    {
+        "name": "elliptic",
+        "trans": [
+            "椭圆形的"
+        ]
+    },
+    {
+        "name": "elliptical",
+        "trans": [
+            "椭圆形的"
+        ]
+    },
+    {
+        "name": "ellipticity",
+        "trans": [
+            "椭圆率"
+        ]
+    },
+    {
+        "name": "ellsworthite",
+        "trans": [
+            "钙铌水石"
+        ]
+    },
+    {
+        "name": "elongated",
+        "trans": [
+            "引伸的"
+        ]
+    },
+    {
+        "name": "elongation",
+        "trans": [
+            "伸长"
+        ]
+    },
+    {
+        "name": "elpasolite",
+        "trans": [
+            "钾冰晶石"
+        ]
+    },
+    {
+        "name": "elpidite",
+        "trans": [
+            "钠锆石"
+        ]
+    },
+    {
+        "name": "elutriation",
+        "trans": [
+            "水析"
+        ]
+    },
+    {
+        "name": "elutriation method",
+        "trans": [
+            "水析法"
+        ]
+    },
+    {
+        "name": "eluvial deposit",
+        "trans": [
+            "残余沉积物"
+        ]
+    },
+    {
+        "name": "eluvial horizon",
+        "trans": [
+            "淋溶层"
+        ]
+    },
+    {
+        "name": "eluvial ore deposit",
+        "trans": [
+            "残积矿床"
+        ]
+    },
+    {
+        "name": "eluvial placer",
+        "trans": [
+            "残积矿床"
+        ]
+    },
+    {
+        "name": "eluviation",
+        "trans": [
+            "淋滤酌"
+        ]
+    },
+    {
+        "name": "eluvium",
+        "trans": [
+            "残积层"
+        ]
+    },
+    {
+        "name": "elytron",
+        "trans": [
+            "翅鞘"
+        ]
+    },
+    {
+        "name": "eman",
+        "trans": [
+            "爱曼"
+        ]
+    },
+    {
+        "name": "emanate",
+        "trans": [
+            "分离"
+        ]
+    },
+    {
+        "name": "emanation",
+        "trans": [
+            "射气酌"
+        ]
+    },
+    {
+        "name": "emanation survey",
+        "trans": [
+            "射气测量"
+        ]
+    },
+    {
+        "name": "emanometer",
+        "trans": [
+            "射气测量仪"
+        ]
+    },
+    {
+        "name": "embankment",
+        "trans": [
+            "堤坝"
+        ]
+    },
+    {
+        "name": "embayed coast",
+        "trans": [
+            "湾形海岸"
+        ]
+    },
+    {
+        "name": "embayment",
+        "trans": [
+            "弯入"
+        ]
+    },
+    {
+        "name": "embolite",
+        "trans": [
+            "氯溴银矿"
+        ]
+    },
+    {
+        "name": "embouchure",
+        "trans": [
+            "河口"
+        ]
+    },
+    {
+        "name": "embryogenesis",
+        "trans": [
+            "胚发生"
+        ]
+    },
+    {
+        "name": "embryogeny",
+        "trans": [
+            "胚发生"
+        ]
+    },
+    {
+        "name": "embryonic geosyncline",
+        "trans": [
+            "萌地槽"
+        ]
+    },
+    {
+        "name": "embryonic platform",
+        "trans": [
+            "萌地台"
+        ]
+    },
+    {
+        "name": "embryonic volcano",
+        "trans": [
+            "雏火山"
+        ]
+    },
+    {
+        "name": "emendation",
+        "trans": [
+            "订正"
+        ]
+    },
+    {
+        "name": "emerald",
+        "trans": [
+            "祖母绿"
+        ]
+    },
+    {
+        "name": "emergence",
+        "trans": [
+            "上升"
+        ]
+    },
+    {
+        "name": "emergence angle",
+        "trans": [
+            "出射角"
+        ]
+    },
+    {
+        "name": "emery",
+        "trans": [
+            "刚砂"
+        ]
+    },
+    {
+        "name": "emission",
+        "trans": [
+            "发射"
+        ]
+    },
+    {
+        "name": "emission spectrum",
+        "trans": [
+            "发射光谱"
+        ]
+    },
+    {
+        "name": "emissivity",
+        "trans": [
+            "发射率"
+        ]
+    },
+    {
+        "name": "emitter",
+        "trans": [
+            "发射体"
+        ]
+    },
+    {
+        "name": "emmonite",
+        "trans": [
+            "钙菱锶矿"
+        ]
+    },
+    {
+        "name": "emmonsite",
+        "trans": [
+            "绿铁碲矿"
+        ]
+    },
+    {
+        "name": "emperor seamounts",
+        "trans": [
+            "北潍平洋海岭"
+        ]
+    },
+    {
+        "name": "emplacement",
+        "trans": [
+            "侵位"
+        ]
+    },
+    {
+        "name": "emplectite",
+        "trans": [
+            "硫铜铋矿"
+        ]
+    },
+    {
+        "name": "emscherian stage",
+        "trans": [
+            "埃穆什尔阶"
+        ]
+    },
+    {
+        "name": "emulsion",
+        "trans": [
+            "乳浊液"
+        ]
+    },
+    {
+        "name": "emulsion structure",
+        "trans": [
+            "乳浊液"
+        ]
+    },
+    {
+        "name": "emulsoid",
+        "trans": [
+            "乳胶体"
+        ]
+    },
+    {
+        "name": "en echelon",
+        "trans": [
+            "雁列式的"
+        ]
+    },
+    {
+        "name": "enalite",
+        "trans": [
+            "水硅钍铀矿"
+        ]
+    },
+    {
+        "name": "enamel",
+        "trans": [
+            "珐琅质"
+        ]
+    },
+    {
+        "name": "enantiomorph",
+        "trans": [
+            "左石形"
+        ]
+    },
+    {
+        "name": "enantiomorphic hemihedry",
+        "trans": [
+            "左右半面象"
+        ]
+    },
+    {
+        "name": "enantiotropy",
+        "trans": [
+            "互变性"
+        ]
+    },
+    {
+        "name": "enargite",
+        "trans": [
+            "硫砷铜矿"
+        ]
+    },
+    {
+        "name": "enceladite",
+        "trans": [
+            "硼镁钛矿"
+        ]
+    },
+    {
+        "name": "enclosed sea",
+        "trans": [
+            "内海"
+        ]
+    },
+    {
+        "name": "encrinite limestone",
+        "trans": [
+            "海百合灰岩"
+        ]
+    },
+    {
+        "name": "encroachment",
+        "trans": [
+            "入侵"
+        ]
+    },
+    {
+        "name": "encrustation",
+        "trans": [
+            "结壳"
+        ]
+    },
+    {
+        "name": "end",
+        "trans": [
+            "工祖"
+        ]
+    },
+    {
+        "name": "end effect",
+        "trans": [
+            "末端效应"
+        ]
+    },
+    {
+        "name": "end member",
+        "trans": [
+            "端员"
+        ]
+    },
+    {
+        "name": "end moraine",
+        "trans": [
+            "尾碛"
+        ]
+    },
+    {
+        "name": "end peneplain",
+        "trans": [
+            "终期准平原"
+        ]
+    },
+    {
+        "name": "end till",
+        "trans": [
+            "尾碛"
+        ]
+    },
+    {
+        "name": "endemic cretinism",
+        "trans": [
+            "地方性克汀病"
+        ]
+    },
+    {
+        "name": "endemic disease",
+        "trans": [
+            "地方病"
+        ]
+    },
+    {
+        "name": "endemic fluorosis",
+        "trans": [
+            "地方性氟中毒"
+        ]
+    },
+    {
+        "name": "endemic goitre",
+        "trans": [
+            "地方性甲状腺肿"
+        ]
+    },
+    {
+        "name": "endemism",
+        "trans": [
+            "特有现象"
+        ]
+    },
+    {
+        "name": "endless rope haulage",
+        "trans": [
+            "元极绳运输"
+        ]
+    },
+    {
+        "name": "endlichite",
+        "trans": [
+            "砷钒铅矿"
+        ]
+    },
+    {
+        "name": "endoblast",
+        "trans": [
+            "内胚层"
+        ]
+    },
+    {
+        "name": "endogenetic",
+        "trans": [
+            "内成的"
+        ]
+    },
+    {
+        "name": "endogenetic agent",
+        "trans": [
+            "内营力"
+        ]
+    },
+    {
+        "name": "endogenetic rock",
+        "trans": [
+            "内生岩"
+        ]
+    },
+    {
+        "name": "endogenic agency",
+        "trans": [
+            "内成酌"
+        ]
+    },
+    {
+        "name": "endogenic deposit",
+        "trans": [
+            "内成矿床"
+        ]
+    },
+    {
+        "name": "endogenic energy",
+        "trans": [
+            "内能"
+        ]
+    },
+    {
+        "name": "endogenic process",
+        "trans": [
+            "内成酌"
+        ]
+    },
+    {
+        "name": "endogenous",
+        "trans": [
+            "内成的"
+        ]
+    },
+    {
+        "name": "endogenous enclosure",
+        "trans": [
+            "内生包体"
+        ]
+    },
+    {
+        "name": "endogenous uranium ore",
+        "trans": [
+            "内生铀矿"
+        ]
+    },
+    {
+        "name": "endokinetic joint",
+        "trans": [
+            "内因节理"
+        ]
+    },
+    {
+        "name": "endomorphism",
+        "trans": [
+            "内变质酌"
+        ]
+    },
+    {
+        "name": "endopodite",
+        "trans": [
+            "内肢"
+        ]
+    },
+    {
+        "name": "endoskeleton",
+        "trans": [
+            "内骨胳"
+        ]
+    },
+    {
+        "name": "endospore",
+        "trans": [
+            "内生孢子"
+        ]
+    },
+    {
+        "name": "endosporium",
+        "trans": [
+            "内生孢子"
+        ]
+    },
+    {
+        "name": "endothermal deposit",
+        "trans": [
+            "内生热水矿床"
+        ]
+    },
+    {
+        "name": "endothermic compound",
+        "trans": [
+            "吸热化合物"
+        ]
+    },
+    {
+        "name": "endothermic reaction",
+        "trans": [
+            "吸热反应"
+        ]
+    },
+    {
+        "name": "endurance",
+        "trans": [
+            "持久度"
+        ]
+    },
+    {
+        "name": "energy absorption",
+        "trans": [
+            "能量吸收"
+        ]
+    },
+    {
+        "name": "energy alternation",
+        "trans": [
+            "能量交换"
+        ]
+    },
+    {
+        "name": "energy balance",
+        "trans": [
+            "能量平衡"
+        ]
+    },
+    {
+        "name": "energy band",
+        "trans": [
+            "能带"
+        ]
+    },
+    {
+        "name": "energy barrier",
+        "trans": [
+            "能障"
+        ]
+    },
+    {
+        "name": "energy conservation",
+        "trans": [
+            "能量守恒"
+        ]
+    },
+    {
+        "name": "energy density",
+        "trans": [
+            "能量密度"
+        ]
+    },
+    {
+        "name": "energy dissipation",
+        "trans": [
+            "能量散布"
+        ]
+    },
+    {
+        "name": "energy distribution",
+        "trans": [
+            "能量分布"
+        ]
+    },
+    {
+        "name": "energy exchange",
+        "trans": [
+            "能量交换"
+        ]
+    },
+    {
+        "name": "energy grade line",
+        "trans": [
+            "能量均衡线"
+        ]
+    },
+    {
+        "name": "energy interchange",
+        "trans": [
+            "能量交换"
+        ]
+    },
+    {
+        "name": "energy level",
+        "trans": [
+            "能级"
+        ]
+    },
+    {
+        "name": "energy level diagram",
+        "trans": [
+            "能级图"
+        ]
+    },
+    {
+        "name": "energy level spacing",
+        "trans": [
+            "能级间距"
+        ]
+    },
+    {
+        "name": "energy level spectrum",
+        "trans": [
+            "能级谱"
+        ]
+    },
+    {
+        "name": "energy line",
+        "trans": [
+            "能量线"
+        ]
+    },
+    {
+        "name": "energy metabolism",
+        "trans": [
+            "能量代谢"
+        ]
+    },
+    {
+        "name": "energy of adsorption",
+        "trans": [
+            "吸附能"
+        ]
+    },
+    {
+        "name": "energy state",
+        "trans": [
+            "能态"
+        ]
+    },
+    {
+        "name": "energy transfer",
+        "trans": [
+            "能量传输"
+        ]
+    },
+    {
+        "name": "engineering geology",
+        "trans": [
+            "工程地质学"
+        ]
+    },
+    {
+        "name": "engineering geomorphology",
+        "trans": [
+            "工程地貌学"
+        ]
+    },
+    {
+        "name": "englacial moraine",
+        "trans": [
+            "内碛"
+        ]
+    },
+    {
+        "name": "englishite",
+        "trans": [
+            "水磷钾石"
+        ]
+    },
+    {
+        "name": "enrichment",
+        "trans": [
+            "富集"
+        ]
+    },
+    {
+        "name": "enstatite",
+        "trans": [
+            "顽火辉石"
+        ]
+    },
+    {
+        "name": "enstenite",
+        "trans": [
+            "斜方辉石"
+        ]
+    },
+    {
+        "name": "enthalpy",
+        "trans": [
+            "焓"
+        ]
+    },
+    {
+        "name": "entoblast",
+        "trans": [
+            "内胚层"
+        ]
+    },
+    {
+        "name": "entomology",
+        "trans": [
+            "昆虫学"
+        ]
+    },
+    {
+        "name": "entomophilous plants",
+        "trans": [
+            "虫媒植物"
+        ]
+    },
+    {
+        "name": "entrance capacity",
+        "trans": [
+            "进入容量"
+        ]
+    },
+    {
+        "name": "entrenched meander",
+        "trans": [
+            "嵌入曲流深切河湾"
+        ]
+    },
+    {
+        "name": "entropy",
+        "trans": [
+            "平均信息量;熵"
+        ]
+    },
+    {
+        "name": "entropy of activation",
+        "trans": [
+            "活化熵"
+        ]
+    },
+    {
+        "name": "entropy of solution",
+        "trans": [
+            "溶液熵"
+        ]
+    },
+    {
+        "name": "entropy of surface",
+        "trans": [
+            "表面熵"
+        ]
+    },
+    {
+        "name": "envelope",
+        "trans": [
+            "包络层"
+        ]
+    },
+    {
+        "name": "enveloping surface of folds",
+        "trans": [
+            "褶皱包络面"
+        ]
+    },
+    {
+        "name": "environgeology",
+        "trans": [
+            "环境地质学"
+        ]
+    },
+    {
+        "name": "environment",
+        "trans": [
+            "环境"
+        ]
+    },
+    {
+        "name": "environmental biogeochemistry",
+        "trans": [
+            "环境生物地球化学"
+        ]
+    },
+    {
+        "name": "environmental complex",
+        "trans": [
+            "生境综合"
+        ]
+    },
+    {
+        "name": "environmental conditions",
+        "trans": [
+            "环境条件"
+        ]
+    },
+    {
+        "name": "environmental engineering geology",
+        "trans": [
+            "环境工程地质学"
+        ]
+    },
+    {
+        "name": "environmental factor",
+        "trans": [
+            "环境因子"
+        ]
+    },
+    {
+        "name": "environmental geochemistry",
+        "trans": [
+            "环境地球化学"
+        ]
+    },
+    {
+        "name": "environmental geology",
+        "trans": [
+            "环境地质学"
+        ]
+    },
+    {
+        "name": "environmental hydrogeologic survey",
+        "trans": [
+            "环境水文地质甸"
+        ]
+    },
+    {
+        "name": "environmental hydrogeology",
+        "trans": [
+            "环境水文地质学"
+        ]
+    },
+    {
+        "name": "environmental mineralogy",
+        "trans": [
+            "环境矿物学"
+        ]
+    },
+    {
+        "name": "environmental oceanography",
+        "trans": [
+            "环境海洋学"
+        ]
+    },
+    {
+        "name": "environmental remote sensing",
+        "trans": [
+            "环境遥感"
+        ]
+    },
+    {
+        "name": "environmental soil science",
+        "trans": [
+            "环境土壤学"
+        ]
+    },
+    {
+        "name": "enzyme reaction",
+        "trans": [
+            "酶反应"
+        ]
+    },
+    {
+        "name": "eocambrian",
+        "trans": [
+            "始寒武纪"
+        ]
+    },
+    {
+        "name": "eocene",
+        "trans": [
+            "始新统"
+        ]
+    },
+    {
+        "name": "eogene",
+        "trans": [
+            "早第三纪"
+        ]
+    },
+    {
+        "name": "eolation",
+        "trans": [
+            "风蚀"
+        ]
+    },
+    {
+        "name": "eolian deposit",
+        "trans": [
+            "风积"
+        ]
+    },
+    {
+        "name": "eolian rock",
+        "trans": [
+            "风成岩"
+        ]
+    },
+    {
+        "name": "eolianite",
+        "trans": [
+            "风成岩"
+        ]
+    },
+    {
+        "name": "eon",
+        "trans": [
+            "宙"
+        ]
+    },
+    {
+        "name": "eosphorite",
+        "trans": [
+            "磷铝锰矿"
+        ]
+    },
+    {
+        "name": "eozoic",
+        "trans": [
+            "始生代"
+        ]
+    },
+    {
+        "name": "eozoon",
+        "trans": [
+            "始生物"
+        ]
+    },
+    {
+        "name": "eozoonal",
+        "trans": [
+            "原始虫状的"
+        ]
+    },
+    {
+        "name": "epeiric sea",
+        "trans": [
+            "大陆海"
+        ]
+    },
+    {
+        "name": "epeirocraton",
+        "trans": [
+            "陆缘克拉通"
+        ]
+    },
+    {
+        "name": "epeirogenesis",
+        "trans": [
+            "造陆酌"
+        ]
+    },
+    {
+        "name": "epeirogenic",
+        "trans": [
+            "造陆的"
+        ]
+    },
+    {
+        "name": "epeirogeny",
+        "trans": [
+            "造陆酌"
+        ]
+    },
+    {
+        "name": "epeirophoresis",
+        "trans": [
+            "大陆移动"
+        ]
+    },
+    {
+        "name": "ephemeral stream",
+        "trans": [
+            "季节性河流"
+        ]
+    },
+    {
+        "name": "epibiotic species",
+        "trans": [
+            "残遗种"
+        ]
+    },
+    {
+        "name": "epiboulangerite",
+        "trans": [
+            "过硫锑铅矿"
+        ]
+    },
+    {
+        "name": "epicenter",
+        "trans": [
+            "震中"
+        ]
+    },
+    {
+        "name": "epicentral area",
+        "trans": [
+            "震中区"
+        ]
+    },
+    {
+        "name": "epicentral distance",
+        "trans": [
+            "震中距"
+        ]
+    },
+    {
+        "name": "epicentral region",
+        "trans": [
+            "震中区"
+        ]
+    },
+    {
+        "name": "epichlorite",
+        "trans": [
+            "次绿泥石"
+        ]
+    },
+    {
+        "name": "epiclastic conglomerate",
+        "trans": [
+            "外力碎屑砾岩"
+        ]
+    },
+    {
+        "name": "epicontinental geosyncline",
+        "trans": [
+            "陆缘地槽"
+        ]
+    },
+    {
+        "name": "epicontinental sea",
+        "trans": [
+            "陆缘海"
+        ]
+    },
+    {
+        "name": "epidermal fold",
+        "trans": [
+            "表皮褶皱"
+        ]
+    },
+    {
+        "name": "epidermis",
+        "trans": [
+            "外皮"
+        ]
+    },
+    {
+        "name": "epidesmine",
+        "trans": [
+            "红辉沸石"
+        ]
+    },
+    {
+        "name": "epidiabase",
+        "trans": [
+            "变辉绿岩"
+        ]
+    },
+    {
+        "name": "epididymite",
+        "trans": [
+            "斜板晶石"
+        ]
+    },
+    {
+        "name": "epidiorite",
+        "trans": [
+            "变闪长岩"
+        ]
+    },
+    {
+        "name": "epidosite",
+        "trans": [
+            "绿帘石岩"
+        ]
+    },
+    {
+        "name": "epidote",
+        "trans": [
+            "绿帘石"
+        ]
+    },
+    {
+        "name": "闪石岩相  epidote amphibolite facies",
+        "trans": [
+            "绿帘石"
+        ]
+    },
+    {
+        "name": "epidotite",
+        "trans": [
+            "绿帘石岩"
+        ]
+    },
+    {
+        "name": "epidotization",
+        "trans": [
+            "绿帘石化"
+        ]
+    },
+    {
+        "name": "epieugeosyncline",
+        "trans": [
+            "次生地槽"
+        ]
+    },
+    {
+        "name": "epifauna",
+        "trans": [
+            "底生动物"
+        ]
+    },
+    {
+        "name": "epigene",
+        "trans": [
+            "后成的"
+        ]
+    },
+    {
+        "name": "epigenesis",
+        "trans": [
+            "后成"
+        ]
+    },
+    {
+        "name": "epigenetic",
+        "trans": [
+            "后成的"
+        ]
+    },
+    {
+        "name": "epigenetic anomalies",
+        "trans": [
+            "后生异常"
+        ]
+    },
+    {
+        "name": "epigenetic concretion",
+        "trans": [
+            "后成结核"
+        ]
+    },
+    {
+        "name": "epigenetic deposit",
+        "trans": [
+            "后成矿床"
+        ]
+    },
+    {
+        "name": "epigenetic washout",
+        "trans": [
+            "后生冲刷"
+        ]
+    },
+    {
+        "name": "epigenite",
+        "trans": [
+            "砷硫铜铁矿"
+        ]
+    },
+    {
+        "name": "epiglaubite",
+        "trans": [
+            "钙磷石"
+        ]
+    },
+    {
+        "name": "epimagma",
+        "trans": [
+            "后期岩浆残液"
+        ]
+    },
+    {
+        "name": "epimetamorphism",
+        "trans": [
+            "浅变质酌"
+        ]
+    },
+    {
+        "name": "epimigmatization",
+        "trans": [
+            "后生混合酌"
+        ]
+    },
+    {
+        "name": "epipelagic",
+        "trans": [
+            "光合酌带的"
+        ]
+    },
+    {
+        "name": "epiphanite",
+        "trans": [
+            "富铁泥石"
+        ]
+    },
+    {
+        "name": "epirock",
+        "trans": [
+            "浅带变质岩"
+        ]
+    },
+    {
+        "name": "epirogenesis",
+        "trans": [
+            "造陆酌"
+        ]
+    },
+    {
+        "name": "epirogenetic regenerated deposit",
+        "trans": [
+            "后成再生矿床"
+        ]
+    },
+    {
+        "name": "epirogenic movements",
+        "trans": [
+            "造陆运动"
+        ]
+    },
+    {
+        "name": "episode",
+        "trans": [
+            "幕"
+        ]
+    },
+    {
+        "name": "epispore",
+        "trans": [
+            "孢表壁"
+        ]
+    },
+    {
+        "name": "episporium",
+        "trans": [
+            "孢表壁"
+        ]
+    },
+    {
+        "name": "epistilbite",
+        "trans": [
+            "柱沸石"
+        ]
+    },
+    {
+        "name": "epitaxy",
+        "trans": [
+            "取向生长"
+        ]
+    },
+    {
+        "name": "epithelium",
+        "trans": [
+            "上皮"
+        ]
+    },
+    {
+        "name": "epithermal deposit",
+        "trans": [
+            "浅成热液矿床"
+        ]
+    },
+    {
+        "name": "epithermal gold deposit",
+        "trans": [
+            "浅成低温热液金矿床"
+        ]
+    },
+    {
+        "name": "epizone",
+        "trans": [
+            "浅带"
+        ]
+    },
+    {
+        "name": "epoch",
+        "trans": [
+            "世"
+        ]
+    },
+    {
+        "name": "epsilon type structural system",
+        "trans": [
+            "山字型构造体系"
+        ]
+    },
+    {
+        "name": "epsomite",
+        "trans": [
+            "泻利盐"
+        ]
+    },
+    {
+        "name": "equal angle projection",
+        "trans": [
+            "等角投影"
+        ]
+    },
+    {
+        "name": "equal area projection",
+        "trans": [
+            "等积投影"
+        ]
+    },
+    {
+        "name": "equalization",
+        "trans": [
+            "同等化"
+        ]
+    },
+    {
+        "name": "equation of state",
+        "trans": [
+            "状态方程式"
+        ]
+    },
+    {
+        "name": "equator",
+        "trans": [
+            "赤道"
+        ]
+    },
+    {
+        "name": "equidistant projection",
+        "trans": [
+            "等距投影"
+        ]
+    },
+    {
+        "name": "equigranular",
+        "trans": [
+            "等粒状的"
+        ]
+    },
+    {
+        "name": "equilibrium coefficient",
+        "trans": [
+            "平衡系数"
+        ]
+    },
+    {
+        "name": "equilibrium moisture content",
+        "trans": [
+            "平衡湿量"
+        ]
+    },
+    {
+        "name": "equilibrium state",
+        "trans": [
+            "平衡状态"
+        ]
+    },
+    {
+        "name": "equipluve",
+        "trans": [
+            "等降水量线"
+        ]
+    },
+    {
+        "name": "equipotential line",
+        "trans": [
+            "等势线"
+        ]
+    },
+    {
+        "name": "equipotential surface",
+        "trans": [
+            "等势面"
+        ]
+    },
+    {
+        "name": "equivalent",
+        "trans": [
+            "当量"
+        ]
+    },
+    {
+        "name": "equivalent barotropic model",
+        "trans": [
+            "相当正压模式"
+        ]
+    },
+    {
+        "name": "equivalent bond",
+        "trans": [
+            "共价键"
+        ]
+    },
+    {
+        "name": "equivalent concentration",
+        "trans": [
+            "规定液度"
+        ]
+    },
+    {
+        "name": "equivalent layer",
+        "trans": [
+            "同位层"
+        ]
+    },
+    {
+        "name": "equivalent per million",
+        "trans": [
+            "百万分之当量"
+        ]
+    },
+    {
+        "name": "equivalent potential temperature",
+        "trans": [
+            "等效势温"
+        ]
+    },
+    {
+        "name": "equivalent resistivity",
+        "trans": [
+            "等效电阻率"
+        ]
+    },
+    {
+        "name": "era",
+        "trans": [
+            "代"
+        ]
+    },
+    {
+        "name": "erbium",
+        "trans": [
+            "铒"
+        ]
+    },
+    {
+        "name": "eremacausis",
+        "trans": [
+            "腐败"
+        ]
+    },
+    {
+        "name": "eremeyevite",
+        "trans": [
+            "硼铝石"
+        ]
+    },
+    {
+        "name": "erg",
+        "trans": [
+            "尔格"
+        ]
+    },
+    {
+        "name": "erikite",
+        "trans": [
+            "多水磷铯石"
+        ]
+    },
+    {
+        "name": "erinite",
+        "trans": [
+            "翠砷铜矿"
+        ]
+    },
+    {
+        "name": "erionite",
+        "trans": [
+            "毛沸石"
+        ]
+    },
+    {
+        "name": "erodible",
+        "trans": [
+            "易蚀的"
+        ]
+    },
+    {
+        "name": "erosion",
+        "trans": [
+            "侵蚀"
+        ]
+    },
+    {
+        "name": "erosion base",
+        "trans": [
+            "侵蚀基面"
+        ]
+    },
+    {
+        "name": "erosion plain",
+        "trans": [
+            "准平原"
+        ]
+    },
+    {
+        "name": "erosion surface",
+        "trans": [
+            "侵蚀面"
+        ]
+    },
+    {
+        "name": "erosion terrace",
+        "trans": [
+            "侵蚀阶地"
+        ]
+    },
+    {
+        "name": "erosion thrust",
+        "trans": [
+            "侵蚀冲断层"
+        ]
+    },
+    {
+        "name": "erosional coal accumulating basin",
+        "trans": [
+            "侵蚀聚煤盆地"
+        ]
+    },
+    {
+        "name": "erosional lake",
+        "trans": [
+            "侵蚀湖"
+        ]
+    },
+    {
+        "name": "erosional process",
+        "trans": [
+            "侵蚀过程"
+        ]
+    },
+    {
+        "name": "erosional unconformity",
+        "trans": [
+            "侵蚀不整合"
+        ]
+    },
+    {
+        "name": "erosional valley",
+        "trans": [
+            "侵蚀谷"
+        ]
+    },
+    {
+        "name": "erosiveness",
+        "trans": [
+            "侵蚀性"
+        ]
+    },
+    {
+        "name": "erratic",
+        "trans": [
+            "漂砾的"
+        ]
+    },
+    {
+        "name": "erratic block",
+        "trans": [
+            "巨漂砾"
+        ]
+    },
+    {
+        "name": "erratic boulder",
+        "trans": [
+            "漂砾"
+        ]
+    },
+    {
+        "name": "erratics",
+        "trans": [
+            "漂砾"
+        ]
+    },
+    {
+        "name": "error",
+        "trans": [
+            "误差"
+        ]
+    },
+    {
+        "name": "ersbyite",
+        "trans": [
+            "钙柱石"
+        ]
+    },
+    {
+        "name": "eruption",
+        "trans": [
+            "喷发"
+        ]
+    },
+    {
+        "name": "eruption symptom",
+        "trans": [
+            "火山喷发前兆"
+        ]
+    },
+    {
+        "name": "eruptive",
+        "trans": [
+            "火成的"
+        ]
+    },
+    {
+        "name": "eruptive breccia",
+        "trans": [
+            "火成角砾岩"
+        ]
+    },
+    {
+        "name": "eruptive rock",
+        "trans": [
+            "喷发岩"
+        ]
+    },
+    {
+        "name": "erythrine",
+        "trans": [
+            "钴华"
+        ]
+    },
+    {
+        "name": "erythrite",
+        "trans": [
+            "钴华"
+        ]
+    },
+    {
+        "name": "erythrosiderite",
+        "trans": [
+            "红钾铁盐"
+        ]
+    },
+    {
+        "name": "erythrozincite",
+        "trans": [
+            "锰纤锌矿"
+        ]
+    },
+    {
+        "name": "escarpment",
+        "trans": [
+            "丘"
+        ]
+    },
+    {
+        "name": "eschynite",
+        "trans": [
+            "易解石"
+        ]
+    },
+    {
+        "name": "esker",
+        "trans": [
+            "蛇形丘"
+        ]
+    },
+    {
+        "name": "esmeraldaite",
+        "trans": [
+            "多英白云母岩"
+        ]
+    },
+    {
+        "name": "espichellite",
+        "trans": [
+            "橄闪斑岩"
+        ]
+    },
+    {
+        "name": "essential ejecta",
+        "trans": [
+            "同源喷出物"
+        ]
+    },
+    {
+        "name": "essential mineral",
+        "trans": [
+            "知矿物"
+        ]
+    },
+    {
+        "name": "essexite",
+        "trans": [
+            "厄塞岩"
+        ]
+    },
+    {
+        "name": "essonite",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "establish",
+        "trans": [
+            "建立"
+        ]
+    },
+    {
+        "name": "esterellite",
+        "trans": [
+            "英微闪长岩"
+        ]
+    },
+    {
+        "name": "estimation of geothermal field's reserve",
+        "trans": [
+            "地热田储量估算"
+        ]
+    },
+    {
+        "name": "estuarine delta",
+        "trans": [
+            "三角湾状三角洲"
+        ]
+    },
+    {
+        "name": "estuarine deposit",
+        "trans": [
+            "海湾沉积"
+        ]
+    },
+    {
+        "name": "estuarine lake",
+        "trans": [
+            "河口湖"
+        ]
+    },
+    {
+        "name": "estuary",
+        "trans": [
+            "河口湾"
+        ]
+    },
+    {
+        "name": "estuary coast",
+        "trans": [
+            "三角湾海岸"
+        ]
+    },
+    {
+        "name": "estuary deposit",
+        "trans": [
+            "河口湾沉积"
+        ]
+    },
+    {
+        "name": "etched figure",
+        "trans": [
+            "蚀象"
+        ]
+    },
+    {
+        "name": "ethane",
+        "trans": [
+            "乙烷"
+        ]
+    },
+    {
+        "name": "ethmolite",
+        "trans": [
+            "漏斗岩盘"
+        ]
+    },
+    {
+        "name": "ethologo paleontology",
+        "trans": [
+            "古生态学"
+        ]
+    },
+    {
+        "name": "ettringite",
+        "trans": [
+            "钙矾石"
+        ]
+    },
+    {
+        "name": "eucairite",
+        "trans": [
+            "硒铜银矿"
+        ]
+    },
+    {
+        "name": "euchroite",
+        "trans": [
+            "翠砷铜矿"
+        ]
+    },
+    {
+        "name": "euclase",
+        "trans": [
+            "蓝柱石"
+        ]
+    },
+    {
+        "name": "eucolite",
+        "trans": [
+            "负异性石"
+        ]
+    },
+    {
+        "name": "eucrite",
+        "trans": [
+            "倍长辉长岩"
+        ]
+    },
+    {
+        "name": "eucryptite",
+        "trans": [
+            "锂霞石"
+        ]
+    },
+    {
+        "name": "eudialyte",
+        "trans": [
+            "异性石"
+        ]
+    },
+    {
+        "name": "eudidymite",
+        "trans": [
+            "双晶石"
+        ]
+    },
+    {
+        "name": "eugeosyncline",
+        "trans": [
+            "活动正地槽"
+        ]
+    },
+    {
+        "name": "eugranitic",
+        "trans": [
+            "花岗岩状的"
+        ]
+    },
+    {
+        "name": "euktolite",
+        "trans": [
+            "橄金斑岩"
+        ]
+    },
+    {
+        "name": "eulysite",
+        "trans": [
+            "榴辉铁橄岩"
+        ]
+    },
+    {
+        "name": "eulytine",
+        "trans": [
+            "硅铋石"
+        ]
+    },
+    {
+        "name": "eulytite",
+        "trans": [
+            "硅铋石"
+        ]
+    },
+    {
+        "name": "euosmite",
+        "trans": [
+            "水脂石"
+        ]
+    },
+    {
+        "name": "eupelagic",
+        "trans": [
+            "远洋的"
+        ]
+    },
+    {
+        "name": "euphotic zone",
+        "trans": [
+            "光亮带"
+        ]
+    },
+    {
+        "name": "euphyllite",
+        "trans": [
+            "钠钾云母"
+        ]
+    },
+    {
+        "name": "euplankton",
+        "trans": [
+            "全浮游生物"
+        ]
+    },
+    {
+        "name": "euporphyric",
+        "trans": [
+            "全斑状的"
+        ]
+    },
+    {
+        "name": "eurasian plate",
+        "trans": [
+            "欧亚板块"
+        ]
+    },
+    {
+        "name": "eurite",
+        "trans": [
+            "霏细岩"
+        ]
+    },
+    {
+        "name": "euritic",
+        "trans": [
+            "硅长岩质的"
+        ]
+    },
+    {
+        "name": "europium",
+        "trans": [
+            "铕"
+        ]
+    },
+    {
+        "name": "eurybathyal",
+        "trans": [
+            "广深性的"
+        ]
+    },
+    {
+        "name": "eurybiontic",
+        "trans": [
+            "广生性"
+        ]
+    },
+    {
+        "name": "eurycheme",
+        "trans": [
+            "广温性"
+        ]
+    },
+    {
+        "name": "eurythermal",
+        "trans": [
+            "广温性"
+        ]
+    },
+    {
+        "name": "eustachian tube",
+        "trans": [
+            "咽鼓管"
+        ]
+    },
+    {
+        "name": "eustasy",
+        "trans": [
+            "海面升降"
+        ]
+    },
+    {
+        "name": "eustatic movement",
+        "trans": [
+            "海面升降运动"
+        ]
+    },
+    {
+        "name": "eustatism",
+        "trans": [
+            "海面升降"
+        ]
+    },
+    {
+        "name": "eustele",
+        "trans": [
+            "直中柱"
+        ]
+    },
+    {
+        "name": "eutaxic",
+        "trans": [
+            "条纹斑状"
+        ]
+    },
+    {
+        "name": "eutaxitic",
+        "trans": [
+            "条纹斑状"
+        ]
+    },
+    {
+        "name": "eutectic",
+        "trans": [
+            "低共熔混合物"
+        ]
+    },
+    {
+        "name": "eutectic line",
+        "trans": [
+            "共晶线"
+        ]
+    },
+    {
+        "name": "eutectic mixture",
+        "trans": [
+            "共晶混合物"
+        ]
+    },
+    {
+        "name": "eutectic plates",
+        "trans": [
+            "共晶面"
+        ]
+    },
+    {
+        "name": "eutectic point",
+        "trans": [
+            "共晶点"
+        ]
+    },
+    {
+        "name": "eutectic reaction",
+        "trans": [
+            "共晶反应"
+        ]
+    },
+    {
+        "name": "eutectic structure",
+        "trans": [
+            "共晶结构"
+        ]
+    },
+    {
+        "name": "eutectic temperature",
+        "trans": [
+            "共熔温度"
+        ]
+    },
+    {
+        "name": "eutectite",
+        "trans": [
+            "共结岩"
+        ]
+    },
+    {
+        "name": "eutectoid",
+        "trans": [
+            "共析的;共结晶"
+        ]
+    },
+    {
+        "name": "eutectoid composition",
+        "trans": [
+            "共析成分"
+        ]
+    },
+    {
+        "name": "eutectophyric",
+        "trans": [
+            "共结斑状的"
+        ]
+    },
+    {
+        "name": "eutrophic lake",
+        "trans": [
+            "滋育湖"
+        ]
+    },
+    {
+        "name": "euutectic crystallization",
+        "trans": [
+            "共晶结晶酌"
+        ]
+    },
+    {
+        "name": "euxenite",
+        "trans": [
+            "黑稀金矿"
+        ]
+    },
+    {
+        "name": "evaluation map",
+        "trans": [
+            "估价图"
+        ]
+    },
+    {
+        "name": "evansite",
+        "trans": [
+            "核磷铝石"
+        ]
+    },
+    {
+        "name": "evaporate",
+        "trans": [
+            "蒸发盐"
+        ]
+    },
+    {
+        "name": "evaporation",
+        "trans": [
+            "蒸发"
+        ]
+    },
+    {
+        "name": "evaporation discharge",
+        "trans": [
+            "蒸发量"
+        ]
+    },
+    {
+        "name": "evaporation loss",
+        "trans": [
+            "蒸发损失"
+        ]
+    },
+    {
+        "name": "evaporation pan",
+        "trans": [
+            "蒸发皿"
+        ]
+    },
+    {
+        "name": "evaporation reduction",
+        "trans": [
+            "蒸发减少"
+        ]
+    },
+    {
+        "name": "evaporation suppression",
+        "trans": [
+            "蒸发抑制"
+        ]
+    },
+    {
+        "name": "evaporativity",
+        "trans": [
+            "蒸发度"
+        ]
+    },
+    {
+        "name": "evaporimeter",
+        "trans": [
+            "蒸发表"
+        ]
+    },
+    {
+        "name": "evaporimeter atmometer",
+        "trans": [
+            "蒸发表"
+        ]
+    },
+    {
+        "name": "evaporite",
+        "trans": [
+            "蒸发的"
+        ]
+    },
+    {
+        "name": "evaporite deposit",
+        "trans": [
+            "蒸发沉积矿床"
+        ]
+    },
+    {
+        "name": "evaporite rocks",
+        "trans": [
+            "蒸发岩"
+        ]
+    },
+    {
+        "name": "evapotranspiration",
+        "trans": [
+            "蒸散"
+        ]
+    },
+    {
+        "name": "even fracture",
+        "trans": [
+            "平坦断口"
+        ]
+    },
+    {
+        "name": "奇数的  even odd",
+        "trans": [
+            "偶数"
+        ]
+    },
+    {
+        "name": "even odd nucleus",
+        "trans": [
+            "奇核"
+        ]
+    },
+    {
+        "name": "event",
+        "trans": [
+            "事件"
+        ]
+    },
+    {
+        "name": "everfrost",
+        "trans": [
+            "多年冻土"
+        ]
+    },
+    {
+        "name": "evergreen",
+        "trans": [
+            "常绿的"
+        ]
+    },
+    {
+        "name": "evergreen plants",
+        "trans": [
+            "常绿植物"
+        ]
+    },
+    {
+        "name": "evergreenite",
+        "trans": [
+            "硫英硷正长岩"
+        ]
+    },
+    {
+        "name": "everlasting",
+        "trans": [
+            "永久的"
+        ]
+    },
+    {
+        "name": "evolution",
+        "trans": [
+            "进化"
+        ]
+    },
+    {
+        "name": "evolution theory",
+        "trans": [
+            "进化论"
+        ]
+    },
+    {
+        "name": "evolutional history",
+        "trans": [
+            "月球演化史"
+        ]
+    },
+    {
+        "name": "example",
+        "trans": [
+            "标本"
+        ]
+    },
+    {
+        "name": "excavate",
+        "trans": [
+            "挖掘"
+        ]
+    },
+    {
+        "name": "excavation",
+        "trans": [
+            "发掘"
+        ]
+    },
+    {
+        "name": "excess components",
+        "trans": [
+            "过剩成分"
+        ]
+    },
+    {
+        "name": "excess load",
+        "trans": [
+            "过负荷"
+        ]
+    },
+    {
+        "name": "exchange acidity",
+        "trans": [
+            "交换酸度"
+        ]
+    },
+    {
+        "name": "exchange capacity",
+        "trans": [
+            "交换容量"
+        ]
+    },
+    {
+        "name": "exchange coupling",
+        "trans": [
+            "交换耦合"
+        ]
+    },
+    {
+        "name": "exchange energy",
+        "trans": [
+            "交换能"
+        ]
+    },
+    {
+        "name": "exchange reaction",
+        "trans": [
+            "交换反应"
+        ]
+    },
+    {
+        "name": "excitation",
+        "trans": [
+            "激发"
+        ]
+    },
+    {
+        "name": "excitation energy",
+        "trans": [
+            "激发能"
+        ]
+    },
+    {
+        "name": "excitation potential",
+        "trans": [
+            "激发电位"
+        ]
+    },
+    {
+        "name": "excite",
+        "trans": [
+            "激发"
+        ]
+    },
+    {
+        "name": "exclusion principle",
+        "trans": [
+            "不相容原理"
+        ]
+    },
+    {
+        "name": "excreta",
+        "trans": [
+            "排泄物"
+        ]
+    },
+    {
+        "name": "excretion",
+        "trans": [
+            "分泌"
+        ]
+    },
+    {
+        "name": "exemplar",
+        "trans": [
+            "标本"
+        ]
+    },
+    {
+        "name": "exfoliation",
+        "trans": [
+            "鳞剥"
+        ]
+    },
+    {
+        "name": "exfoliation joint",
+        "trans": [
+            "页状剥落节理"
+        ]
+    },
+    {
+        "name": "exhalation",
+        "trans": [
+            "喷气"
+        ]
+    },
+    {
+        "name": "exhalation deposit",
+        "trans": [
+            "喷气矿床"
+        ]
+    },
+    {
+        "name": "exhalative sedimentary deposit",
+        "trans": [
+            "喷气沉积矿床"
+        ]
+    },
+    {
+        "name": "exhaust",
+        "trans": [
+            "排干"
+        ]
+    },
+    {
+        "name": "exhausted soil",
+        "trans": [
+            "瘦土"
+        ]
+    },
+    {
+        "name": "exhausted well",
+        "trans": [
+            "枯竭井"
+        ]
+    },
+    {
+        "name": "exhaustion of groundwater resources",
+        "trans": [
+            "地下水源枯竭"
+        ]
+    },
+    {
+        "name": "exhumation",
+        "trans": [
+            "发掘"
+        ]
+    },
+    {
+        "name": "exine",
+        "trans": [
+            "外膜"
+        ]
+    },
+    {
+        "name": "exinite",
+        "trans": [
+            "壳质煤"
+        ]
+    },
+    {
+        "name": "exite",
+        "trans": [
+            "外叶"
+        ]
+    },
+    {
+        "name": "exocrine",
+        "trans": [
+            "外分泌的"
+        ]
+    },
+    {
+        "name": "exocrine gland",
+        "trans": [
+            "外分泌腺"
+        ]
+    },
+    {
+        "name": "exocuticle",
+        "trans": [
+            "外角皮"
+        ]
+    },
+    {
+        "name": "exocuticula",
+        "trans": [
+            "外角皮"
+        ]
+    },
+    {
+        "name": "exoderm",
+        "trans": [
+            "外皮"
+        ]
+    },
+    {
+        "name": "exodermis",
+        "trans": [
+            "外皮"
+        ]
+    },
+    {
+        "name": "exodiagenesis",
+        "trans": [
+            "表生成岩酌"
+        ]
+    },
+    {
+        "name": "exogenetic",
+        "trans": [
+            "外生的"
+        ]
+    },
+    {
+        "name": "exogenetic rock",
+        "trans": [
+            "外生岩"
+        ]
+    },
+    {
+        "name": "exogenic",
+        "trans": [
+            "外生的"
+        ]
+    },
+    {
+        "name": "exogenous ejecta",
+        "trans": [
+            "外成喷出物"
+        ]
+    },
+    {
+        "name": "exogenous process",
+        "trans": [
+            "外部营力"
+        ]
+    },
+    {
+        "name": "exogeology",
+        "trans": [
+            "外空地质学"
+        ]
+    },
+    {
+        "name": "exogeosyncline",
+        "trans": [
+            "外枝准地槽"
+        ]
+    },
+    {
+        "name": "exokinetic joint",
+        "trans": [
+            "外因节理"
+        ]
+    },
+    {
+        "name": "exomigmatization",
+        "trans": [
+            "外成混合岩化"
+        ]
+    },
+    {
+        "name": "exomorphism",
+        "trans": [
+            "外变质酌"
+        ]
+    },
+    {
+        "name": "exopodite",
+        "trans": [
+            "外肢"
+        ]
+    },
+    {
+        "name": "exosphere",
+        "trans": [
+            "外逸层"
+        ]
+    },
+    {
+        "name": "exospore",
+        "trans": [
+            "孢子外壁"
+        ]
+    },
+    {
+        "name": "exosporium",
+        "trans": [
+            "外膜"
+        ]
+    },
+    {
+        "name": "exothermic compound",
+        "trans": [
+            "放热化合物"
+        ]
+    },
+    {
+        "name": "exotic plant",
+        "trans": [
+            "外来植物"
+        ]
+    },
+    {
+        "name": "expansion",
+        "trans": [
+            "膨胀"
+        ]
+    },
+    {
+        "name": "expansion coefficient",
+        "trans": [
+            "膨胀系数"
+        ]
+    },
+    {
+        "name": "expansion fissure",
+        "trans": [
+            "膨胀裂缝"
+        ]
+    },
+    {
+        "name": "expansion fold",
+        "trans": [
+            "膨胀褶皱"
+        ]
+    },
+    {
+        "name": "expansion joint",
+        "trans": [
+            "膨胀节理"
+        ]
+    },
+    {
+        "name": "expansion of gases",
+        "trans": [
+            "气体膨胀"
+        ]
+    },
+    {
+        "name": "expansion of liquids",
+        "trans": [
+            "液体膨胀"
+        ]
+    },
+    {
+        "name": "expansion of solids",
+        "trans": [
+            "固体膨胀"
+        ]
+    },
+    {
+        "name": "expansion theory",
+        "trans": [
+            "膨胀说"
+        ]
+    },
+    {
+        "name": "expansion thrust",
+        "trans": [
+            "膨胀冲断层"
+        ]
+    },
+    {
+        "name": "expectation",
+        "trans": [
+            "期望值"
+        ]
+    },
+    {
+        "name": "expected value",
+        "trans": [
+            "期望值"
+        ]
+    },
+    {
+        "name": "experiment by photoelastic method",
+        "trans": [
+            "光弹性实验"
+        ]
+    },
+    {
+        "name": "experimental geomorphology",
+        "trans": [
+            "实验地貌学"
+        ]
+    },
+    {
+        "name": "exploitation",
+        "trans": [
+            "开发"
+        ]
+    },
+    {
+        "name": "exploration",
+        "trans": [
+            "勘探"
+        ]
+    },
+    {
+        "name": "exploration drilling",
+        "trans": [
+            "勘探钻井"
+        ]
+    },
+    {
+        "name": "exploration engineering",
+        "trans": [
+            "勘探工程"
+        ]
+    },
+    {
+        "name": "exploration of the groundwater",
+        "trans": [
+            "地下水勘察"
+        ]
+    },
+    {
+        "name": "exploratory boring",
+        "trans": [
+            "钻探"
+        ]
+    },
+    {
+        "name": "exploratory drilling",
+        "trans": [
+            "勘探钻井"
+        ]
+    },
+    {
+        "name": "exploratory shaft",
+        "trans": [
+            "探井"
+        ]
+    },
+    {
+        "name": "exploratory trench",
+        "trans": [
+            "探槽"
+        ]
+    },
+    {
+        "name": "exploratory well",
+        "trans": [
+            "探井"
+        ]
+    },
+    {
+        "name": "explore",
+        "trans": [
+            "勘探"
+        ]
+    },
+    {
+        "name": "exploring",
+        "trans": [
+            "勘探工作"
+        ]
+    },
+    {
+        "name": "exploring mine",
+        "trans": [
+            "勘探矿井"
+        ]
+    },
+    {
+        "name": "exploring opening",
+        "trans": [
+            "勘探巷道"
+        ]
+    },
+    {
+        "name": "explosion breccia",
+        "trans": [
+            "爆发角砾岩"
+        ]
+    },
+    {
+        "name": "explosion caldera",
+        "trans": [
+            "爆裂巨火口"
+        ]
+    },
+    {
+        "name": "explosion crater",
+        "trans": [
+            "爆裂火口"
+        ]
+    },
+    {
+        "name": "explosive",
+        "trans": [
+            "炸药"
+        ]
+    },
+    {
+        "name": "explosive index",
+        "trans": [
+            "爆破指数"
+        ]
+    },
+    {
+        "name": "exposure",
+        "trans": [
+            "暴露"
+        ]
+    },
+    {
+        "name": "exposure age",
+        "trans": [
+            "暴露年岭"
+        ]
+    },
+    {
+        "name": "exposure meter",
+        "trans": [
+            "露光计"
+        ]
+    },
+    {
+        "name": "exposure site",
+        "trans": [
+            "露头位置"
+        ]
+    },
+    {
+        "name": "expulsion",
+        "trans": [
+            "排驱酌"
+        ]
+    },
+    {
+        "name": "exsolution",
+        "trans": [
+            "出溶酌"
+        ]
+    },
+    {
+        "name": "exsolution structure",
+        "trans": [
+            "固溶体分解结构"
+        ]
+    },
+    {
+        "name": "extension",
+        "trans": [
+            "延长"
+        ]
+    },
+    {
+        "name": "extension fracture",
+        "trans": [
+            "延长断裂"
+        ]
+    },
+    {
+        "name": "extension joint",
+        "trans": [
+            "延长节理"
+        ]
+    },
+    {
+        "name": "external",
+        "trans": [
+            "外部的"
+        ]
+    },
+    {
+        "name": "external agency",
+        "trans": [
+            "外部营力"
+        ]
+    },
+    {
+        "name": "external diameter",
+        "trans": [
+            "外径"
+        ]
+    },
+    {
+        "name": "external gill",
+        "trans": [
+            "外鳃"
+        ]
+    },
+    {
+        "name": "external loads",
+        "trans": [
+            "外加负载"
+        ]
+    },
+    {
+        "name": "external magnetic field",
+        "trans": [
+            "外部磁场"
+        ]
+    },
+    {
+        "name": "external projection",
+        "trans": [
+            "外心投影"
+        ]
+    },
+    {
+        "name": "external rotation",
+        "trans": [
+            "外回转"
+        ]
+    },
+    {
+        "name": "external volcanism",
+        "trans": [
+            "外部火山酌"
+        ]
+    },
+    {
+        "name": "extinct nuclide",
+        "trans": [
+            "衰减核素"
+        ]
+    },
+    {
+        "name": "extinct volcano",
+        "trans": [
+            "死火山"
+        ]
+    },
+    {
+        "name": "extinction",
+        "trans": [
+            "衰减"
+        ]
+    },
+    {
+        "name": "extinction angle",
+        "trans": [
+            "消光角"
+        ]
+    },
+    {
+        "name": "extinction position",
+        "trans": [
+            "消光位置"
+        ]
+    },
+    {
+        "name": "extinction rule",
+        "trans": [
+            "消光规则"
+        ]
+    },
+    {
+        "name": "extract",
+        "trans": [
+            "提取"
+        ]
+    },
+    {
+        "name": "extraction",
+        "trans": [
+            "提取"
+        ]
+    },
+    {
+        "name": "extraction rate",
+        "trans": [
+            "回采率"
+        ]
+    },
+    {
+        "name": "extraordinary light",
+        "trans": [
+            "非常光线"
+        ]
+    },
+    {
+        "name": "extrapolation",
+        "trans": [
+            "外推法"
+        ]
+    },
+    {
+        "name": "extruded sheet",
+        "trans": [
+            "喷出岩席"
+        ]
+    },
+    {
+        "name": "extrusion",
+        "trans": [
+            "喷出"
+        ]
+    },
+    {
+        "name": "extrusive rock",
+        "trans": [
+            "溢烈"
+        ]
+    },
+    {
+        "name": "exudation deposit",
+        "trans": [
+            "分凝矿床"
+        ]
+    },
+    {
+        "name": "eye survey",
+        "trans": [
+            "目测"
+        ]
+    },
+    {
+        "name": "eyed structure",
+        "trans": [
+            "眼状构造"
+        ]
+    }
+]

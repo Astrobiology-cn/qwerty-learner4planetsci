@@ -1,0 +1,1616 @@
+[
+    {
+        "name": "w wave",
+        "trans": [
+            "波"
+        ]
+    },
+    {
+        "name": "wacke",
+        "trans": [
+            "玄土"
+        ]
+    },
+    {
+        "name": "wad",
+        "trans": [
+            "锰土"
+        ]
+    },
+    {
+        "name": "wadeite",
+        "trans": [
+            "钾钙板锆石"
+        ]
+    },
+    {
+        "name": "wadi",
+        "trans": [
+            "干谷"
+        ]
+    },
+    {
+        "name": "wagnerite",
+        "trans": [
+            "氟磷镁石"
+        ]
+    },
+    {
+        "name": "wairakite",
+        "trans": [
+            "斜钙沸石"
+        ]
+    },
+    {
+        "name": "walaite",
+        "trans": [
+            "黑晶脂石"
+        ]
+    },
+    {
+        "name": "walking beam",
+        "trans": [
+            "步进式梁"
+        ]
+    },
+    {
+        "name": "wall",
+        "trans": [
+            "墙壁"
+        ]
+    },
+    {
+        "name": "wall rock alteration",
+        "trans": [
+            "围岩蚀变"
+        ]
+    },
+    {
+        "name": "walpurgite",
+        "trans": [
+            "砷铀铋矿"
+        ]
+    },
+    {
+        "name": "waluewite",
+        "trans": [
+            "黄脆云母"
+        ]
+    },
+    {
+        "name": "wandering river",
+        "trans": [
+            "游荡性河流"
+        ]
+    },
+    {
+        "name": "waning development",
+        "trans": [
+            "凹坡发育"
+        ]
+    },
+    {
+        "name": "wapplerite",
+        "trans": [
+            "毒钙镁石"
+        ]
+    },
+    {
+        "name": "wardite",
+        "trans": [
+            "水磷铝钠石"
+        ]
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "嗳的"
+        ]
+    },
+    {
+        "name": "warm spring",
+        "trans": [
+            "温泉"
+        ]
+    },
+    {
+        "name": "warm swamp",
+        "trans": [
+            "热水沼泽"
+        ]
+    },
+    {
+        "name": "warping",
+        "trans": [
+            "翘曲"
+        ]
+    },
+    {
+        "name": "warthite",
+        "trans": [
+            "钠镁矾"
+        ]
+    },
+    {
+        "name": "warwickite",
+        "trans": [
+            "硼镁钛矿"
+        ]
+    },
+    {
+        "name": "wash boring",
+        "trans": [
+            "回水钻探"
+        ]
+    },
+    {
+        "name": "wash trough",
+        "trans": [
+            "洗槽"
+        ]
+    },
+    {
+        "name": "washed out soil",
+        "trans": [
+            "淋洗土壤"
+        ]
+    },
+    {
+        "name": "washing bottle",
+        "trans": [
+            "洗瓶"
+        ]
+    },
+    {
+        "name": "washing hole",
+        "trans": [
+            "冲洗钻孔"
+        ]
+    },
+    {
+        "name": "washing water",
+        "trans": [
+            "洗水"
+        ]
+    },
+    {
+        "name": "washout",
+        "trans": [
+            "冲蚀"
+        ]
+    },
+    {
+        "name": "washout of coal seam",
+        "trans": [
+            "煤层冲刷"
+        ]
+    },
+    {
+        "name": "washover",
+        "trans": [
+            "越浪堆积"
+        ]
+    },
+    {
+        "name": "waste disposal",
+        "trans": [
+            "废石处理"
+        ]
+    },
+    {
+        "name": "waste dump",
+        "trans": [
+            "废石推"
+        ]
+    },
+    {
+        "name": "waste heap",
+        "trans": [
+            "废石推"
+        ]
+    },
+    {
+        "name": "waste land",
+        "trans": [
+            "荒地"
+        ]
+    },
+    {
+        "name": "waste products",
+        "trans": [
+            "废弃产物"
+        ]
+    },
+    {
+        "name": "waste water",
+        "trans": [
+            "废水"
+        ]
+    },
+    {
+        "name": "water",
+        "trans": [
+            "水"
+        ]
+    },
+    {
+        "name": "water absorbing capacity",
+        "trans": [
+            "吸水能力"
+        ]
+    },
+    {
+        "name": "water absorption",
+        "trans": [
+            "吸水"
+        ]
+    },
+    {
+        "name": "water balance",
+        "trans": [
+            "水均衡"
+        ]
+    },
+    {
+        "name": "water bearing bed",
+        "trans": [
+            "含水层"
+        ]
+    },
+    {
+        "name": "water budget",
+        "trans": [
+            "水量预算"
+        ]
+    },
+    {
+        "name": "water capacity",
+        "trans": [
+            "容水量"
+        ]
+    },
+    {
+        "name": "water catchment",
+        "trans": [
+            "汇水"
+        ]
+    },
+    {
+        "name": "water concentration",
+        "trans": [
+            "水选"
+        ]
+    },
+    {
+        "name": "water conservation",
+        "trans": [
+            "防止水污染"
+        ]
+    },
+    {
+        "name": "water content",
+        "trans": [
+            "含水量"
+        ]
+    },
+    {
+        "name": "water course",
+        "trans": [
+            "水道"
+        ]
+    },
+    {
+        "name": "water cycle",
+        "trans": [
+            "水分循环"
+        ]
+    },
+    {
+        "name": "water demand",
+        "trans": [
+            "需水量"
+        ]
+    },
+    {
+        "name": "water equivalent",
+        "trans": [
+            "水当量"
+        ]
+    },
+    {
+        "name": "water extract",
+        "trans": [
+            "水抽出物"
+        ]
+    },
+    {
+        "name": "water gaging",
+        "trans": [
+            "水测量"
+        ]
+    },
+    {
+        "name": "water gauge",
+        "trans": [
+            "水位标尺"
+        ]
+    },
+    {
+        "name": "water hammer",
+        "trans": [
+            "水击水锤"
+        ]
+    },
+    {
+        "name": "water injection",
+        "trans": [
+            "注水"
+        ]
+    },
+    {
+        "name": "water invasion",
+        "trans": [
+            "水侵"
+        ]
+    },
+    {
+        "name": "water jet drilling",
+        "trans": [
+            "水喷陵探"
+        ]
+    },
+    {
+        "name": "water law",
+        "trans": [
+            "水利法规"
+        ]
+    },
+    {
+        "name": "water level",
+        "trans": [
+            "水位"
+        ]
+    },
+    {
+        "name": "water meter",
+        "trans": [
+            "水量计"
+        ]
+    },
+    {
+        "name": "water of constitution",
+        "trans": [
+            "组成水"
+        ]
+    },
+    {
+        "name": "water of crystallization",
+        "trans": [
+            "结晶水"
+        ]
+    },
+    {
+        "name": "water of dehydration",
+        "trans": [
+            "脱水水"
+        ]
+    },
+    {
+        "name": "water pipe",
+        "trans": [
+            "水管"
+        ]
+    },
+    {
+        "name": "water plants",
+        "trans": [
+            "水生植物"
+        ]
+    },
+    {
+        "name": "water quality",
+        "trans": [
+            "水质"
+        ]
+    },
+    {
+        "name": "water reclamation",
+        "trans": [
+            "水改良"
+        ]
+    },
+    {
+        "name": "water relationship",
+        "trans": [
+            "水分关系"
+        ]
+    },
+    {
+        "name": "water resources",
+        "trans": [
+            "水资源"
+        ]
+    },
+    {
+        "name": "water resources management",
+        "trans": [
+            "水利资源管理"
+        ]
+    },
+    {
+        "name": "water sample",
+        "trans": [
+            "水样"
+        ]
+    },
+    {
+        "name": "water saturation",
+        "trans": [
+            "水饱和"
+        ]
+    },
+    {
+        "name": "water separator",
+        "trans": [
+            "脱水器"
+        ]
+    },
+    {
+        "name": "water shortage",
+        "trans": [
+            "水量不足"
+        ]
+    },
+    {
+        "name": "water solubility",
+        "trans": [
+            "水溶性"
+        ]
+    },
+    {
+        "name": "water stage",
+        "trans": [
+            "水位"
+        ]
+    },
+    {
+        "name": "water stage recorder",
+        "trans": [
+            "自记水位计"
+        ]
+    },
+    {
+        "name": "water surface slope",
+        "trans": [
+            "水面坡度"
+        ]
+    },
+    {
+        "name": "water table",
+        "trans": [
+            "地下水面"
+        ]
+    },
+    {
+        "name": "water use",
+        "trans": [
+            "水的利用"
+        ]
+    },
+    {
+        "name": "water vapour",
+        "trans": [
+            "水汽"
+        ]
+    },
+    {
+        "name": "water vein",
+        "trans": [
+            "水脉"
+        ]
+    },
+    {
+        "name": "water year",
+        "trans": [
+            "水文年"
+        ]
+    },
+    {
+        "name": "water yield",
+        "trans": [
+            "出水量"
+        ]
+    },
+    {
+        "name": "waterfall",
+        "trans": [
+            "瀑布"
+        ]
+    },
+    {
+        "name": "waterflood",
+        "trans": [
+            "洪水"
+        ]
+    },
+    {
+        "name": "waterlogged",
+        "trans": [
+            "渍水的"
+        ]
+    },
+    {
+        "name": "waterlogging",
+        "trans": [
+            "积水"
+        ]
+    },
+    {
+        "name": "watershed",
+        "trans": [
+            "分水岭"
+        ]
+    },
+    {
+        "name": "waterway",
+        "trans": [
+            "水道"
+        ]
+    },
+    {
+        "name": "wave analyzer",
+        "trans": [
+            "波形分析器"
+        ]
+    },
+    {
+        "name": "wave cut plain",
+        "trans": [
+            "浪蚀平原"
+        ]
+    },
+    {
+        "name": "wave cut platform",
+        "trans": [
+            "浪蚀台"
+        ]
+    },
+    {
+        "name": "wave deformation",
+        "trans": [
+            "波的变形"
+        ]
+    },
+    {
+        "name": "wave diffraction",
+        "trans": [
+            "波的统射"
+        ]
+    },
+    {
+        "name": "wave form",
+        "trans": [
+            "波形"
+        ]
+    },
+    {
+        "name": "wave front",
+        "trans": [
+            "波前"
+        ]
+    },
+    {
+        "name": "wave length",
+        "trans": [
+            "波长"
+        ]
+    },
+    {
+        "name": "wave number",
+        "trans": [
+            "波数"
+        ]
+    },
+    {
+        "name": "wave of translation",
+        "trans": [
+            "移动波"
+        ]
+    },
+    {
+        "name": "wave packet",
+        "trans": [
+            "波包"
+        ]
+    },
+    {
+        "name": "wave propagation",
+        "trans": [
+            "波的传播"
+        ]
+    },
+    {
+        "name": "wave reflection",
+        "trans": [
+            "波的反射"
+        ]
+    },
+    {
+        "name": "wave refraction",
+        "trans": [
+            "波折射"
+        ]
+    },
+    {
+        "name": "wave shape",
+        "trans": [
+            "波形"
+        ]
+    },
+    {
+        "name": "wave tail",
+        "trans": [
+            "波尾"
+        ]
+    },
+    {
+        "name": "wave train",
+        "trans": [
+            "波序"
+        ]
+    },
+    {
+        "name": "wave velocity",
+        "trans": [
+            "波速"
+        ]
+    },
+    {
+        "name": "wavellite",
+        "trans": [
+            "银星石"
+        ]
+    },
+    {
+        "name": "wavemark",
+        "trans": [
+            "波痕"
+        ]
+    },
+    {
+        "name": "wavy",
+        "trans": [
+            "波形的"
+        ]
+    },
+    {
+        "name": "wavy mosaic structure",
+        "trans": [
+            "波浪状镶嵌构造"
+        ]
+    },
+    {
+        "name": "wax",
+        "trans": [
+            "蜡"
+        ]
+    },
+    {
+        "name": "waxing development",
+        "trans": [
+            "上升发展"
+        ]
+    },
+    {
+        "name": "weak coupling theory",
+        "trans": [
+            "弱耦合理论"
+        ]
+    },
+    {
+        "name": "weak earthquake",
+        "trans": [
+            "弱震"
+        ]
+    },
+    {
+        "name": "weakly caking coal",
+        "trans": [
+            "弱粘煤"
+        ]
+    },
+    {
+        "name": "wear resistance",
+        "trans": [
+            "耐磨性"
+        ]
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "天气"
+        ]
+    },
+    {
+        "name": "weathered layer",
+        "trans": [
+            "风化层"
+        ]
+    },
+    {
+        "name": "weathering",
+        "trans": [
+            "风化酌"
+        ]
+    },
+    {
+        "name": "weathering crust",
+        "trans": [
+            "风化壳"
+        ]
+    },
+    {
+        "name": "weathering residues",
+        "trans": [
+            "风化残留物"
+        ]
+    },
+    {
+        "name": "weber",
+        "trans": [
+            "韦伯"
+        ]
+    },
+    {
+        "name": "weberite",
+        "trans": [
+            "镁冰晶石"
+        ]
+    },
+    {
+        "name": "websterite",
+        "trans": [
+            "二辉岩"
+        ]
+    },
+    {
+        "name": "wedge furnace",
+        "trans": [
+            "维吉氏焙烧炉"
+        ]
+    },
+    {
+        "name": "wedge out",
+        "trans": [
+            "尖灭"
+        ]
+    },
+    {
+        "name": "wedge storage",
+        "trans": [
+            "楔形体贮存"
+        ]
+    },
+    {
+        "name": "wedging out",
+        "trans": [
+            "尖灭"
+        ]
+    },
+    {
+        "name": "wedging out of coal seam",
+        "trans": [
+            "煤层尖灭"
+        ]
+    },
+    {
+        "name": "wegscheiderite",
+        "trans": [
+            "碳酸氢钠石"
+        ]
+    },
+    {
+        "name": "wehrlite",
+        "trans": [
+            "异剥橄榄岩"
+        ]
+    },
+    {
+        "name": "weibullite",
+        "trans": [
+            "辉硒铅铋矿"
+        ]
+    },
+    {
+        "name": "weight indicator",
+        "trans": [
+            "指重表"
+        ]
+    },
+    {
+        "name": "weight loss on heating",
+        "trans": [
+            "加热减重"
+        ]
+    },
+    {
+        "name": "weighted average",
+        "trans": [
+            "加权平均值"
+        ]
+    },
+    {
+        "name": "weighting bottle",
+        "trans": [
+            "比重瓶"
+        ]
+    },
+    {
+        "name": "weighting factor",
+        "trans": [
+            "权衡因子"
+        ]
+    },
+    {
+        "name": "weinschenkite",
+        "trans": [
+            "针磷铒矿"
+        ]
+    },
+    {
+        "name": "weissite",
+        "trans": [
+            "黑碲铜矿"
+        ]
+    },
+    {
+        "name": "welded joint",
+        "trans": [
+            "焊接"
+        ]
+    },
+    {
+        "name": "welded texture",
+        "trans": [
+            "熔结结构"
+        ]
+    },
+    {
+        "name": "welded tuff",
+        "trans": [
+            "熔结凝灰岩"
+        ]
+    },
+    {
+        "name": "welding",
+        "trans": [
+            "熔结"
+        ]
+    },
+    {
+        "name": "well",
+        "trans": [
+            "井"
+        ]
+    },
+    {
+        "name": "well alignment",
+        "trans": [
+            "井位排列"
+        ]
+    },
+    {
+        "name": "well boring",
+        "trans": [
+            "钻井"
+        ]
+    },
+    {
+        "name": "well capacity",
+        "trans": [
+            "井的出水能力"
+        ]
+    },
+    {
+        "name": "well completion",
+        "trans": [
+            "钻井完成"
+        ]
+    },
+    {
+        "name": "well construction",
+        "trans": [
+            "井组成"
+        ]
+    },
+    {
+        "name": "well development",
+        "trans": [
+            "井开发"
+        ]
+    },
+    {
+        "name": "well diameter",
+        "trans": [
+            "钻孔直径"
+        ]
+    },
+    {
+        "name": "well drilling",
+        "trans": [
+            "钻井"
+        ]
+    },
+    {
+        "name": "well field",
+        "trans": [
+            "井场"
+        ]
+    },
+    {
+        "name": "well fracturing",
+        "trans": [
+            "油井压裂"
+        ]
+    },
+    {
+        "name": "well function",
+        "trans": [
+            "井函数"
+        ]
+    },
+    {
+        "name": "well hydrograph",
+        "trans": [
+            "井孔出量过程线"
+        ]
+    },
+    {
+        "name": "well interference",
+        "trans": [
+            "井的干扰"
+        ]
+    },
+    {
+        "name": "well location",
+        "trans": [
+            "钻孔布置"
+        ]
+    },
+    {
+        "name": "well log",
+        "trans": [
+            "钻井剖面"
+        ]
+    },
+    {
+        "name": "well logging",
+        "trans": [
+            "测井"
+        ]
+    },
+    {
+        "name": "well loss",
+        "trans": [
+            "井损失"
+        ]
+    },
+    {
+        "name": "well point system",
+        "trans": [
+            "井点系统"
+        ]
+    },
+    {
+        "name": "well record",
+        "trans": [
+            "井内记录"
+        ]
+    },
+    {
+        "name": "well shooting",
+        "trans": [
+            "井下爆炸"
+        ]
+    },
+    {
+        "name": "well spacing",
+        "trans": [
+            "井距"
+        ]
+    },
+    {
+        "name": "well stimulation",
+        "trans": [
+            "井的增产措施"
+        ]
+    },
+    {
+        "name": "well treatment",
+        "trans": [
+            "钻孔处理"
+        ]
+    },
+    {
+        "name": "well tube filter",
+        "trans": [
+            "井过滤器"
+        ]
+    },
+    {
+        "name": "well yield",
+        "trans": [
+            "井的产量"
+        ]
+    },
+    {
+        "name": "wellsite",
+        "trans": [
+            "钙交沸石"
+        ]
+    },
+    {
+        "name": "wellspring",
+        "trans": [
+            "井泉"
+        ]
+    },
+    {
+        "name": "wenlock stage",
+        "trans": [
+            "文洛克阶"
+        ]
+    },
+    {
+        "name": "wenlockian",
+        "trans": [
+            "温洛克组"
+        ]
+    },
+    {
+        "name": "wennebergite",
+        "trans": [
+            "绿基正长云英斑岩"
+        ]
+    },
+    {
+        "name": "wenzelite",
+        "trans": [
+            "红磷锰矿"
+        ]
+    },
+    {
+        "name": "wernerite",
+        "trans": [
+            "方柱石"
+        ]
+    },
+    {
+        "name": "westphalian",
+        "trans": [
+            "维斯法阶"
+        ]
+    },
+    {
+        "name": "wet analysis",
+        "trans": [
+            "湿法分析"
+        ]
+    },
+    {
+        "name": "wet concentration",
+        "trans": [
+            "水选"
+        ]
+    },
+    {
+        "name": "wet gas",
+        "trans": [
+            "湿气"
+        ]
+    },
+    {
+        "name": "wet geothermal steam",
+        "trans": [
+            "地热湿蒸汽"
+        ]
+    },
+    {
+        "name": "wet grinding",
+        "trans": [
+            "湿粉碎"
+        ]
+    },
+    {
+        "name": "wettability index",
+        "trans": [
+            "润湿指数"
+        ]
+    },
+    {
+        "name": "wetted area",
+        "trans": [
+            "受湿面积"
+        ]
+    },
+    {
+        "name": "wetted perimeter",
+        "trans": [
+            "湿周"
+        ]
+    },
+    {
+        "name": "wetting angle",
+        "trans": [
+            "接触角"
+        ]
+    },
+    {
+        "name": "wewald's sphere of reflection",
+        "trans": [
+            "女阿瓦芦都的反射球"
+        ]
+    },
+    {
+        "name": "wheel shaped",
+        "trans": [
+            "辐状的"
+        ]
+    },
+    {
+        "name": "whipstock",
+        "trans": [
+            "造斜器"
+        ]
+    },
+    {
+        "name": "whirl",
+        "trans": [
+            "旋转"
+        ]
+    },
+    {
+        "name": "whirlwind",
+        "trans": [
+            "旋风"
+        ]
+    },
+    {
+        "name": "whisker",
+        "trans": [
+            "胡须结晶"
+        ]
+    },
+    {
+        "name": "white alkali soil",
+        "trans": [
+            "盐土"
+        ]
+    },
+    {
+        "name": "white coal",
+        "trans": [
+            "白炭"
+        ]
+    },
+    {
+        "name": "white jura",
+        "trans": [
+            "白侏罗统"
+        ]
+    },
+    {
+        "name": "white lead ore",
+        "trans": [
+            "白铅矿"
+        ]
+    },
+    {
+        "name": "white rock",
+        "trans": [
+            "白岩"
+        ]
+    },
+    {
+        "name": "whiteness",
+        "trans": [
+            "白度"
+        ]
+    },
+    {
+        "name": "whitlockite",
+        "trans": [
+            "磷钙矿"
+        ]
+    },
+    {
+        "name": "whitneyite",
+        "trans": [
+            "淡砷铜矿"
+        ]
+    },
+    {
+        "name": "whole pipette",
+        "trans": [
+            "全量吸移管"
+        ]
+    },
+    {
+        "name": "whorl verticillate phyllotaxis",
+        "trans": [
+            "轮生叶序"
+        ]
+    },
+    {
+        "name": "widmanstatten figure",
+        "trans": [
+            "韦代交纹象"
+        ]
+    },
+    {
+        "name": "wigtmanite",
+        "trans": [
+            "韦氏硼镁石"
+        ]
+    },
+    {
+        "name": "wiikite",
+        "trans": [
+            "黑稀金矿"
+        ]
+    },
+    {
+        "name": "wildflysch",
+        "trans": [
+            "野复理层"
+        ]
+    },
+    {
+        "name": "wilkeite",
+        "trans": [
+            "硅硫磷灰石"
+        ]
+    },
+    {
+        "name": "willemite",
+        "trans": [
+            "硅锌矿"
+        ]
+    },
+    {
+        "name": "willsonite",
+        "trans": [
+            "敛凝灰岩"
+        ]
+    },
+    {
+        "name": "willyamite",
+        "trans": [
+            "钴锑硫镍矿"
+        ]
+    },
+    {
+        "name": "wilsonite",
+        "trans": [
+            "敛凝灰岩"
+        ]
+    },
+    {
+        "name": "wilting point",
+        "trans": [
+            "萎为点"
+        ]
+    },
+    {
+        "name": "wiluite",
+        "trans": [
+            "硼符山石"
+        ]
+    },
+    {
+        "name": "wind",
+        "trans": [
+            "风"
+        ]
+    },
+    {
+        "name": "wind drift sand",
+        "trans": [
+            "飞砂"
+        ]
+    },
+    {
+        "name": "wind erosion",
+        "trans": [
+            "风蚀酌"
+        ]
+    },
+    {
+        "name": "wind erosion pillar",
+        "trans": [
+            "蕈状石"
+        ]
+    },
+    {
+        "name": "wind factor",
+        "trans": [
+            "风力因数"
+        ]
+    },
+    {
+        "name": "wind force",
+        "trans": [
+            "风力"
+        ]
+    },
+    {
+        "name": "wind pollination",
+        "trans": [
+            "风媒"
+        ]
+    },
+    {
+        "name": "wind ripples",
+        "trans": [
+            "风成波痕"
+        ]
+    },
+    {
+        "name": "wind valley",
+        "trans": [
+            "风蚀谷"
+        ]
+    },
+    {
+        "name": "windflysch",
+        "trans": [
+            "野复理石"
+        ]
+    },
+    {
+        "name": "wing",
+        "trans": [
+            "翼"
+        ]
+    },
+    {
+        "name": "wing shaped",
+        "trans": [
+            "翼状的"
+        ]
+    },
+    {
+        "name": "winning assembly",
+        "trans": [
+            "采掘设备"
+        ]
+    },
+    {
+        "name": "winning drum",
+        "trans": [
+            "卷筒提升机"
+        ]
+    },
+    {
+        "name": "winter solstice",
+        "trans": [
+            "冬至"
+        ]
+    },
+    {
+        "name": "wire line",
+        "trans": [
+            "钢丝绳"
+        ]
+    },
+    {
+        "name": "wischnewite",
+        "trans": [
+            "硫钠霞石"
+        ]
+    },
+    {
+        "name": "wischtisite",
+        "trans": [
+            "玻基粗粒玄武岩"
+        ]
+    },
+    {
+        "name": "wiserite",
+        "trans": [
+            "水镁锰矿"
+        ]
+    },
+    {
+        "name": "withamite",
+        "trans": [
+            "锰红帘石"
+        ]
+    },
+    {
+        "name": "witherite",
+        "trans": [
+            "毒重石"
+        ]
+    },
+    {
+        "name": "wittichenite",
+        "trans": [
+            "硫铋铜矿"
+        ]
+    },
+    {
+        "name": "wittite",
+        "trans": [
+            "硫硒铅铋矿"
+        ]
+    },
+    {
+        "name": "wocheinite",
+        "trans": [
+            "纯铝土矿"
+        ]
+    },
+    {
+        "name": "wodginite",
+        "trans": [
+            "铁锰锡铌钽矿"
+        ]
+    },
+    {
+        "name": "wolchonskoite",
+        "trans": [
+            "铬岭石"
+        ]
+    },
+    {
+        "name": "wolfachite",
+        "trans": [
+            "辉砷锑镍矿"
+        ]
+    },
+    {
+        "name": "wolfeite",
+        "trans": [
+            "基性磷铁锰矿"
+        ]
+    },
+    {
+        "name": "wolfram",
+        "trans": [
+            "钨"
+        ]
+    },
+    {
+        "name": "wolframite",
+        "trans": [
+            "黑钨矿"
+        ]
+    },
+    {
+        "name": "wollastonite",
+        "trans": [
+            "硅灰石"
+        ]
+    },
+    {
+        "name": "wondanite",
+        "trans": [
+            "钛云母"
+        ]
+    },
+    {
+        "name": "wood",
+        "trans": [
+            "木村"
+        ]
+    },
+    {
+        "name": "wood copper",
+        "trans": [
+            "木铜矿"
+        ]
+    },
+    {
+        "name": "wood peat",
+        "trans": [
+            "木质泥炭"
+        ]
+    },
+    {
+        "name": "woodhouseite",
+        "trans": [
+            "磷钙铝石"
+        ]
+    },
+    {
+        "name": "woody",
+        "trans": [
+            "木质的"
+        ]
+    },
+    {
+        "name": "workability of rock",
+        "trans": [
+            "岩石可采性"
+        ]
+    },
+    {
+        "name": "workable deposit",
+        "trans": [
+            "可开采矿床"
+        ]
+    },
+    {
+        "name": "workable thickness",
+        "trans": [
+            "可采厚度"
+        ]
+    },
+    {
+        "name": "working",
+        "trans": [
+            "开采"
+        ]
+    },
+    {
+        "name": "working hypothesis",
+        "trans": [
+            "工踪说"
+        ]
+    },
+    {
+        "name": "working pressure",
+        "trans": [
+            "工坠力"
+        ]
+    },
+    {
+        "name": "worms",
+        "trans": [
+            "蠕虫动物"
+        ]
+    },
+    {
+        "name": "worobieffite",
+        "trans": [
+            "红绿柱石"
+        ]
+    },
+    {
+        "name": "wrench fault",
+        "trans": [
+            "横推断层"
+        ]
+    },
+    {
+        "name": "wulfenite",
+        "trans": [
+            "钼铅矿"
+        ]
+    },
+    {
+        "name": "wurtzite",
+        "trans": [
+            "纤维锌矿"
+        ]
+    },
+    {
+        "name": "wurtzite type structure",
+        "trans": [
+            "纤维锌矿型构造"
+        ]
+    },
+    {
+        "name": "wustite",
+        "trans": [
+            "方铁矿"
+        ]
+    },
+    {
+        "name": "wyomingite",
+        "trans": [
+            "金云斑白榴岩"
+        ]
+    }
+]

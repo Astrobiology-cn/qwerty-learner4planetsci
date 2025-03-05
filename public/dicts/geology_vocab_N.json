@@ -1,0 +1,1736 @@
+[
+    {
+        "name": "nacreous layer",
+        "trans": [
+            "珍珠层"
+        ]
+    },
+    {
+        "name": "nacreous structure",
+        "trans": [
+            "珍珠构造"
+        ]
+    },
+    {
+        "name": "nacrite",
+        "trans": [
+            "珍珠陶土"
+        ]
+    },
+    {
+        "name": "nadorite",
+        "trans": [
+            "氯锑铅矿"
+        ]
+    },
+    {
+        "name": "naegite",
+        "trans": [
+            "苗木石"
+        ]
+    },
+    {
+        "name": "nagatelite",
+        "trans": [
+            "磷褐帘石"
+        ]
+    },
+    {
+        "name": "nagyagite",
+        "trans": [
+            "叶碲矿"
+        ]
+    },
+    {
+        "name": "nahcolite",
+        "trans": [
+            "重碳钠盐"
+        ]
+    },
+    {
+        "name": "nail",
+        "trans": [
+            "指甲"
+        ]
+    },
+    {
+        "name": "nakhlite",
+        "trans": [
+            "透橄无球粒陨石"
+        ]
+    },
+    {
+        "name": "nantokite",
+        "trans": [
+            "铜盐"
+        ]
+    },
+    {
+        "name": "naphthabitumen",
+        "trans": [
+            "石脑油沥青"
+        ]
+    },
+    {
+        "name": "naphthene",
+        "trans": [
+            "环烷"
+        ]
+    },
+    {
+        "name": "naphthene base crude oil",
+        "trans": [
+            "环烷基油"
+        ]
+    },
+    {
+        "name": "naphthene index",
+        "trans": [
+            "环烷烃指数"
+        ]
+    },
+    {
+        "name": "naphthenic acid",
+        "trans": [
+            "环烷酸"
+        ]
+    },
+    {
+        "name": "naphtholite",
+        "trans": [
+            "沥青页岩"
+        ]
+    },
+    {
+        "name": "nappe",
+        "trans": [
+            "推复体"
+        ]
+    },
+    {
+        "name": "narrow gorge",
+        "trans": [
+            "嶂谷"
+        ]
+    },
+    {
+        "name": "narsarsukite",
+        "trans": [
+            "短柱石"
+        ]
+    },
+    {
+        "name": "nasal bone",
+        "trans": [
+            "鼻骨"
+        ]
+    },
+    {
+        "name": "nasal capsule",
+        "trans": [
+            "鼻甲"
+        ]
+    },
+    {
+        "name": "nasal cavity",
+        "trans": [
+            "鼻腔"
+        ]
+    },
+    {
+        "name": "nasonite",
+        "trans": [
+            "氯硅钙铅矿"
+        ]
+    },
+    {
+        "name": "natality",
+        "trans": [
+            "生产率"
+        ]
+    },
+    {
+        "name": "native asphalt",
+        "trans": [
+            "天然沥青"
+        ]
+    },
+    {
+        "name": "native copper",
+        "trans": [
+            "自然铜"
+        ]
+    },
+    {
+        "name": "native element",
+        "trans": [
+            "天然元素"
+        ]
+    },
+    {
+        "name": "native gold",
+        "trans": [
+            "自然金"
+        ]
+    },
+    {
+        "name": "native mercury",
+        "trans": [
+            "自然汞"
+        ]
+    },
+    {
+        "name": "native platinum",
+        "trans": [
+            "自然铂"
+        ]
+    },
+    {
+        "name": "native silver",
+        "trans": [
+            "自然银"
+        ]
+    },
+    {
+        "name": "natrite",
+        "trans": [
+            "泡碱"
+        ]
+    },
+    {
+        "name": "natrium",
+        "trans": [
+            "钠"
+        ]
+    },
+    {
+        "name": "natrochalcite",
+        "trans": [
+            "钠铜矾"
+        ]
+    },
+    {
+        "name": "natrolite",
+        "trans": [
+            "钠沸石"
+        ]
+    },
+    {
+        "name": "natron",
+        "trans": [
+            "泡碱"
+        ]
+    },
+    {
+        "name": "natronorthoclase",
+        "trans": [
+            "钠正长石"
+        ]
+    },
+    {
+        "name": "natronsanidine",
+        "trans": [
+            "钠透长石"
+        ]
+    },
+    {
+        "name": "natrophilite",
+        "trans": [
+            "磷钠锰矿"
+        ]
+    },
+    {
+        "name": "natural asphalt",
+        "trans": [
+            "天然沥青"
+        ]
+    },
+    {
+        "name": "natural classification",
+        "trans": [
+            "自然分类"
+        ]
+    },
+    {
+        "name": "natural coke",
+        "trans": [
+            "天然焦炭"
+        ]
+    },
+    {
+        "name": "natural discharge",
+        "trans": [
+            "天然排泄"
+        ]
+    },
+    {
+        "name": "natural frequency",
+        "trans": [
+            "固有频率"
+        ]
+    },
+    {
+        "name": "natural gas",
+        "trans": [
+            "天然气"
+        ]
+    },
+    {
+        "name": "natural geologic hazard",
+        "trans": [
+            "自然地质灾害"
+        ]
+    },
+    {
+        "name": "natural heat flow",
+        "trans": [
+            "天然热流"
+        ]
+    },
+    {
+        "name": "natural levee",
+        "trans": [
+            "天然堤"
+        ]
+    },
+    {
+        "name": "natural load",
+        "trans": [
+            "自然负荷"
+        ]
+    },
+    {
+        "name": "natural products",
+        "trans": [
+            "天然产物"
+        ]
+    },
+    {
+        "name": "natural radioactive element",
+        "trans": [
+            "天然放射性元素"
+        ]
+    },
+    {
+        "name": "natural radioactivity",
+        "trans": [
+            "天然放射性"
+        ]
+    },
+    {
+        "name": "natural remanent magnetism",
+        "trans": [
+            "天然剩余磁性"
+        ]
+    },
+    {
+        "name": "natural remanent magnetization",
+        "trans": [
+            "自然残余磁化"
+        ]
+    },
+    {
+        "name": "natural selection",
+        "trans": [
+            "自然选择"
+        ]
+    },
+    {
+        "name": "natural solid bitumen",
+        "trans": [
+            "天然固体沥青"
+        ]
+    },
+    {
+        "name": "natural stream",
+        "trans": [
+            "天然河流"
+        ]
+    },
+    {
+        "name": "natural succession",
+        "trans": [
+            "自然演替"
+        ]
+    },
+    {
+        "name": "natural ventilation",
+        "trans": [
+            "自然通风"
+        ]
+    },
+    {
+        "name": "natural water",
+        "trans": [
+            "天然水"
+        ]
+    },
+    {
+        "name": "natural water level",
+        "trans": [
+            "自然水位"
+        ]
+    },
+    {
+        "name": "nature preservation",
+        "trans": [
+            "自然保护"
+        ]
+    },
+    {
+        "name": "naujakasite",
+        "trans": [
+            "瑙云母"
+        ]
+    },
+    {
+        "name": "naumannite",
+        "trans": [
+            "硒银矿"
+        ]
+    },
+    {
+        "name": "nautiloids",
+        "trans": [
+            "鹦鹉螺类"
+        ]
+    },
+    {
+        "name": "nautilus",
+        "trans": [
+            "鹦鹉螺"
+        ]
+    },
+    {
+        "name": "navicular",
+        "trans": [
+            "舟状的"
+        ]
+    },
+    {
+        "name": "neanderthal man",
+        "trans": [
+            "尼安德特人"
+        ]
+    },
+    {
+        "name": "neap tide",
+        "trans": [
+            "小潮"
+        ]
+    },
+    {
+        "name": "near earthquake",
+        "trans": [
+            "近地震"
+        ]
+    },
+    {
+        "name": "neck",
+        "trans": [
+            "岩颈"
+        ]
+    },
+    {
+        "name": "necton",
+        "trans": [
+            "自游生物"
+        ]
+    },
+    {
+        "name": "needle ironstone",
+        "trans": [
+            "针铁石"
+        ]
+    },
+    {
+        "name": "nefedievite",
+        "trans": [
+            "红坚岭石"
+        ]
+    },
+    {
+        "name": "negative crystal",
+        "trans": [
+            "负晶体"
+        ]
+    },
+    {
+        "name": "negative delta",
+        "trans": [
+            "三角湾状三角洲"
+        ]
+    },
+    {
+        "name": "negative element",
+        "trans": [
+            "阴性元素"
+        ]
+    },
+    {
+        "name": "negative ion",
+        "trans": [
+            "负离子"
+        ]
+    },
+    {
+        "name": "negative relief",
+        "trans": [
+            "负地形"
+        ]
+    },
+    {
+        "name": "negative valence",
+        "trans": [
+            "负原子价"
+        ]
+    },
+    {
+        "name": "nelsonite",
+        "trans": [
+            "钛铁磷灰岩"
+        ]
+    },
+    {
+        "name": "nemathelminthes",
+        "trans": [
+            "线形动物类"
+        ]
+    },
+    {
+        "name": "nematoblastic",
+        "trans": [
+            "纤状变晶质"
+        ]
+    },
+    {
+        "name": "nematomorphic",
+        "trans": [
+            "纤维状的"
+        ]
+    },
+    {
+        "name": "nemerteans",
+        "trans": [
+            "纽形动物类"
+        ]
+    },
+    {
+        "name": "nenadkevite",
+        "trans": [
+            "硅钙铅铀矿"
+        ]
+    },
+    {
+        "name": "neo ice age",
+        "trans": [
+            "新冰期"
+        ]
+    },
+    {
+        "name": "neocomian",
+        "trans": [
+            "尼欧克姆阶"
+        ]
+    },
+    {
+        "name": "neodymium",
+        "trans": [
+            "钕"
+        ]
+    },
+    {
+        "name": "neogene",
+        "trans": [
+            "新第三纪"
+        ]
+    },
+    {
+        "name": "neoglaciation",
+        "trans": [
+            "新冰期"
+        ]
+    },
+    {
+        "name": "neolite",
+        "trans": [
+            "新石"
+        ]
+    },
+    {
+        "name": "neolithic age",
+        "trans": [
+            "新石票代"
+        ]
+    },
+    {
+        "name": "neolithic era",
+        "trans": [
+            "新石票代"
+        ]
+    },
+    {
+        "name": "neometamorphism",
+        "trans": [
+            "新变质酌"
+        ]
+    },
+    {
+        "name": "neon",
+        "trans": [
+            "氖"
+        ]
+    },
+    {
+        "name": "neotantalite",
+        "trans": [
+            "黄钽铁矿"
+        ]
+    },
+    {
+        "name": "neotectonic element",
+        "trans": [
+            "新构造单元"
+        ]
+    },
+    {
+        "name": "neotectonic period",
+        "trans": [
+            "新构造期"
+        ]
+    },
+    {
+        "name": "neotectonics",
+        "trans": [
+            "新构造学"
+        ]
+    },
+    {
+        "name": "neoteny",
+        "trans": [
+            "幼态持续"
+        ]
+    },
+    {
+        "name": "neotocite",
+        "trans": [
+            "水锰辉石"
+        ]
+    },
+    {
+        "name": "neotropical region",
+        "trans": [
+            "新热带区"
+        ]
+    },
+    {
+        "name": "neotype",
+        "trans": [
+            "新模"
+        ]
+    },
+    {
+        "name": "neozoic era",
+        "trans": [
+            "新生代"
+        ]
+    },
+    {
+        "name": "nepheline",
+        "trans": [
+            "霞石"
+        ]
+    },
+    {
+        "name": "nepheline basalt",
+        "trans": [
+            "霞石玄武岩"
+        ]
+    },
+    {
+        "name": "nepheline porphyry",
+        "trans": [
+            "霞石斑岩"
+        ]
+    },
+    {
+        "name": "nepheline syenite",
+        "trans": [
+            "霞石正长岩"
+        ]
+    },
+    {
+        "name": "nephelinite",
+        "trans": [
+            "霞石岩"
+        ]
+    },
+    {
+        "name": "nephelinization",
+        "trans": [
+            "霞石化"
+        ]
+    },
+    {
+        "name": "nephelometry",
+        "trans": [
+            "浊度测定"
+        ]
+    },
+    {
+        "name": "nephrite",
+        "trans": [
+            "软玉"
+        ]
+    },
+    {
+        "name": "nepouite",
+        "trans": [
+            "镍绿泥石"
+        ]
+    },
+    {
+        "name": "neptunian theory",
+        "trans": [
+            "水成论"
+        ]
+    },
+    {
+        "name": "neptunism",
+        "trans": [
+            "水成论"
+        ]
+    },
+    {
+        "name": "neptunium",
+        "trans": [
+            "镎"
+        ]
+    },
+    {
+        "name": "neritic sea",
+        "trans": [
+            "浅海"
+        ]
+    },
+    {
+        "name": "neritic sediments",
+        "trans": [
+            "浅海沉积"
+        ]
+    },
+    {
+        "name": "nerve",
+        "trans": [
+            "叶脉"
+        ]
+    },
+    {
+        "name": "nesosilicates",
+        "trans": [
+            "岛状硅酸盐"
+        ]
+    },
+    {
+        "name": "nest like ore body",
+        "trans": [
+            "鸡窝状矿体"
+        ]
+    },
+    {
+        "name": "net",
+        "trans": [
+            "网"
+        ]
+    },
+    {
+        "name": "net production",
+        "trans": [
+            "净产量"
+        ]
+    },
+    {
+        "name": "netted venation",
+        "trans": [
+            "网状脉"
+        ]
+    },
+    {
+        "name": "network structure",
+        "trans": [
+            "网状结构"
+        ]
+    },
+    {
+        "name": "neutral humus",
+        "trans": [
+            "中性腐殖质"
+        ]
+    },
+    {
+        "name": "neutral micelle",
+        "trans": [
+            "中性胶粒"
+        ]
+    },
+    {
+        "name": "neutrality point",
+        "trans": [
+            "中性点"
+        ]
+    },
+    {
+        "name": "neutron",
+        "trans": [
+            "中子"
+        ]
+    },
+    {
+        "name": "neutron activation analysis",
+        "trans": [
+            "中子活化分析"
+        ]
+    },
+    {
+        "name": "neutron capture",
+        "trans": [
+            "中子捕获"
+        ]
+    },
+    {
+        "name": "neutron diffraction",
+        "trans": [
+            "中子衍射"
+        ]
+    },
+    {
+        "name": "neutron energy",
+        "trans": [
+            "中子能量"
+        ]
+    },
+    {
+        "name": "超热中子测井  neutron epithermal neutron log",
+        "trans": [
+            "中子"
+        ]
+    },
+    {
+        "name": "neutron generator",
+        "trans": [
+            "中子发生器"
+        ]
+    },
+    {
+        "name": "neutron multiplication factor",
+        "trans": [
+            "中子的增殖系数"
+        ]
+    },
+    {
+        "name": "中子测井  neutron neutron log",
+        "trans": [
+            "中子"
+        ]
+    },
+    {
+        "name": "neutron proton ratio",
+        "trans": [
+            "中子数与质子数比率"
+        ]
+    },
+    {
+        "name": "neutron source",
+        "trans": [
+            "中子源"
+        ]
+    },
+    {
+        "name": "热中子测井  neutron thermal neutron log",
+        "trans": [
+            "中子"
+        ]
+    },
+    {
+        "name": "nevadite",
+        "trans": [
+            "斑烈"
+        ]
+    },
+    {
+        "name": "neve",
+        "trans": [
+            "粒雪"
+        ]
+    },
+    {
+        "name": "neve basin",
+        "trans": [
+            "粒雪盆"
+        ]
+    },
+    {
+        "name": "new global tectonics",
+        "trans": [
+            "新全球构造学"
+        ]
+    },
+    {
+        "name": "new world",
+        "trans": [
+            "新世界"
+        ]
+    },
+    {
+        "name": "newberyite",
+        "trans": [
+            "镁磷石"
+        ]
+    },
+    {
+        "name": "newlandite",
+        "trans": [
+            "顽火榴辉石"
+        ]
+    },
+    {
+        "name": "newyanskite",
+        "trans": [
+            "亮铱锇矿"
+        ]
+    },
+    {
+        "name": "nickel",
+        "trans": [
+            "镍"
+        ]
+    },
+    {
+        "name": "nickel ore",
+        "trans": [
+            "镍矿"
+        ]
+    },
+    {
+        "name": "nicol's prisma",
+        "trans": [
+            "尼科耳棱镜"
+        ]
+    },
+    {
+        "name": "nicolayite",
+        "trans": [
+            "硅铅钍铀矿"
+        ]
+    },
+    {
+        "name": "nife",
+        "trans": [
+            "镍铁带"
+        ]
+    },
+    {
+        "name": "niggli value",
+        "trans": [
+            "尼格理值"
+        ]
+    },
+    {
+        "name": "niggliite",
+        "trans": [
+            "碲铂矿"
+        ]
+    },
+    {
+        "name": "niobite",
+        "trans": [
+            "铌铁矿"
+        ]
+    },
+    {
+        "name": "niobium",
+        "trans": [
+            "铌"
+        ]
+    },
+    {
+        "name": "nitrate",
+        "trans": [
+            "硝酸盐"
+        ]
+    },
+    {
+        "name": "nitratine",
+        "trans": [
+            "钠硝石"
+        ]
+    },
+    {
+        "name": "nitratite",
+        "trans": [
+            "钠硝石"
+        ]
+    },
+    {
+        "name": "nitric acid",
+        "trans": [
+            "硝酸"
+        ]
+    },
+    {
+        "name": "nitrification",
+        "trans": [
+            "硝化酌"
+        ]
+    },
+    {
+        "name": "nitrifying bacteria",
+        "trans": [
+            "硝化细菌"
+        ]
+    },
+    {
+        "name": "nitrite",
+        "trans": [
+            "亚硝酸盐"
+        ]
+    },
+    {
+        "name": "nitrobaryte",
+        "trans": [
+            "钡硝石"
+        ]
+    },
+    {
+        "name": "nitrocalcite",
+        "trans": [
+            "钙硝石"
+        ]
+    },
+    {
+        "name": "nitrogen",
+        "trans": [
+            "氮"
+        ]
+    },
+    {
+        "name": "nitrogen compounds in petroleum",
+        "trans": [
+            "石油含氮化合物"
+        ]
+    },
+    {
+        "name": "nitrogen content of coal",
+        "trans": [
+            "煤中氮"
+        ]
+    },
+    {
+        "name": "nitrogen cycle",
+        "trans": [
+            "氮循环"
+        ]
+    },
+    {
+        "name": "nitromagnesite",
+        "trans": [
+            "镁硝石"
+        ]
+    },
+    {
+        "name": "nitronatrite",
+        "trans": [
+            "钠硝石"
+        ]
+    },
+    {
+        "name": "nitrous acid",
+        "trans": [
+            "亚硝酸"
+        ]
+    },
+    {
+        "name": "nival belt",
+        "trans": [
+            "雪带"
+        ]
+    },
+    {
+        "name": "nivation",
+        "trans": [
+            "雪蚀酌"
+        ]
+    },
+    {
+        "name": "nivenite",
+        "trans": [
+            "钇铀矿"
+        ]
+    },
+    {
+        "name": "nobelium",
+        "trans": [
+            "锘"
+        ]
+    },
+    {
+        "name": "noble metal",
+        "trans": [
+            "贵金属"
+        ]
+    },
+    {
+        "name": "noble opal",
+        "trans": [
+            "贵蛋白石"
+        ]
+    },
+    {
+        "name": "nocerite",
+        "trans": [
+            "针六方石"
+        ]
+    },
+    {
+        "name": "node",
+        "trans": [
+            "节"
+        ]
+    },
+    {
+        "name": "nodular",
+        "trans": [
+            "结核状的"
+        ]
+    },
+    {
+        "name": "nodule",
+        "trans": [
+            "结核;结枝"
+        ]
+    },
+    {
+        "name": "nomenclature",
+        "trans": [
+            "命名法"
+        ]
+    },
+    {
+        "name": "nominal",
+        "trans": [
+            "命名的"
+        ]
+    },
+    {
+        "name": "nominal diameter",
+        "trans": [
+            "标称直径"
+        ]
+    },
+    {
+        "name": "nomogram",
+        "trans": [
+            "列线图"
+        ]
+    },
+    {
+        "name": "non polar bond",
+        "trans": [
+            "非极性键"
+        ]
+    },
+    {
+        "name": "non polar linkage",
+        "trans": [
+            "非极性键"
+        ]
+    },
+    {
+        "name": "nonadiabatic change",
+        "trans": [
+            "非绝热变化"
+        ]
+    },
+    {
+        "name": "nonangular unconformity",
+        "trans": [
+            "假整合"
+        ]
+    },
+    {
+        "name": "nonbedded",
+        "trans": [
+            "非成层的"
+        ]
+    },
+    {
+        "name": "nonbonding electron",
+        "trans": [
+            "非结合电子"
+        ]
+    },
+    {
+        "name": "noncoking coal",
+        "trans": [
+            "非粘结性煤"
+        ]
+    },
+    {
+        "name": "noncommercial reserves",
+        "trans": [
+            "表外储量"
+        ]
+    },
+    {
+        "name": "nonconformity",
+        "trans": [
+            "不整合"
+        ]
+    },
+    {
+        "name": "nondiastrophism",
+        "trans": [
+            "非构造变动"
+        ]
+    },
+    {
+        "name": "nonequilibrium state",
+        "trans": [
+            "非平衡状态"
+        ]
+    },
+    {
+        "name": "nonferrous metal",
+        "trans": [
+            "非铁金属"
+        ]
+    },
+    {
+        "name": "nonmetal",
+        "trans": [
+            "非金属"
+        ]
+    },
+    {
+        "name": "nonpolar",
+        "trans": [
+            "非极性的"
+        ]
+    },
+    {
+        "name": "nonpolar molecule",
+        "trans": [
+            "非极性分子"
+        ]
+    },
+    {
+        "name": "nonpolarizing electrode",
+        "trans": [
+            "不极化电极"
+        ]
+    },
+    {
+        "name": "nonrotational deformation",
+        "trans": [
+            "非转动变形"
+        ]
+    },
+    {
+        "name": "nonsequent fold",
+        "trans": [
+            "限制褶皱"
+        ]
+    },
+    {
+        "name": "nonsteady",
+        "trans": [
+            "非稳定的"
+        ]
+    },
+    {
+        "name": "nontectonic joint",
+        "trans": [
+            "非构造节理"
+        ]
+    },
+    {
+        "name": "nontectonic process",
+        "trans": [
+            "非构造酌"
+        ]
+    },
+    {
+        "name": "nontronite",
+        "trans": [
+            "绿脱石"
+        ]
+    },
+    {
+        "name": "nonuniformity",
+        "trans": [
+            "不均匀性"
+        ]
+    },
+    {
+        "name": "norbergite",
+        "trans": [
+            "块硅镁石"
+        ]
+    },
+    {
+        "name": "nordite",
+        "trans": [
+            "硅钠锶镧石"
+        ]
+    },
+    {
+        "name": "nordmarkite",
+        "trans": [
+            "英碱正长岩"
+        ]
+    },
+    {
+        "name": "norian stage",
+        "trans": [
+            "诺利克阶"
+        ]
+    },
+    {
+        "name": "noric stage",
+        "trans": [
+            "诺利克阶"
+        ]
+    },
+    {
+        "name": "norite",
+        "trans": [
+            "苏长岩"
+        ]
+    },
+    {
+        "name": "norm",
+        "trans": [
+            "标准矿物成分"
+        ]
+    },
+    {
+        "name": "normal curve",
+        "trans": [
+            "标准曲线"
+        ]
+    },
+    {
+        "name": "normal depth",
+        "trans": [
+            "正常深度"
+        ]
+    },
+    {
+        "name": "normal device",
+        "trans": [
+            "电位电极系"
+        ]
+    },
+    {
+        "name": "normal dispersion",
+        "trans": [
+            "正常色散"
+        ]
+    },
+    {
+        "name": "normal distribution",
+        "trans": [
+            "正态分布"
+        ]
+    },
+    {
+        "name": "normal electric field",
+        "trans": [
+            "正常电场"
+        ]
+    },
+    {
+        "name": "normal epoch",
+        "trans": [
+            "正常时期"
+        ]
+    },
+    {
+        "name": "normal fault",
+        "trans": [
+            "正断层"
+        ]
+    },
+    {
+        "name": "normal field",
+        "trans": [
+            "正常场"
+        ]
+    },
+    {
+        "name": "normal fold",
+        "trans": [
+            "正褶皱"
+        ]
+    },
+    {
+        "name": "normal geomagnetic porality epoch",
+        "trans": [
+            "正磁极期"
+        ]
+    },
+    {
+        "name": "normal gravity",
+        "trans": [
+            "正常重力"
+        ]
+    },
+    {
+        "name": "normal magnetic field",
+        "trans": [
+            "正常磁场"
+        ]
+    },
+    {
+        "name": "normal metamorphism of coal",
+        "trans": [
+            "煤正常变质"
+        ]
+    },
+    {
+        "name": "normal order",
+        "trans": [
+            "正常层序"
+        ]
+    },
+    {
+        "name": "normal projection",
+        "trans": [
+            "正轴投影"
+        ]
+    },
+    {
+        "name": "normal solution",
+        "trans": [
+            "规定溶液"
+        ]
+    },
+    {
+        "name": "normal state",
+        "trans": [
+            "正常态"
+        ]
+    },
+    {
+        "name": "normal stress",
+        "trans": [
+            "法向应力"
+        ]
+    },
+    {
+        "name": "normal succession",
+        "trans": [
+            "正常层序"
+        ]
+    },
+    {
+        "name": "normal temperature",
+        "trans": [
+            "正常温度"
+        ]
+    },
+    {
+        "name": "normal velocity",
+        "trans": [
+            "法向速度"
+        ]
+    },
+    {
+        "name": "normal vibration",
+        "trans": [
+            "简正振动"
+        ]
+    },
+    {
+        "name": "normality",
+        "trans": [
+            "规定浓度"
+        ]
+    },
+    {
+        "name": "normative mineral",
+        "trans": [
+            "标准矿物"
+        ]
+    },
+    {
+        "name": "norsethite",
+        "trans": [
+            "菱钡镁石"
+        ]
+    },
+    {
+        "name": "north atlantic massif",
+        "trans": [
+            "北大误地块"
+        ]
+    },
+    {
+        "name": "north latitude",
+        "trans": [
+            "北纬"
+        ]
+    },
+    {
+        "name": "north pole",
+        "trans": [
+            "北极"
+        ]
+    },
+    {
+        "name": "northeast pacific ridge",
+        "trans": [
+            "北潍平洋海岭"
+        ]
+    },
+    {
+        "name": "northern alpine foreland",
+        "trans": [
+            "北部阿尔卑斯前沿地"
+        ]
+    },
+    {
+        "name": "nosean",
+        "trans": [
+            "方石"
+        ]
+    },
+    {
+        "name": "noseanite",
+        "trans": [
+            "方岩"
+        ]
+    },
+    {
+        "name": "noselite",
+        "trans": [
+            "方石"
+        ]
+    },
+    {
+        "name": "notochord",
+        "trans": [
+            "脊索"
+        ]
+    },
+    {
+        "name": "noumeite",
+        "trans": [
+            "滑硅镍矿"
+        ]
+    },
+    {
+        "name": "novacekite",
+        "trans": [
+            "水砷镁铀矿"
+        ]
+    },
+    {
+        "name": "nuclear binding energy",
+        "trans": [
+            "核结合能"
+        ]
+    },
+    {
+        "name": "nuclear charge",
+        "trans": [
+            "核电荷"
+        ]
+    },
+    {
+        "name": "nuclear chemistry",
+        "trans": [
+            "核化学"
+        ]
+    },
+    {
+        "name": "nuclear disintegration",
+        "trans": [
+            "核衰变"
+        ]
+    },
+    {
+        "name": "nuclear emulsion",
+        "trans": [
+            "原子核照相乳胶"
+        ]
+    },
+    {
+        "name": "nuclear energy level",
+        "trans": [
+            "核能级"
+        ]
+    },
+    {
+        "name": "nuclear fuel",
+        "trans": [
+            "核燃料"
+        ]
+    },
+    {
+        "name": "nuclear geology",
+        "trans": [
+            "核地质学"
+        ]
+    },
+    {
+        "name": "nuclear magnetic log",
+        "trans": [
+            "核磁测井"
+        ]
+    },
+    {
+        "name": "nuclear magnetic moment",
+        "trans": [
+            "核磁矩"
+        ]
+    },
+    {
+        "name": "nuclear magnetic resonance",
+        "trans": [
+            "核磁共振"
+        ]
+    },
+    {
+        "name": "nuclear model",
+        "trans": [
+            "核模型"
+        ]
+    },
+    {
+        "name": "nuclear separation",
+        "trans": [
+            "核分离"
+        ]
+    },
+    {
+        "name": "nuclear stability",
+        "trans": [
+            "核稳定性"
+        ]
+    },
+    {
+        "name": "nucleic acid",
+        "trans": [
+            "核酸"
+        ]
+    },
+    {
+        "name": "nuclen",
+        "trans": [
+            "核子"
+        ]
+    },
+    {
+        "name": "nucleostratigraphy",
+        "trans": [
+            "核地层学"
+        ]
+    },
+    {
+        "name": "nucleus of crystallization",
+        "trans": [
+            "晶核"
+        ]
+    },
+    {
+        "name": "nuclide",
+        "trans": [
+            "核素"
+        ]
+    },
+    {
+        "name": "nuclide chart",
+        "trans": [
+            "同位素表"
+        ]
+    },
+    {
+        "name": "nugget",
+        "trans": [
+            "块金"
+        ]
+    },
+    {
+        "name": "null valence",
+        "trans": [
+            "零价"
+        ]
+    },
+    {
+        "name": "number of free radicals",
+        "trans": [
+            "自由基数"
+        ]
+    },
+    {
+        "name": "numerical method",
+        "trans": [
+            "数值法"
+        ]
+    },
+    {
+        "name": "numerical solution",
+        "trans": [
+            "数值解"
+        ]
+    },
+    {
+        "name": "nummulites",
+        "trans": [
+            "货币石类"
+        ]
+    },
+    {
+        "name": "nunatak",
+        "trans": [
+            "冰原石山"
+        ]
+    },
+    {
+        "name": "nutrient",
+        "trans": [
+            "养分"
+        ]
+    },
+    {
+        "name": "nutrition",
+        "trans": [
+            "营养"
+        ]
+    },
+    {
+        "name": "nutritive salt",
+        "trans": [
+            "营养盐"
+        ]
+    },
+    {
+        "name": "nutritive substance",
+        "trans": [
+            "养分"
+        ]
+    },
+    {
+        "name": "nutritive value",
+        "trans": [
+            "营养价值"
+        ]
+    },
+    {
+        "name": "nutty structure",
+        "trans": [
+            "核状结构"
+        ]
+    }
+]

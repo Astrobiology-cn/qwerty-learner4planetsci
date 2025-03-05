@@ -1,0 +1,5168 @@
+[
+    {
+        "name": "r factor",
+        "trans": [
+            "因子"
+        ]
+    },
+    {
+        "name": "r tectonite",
+        "trans": [
+            "构造岩"
+        ]
+    },
+    {
+        "name": "rabbitite",
+        "trans": [
+            "针钙镁铀矿"
+        ]
+    },
+    {
+        "name": "racewinite",
+        "trans": [
+            "变色柱石"
+        ]
+    },
+    {
+        "name": "rachis",
+        "trans": [
+            "叶轴"
+        ]
+    },
+    {
+        "name": "racial character",
+        "trans": [
+            "人种的特征"
+        ]
+    },
+    {
+        "name": "racial characteristics",
+        "trans": [
+            "人种的特征"
+        ]
+    },
+    {
+        "name": "rad",
+        "trans": [
+            "拉德"
+        ]
+    },
+    {
+        "name": "radar",
+        "trans": [
+            "雷达"
+        ]
+    },
+    {
+        "name": "radar observation",
+        "trans": [
+            "雷达观测"
+        ]
+    },
+    {
+        "name": "radar sonde",
+        "trans": [
+            "无线电测风仪"
+        ]
+    },
+    {
+        "name": "radiaion excitation",
+        "trans": [
+            "辐射激发"
+        ]
+    },
+    {
+        "name": "radial",
+        "trans": [
+            "放射状的"
+        ]
+    },
+    {
+        "name": "radial bundle",
+        "trans": [
+            "辐射维管束"
+        ]
+    },
+    {
+        "name": "radial dikes",
+        "trans": [
+            "放射状岩脉群"
+        ]
+    },
+    {
+        "name": "radial fault",
+        "trans": [
+            "放射状断层"
+        ]
+    },
+    {
+        "name": "radial flow",
+        "trans": [
+            "径向怜"
+        ]
+    },
+    {
+        "name": "radial rift",
+        "trans": [
+            "放射断裂"
+        ]
+    },
+    {
+        "name": "radial symmetry",
+        "trans": [
+            "径向对称"
+        ]
+    },
+    {
+        "name": "radial vascular bundle",
+        "trans": [
+            "辐射维管束"
+        ]
+    },
+    {
+        "name": "radiant energy",
+        "trans": [
+            "辐射能"
+        ]
+    },
+    {
+        "name": "radiation balance",
+        "trans": [
+            "辐射平衡"
+        ]
+    },
+    {
+        "name": "radiation balance of earth",
+        "trans": [
+            "地球辐射平衡"
+        ]
+    },
+    {
+        "name": "radiation chemical process",
+        "trans": [
+            "辐射化学过程"
+        ]
+    },
+    {
+        "name": "radiation chemical reaction",
+        "trans": [
+            "辐射化学反应"
+        ]
+    },
+    {
+        "name": "radiation chemistry",
+        "trans": [
+            "放射线化学"
+        ]
+    },
+    {
+        "name": "radiation counter",
+        "trans": [
+            "辐射计数管"
+        ]
+    },
+    {
+        "name": "radiation damage",
+        "trans": [
+            "放射线破坏"
+        ]
+    },
+    {
+        "name": "radiation decomposition",
+        "trans": [
+            "辐射分解"
+        ]
+    },
+    {
+        "name": "radiation density",
+        "trans": [
+            "辐射密度"
+        ]
+    },
+    {
+        "name": "radiation detector",
+        "trans": [
+            "辐射探测器"
+        ]
+    },
+    {
+        "name": "radiation dose",
+        "trans": [
+            "辐射剂量"
+        ]
+    },
+    {
+        "name": "radiation effect",
+        "trans": [
+            "辐射酌"
+        ]
+    },
+    {
+        "name": "radiation intensity",
+        "trans": [
+            "辐射强度"
+        ]
+    },
+    {
+        "name": "radiation inversion",
+        "trans": [
+            "辐射逆温"
+        ]
+    },
+    {
+        "name": "radiation length",
+        "trans": [
+            "辐射长度"
+        ]
+    },
+    {
+        "name": "radiation shielding",
+        "trans": [
+            "辐射防护"
+        ]
+    },
+    {
+        "name": "radiative collision",
+        "trans": [
+            "非弹性碰撞"
+        ]
+    },
+    {
+        "name": "radio luminescence",
+        "trans": [
+            "射线发光"
+        ]
+    },
+    {
+        "name": "radio wave method",
+        "trans": [
+            "无线电波法"
+        ]
+    },
+    {
+        "name": "radioactivation analysis",
+        "trans": [
+            "放射化分析"
+        ]
+    },
+    {
+        "name": "radioactive anomaly",
+        "trans": [
+            "放射性异常"
+        ]
+    },
+    {
+        "name": "radioactive balance",
+        "trans": [
+            "放射平衡"
+        ]
+    },
+    {
+        "name": "radioactive chain",
+        "trans": [
+            "放射性衰变链"
+        ]
+    },
+    {
+        "name": "radioactive cobalt",
+        "trans": [
+            "放射性钴"
+        ]
+    },
+    {
+        "name": "radioactive constant",
+        "trans": [
+            "放射常数"
+        ]
+    },
+    {
+        "name": "radioactive contamination",
+        "trans": [
+            "放射性沾染"
+        ]
+    },
+    {
+        "name": "radioactive decay",
+        "trans": [
+            "放射性衰变"
+        ]
+    },
+    {
+        "name": "radioactive decontamination",
+        "trans": [
+            "消除放射性"
+        ]
+    },
+    {
+        "name": "radioactive deposit",
+        "trans": [
+            "放射性沉淀物"
+        ]
+    },
+    {
+        "name": "radioactive element",
+        "trans": [
+            "放射元素"
+        ]
+    },
+    {
+        "name": "radioactive equilibrium",
+        "trans": [
+            "放射平衡"
+        ]
+    },
+    {
+        "name": "radioactive etalon",
+        "trans": [
+            "放射能标准源"
+        ]
+    },
+    {
+        "name": "radioactive fallout",
+        "trans": [
+            "放射性沉降"
+        ]
+    },
+    {
+        "name": "radioactive family",
+        "trans": [
+            "放射系"
+        ]
+    },
+    {
+        "name": "radioactive fission product",
+        "trans": [
+            "放射性裂变产物"
+        ]
+    },
+    {
+        "name": "radioactive half life",
+        "trans": [
+            "放射性物质的半衰期"
+        ]
+    },
+    {
+        "name": "radioactive iron",
+        "trans": [
+            "放射性铁"
+        ]
+    },
+    {
+        "name": "radioactive isotope",
+        "trans": [
+            "放射性同位素"
+        ]
+    },
+    {
+        "name": "radioactive logging",
+        "trans": [
+            "放射能测井"
+        ]
+    },
+    {
+        "name": "radioactive material",
+        "trans": [
+            "放射性物质"
+        ]
+    },
+    {
+        "name": "radioactive mineral",
+        "trans": [
+            "放射矿物"
+        ]
+    },
+    {
+        "name": "radioactive mineral spring",
+        "trans": [
+            "放射性矿泉"
+        ]
+    },
+    {
+        "name": "radioactive prospecting",
+        "trans": [
+            "放射性勘探"
+        ]
+    },
+    {
+        "name": "radioactive radiation",
+        "trans": [
+            "放射性辐射线"
+        ]
+    },
+    {
+        "name": "radioactive rare metal",
+        "trans": [
+            "放射性稀有金属"
+        ]
+    },
+    {
+        "name": "radioactive sample",
+        "trans": [
+            "放射性样品"
+        ]
+    },
+    {
+        "name": "radioactive series",
+        "trans": [
+            "放射系"
+        ]
+    },
+    {
+        "name": "radioactive source",
+        "trans": [
+            "放射源"
+        ]
+    },
+    {
+        "name": "radioactive substance",
+        "trans": [
+            "放射性物质"
+        ]
+    },
+    {
+        "name": "radioactive tracer",
+        "trans": [
+            "放射性示踪"
+        ]
+    },
+    {
+        "name": "radioactive tracer logging",
+        "trans": [
+            "放射性示踪测井"
+        ]
+    },
+    {
+        "name": "radioactive tracer method",
+        "trans": [
+            "放射性示踪剂法"
+        ]
+    },
+    {
+        "name": "radioactive transformation",
+        "trans": [
+            "放射性转化"
+        ]
+    },
+    {
+        "name": "radioactive unit",
+        "trans": [
+            "放射性单位"
+        ]
+    },
+    {
+        "name": "radioactivity",
+        "trans": [
+            "放射性"
+        ]
+    },
+    {
+        "name": "radioactivity logging",
+        "trans": [
+            "放射能测井"
+        ]
+    },
+    {
+        "name": "radioactivity survey",
+        "trans": [
+            "放射性勘探"
+        ]
+    },
+    {
+        "name": "radiobaryte",
+        "trans": [
+            "镭重晶石"
+        ]
+    },
+    {
+        "name": "radiobiologic action",
+        "trans": [
+            "放射性生物酌"
+        ]
+    },
+    {
+        "name": "radiobiology",
+        "trans": [
+            "放射生物学"
+        ]
+    },
+    {
+        "name": "radiocarbon",
+        "trans": [
+            "射碳"
+        ]
+    },
+    {
+        "name": "radiocarbon age",
+        "trans": [
+            "放射性碳年令"
+        ]
+    },
+    {
+        "name": "radiocarbon dating",
+        "trans": [
+            "放射性碳测定年代"
+        ]
+    },
+    {
+        "name": "radiochemical analysis",
+        "trans": [
+            "放射化学分析"
+        ]
+    },
+    {
+        "name": "radiochemistry",
+        "trans": [
+            "放射化学"
+        ]
+    },
+    {
+        "name": "radiochronology",
+        "trans": [
+            "放射年代学"
+        ]
+    },
+    {
+        "name": "radiocobalt",
+        "trans": [
+            "放射性钴"
+        ]
+    },
+    {
+        "name": "radiocolloid",
+        "trans": [
+            "放射性胶质"
+        ]
+    },
+    {
+        "name": "radioelement",
+        "trans": [
+            "放射元素"
+        ]
+    },
+    {
+        "name": "radiogeochemistry",
+        "trans": [
+            "放射地球化学"
+        ]
+    },
+    {
+        "name": "radiogoniometer",
+        "trans": [
+            "无线电测角器"
+        ]
+    },
+    {
+        "name": "radiographic contrast",
+        "trans": [
+            "射线照像对照"
+        ]
+    },
+    {
+        "name": "radiography",
+        "trans": [
+            "射线照相术"
+        ]
+    },
+    {
+        "name": "radiohydrogeology",
+        "trans": [
+            "放射水文地质学"
+        ]
+    },
+    {
+        "name": "radioisotope",
+        "trans": [
+            "放射性同位素"
+        ]
+    },
+    {
+        "name": "radioisotope indicator",
+        "trans": [
+            "放射性指示剂"
+        ]
+    },
+    {
+        "name": "radiolaria",
+        "trans": [
+            "放射虫"
+        ]
+    },
+    {
+        "name": "radiolarian ooze",
+        "trans": [
+            "放射虫软泥"
+        ]
+    },
+    {
+        "name": "radiolarian rock",
+        "trans": [
+            "放射虫岩"
+        ]
+    },
+    {
+        "name": "radiolarian slate",
+        "trans": [
+            "放射虫片岩"
+        ]
+    },
+    {
+        "name": "radiolarite",
+        "trans": [
+            "放射虫岩"
+        ]
+    },
+    {
+        "name": "radiolite",
+        "trans": [
+            "钠沸石"
+        ]
+    },
+    {
+        "name": "radiolitic",
+        "trans": [
+            "放射状的"
+        ]
+    },
+    {
+        "name": "radiology",
+        "trans": [
+            "放射学"
+        ]
+    },
+    {
+        "name": "radiolysis",
+        "trans": [
+            "放射性分解"
+        ]
+    },
+    {
+        "name": "radiometer",
+        "trans": [
+            "放射量计"
+        ]
+    },
+    {
+        "name": "radiometric analysis",
+        "trans": [
+            "放射测量分析"
+        ]
+    },
+    {
+        "name": "radiometric sampling",
+        "trans": [
+            "放射取样法"
+        ]
+    },
+    {
+        "name": "radiometry",
+        "trans": [
+            "辐射测量术"
+        ]
+    },
+    {
+        "name": "radionuclide",
+        "trans": [
+            "放射性核素"
+        ]
+    },
+    {
+        "name": "radiophyllite",
+        "trans": [
+            "水硅灰石"
+        ]
+    },
+    {
+        "name": "radiosonde observation",
+        "trans": [
+            "无线电探空"
+        ]
+    },
+    {
+        "name": "radiotracer",
+        "trans": [
+            "放射性指示剂"
+        ]
+    },
+    {
+        "name": "radiotracer method",
+        "trans": [
+            "放射性示踪剂法"
+        ]
+    },
+    {
+        "name": "radium",
+        "trans": [
+            "镭"
+        ]
+    },
+    {
+        "name": "radium age",
+        "trans": [
+            "镭龄"
+        ]
+    },
+    {
+        "name": "radium emanation",
+        "trans": [
+            "镭射气"
+        ]
+    },
+    {
+        "name": "radium series",
+        "trans": [
+            "镭系"
+        ]
+    },
+    {
+        "name": "radium source",
+        "trans": [
+            "镭源"
+        ]
+    },
+    {
+        "name": "radium spring",
+        "trans": [
+            "镭泉"
+        ]
+    },
+    {
+        "name": "radium standard",
+        "trans": [
+            "镭标准源"
+        ]
+    },
+    {
+        "name": "radius of action",
+        "trans": [
+            "酌半径"
+        ]
+    },
+    {
+        "name": "radius of influence",
+        "trans": [
+            "影响半径"
+        ]
+    },
+    {
+        "name": "radius ratio",
+        "trans": [
+            "半径比"
+        ]
+    },
+    {
+        "name": "radon",
+        "trans": [
+            "氡"
+        ]
+    },
+    {
+        "name": "radon survey",
+        "trans": [
+            "氡气测量"
+        ]
+    },
+    {
+        "name": "rafaelite",
+        "trans": [
+            "斜羟氯铅矿"
+        ]
+    },
+    {
+        "name": "raglanite",
+        "trans": [
+            "奥霞正长岩"
+        ]
+    },
+    {
+        "name": "raimondite",
+        "trans": [
+            "片铁矾"
+        ]
+    },
+    {
+        "name": "rain print",
+        "trans": [
+            "雨痕"
+        ]
+    },
+    {
+        "name": "rain rill",
+        "trans": [
+            "雨沟"
+        ]
+    },
+    {
+        "name": "rain wash",
+        "trans": [
+            "雨剧"
+        ]
+    },
+    {
+        "name": "raindrop impressions",
+        "trans": [
+            "雨痕"
+        ]
+    },
+    {
+        "name": "rainfall depth",
+        "trans": [
+            "雨量"
+        ]
+    },
+    {
+        "name": "rainwater",
+        "trans": [
+            "雨水"
+        ]
+    },
+    {
+        "name": "raise",
+        "trans": [
+            "隆起"
+        ]
+    },
+    {
+        "name": "rake classifier",
+        "trans": [
+            "耙式分级机"
+        ]
+    },
+    {
+        "name": "ralstonite",
+        "trans": [
+            "氟钠镁铝石"
+        ]
+    },
+    {
+        "name": "ramdohrite",
+        "trans": [
+            "辉锑银铅矿"
+        ]
+    },
+    {
+        "name": "rammelsbergite",
+        "trans": [
+            "斜方砷镍矿"
+        ]
+    },
+    {
+        "name": "ramming",
+        "trans": [
+            "捣固"
+        ]
+    },
+    {
+        "name": "ramsayite",
+        "trans": [
+            "褐硅钠钛矿"
+        ]
+    },
+    {
+        "name": "ramsdellite",
+        "trans": [
+            "斜方锰矿"
+        ]
+    },
+    {
+        "name": "rancieite",
+        "trans": [
+            "钙硬锰矿"
+        ]
+    },
+    {
+        "name": "rand",
+        "trans": [
+            "边缘"
+        ]
+    },
+    {
+        "name": "randanite",
+        "trans": [
+            "硅藻土"
+        ]
+    },
+    {
+        "name": "randite",
+        "trans": [
+            "黄菱铀矿"
+        ]
+    },
+    {
+        "name": "random",
+        "trans": [
+            "随机的"
+        ]
+    },
+    {
+        "name": "random distribution",
+        "trans": [
+            "偶然分布"
+        ]
+    },
+    {
+        "name": "random error",
+        "trans": [
+            "随机误差"
+        ]
+    },
+    {
+        "name": "random event",
+        "trans": [
+            "随机事件"
+        ]
+    },
+    {
+        "name": "random sample",
+        "trans": [
+            "随机样品"
+        ]
+    },
+    {
+        "name": "random sampling",
+        "trans": [
+            "随机采样"
+        ]
+    },
+    {
+        "name": "range",
+        "trans": [
+            "射程;山脉;酌距离"
+        ]
+    },
+    {
+        "name": "range finder",
+        "trans": [
+            "测距仪"
+        ]
+    },
+    {
+        "name": "ranging pole",
+        "trans": [
+            "标尺测杆"
+        ]
+    },
+    {
+        "name": "rank",
+        "trans": [
+            "等级"
+        ]
+    },
+    {
+        "name": "ransomite",
+        "trans": [
+            "铜铁矾"
+        ]
+    },
+    {
+        "name": "rapakiwi granite",
+        "trans": [
+            "环斑花岗岩"
+        ]
+    },
+    {
+        "name": "raphe",
+        "trans": [
+            "缝"
+        ]
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "急流急滩"
+        ]
+    },
+    {
+        "name": "rapid flow",
+        "trans": [
+            "快速迳流"
+        ]
+    },
+    {
+        "name": "rare earth elements",
+        "trans": [
+            "稀土元素"
+        ]
+    },
+    {
+        "name": "rare elements",
+        "trans": [
+            "稀有元素"
+        ]
+    },
+    {
+        "name": "rare gas",
+        "trans": [
+            "稀有气体"
+        ]
+    },
+    {
+        "name": "rare gas elements",
+        "trans": [
+            "惰性气体元素"
+        ]
+    },
+    {
+        "name": "rare metal",
+        "trans": [
+            "稀有金属"
+        ]
+    },
+    {
+        "name": "rarefaction",
+        "trans": [
+            "稀疏酌"
+        ]
+    },
+    {
+        "name": "raspite",
+        "trans": [
+            "斜钨铅矿"
+        ]
+    },
+    {
+        "name": "ratchel",
+        "trans": [
+            "卵石"
+        ]
+    },
+    {
+        "name": "rate",
+        "trans": [
+            "比率"
+        ]
+    },
+    {
+        "name": "rate of crystalline growth",
+        "trans": [
+            "晶体生长速度"
+        ]
+    },
+    {
+        "name": "rate of decay",
+        "trans": [
+            "风化程度"
+        ]
+    },
+    {
+        "name": "rate of drying",
+        "trans": [
+            "干燥速度"
+        ]
+    },
+    {
+        "name": "rate of infiltration",
+        "trans": [
+            "渗透速度"
+        ]
+    },
+    {
+        "name": "rate of penetration",
+        "trans": [
+            "机械钻速"
+        ]
+    },
+    {
+        "name": "rate of production",
+        "trans": [
+            "生产率"
+        ]
+    },
+    {
+        "name": "rate of recovery",
+        "trans": [
+            "回采率"
+        ]
+    },
+    {
+        "name": "rate of runoff",
+        "trans": [
+            "迳潦"
+        ]
+    },
+    {
+        "name": "rate of sedimentation",
+        "trans": [
+            "沉淀速度"
+        ]
+    },
+    {
+        "name": "rate of subsidence",
+        "trans": [
+            "沉陷速度"
+        ]
+    },
+    {
+        "name": "ratemeter",
+        "trans": [
+            "计数率计"
+        ]
+    },
+    {
+        "name": "rathite",
+        "trans": [
+            "斜方砷铅矿"
+        ]
+    },
+    {
+        "name": "rating curve",
+        "trans": [
+            "量特性曲线"
+        ]
+    },
+    {
+        "name": "ratio of ionic radii",
+        "trans": [
+            "离子半径比"
+        ]
+    },
+    {
+        "name": "rational formula",
+        "trans": [
+            "示构式"
+        ]
+    },
+    {
+        "name": "ratofkite",
+        "trans": [
+            "土状萤石"
+        ]
+    },
+    {
+        "name": "rattle stone",
+        "trans": [
+            "钤石"
+        ]
+    },
+    {
+        "name": "rauracian",
+        "trans": [
+            "罗拉克阶"
+        ]
+    },
+    {
+        "name": "rauvite",
+        "trans": [
+            "水钙钒铀矿"
+        ]
+    },
+    {
+        "name": "ravine",
+        "trans": [
+            "沟壑"
+        ]
+    },
+    {
+        "name": "raw coal",
+        "trans": [
+            "原煤"
+        ]
+    },
+    {
+        "name": "raw humus",
+        "trans": [
+            "粗腐殖质"
+        ]
+    },
+    {
+        "name": "raw material",
+        "trans": [
+            "原料"
+        ]
+    },
+    {
+        "name": "raw ore",
+        "trans": [
+            "未选的矿石"
+        ]
+    },
+    {
+        "name": "raw soil",
+        "trans": [
+            "生土"
+        ]
+    },
+    {
+        "name": "raw water",
+        "trans": [
+            "未加工水"
+        ]
+    },
+    {
+        "name": "rayfungi",
+        "trans": [
+            "放线菌类"
+        ]
+    },
+    {
+        "name": "rayleigh distribution",
+        "trans": [
+            "瑞利分布"
+        ]
+    },
+    {
+        "name": "reaction current",
+        "trans": [
+            "逆流"
+        ]
+    },
+    {
+        "name": "reaction principle",
+        "trans": [
+            "反应原理"
+        ]
+    },
+    {
+        "name": "reaction product",
+        "trans": [
+            "反应产物"
+        ]
+    },
+    {
+        "name": "reaction rate",
+        "trans": [
+            "反应速度"
+        ]
+    },
+    {
+        "name": "reaction rim",
+        "trans": [
+            "反应边"
+        ]
+    },
+    {
+        "name": "reaction series",
+        "trans": [
+            "反应系列"
+        ]
+    },
+    {
+        "name": "reactivation",
+        "trans": [
+            "再活化"
+        ]
+    },
+    {
+        "name": "readjustment",
+        "trans": [
+            "校正"
+        ]
+    },
+    {
+        "name": "reagent",
+        "trans": [
+            "试剂"
+        ]
+    },
+    {
+        "name": "real crystal",
+        "trans": [
+            "真实晶体"
+        ]
+    },
+    {
+        "name": "real image",
+        "trans": [
+            "实象"
+        ]
+    },
+    {
+        "name": "realgar",
+        "trans": [
+            "鸡冠石"
+        ]
+    },
+    {
+        "name": "reamer",
+        "trans": [
+            "扩孔器"
+        ]
+    },
+    {
+        "name": "reamer bit",
+        "trans": [
+            "扩孔钻头"
+        ]
+    },
+    {
+        "name": "reaming",
+        "trans": [
+            "扩眼"
+        ]
+    },
+    {
+        "name": "reaming bit",
+        "trans": [
+            "扩眼钻头"
+        ]
+    },
+    {
+        "name": "rearrangement",
+        "trans": [
+            "重新配置"
+        ]
+    },
+    {
+        "name": "recapitulation",
+        "trans": [
+            "再现"
+        ]
+    },
+    {
+        "name": "receiving surface",
+        "trans": [
+            "接收面"
+        ]
+    },
+    {
+        "name": "recent crust horizontal movement",
+        "trans": [
+            "现代地壳水平运动"
+        ]
+    },
+    {
+        "name": "recent exogenetic movement",
+        "trans": [
+            "现代外生运动"
+        ]
+    },
+    {
+        "name": "recent geological period",
+        "trans": [
+            "现代地质时期"
+        ]
+    },
+    {
+        "name": "recent vertical crust movement",
+        "trans": [
+            "现代地壳垂直运动"
+        ]
+    },
+    {
+        "name": "recess",
+        "trans": [
+            "褶皱带内凹部;凹穴"
+        ]
+    },
+    {
+        "name": "recession constant",
+        "trans": [
+            "衰退常数"
+        ]
+    },
+    {
+        "name": "recession curve",
+        "trans": [
+            "递减曲线"
+        ]
+    },
+    {
+        "name": "recessional moraine",
+        "trans": [
+            "后退冰碛"
+        ]
+    },
+    {
+        "name": "recharge",
+        "trans": [
+            "补给"
+        ]
+    },
+    {
+        "name": "recharge line",
+        "trans": [
+            "补给线"
+        ]
+    },
+    {
+        "name": "recharge pit",
+        "trans": [
+            "补给坑"
+        ]
+    },
+    {
+        "name": "recharge water",
+        "trans": [
+            "补给水"
+        ]
+    },
+    {
+        "name": "recharge well",
+        "trans": [
+            "补给井"
+        ]
+    },
+    {
+        "name": "recipient",
+        "trans": [
+            "容器"
+        ]
+    },
+    {
+        "name": "reciprocal lattice",
+        "trans": [
+            "倒易格子"
+        ]
+    },
+    {
+        "name": "reciprocating pump",
+        "trans": [
+            "往复泵"
+        ]
+    },
+    {
+        "name": "recoil electron",
+        "trans": [
+            "反冲电子"
+        ]
+    },
+    {
+        "name": "recombination",
+        "trans": [
+            "再化合"
+        ]
+    },
+    {
+        "name": "reconnaissance",
+        "trans": [
+            "踏勘"
+        ]
+    },
+    {
+        "name": "reconstruction",
+        "trans": [
+            "复原"
+        ]
+    },
+    {
+        "name": "recorder",
+        "trans": [
+            "记录器"
+        ]
+    },
+    {
+        "name": "recorder strip",
+        "trans": [
+            "记录带"
+        ]
+    },
+    {
+        "name": "recording chart",
+        "trans": [
+            "记录纸"
+        ]
+    },
+    {
+        "name": "recording device",
+        "trans": [
+            "记录装置"
+        ]
+    },
+    {
+        "name": "recording drum",
+        "trans": [
+            "记录圆筒"
+        ]
+    },
+    {
+        "name": "recording gage",
+        "trans": [
+            "自动记录测定计"
+        ]
+    },
+    {
+        "name": "recording oscillograph",
+        "trans": [
+            "记录示波器"
+        ]
+    },
+    {
+        "name": "recording paper",
+        "trans": [
+            "记录纸"
+        ]
+    },
+    {
+        "name": "recording tape",
+        "trans": [
+            "记录带"
+        ]
+    },
+    {
+        "name": "recoverable oil reserves",
+        "trans": [
+            "可采石油储量"
+        ]
+    },
+    {
+        "name": "recovery",
+        "trans": [
+            "回收;采取"
+        ]
+    },
+    {
+        "name": "recovery factor",
+        "trans": [
+            "岩心采取率"
+        ]
+    },
+    {
+        "name": "recovery hook",
+        "trans": [
+            "打捞钩"
+        ]
+    },
+    {
+        "name": "recovery ratio",
+        "trans": [
+            "回采率"
+        ]
+    },
+    {
+        "name": "recovery time",
+        "trans": [
+            "恢复时间"
+        ]
+    },
+    {
+        "name": "recrement",
+        "trans": [
+            "矸石"
+        ]
+    },
+    {
+        "name": "recrystallization",
+        "trans": [
+            "重结晶酌"
+        ]
+    },
+    {
+        "name": "recrystallization texture",
+        "trans": [
+            "再结晶织构"
+        ]
+    },
+    {
+        "name": "rectangular wave",
+        "trans": [
+            "矩形波"
+        ]
+    },
+    {
+        "name": "rectilinear scanning",
+        "trans": [
+            "直线扫描"
+        ]
+    },
+    {
+        "name": "rectorite",
+        "trans": [
+            "累托石"
+        ]
+    },
+    {
+        "name": "recumbent anticline",
+        "trans": [
+            "伏背斜"
+        ]
+    },
+    {
+        "name": "recumbent fold",
+        "trans": [
+            "伏卧褶皱"
+        ]
+    },
+    {
+        "name": "recurrence",
+        "trans": [
+            "循环"
+        ]
+    },
+    {
+        "name": "red algae",
+        "trans": [
+            "红藻类"
+        ]
+    },
+    {
+        "name": "red brass",
+        "trans": [
+            "红色黄铜"
+        ]
+    },
+    {
+        "name": "red brown mediterranean soil",
+        "trans": [
+            "地中海褐色土"
+        ]
+    },
+    {
+        "name": "red clay",
+        "trans": [
+            "红土"
+        ]
+    },
+    {
+        "name": "red copper ore",
+        "trans": [
+            "赤铜矿"
+        ]
+    },
+    {
+        "name": "red earth",
+        "trans": [
+            "红壤"
+        ]
+    },
+    {
+        "name": "red iron ore",
+        "trans": [
+            "赤铁矿"
+        ]
+    },
+    {
+        "name": "red iron stone",
+        "trans": [
+            "赤铁矿"
+        ]
+    },
+    {
+        "name": "red mud",
+        "trans": [
+            "红泥"
+        ]
+    },
+    {
+        "name": "red phosphorus",
+        "trans": [
+            "红磷"
+        ]
+    },
+    {
+        "name": "red soil",
+        "trans": [
+            "红壤"
+        ]
+    },
+    {
+        "name": "reddingite",
+        "trans": [
+            "磷锰矿"
+        ]
+    },
+    {
+        "name": "redeposition",
+        "trans": [
+            "再沉积"
+        ]
+    },
+    {
+        "name": "redge",
+        "trans": [
+            "暗礁"
+        ]
+    },
+    {
+        "name": "redingtonite",
+        "trans": [
+            "水铬镁矾"
+        ]
+    },
+    {
+        "name": "redissolving",
+        "trans": [
+            "再溶解"
+        ]
+    },
+    {
+        "name": "redox equilibrium",
+        "trans": [
+            "氧化还原平衡"
+        ]
+    },
+    {
+        "name": "redox potential",
+        "trans": [
+            "氧化还原势"
+        ]
+    },
+    {
+        "name": "redox process",
+        "trans": [
+            "氧化还原过程"
+        ]
+    },
+    {
+        "name": "redox system",
+        "trans": [
+            "氧化还原系"
+        ]
+    },
+    {
+        "name": "reduced cell",
+        "trans": [
+            "简化格子"
+        ]
+    },
+    {
+        "name": "reduced pressure",
+        "trans": [
+            "折算压力"
+        ]
+    },
+    {
+        "name": "reducer",
+        "trans": [
+            "还原剂"
+        ]
+    },
+    {
+        "name": "reducing capacity",
+        "trans": [
+            "还原能力"
+        ]
+    },
+    {
+        "name": "reducing joint",
+        "trans": [
+            "异径连接"
+        ]
+    },
+    {
+        "name": "reduction",
+        "trans": [
+            "减少"
+        ]
+    },
+    {
+        "name": "reduction division",
+        "trans": [
+            "减数分裂"
+        ]
+    },
+    {
+        "name": "reduction of gravity",
+        "trans": [
+            "重力归算"
+        ]
+    },
+    {
+        "name": "reduzate",
+        "trans": [
+            "还原沉积物"
+        ]
+    },
+    {
+        "name": "reef",
+        "trans": [
+            "礁"
+        ]
+    },
+    {
+        "name": "reef bin",
+        "trans": [
+            "矿仓"
+        ]
+    },
+    {
+        "name": "reef building corals",
+        "trans": [
+            "造礁珊瑚"
+        ]
+    },
+    {
+        "name": "reef cap",
+        "trans": [
+            "礁帽"
+        ]
+    },
+    {
+        "name": "reemission",
+        "trans": [
+            "重发射"
+        ]
+    },
+    {
+        "name": "reference data",
+        "trans": [
+            "参考资料"
+        ]
+    },
+    {
+        "name": "reference ellipsoid",
+        "trans": [
+            "参考椭球体"
+        ]
+    },
+    {
+        "name": "reference point",
+        "trans": [
+            "基准点"
+        ]
+    },
+    {
+        "name": "reference pressure",
+        "trans": [
+            "基准压力"
+        ]
+    },
+    {
+        "name": "reference spheroid",
+        "trans": [
+            "参考椭球体"
+        ]
+    },
+    {
+        "name": "reference table",
+        "trans": [
+            "换算表"
+        ]
+    },
+    {
+        "name": "reference temperature",
+        "trans": [
+            "基准温度"
+        ]
+    },
+    {
+        "name": "refined oil",
+        "trans": [
+            "精制油"
+        ]
+    },
+    {
+        "name": "refinement",
+        "trans": [
+            "精制"
+        ]
+    },
+    {
+        "name": "refining",
+        "trans": [
+            "精制"
+        ]
+    },
+    {
+        "name": "reflectance",
+        "trans": [
+            "反射比"
+        ]
+    },
+    {
+        "name": "reflected light",
+        "trans": [
+            "反射光"
+        ]
+    },
+    {
+        "name": "reflected wave",
+        "trans": [
+            "反射波"
+        ]
+    },
+    {
+        "name": "reflecting galvanometer",
+        "trans": [
+            "反射电疗"
+        ]
+    },
+    {
+        "name": "reflecting microscope",
+        "trans": [
+            "反射显微镜"
+        ]
+    },
+    {
+        "name": "reflection",
+        "trans": [
+            "反射"
+        ]
+    },
+    {
+        "name": "reflection anisotrophism",
+        "trans": [
+            "反射蛤异性"
+        ]
+    },
+    {
+        "name": "reflection coefficient",
+        "trans": [
+            "反射系数"
+        ]
+    },
+    {
+        "name": "reflection electron microscope",
+        "trans": [
+            "反射电子显微镜"
+        ]
+    },
+    {
+        "name": "reflection factor",
+        "trans": [
+            "反射系数"
+        ]
+    },
+    {
+        "name": "reflection method",
+        "trans": [
+            "反射法"
+        ]
+    },
+    {
+        "name": "reflection of light",
+        "trans": [
+            "光反射"
+        ]
+    },
+    {
+        "name": "reflection pleochroism",
+        "trans": [
+            "反射多色性"
+        ]
+    },
+    {
+        "name": "reflection seismograph",
+        "trans": [
+            "反射地震仪"
+        ]
+    },
+    {
+        "name": "reflection survey",
+        "trans": [
+            "反射波法勘查"
+        ]
+    },
+    {
+        "name": "reflective power",
+        "trans": [
+            "反射能力"
+        ]
+    },
+    {
+        "name": "reflectivity",
+        "trans": [
+            "反射比"
+        ]
+    },
+    {
+        "name": "reflectometer",
+        "trans": [
+            "反射计"
+        ]
+    },
+    {
+        "name": "reflector",
+        "trans": [
+            "反射镜"
+        ]
+    },
+    {
+        "name": "refracted wave",
+        "trans": [
+            "折射波"
+        ]
+    },
+    {
+        "name": "refracting medium",
+        "trans": [
+            "折射介质"
+        ]
+    },
+    {
+        "name": "refraction",
+        "trans": [
+            "折射"
+        ]
+    },
+    {
+        "name": "refraction correlation method",
+        "trans": [
+            "折射波对比法"
+        ]
+    },
+    {
+        "name": "refraction method",
+        "trans": [
+            "折射法"
+        ]
+    },
+    {
+        "name": "refraction of cleavage",
+        "trans": [
+            "劈理折射"
+        ]
+    },
+    {
+        "name": "refraction survey",
+        "trans": [
+            "折射波法勘探"
+        ]
+    },
+    {
+        "name": "refractive index",
+        "trans": [
+            "折射率"
+        ]
+    },
+    {
+        "name": "refractivity",
+        "trans": [
+            "折射性"
+        ]
+    },
+    {
+        "name": "refractometer",
+        "trans": [
+            "折光计"
+        ]
+    },
+    {
+        "name": "refractoriness",
+        "trans": [
+            "耐火度"
+        ]
+    },
+    {
+        "name": "refractory",
+        "trans": [
+            "耐火材料"
+        ]
+    },
+    {
+        "name": "refractory brick",
+        "trans": [
+            "耐火砖"
+        ]
+    },
+    {
+        "name": "refractory clay",
+        "trans": [
+            "耐火粘土"
+        ]
+    },
+    {
+        "name": "refractory material",
+        "trans": [
+            "耐火材料"
+        ]
+    },
+    {
+        "name": "refractory sand",
+        "trans": [
+            "耐火砂"
+        ]
+    },
+    {
+        "name": "refrigeration",
+        "trans": [
+            "冷却"
+        ]
+    },
+    {
+        "name": "refuse",
+        "trans": [
+            "废料"
+        ]
+    },
+    {
+        "name": "refusion",
+        "trans": [
+            "再溶"
+        ]
+    },
+    {
+        "name": "regelation",
+        "trans": [
+            "重凝"
+        ]
+    },
+    {
+        "name": "regenerated deposit",
+        "trans": [
+            "再生矿床"
+        ]
+    },
+    {
+        "name": "regenerated glacier",
+        "trans": [
+            "再生冰川"
+        ]
+    },
+    {
+        "name": "regeneration",
+        "trans": [
+            "再生"
+        ]
+    },
+    {
+        "name": "regeneration theory",
+        "trans": [
+            "再生学说"
+        ]
+    },
+    {
+        "name": "regenerative amplification",
+        "trans": [
+            "再生放大"
+        ]
+    },
+    {
+        "name": "regime of river",
+        "trans": [
+            "河灵况"
+        ]
+    },
+    {
+        "name": "region",
+        "trans": [
+            "地域"
+        ]
+    },
+    {
+        "name": "regional",
+        "trans": [
+            "地方的"
+        ]
+    },
+    {
+        "name": "regional geochemistry",
+        "trans": [
+            "区域地球化学"
+        ]
+    },
+    {
+        "name": "regional geological reconnaissance",
+        "trans": [
+            "区域地质甸"
+        ]
+    },
+    {
+        "name": "regional geology",
+        "trans": [
+            "区域地质学"
+        ]
+    },
+    {
+        "name": "regional geomorphology",
+        "trans": [
+            "区域地貌学"
+        ]
+    },
+    {
+        "name": "regional gravity anomaly",
+        "trans": [
+            "区域重力异常"
+        ]
+    },
+    {
+        "name": "regional isostatic anomaly",
+        "trans": [
+            "区域均衡异常"
+        ]
+    },
+    {
+        "name": "regional metamorphism",
+        "trans": [
+            "区域变质"
+        ]
+    },
+    {
+        "name": "regional remote sensing",
+        "trans": [
+            "区域遥感"
+        ]
+    },
+    {
+        "name": "regional unconformity",
+        "trans": [
+            "区域不整合"
+        ]
+    },
+    {
+        "name": "registration",
+        "trans": [
+            "记录"
+        ]
+    },
+    {
+        "name": "registration paper",
+        "trans": [
+            "记录纸"
+        ]
+    },
+    {
+        "name": "regma",
+        "trans": [
+            "破裂"
+        ]
+    },
+    {
+        "name": "regolith",
+        "trans": [
+            "表皮土"
+        ]
+    },
+    {
+        "name": "regression",
+        "trans": [
+            "海退"
+        ]
+    },
+    {
+        "name": "regression analysis",
+        "trans": [
+            "回归分析"
+        ]
+    },
+    {
+        "name": "regression line",
+        "trans": [
+            "海退线"
+        ]
+    },
+    {
+        "name": "regressive metamorphism",
+        "trans": [
+            "退化变质"
+        ]
+    },
+    {
+        "name": "regressive sequence",
+        "trans": [
+            "海退层序"
+        ]
+    },
+    {
+        "name": "regular hexahedron",
+        "trans": [
+            "正六面体"
+        ]
+    },
+    {
+        "name": "regular polygon",
+        "trans": [
+            "正多边形"
+        ]
+    },
+    {
+        "name": "regular polyhedron",
+        "trans": [
+            "正多面体"
+        ]
+    },
+    {
+        "name": "regular reflection",
+        "trans": [
+            "规则反射"
+        ]
+    },
+    {
+        "name": "regular system",
+        "trans": [
+            "等轴晶系"
+        ]
+    },
+    {
+        "name": "regulation reservoir",
+        "trans": [
+            "蝶蓄水池"
+        ]
+    },
+    {
+        "name": "regur",
+        "trans": [
+            "黑棉土"
+        ]
+    },
+    {
+        "name": "reinerite",
+        "trans": [
+            "砷锌矿"
+        ]
+    },
+    {
+        "name": "reinite",
+        "trans": [
+            "方钨铁矿"
+        ]
+    },
+    {
+        "name": "rejects",
+        "trans": [
+            "尾矿"
+        ]
+    },
+    {
+        "name": "rejuvenated geosyncline",
+        "trans": [
+            "新生式地槽"
+        ]
+    },
+    {
+        "name": "rejuvenated landform",
+        "trans": [
+            "地形侵蚀回春"
+        ]
+    },
+    {
+        "name": "rejuvenated relief",
+        "trans": [
+            "地形侵蚀回春"
+        ]
+    },
+    {
+        "name": "rejuvenated river",
+        "trans": [
+            "回春河"
+        ]
+    },
+    {
+        "name": "rejuvenated water",
+        "trans": [
+            "再生水"
+        ]
+    },
+    {
+        "name": "rejuvenation",
+        "trans": [
+            "回春酌"
+        ]
+    },
+    {
+        "name": "relationship",
+        "trans": [
+            "关系"
+        ]
+    },
+    {
+        "name": "relative age",
+        "trans": [
+            "相对时代"
+        ]
+    },
+    {
+        "name": "relative aperture",
+        "trans": [
+            "相对孔径"
+        ]
+    },
+    {
+        "name": "relative biological effectiveness",
+        "trans": [
+            "相对生物效率"
+        ]
+    },
+    {
+        "name": "relative height",
+        "trans": [
+            "相对高度"
+        ]
+    },
+    {
+        "name": "relative humidity of atomsphere",
+        "trans": [
+            "大气相对湿度"
+        ]
+    },
+    {
+        "name": "relative isotopic abundance",
+        "trans": [
+            "同位素相对丰度"
+        ]
+    },
+    {
+        "name": "relative permeability",
+        "trans": [
+            "相对渗透性"
+        ]
+    },
+    {
+        "name": "relative relief",
+        "trans": [
+            "地势起伏量"
+        ]
+    },
+    {
+        "name": "relative valency effect",
+        "trans": [
+            "相对原子价效果"
+        ]
+    },
+    {
+        "name": "relative viscosity",
+        "trans": [
+            "相对粘度"
+        ]
+    },
+    {
+        "name": "relaxation",
+        "trans": [
+            "松弛"
+        ]
+    },
+    {
+        "name": "relaxation effect",
+        "trans": [
+            "张弛效应"
+        ]
+    },
+    {
+        "name": "relaxation time",
+        "trans": [
+            "松弛时间"
+        ]
+    },
+    {
+        "name": "relay",
+        "trans": [
+            "继电器"
+        ]
+    },
+    {
+        "name": "relay interrupter",
+        "trans": [
+            "继电平断续器"
+        ]
+    },
+    {
+        "name": "release",
+        "trans": [
+            "释放"
+        ]
+    },
+    {
+        "name": "release joint",
+        "trans": [
+            "解压节理"
+        ]
+    },
+    {
+        "name": "release magnet",
+        "trans": [
+            "释放电磁铁"
+        ]
+    },
+    {
+        "name": "relic",
+        "trans": [
+            "残余"
+        ]
+    },
+    {
+        "name": "relic area",
+        "trans": [
+            "残遗分布区"
+        ]
+    },
+    {
+        "name": "relic mineral",
+        "trans": [
+            "残余矿物"
+        ]
+    },
+    {
+        "name": "relic soil",
+        "trans": [
+            "残遗土壤"
+        ]
+    },
+    {
+        "name": "relic species",
+        "trans": [
+            "残遗种"
+        ]
+    },
+    {
+        "name": "relic structure",
+        "trans": [
+            "残余构造"
+        ]
+    },
+    {
+        "name": "relict",
+        "trans": [
+            "残余物"
+        ]
+    },
+    {
+        "name": "relief",
+        "trans": [
+            "地势"
+        ]
+    },
+    {
+        "name": "relief energy",
+        "trans": [
+            "地势起伏量"
+        ]
+    },
+    {
+        "name": "relief intensity",
+        "trans": [
+            "地势起伏强度"
+        ]
+    },
+    {
+        "name": "relief inversion",
+        "trans": [
+            "地形转换"
+        ]
+    },
+    {
+        "name": "relief map",
+        "trans": [
+            "起伏量图"
+        ]
+    },
+    {
+        "name": "relief ratio",
+        "trans": [
+            "硫高宽比"
+        ]
+    },
+    {
+        "name": "relief volume",
+        "trans": [
+            "起伏量"
+        ]
+    },
+    {
+        "name": "reluctance",
+        "trans": [
+            "磁阻"
+        ]
+    },
+    {
+        "name": "remanence",
+        "trans": [
+            "剩余磁性"
+        ]
+    },
+    {
+        "name": "remanent magnetization",
+        "trans": [
+            "剩磁"
+        ]
+    },
+    {
+        "name": "remining",
+        "trans": [
+            "再次开采"
+        ]
+    },
+    {
+        "name": "remnant arc",
+        "trans": [
+            "古岛弧"
+        ]
+    },
+    {
+        "name": "remobilization",
+        "trans": [
+            "再活化"
+        ]
+    },
+    {
+        "name": "remolding",
+        "trans": [
+            "破碎"
+        ]
+    },
+    {
+        "name": "remote control",
+        "trans": [
+            "遥控"
+        ]
+    },
+    {
+        "name": "remote hybrid",
+        "trans": [
+            "远缘杂种"
+        ]
+    },
+    {
+        "name": "remote sensing",
+        "trans": [
+            "遥感"
+        ]
+    },
+    {
+        "name": "remote sensing application",
+        "trans": [
+            "遥感应用"
+        ]
+    },
+    {
+        "name": "remote sensing technology",
+        "trans": [
+            "遥感技术"
+        ]
+    },
+    {
+        "name": "removal",
+        "trans": [
+            "消去"
+        ]
+    },
+    {
+        "name": "renardite",
+        "trans": [
+            "多水磷铅铀矿"
+        ]
+    },
+    {
+        "name": "rendzina",
+        "trans": [
+            "黑色石灰土"
+        ]
+    },
+    {
+        "name": "renewed fault",
+        "trans": [
+            "复活断层"
+        ]
+    },
+    {
+        "name": "reniform",
+        "trans": [
+            "肾状的"
+        ]
+    },
+    {
+        "name": "reniform structure",
+        "trans": [
+            "肾状构造"
+        ]
+    },
+    {
+        "name": "rensselaerite",
+        "trans": [
+            "假晶滑石"
+        ]
+    },
+    {
+        "name": "rent",
+        "trans": [
+            "裂口"
+        ]
+    },
+    {
+        "name": "repair part",
+        "trans": [
+            "备件"
+        ]
+    },
+    {
+        "name": "repeller",
+        "trans": [
+            "反射极"
+        ]
+    },
+    {
+        "name": "reperforator",
+        "trans": [
+            "复凿孔机"
+        ]
+    },
+    {
+        "name": "replacement",
+        "trans": [
+            "交代"
+        ]
+    },
+    {
+        "name": "replenishment",
+        "trans": [
+            "补充"
+        ]
+    },
+    {
+        "name": "replica",
+        "trans": [
+            "复制"
+        ]
+    },
+    {
+        "name": "replica method",
+        "trans": [
+            "复型法"
+        ]
+    },
+    {
+        "name": "reprecipitation",
+        "trans": [
+            "二次沉下"
+        ]
+    },
+    {
+        "name": "representative species",
+        "trans": [
+            "典型种"
+        ]
+    },
+    {
+        "name": "reproducer",
+        "trans": [
+            "复制穿孔机"
+        ]
+    },
+    {
+        "name": "reproducibility",
+        "trans": [
+            "再现性"
+        ]
+    },
+    {
+        "name": "reptiles",
+        "trans": [
+            "爬虫类"
+        ]
+    },
+    {
+        "name": "rescue borehole",
+        "trans": [
+            "救护钻孔"
+        ]
+    },
+    {
+        "name": "research",
+        "trans": [
+            "甸"
+        ]
+    },
+    {
+        "name": "resedimentation",
+        "trans": [
+            "再沉积"
+        ]
+    },
+    {
+        "name": "resequent river",
+        "trans": [
+            "再顺河"
+        ]
+    },
+    {
+        "name": "reserves",
+        "trans": [
+            "矿石埋臧量"
+        ]
+    },
+    {
+        "name": "reservoir",
+        "trans": [
+            "贮水池"
+        ]
+    },
+    {
+        "name": "reservoir evaporation",
+        "trans": [
+            "储水蒸发"
+        ]
+    },
+    {
+        "name": "reservoir lake",
+        "trans": [
+            "储水湖"
+        ]
+    },
+    {
+        "name": "reservoir rock",
+        "trans": [
+            "储油岩石"
+        ]
+    },
+    {
+        "name": "reservoir structure",
+        "trans": [
+            "储热构造"
+        ]
+    },
+    {
+        "name": "reshuffle",
+        "trans": [
+            "重新配置"
+        ]
+    },
+    {
+        "name": "residual affinity",
+        "trans": [
+            "残留亲和力"
+        ]
+    },
+    {
+        "name": "residual anomaly",
+        "trans": [
+            "剩余异常"
+        ]
+    },
+    {
+        "name": "residual bouguer anomaly",
+        "trans": [
+            "布格剩余异常"
+        ]
+    },
+    {
+        "name": "residual clay",
+        "trans": [
+            "残余粘土"
+        ]
+    },
+    {
+        "name": "residual deposit",
+        "trans": [
+            "残留矿床"
+        ]
+    },
+    {
+        "name": "residual drawdown",
+        "trans": [
+            "残余水位下降"
+        ]
+    },
+    {
+        "name": "residual electric charge",
+        "trans": [
+            "剩余电荷"
+        ]
+    },
+    {
+        "name": "residual geosyncline",
+        "trans": [
+            "残余地槽"
+        ]
+    },
+    {
+        "name": "residual gravity",
+        "trans": [
+            "剩余重力"
+        ]
+    },
+    {
+        "name": "residual gravity anomaly",
+        "trans": [
+            "剩余重力异常"
+        ]
+    },
+    {
+        "name": "residual heat",
+        "trans": [
+            "残热"
+        ]
+    },
+    {
+        "name": "residual magma",
+        "trans": [
+            "残余岩浆"
+        ]
+    },
+    {
+        "name": "residual magnetism",
+        "trans": [
+            "剩余磁性"
+        ]
+    },
+    {
+        "name": "residual mass",
+        "trans": [
+            "剩余质量"
+        ]
+    },
+    {
+        "name": "residual mobility period",
+        "trans": [
+            "余动期"
+        ]
+    },
+    {
+        "name": "residual mountain",
+        "trans": [
+            "残余山"
+        ]
+    },
+    {
+        "name": "residual sediment",
+        "trans": [
+            "残余沉积物"
+        ]
+    },
+    {
+        "name": "residual soil",
+        "trans": [
+            "残余土壤"
+        ]
+    },
+    {
+        "name": "residual stability period",
+        "trans": [
+            "余定期"
+        ]
+    },
+    {
+        "name": "residual standard deviation",
+        "trans": [
+            "剩余标准差"
+        ]
+    },
+    {
+        "name": "residual stress in rocks",
+        "trans": [
+            "岩石残余应力"
+        ]
+    },
+    {
+        "name": "residual valence",
+        "trans": [
+            "剩余价"
+        ]
+    },
+    {
+        "name": "residuary water",
+        "trans": [
+            "废水"
+        ]
+    },
+    {
+        "name": "residuum",
+        "trans": [
+            "残留物"
+        ]
+    },
+    {
+        "name": "resilience",
+        "trans": [
+            "弹性"
+        ]
+    },
+    {
+        "name": "resin",
+        "trans": [
+            "尸"
+        ]
+    },
+    {
+        "name": "resinite",
+        "trans": [
+            "尸体"
+        ]
+    },
+    {
+        "name": "resinitic liptobiolite",
+        "trans": [
+            "尸残殖煤"
+        ]
+    },
+    {
+        "name": "resinous lustre",
+        "trans": [
+            "尸光泽"
+        ]
+    },
+    {
+        "name": "resistance thermometer",
+        "trans": [
+            "电阻温度计"
+        ]
+    },
+    {
+        "name": "resistant rock",
+        "trans": [
+            "稳固岩石"
+        ]
+    },
+    {
+        "name": "resistate",
+        "trans": [
+            "残留产物"
+        ]
+    },
+    {
+        "name": "resistivity",
+        "trans": [
+            "电阻率"
+        ]
+    },
+    {
+        "name": "resistivity logging",
+        "trans": [
+            "电阻率测井"
+        ]
+    },
+    {
+        "name": "resistivity survey",
+        "trans": [
+            "电阻率甸"
+        ]
+    },
+    {
+        "name": "resolution",
+        "trans": [
+            "分解能力"
+        ]
+    },
+    {
+        "name": "resolver",
+        "trans": [
+            "解算器分解器"
+        ]
+    },
+    {
+        "name": "resolving power",
+        "trans": [
+            "分解能力"
+        ]
+    },
+    {
+        "name": "resonance absorption of neutron",
+        "trans": [
+            "中子共振吸收"
+        ]
+    },
+    {
+        "name": "resonance energy level",
+        "trans": [
+            "共振能级"
+        ]
+    },
+    {
+        "name": "resonance of chemical bonds",
+        "trans": [
+            "化学键间的共振"
+        ]
+    },
+    {
+        "name": "resources",
+        "trans": [
+            "资源"
+        ]
+    },
+    {
+        "name": "resources remote sensing",
+        "trans": [
+            "资源遥感"
+        ]
+    },
+    {
+        "name": "response time",
+        "trans": [
+            "响应时间"
+        ]
+    },
+    {
+        "name": "restite",
+        "trans": [
+            "残余体"
+        ]
+    },
+    {
+        "name": "restoration",
+        "trans": [
+            "复原"
+        ]
+    },
+    {
+        "name": "restriction arc",
+        "trans": [
+            "限制弧"
+        ]
+    },
+    {
+        "name": "resultant",
+        "trans": [
+            "合量"
+        ]
+    },
+    {
+        "name": "resurgent water",
+        "trans": [
+            "复活水"
+        ]
+    },
+    {
+        "name": "retained water",
+        "trans": [
+            "薄膜水"
+        ]
+    },
+    {
+        "name": "retardation",
+        "trans": [
+            "减速;行路差"
+        ]
+    },
+    {
+        "name": "retarded creep",
+        "trans": [
+            "延迟蠕变"
+        ]
+    },
+    {
+        "name": "retarded potential",
+        "trans": [
+            "推迟电势"
+        ]
+    },
+    {
+        "name": "retarding electrode",
+        "trans": [
+            "制动电极"
+        ]
+    },
+    {
+        "name": "retarding field",
+        "trans": [
+            "减速场"
+        ]
+    },
+    {
+        "name": "retarding torque",
+        "trans": [
+            "制动转矩"
+        ]
+    },
+    {
+        "name": "retention of water",
+        "trans": [
+            "水分保持"
+        ]
+    },
+    {
+        "name": "retgersite",
+        "trans": [
+            "镍矾"
+        ]
+    },
+    {
+        "name": "reticle",
+        "trans": [
+            "十字线"
+        ]
+    },
+    {
+        "name": "reticular cell",
+        "trans": [
+            "网状细胞"
+        ]
+    },
+    {
+        "name": "reticular structure",
+        "trans": [
+            "网状构造"
+        ]
+    },
+    {
+        "name": "reticulate venation",
+        "trans": [
+            "网状脉"
+        ]
+    },
+    {
+        "name": "reticulated mottle",
+        "trans": [
+            "网状斑点"
+        ]
+    },
+    {
+        "name": "reticulated veine",
+        "trans": [
+            "网状脉"
+        ]
+    },
+    {
+        "name": "reticulation",
+        "trans": [
+            "网状"
+        ]
+    },
+    {
+        "name": "reticulum cell",
+        "trans": [
+            "网状细胞"
+        ]
+    },
+    {
+        "name": "retinite",
+        "trans": [
+            "尸石"
+        ]
+    },
+    {
+        "name": "retort",
+        "trans": [
+            "蒸馏器"
+        ]
+    },
+    {
+        "name": "retort carbon",
+        "trans": [
+            "甑碳"
+        ]
+    },
+    {
+        "name": "retreat",
+        "trans": [
+            "后退"
+        ]
+    },
+    {
+        "name": "retreatment cell",
+        "trans": [
+            "再选浮选机"
+        ]
+    },
+    {
+        "name": "retroaction",
+        "trans": [
+            "反酌"
+        ]
+    },
+    {
+        "name": "retrogradation",
+        "trans": [
+            "海蚀后退"
+        ]
+    },
+    {
+        "name": "retrograde metamorphism",
+        "trans": [
+            "退化变质"
+        ]
+    },
+    {
+        "name": "retrogressive accumulation",
+        "trans": [
+            "向源推积"
+        ]
+    },
+    {
+        "name": "retrogressive metamorphism",
+        "trans": [
+            "退化变质"
+        ]
+    },
+    {
+        "name": "retrogressive succession",
+        "trans": [
+            "逆行演替"
+        ]
+    },
+    {
+        "name": "return flow",
+        "trans": [
+            "回流"
+        ]
+    },
+    {
+        "name": "revdinskite",
+        "trans": [
+            "镍铁绿泥石"
+        ]
+    },
+    {
+        "name": "reverberation",
+        "trans": [
+            "混响"
+        ]
+    },
+    {
+        "name": "reverberatory furnace",
+        "trans": [
+            "反射炉"
+        ]
+    },
+    {
+        "name": "reversal",
+        "trans": [
+            "倒转"
+        ]
+    },
+    {
+        "name": "reversal of geomagnetic field",
+        "trans": [
+            "地磁场倒转"
+        ]
+    },
+    {
+        "name": "reversal of magnetization",
+        "trans": [
+            "磁化逆转"
+        ]
+    },
+    {
+        "name": "reversal of the earth's field",
+        "trans": [
+            "地磁极逆转"
+        ]
+    },
+    {
+        "name": "reverse circulation",
+        "trans": [
+            "反循环"
+        ]
+    },
+    {
+        "name": "reverse circulation flushing",
+        "trans": [
+            "反循环冲洗"
+        ]
+    },
+    {
+        "name": "reverse fault",
+        "trans": [
+            "逆断层"
+        ]
+    },
+    {
+        "name": "reverse feedback",
+        "trans": [
+            "负回授"
+        ]
+    },
+    {
+        "name": "reverse grading",
+        "trans": [
+            "逆粒级"
+        ]
+    },
+    {
+        "name": "reverse mutation",
+        "trans": [
+            "回复突变"
+        ]
+    },
+    {
+        "name": "reverse position",
+        "trans": [
+            "倒转层位"
+        ]
+    },
+    {
+        "name": "reverse rotary boring",
+        "trans": [
+            "反向旋转钻井"
+        ]
+    },
+    {
+        "name": "reverse thermoremanent magnetization",
+        "trans": [
+            "反向热剩余磁化"
+        ]
+    },
+    {
+        "name": "reverse zoning",
+        "trans": [
+            "逆带现象"
+        ]
+    },
+    {
+        "name": "reversed fault",
+        "trans": [
+            "逆冲断层"
+        ]
+    },
+    {
+        "name": "reversed fold",
+        "trans": [
+            "倒转褶皱"
+        ]
+    },
+    {
+        "name": "reversed river",
+        "trans": [
+            "反向河"
+        ]
+    },
+    {
+        "name": "reversibility",
+        "trans": [
+            "可逆性"
+        ]
+    },
+    {
+        "name": "reversible cell",
+        "trans": [
+            "可逆电池"
+        ]
+    },
+    {
+        "name": "reversible chemical reaction",
+        "trans": [
+            "可逆化学反应"
+        ]
+    },
+    {
+        "name": "reversible colloid",
+        "trans": [
+            "可逆胶体"
+        ]
+    },
+    {
+        "name": "reversible magnetization",
+        "trans": [
+            "可逆磁化"
+        ]
+    },
+    {
+        "name": "reversible motor",
+        "trans": [
+            "可逆电动机"
+        ]
+    },
+    {
+        "name": "reversible pendulum",
+        "trans": [
+            "可倒摆"
+        ]
+    },
+    {
+        "name": "reversing thermometer",
+        "trans": [
+            "回动温度计"
+        ]
+    },
+    {
+        "name": "reversion",
+        "trans": [
+            "返祖"
+        ]
+    },
+    {
+        "name": "revived fault",
+        "trans": [
+            "复活断层"
+        ]
+    },
+    {
+        "name": "revived structure",
+        "trans": [
+            "再生结构"
+        ]
+    },
+    {
+        "name": "revolution",
+        "trans": [
+            "变革"
+        ]
+    },
+    {
+        "name": "revoredite",
+        "trans": [
+            "硫砷铅石"
+        ]
+    },
+    {
+        "name": "reyerite",
+        "trans": [
+            "铝白钙沸石"
+        ]
+    },
+    {
+        "name": "rezbanyite",
+        "trans": [
+            "铜辉铅铋矿"
+        ]
+    },
+    {
+        "name": "rhabdolith",
+        "trans": [
+            "棒状晶体"
+        ]
+    },
+    {
+        "name": "rhabdophanite",
+        "trans": [
+            "磷铈钇矿"
+        ]
+    },
+    {
+        "name": "rhaegmageny",
+        "trans": [
+            "断裂运动"
+        ]
+    },
+    {
+        "name": "rhaetian",
+        "trans": [
+            "瑞提阶"
+        ]
+    },
+    {
+        "name": "rhaetic stage",
+        "trans": [
+            "瑞提阶"
+        ]
+    },
+    {
+        "name": "rhagite",
+        "trans": [
+            "砷酸铋矿"
+        ]
+    },
+    {
+        "name": "rhegmagenesis",
+        "trans": [
+            "断裂运动"
+        ]
+    },
+    {
+        "name": "rheidity",
+        "trans": [
+            "怜性"
+        ]
+    },
+    {
+        "name": "rhenium",
+        "trans": [
+            "铼"
+        ]
+    },
+    {
+        "name": "rhenium osmium method",
+        "trans": [
+            "铼锇年代测定法"
+        ]
+    },
+    {
+        "name": "rheological behavior",
+        "trans": [
+            "龄性行为"
+        ]
+    },
+    {
+        "name": "rheology",
+        "trans": [
+            "龄学"
+        ]
+    },
+    {
+        "name": "rheomorphism",
+        "trans": [
+            "龄"
+        ]
+    },
+    {
+        "name": "rhizoid",
+        "trans": [
+            "假根"
+        ]
+    },
+    {
+        "name": "rhizome",
+        "trans": [
+            "根茎"
+        ]
+    },
+    {
+        "name": "rhizopodium",
+        "trans": [
+            "根足"
+        ]
+    },
+    {
+        "name": "rhizosphere",
+        "trans": [
+            "根圈"
+        ]
+    },
+    {
+        "name": "rhodesite",
+        "trans": [
+            "纤硅碱钙石"
+        ]
+    },
+    {
+        "name": "rhodite",
+        "trans": [
+            "铑金矿"
+        ]
+    },
+    {
+        "name": "rhodium",
+        "trans": [
+            "铑"
+        ]
+    },
+    {
+        "name": "rhodizite",
+        "trans": [
+            "硼锂铍矿"
+        ]
+    },
+    {
+        "name": "rhodochrome",
+        "trans": [
+            "暗绿石"
+        ]
+    },
+    {
+        "name": "rhodochrosite",
+        "trans": [
+            "菱锰岩"
+        ]
+    },
+    {
+        "name": "rhodonite",
+        "trans": [
+            "蔷薇辉石"
+        ]
+    },
+    {
+        "name": "rhoenite",
+        "trans": [
+            "褐斜闪石"
+        ]
+    },
+    {
+        "name": "rhombenporphyry",
+        "trans": [
+            "菱长斑岩"
+        ]
+    },
+    {
+        "name": "rhombic",
+        "trans": [
+            "斜方的"
+        ]
+    },
+    {
+        "name": "rhombic dipyramidal class",
+        "trans": [
+            "斜方双锥体类"
+        ]
+    },
+    {
+        "name": "rhombic dodecahedron",
+        "trans": [
+            "斜方十二面体"
+        ]
+    },
+    {
+        "name": "rhombic hemimorphic hemihedral class",
+        "trans": [
+            "菱形异极半面象晶族"
+        ]
+    },
+    {
+        "name": "rhombic prism",
+        "trans": [
+            "斜方柱"
+        ]
+    },
+    {
+        "name": "rhombic pyramid",
+        "trans": [
+            "斜方锥"
+        ]
+    },
+    {
+        "name": "rhombic system",
+        "trans": [
+            "斜方晶系"
+        ]
+    },
+    {
+        "name": "rhombic tetrahedral class",
+        "trans": [
+            "斜方四面体类"
+        ]
+    },
+    {
+        "name": "rhombohedral class",
+        "trans": [
+            "菱面体类"
+        ]
+    },
+    {
+        "name": "rhombohedral hemimorphic hemihedral class",
+        "trans": [
+            "菱形极半面象晶族"
+        ]
+    },
+    {
+        "name": "rhombohedral system",
+        "trans": [
+            "菱形晶系"
+        ]
+    },
+    {
+        "name": "rhombohedral tetrahedry",
+        "trans": [
+            "斜方正多面像"
+        ]
+    },
+    {
+        "name": "rhombohedral tetratohedral class",
+        "trans": [
+            "菱形四分面体类"
+        ]
+    },
+    {
+        "name": "rhombohedron",
+        "trans": [
+            "菱形六面体"
+        ]
+    },
+    {
+        "name": "rhyodacite",
+        "trans": [
+            "疗英安岩"
+        ]
+    },
+    {
+        "name": "rhyolite",
+        "trans": [
+            "疗岩"
+        ]
+    },
+    {
+        "name": "rhythm",
+        "trans": [
+            "韵律"
+        ]
+    },
+    {
+        "name": "ria",
+        "trans": [
+            "溺河"
+        ]
+    },
+    {
+        "name": "rias coast",
+        "trans": [
+            "里亚斯式海岸"
+        ]
+    },
+    {
+        "name": "ribonucleic acid",
+        "trans": [
+            "核糖核酸"
+        ]
+    },
+    {
+        "name": "rich ore",
+        "trans": [
+            "富矿"
+        ]
+    },
+    {
+        "name": "richetite",
+        "trans": [
+            "板铅铀矿"
+        ]
+    },
+    {
+        "name": "richmondite",
+        "trans": [
+            "四水磷铝石"
+        ]
+    },
+    {
+        "name": "richterite",
+        "trans": [
+            "锰闪石"
+        ]
+    },
+    {
+        "name": "rickardite",
+        "trans": [
+            "铜碲矿"
+        ]
+    },
+    {
+        "name": "riddle",
+        "trans": [
+            "粗筛"
+        ]
+    },
+    {
+        "name": "ridge",
+        "trans": [
+            "海岭"
+        ]
+    },
+    {
+        "name": "riebeckite",
+        "trans": [
+            "钠闪石"
+        ]
+    },
+    {
+        "name": "riedenite",
+        "trans": [
+            "方黑云霓辉岩"
+        ]
+    },
+    {
+        "name": "riemannite",
+        "trans": [
+            "水铝英石"
+        ]
+    },
+    {
+        "name": "rift",
+        "trans": [
+            "裂谷"
+        ]
+    },
+    {
+        "name": "rift belt",
+        "trans": [
+            "裂谷带"
+        ]
+    },
+    {
+        "name": "rift valley",
+        "trans": [
+            "中央裂谷"
+        ]
+    },
+    {
+        "name": "rift zone",
+        "trans": [
+            "裂谷带"
+        ]
+    },
+    {
+        "name": "rig",
+        "trans": [
+            "钻探设备"
+        ]
+    },
+    {
+        "name": "right angle",
+        "trans": [
+            "直角"
+        ]
+    },
+    {
+        "name": "right bank",
+        "trans": [
+            "右岸"
+        ]
+    },
+    {
+        "name": "right handed crystal",
+        "trans": [
+            "右晶"
+        ]
+    },
+    {
+        "name": "rigid body",
+        "trans": [
+            "刚体"
+        ]
+    },
+    {
+        "name": "rigid dynamics",
+        "trans": [
+            "刚体动力学"
+        ]
+    },
+    {
+        "name": "rigidity",
+        "trans": [
+            "刚性"
+        ]
+    },
+    {
+        "name": "rill",
+        "trans": [
+            "小溪"
+        ]
+    },
+    {
+        "name": "rill erosion",
+        "trans": [
+            "细沟侵蚀"
+        ]
+    },
+    {
+        "name": "rill marks",
+        "trans": [
+            "鳞"
+        ]
+    },
+    {
+        "name": "rille",
+        "trans": [
+            "月面谷"
+        ]
+    },
+    {
+        "name": "rim",
+        "trans": [
+            "岬"
+        ]
+    },
+    {
+        "name": "rime",
+        "trans": [
+            "雾淞"
+        ]
+    },
+    {
+        "name": "rind",
+        "trans": [
+            "外皮"
+        ]
+    },
+    {
+        "name": "ring compound",
+        "trans": [
+            "环状化合物"
+        ]
+    },
+    {
+        "name": "ring counter",
+        "trans": [
+            "环形计数器"
+        ]
+    },
+    {
+        "name": "ring dike",
+        "trans": [
+            "环状岩墙"
+        ]
+    },
+    {
+        "name": "ring fault",
+        "trans": [
+            "环状断层"
+        ]
+    },
+    {
+        "name": "ring like ore body",
+        "trans": [
+            "环状矿体"
+        ]
+    },
+    {
+        "name": "ring ore",
+        "trans": [
+            "环状矿石"
+        ]
+    },
+    {
+        "name": "ring silicate",
+        "trans": [
+            "环状硅酸盐"
+        ]
+    },
+    {
+        "name": "ring structure",
+        "trans": [
+            "环状构造"
+        ]
+    },
+    {
+        "name": "rinkite",
+        "trans": [
+            "层硅铈钛矿"
+        ]
+    },
+    {
+        "name": "rinkolite",
+        "trans": [
+            "绿层硅铈钛矿"
+        ]
+    },
+    {
+        "name": "rinneite",
+        "trans": [
+            "钾铁盐"
+        ]
+    },
+    {
+        "name": "ripidolite",
+        "trans": [
+            "铁绿泥石"
+        ]
+    },
+    {
+        "name": "ripple",
+        "trans": [
+            "脉动"
+        ]
+    },
+    {
+        "name": "ripple current",
+        "trans": [
+            "波纹电流"
+        ]
+    },
+    {
+        "name": "ripple marks",
+        "trans": [
+            "波痕"
+        ]
+    },
+    {
+        "name": "ripple noises",
+        "trans": [
+            "电源交岭声"
+        ]
+    },
+    {
+        "name": "ripples",
+        "trans": [
+            "皱纹"
+        ]
+    },
+    {
+        "name": "rise",
+        "trans": [
+            "海隆"
+        ]
+    },
+    {
+        "name": "rish",
+        "trans": [
+            "急冲"
+        ]
+    },
+    {
+        "name": "rising velocity",
+        "trans": [
+            "上升速度"
+        ]
+    },
+    {
+        "name": "risorite",
+        "trans": [
+            "钛褐钇铌矿"
+        ]
+    },
+    {
+        "name": "riss glacial stage",
+        "trans": [
+            "里斯冰期"
+        ]
+    },
+    {
+        "name": "rivage",
+        "trans": [
+            "河岸"
+        ]
+    },
+    {
+        "name": "river",
+        "trans": [
+            "河"
+        ]
+    },
+    {
+        "name": "river bank",
+        "trans": [
+            "河岸"
+        ]
+    },
+    {
+        "name": "river basin",
+        "trans": [
+            "硫"
+        ]
+    },
+    {
+        "name": "river bed",
+        "trans": [
+            "河床"
+        ]
+    },
+    {
+        "name": "river bed placer",
+        "trans": [
+            "河床砂矿"
+        ]
+    },
+    {
+        "name": "river bend",
+        "trans": [
+            "河曲"
+        ]
+    },
+    {
+        "name": "river bottom",
+        "trans": [
+            "河底"
+        ]
+    },
+    {
+        "name": "river capture",
+        "trans": [
+            "河霖夺"
+        ]
+    },
+    {
+        "name": "river erosion",
+        "trans": [
+            "河林蚀"
+        ]
+    },
+    {
+        "name": "river gravel",
+        "trans": [
+            "河砾石"
+        ]
+    },
+    {
+        "name": "river mouth",
+        "trans": [
+            "河口"
+        ]
+    },
+    {
+        "name": "river profile",
+        "trans": [
+            "河凛剖面"
+        ]
+    },
+    {
+        "name": "river profile of equilibrium",
+        "trans": [
+            "河两衡剖面"
+        ]
+    },
+    {
+        "name": "river swamp",
+        "trans": [
+            "河沼泽"
+        ]
+    },
+    {
+        "name": "river system",
+        "trans": [
+            "河系"
+        ]
+    },
+    {
+        "name": "river terrace",
+        "trans": [
+            "河成阶地"
+        ]
+    },
+    {
+        "name": "river width",
+        "trans": [
+            "河幅"
+        ]
+    },
+    {
+        "name": "riverside",
+        "trans": [
+            "河岸"
+        ]
+    },
+    {
+        "name": "riverside soil",
+        "trans": [
+            "泛滥地土壤"
+        ]
+    },
+    {
+        "name": "rivotite",
+        "trans": [
+            "里播岩"
+        ]
+    },
+    {
+        "name": "rivulet",
+        "trans": [
+            "小河"
+        ]
+    },
+    {
+        "name": "rizzonite",
+        "trans": [
+            "玻基辉橄岩"
+        ]
+    },
+    {
+        "name": "road",
+        "trans": [
+            "巷道"
+        ]
+    },
+    {
+        "name": "roadway support",
+        "trans": [
+            "巷道支架"
+        ]
+    },
+    {
+        "name": "roast ore",
+        "trans": [
+            "焙烧矿石"
+        ]
+    },
+    {
+        "name": "rock",
+        "trans": [
+            "岩石"
+        ]
+    },
+    {
+        "name": "rock breaking",
+        "trans": [
+            "岩石破坏"
+        ]
+    },
+    {
+        "name": "rock breaking tool",
+        "trans": [
+            "碎石工具"
+        ]
+    },
+    {
+        "name": "rock burst",
+        "trans": [
+            "岩石突出"
+        ]
+    },
+    {
+        "name": "rock cementation",
+        "trans": [
+            "岩石胶结酌"
+        ]
+    },
+    {
+        "name": "rock creep",
+        "trans": [
+            "岩石蠕动"
+        ]
+    },
+    {
+        "name": "rock crusher",
+        "trans": [
+            "碎石机"
+        ]
+    },
+    {
+        "name": "rock crystal",
+        "trans": [
+            "水晶"
+        ]
+    },
+    {
+        "name": "rock desert",
+        "trans": [
+            "石质沙漠"
+        ]
+    },
+    {
+        "name": "rock drillability",
+        "trans": [
+            "岩石的可钻性"
+        ]
+    },
+    {
+        "name": "rock dust",
+        "trans": [
+            "岩石尘土"
+        ]
+    },
+    {
+        "name": "rock facies",
+        "trans": [
+            "岩相"
+        ]
+    },
+    {
+        "name": "rock fields",
+        "trans": [
+            "岩海"
+        ]
+    },
+    {
+        "name": "rock formation",
+        "trans": [
+            "岩系"
+        ]
+    },
+    {
+        "name": "rock forming element",
+        "trans": [
+            "造岩元素"
+        ]
+    },
+    {
+        "name": "rock forming minerals",
+        "trans": [
+            "造岩矿物"
+        ]
+    },
+    {
+        "name": "rock gas",
+        "trans": [
+            "天然气"
+        ]
+    },
+    {
+        "name": "rock grouting",
+        "trans": [
+            "岩石胶结酌"
+        ]
+    },
+    {
+        "name": "rock hardness",
+        "trans": [
+            "岩硬"
+        ]
+    },
+    {
+        "name": "rock hardness ratio",
+        "trans": [
+            "岩石硬度比"
+        ]
+    },
+    {
+        "name": "rock magnetism",
+        "trans": [
+            "岩石磁性"
+        ]
+    },
+    {
+        "name": "rock mass",
+        "trans": [
+            "岩石层;岩块"
+        ]
+    },
+    {
+        "name": "rock meal",
+        "trans": [
+            "岩粉"
+        ]
+    },
+    {
+        "name": "rock mechanics",
+        "trans": [
+            "岩石力学"
+        ]
+    },
+    {
+        "name": "rock movement",
+        "trans": [
+            "岩层移动"
+        ]
+    },
+    {
+        "name": "rock pillar",
+        "trans": [
+            "岩柱"
+        ]
+    },
+    {
+        "name": "rock pressure",
+        "trans": [
+            "岩石压力"
+        ]
+    },
+    {
+        "name": "rock salt",
+        "trans": [
+            "岩盐"
+        ]
+    },
+    {
+        "name": "rock strata",
+        "trans": [
+            "岩层"
+        ]
+    },
+    {
+        "name": "rock stream",
+        "trans": [
+            "石流"
+        ]
+    },
+    {
+        "name": "rock system",
+        "trans": [
+            "岩石系统"
+        ]
+    },
+    {
+        "name": "rock terrace",
+        "trans": [
+            "岩石阶地"
+        ]
+    },
+    {
+        "name": "rock texture",
+        "trans": [
+            "岩石结构"
+        ]
+    },
+    {
+        "name": "rock toughness",
+        "trans": [
+            "岩石的粘性"
+        ]
+    },
+    {
+        "name": "rock vegetation",
+        "trans": [
+            "石生植被"
+        ]
+    },
+    {
+        "name": "rock wall",
+        "trans": [
+            "石墙"
+        ]
+    },
+    {
+        "name": "rock weathering",
+        "trans": [
+            "岩石风化"
+        ]
+    },
+    {
+        "name": "rock's abrasivity",
+        "trans": [
+            "岩石的研磨性"
+        ]
+    },
+    {
+        "name": "rockallite",
+        "trans": [
+            "钠辉细岗岩"
+        ]
+    },
+    {
+        "name": "rockbasin",
+        "trans": [
+            "岩盆"
+        ]
+    },
+    {
+        "name": "rocket sounding",
+        "trans": [
+            "火箭探空"
+        ]
+    },
+    {
+        "name": "rockfacies",
+        "trans": [
+            "岩相"
+        ]
+    },
+    {
+        "name": "rockfall",
+        "trans": [
+            "岩崩"
+        ]
+    },
+    {
+        "name": "rockfill",
+        "trans": [
+            "填石"
+        ]
+    },
+    {
+        "name": "rockslide",
+        "trans": [
+            "岩滑"
+        ]
+    },
+    {
+        "name": "rocky",
+        "trans": [
+            "多岩石的"
+        ]
+    },
+    {
+        "name": "rocky coast",
+        "trans": [
+            "岩石海岸"
+        ]
+    },
+    {
+        "name": "rod",
+        "trans": [
+            "钻杆"
+        ]
+    },
+    {
+        "name": "rod boring",
+        "trans": [
+            "钻杆钻进"
+        ]
+    },
+    {
+        "name": "rod holder",
+        "trans": [
+            "钻杆夹钎器"
+        ]
+    },
+    {
+        "name": "rod mill",
+        "trans": [
+            "棒磨机"
+        ]
+    },
+    {
+        "name": "rodding structure",
+        "trans": [
+            "杆状构造"
+        ]
+    },
+    {
+        "name": "rodingite",
+        "trans": [
+            "异剥钙榴辉长岩"
+        ]
+    },
+    {
+        "name": "rodless drilling",
+        "trans": [
+            "无钻杆钻进"
+        ]
+    },
+    {
+        "name": "roeblingite",
+        "trans": [
+            "铅蓝方石"
+        ]
+    },
+    {
+        "name": "roemerite",
+        "trans": [
+            "粒铁矾"
+        ]
+    },
+    {
+        "name": "roentgen",
+        "trans": [
+            "伦琴"
+        ]
+    },
+    {
+        "name": "roentgen equivalent",
+        "trans": [
+            "伦琴当量"
+        ]
+    },
+    {
+        "name": "roentgen equivalent man",
+        "trans": [
+            "雷姆"
+        ]
+    },
+    {
+        "name": "roentgen rays",
+        "trans": [
+            "射线"
+        ]
+    },
+    {
+        "name": "roepperite",
+        "trans": [
+            "锌锰橄集"
+        ]
+    },
+    {
+        "name": "rogersite",
+        "trans": [
+            "六水铁矾"
+        ]
+    },
+    {
+        "name": "roll crusher",
+        "trans": [
+            "辊式破碎机"
+        ]
+    },
+    {
+        "name": "roller bit",
+        "trans": [
+            "牙轮钻头"
+        ]
+    },
+    {
+        "name": "rolling",
+        "trans": [
+            "滚"
+        ]
+    },
+    {
+        "name": "romanechite",
+        "trans": [
+            "钡硬锰矿"
+        ]
+    },
+    {
+        "name": "romanzovite",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "romeite",
+        "trans": [
+            "锑钙石"
+        ]
+    },
+    {
+        "name": "ron magnesium metasomatism",
+        "trans": [
+            "铁镁交代酌"
+        ]
+    },
+    {
+        "name": "roof",
+        "trans": [
+            "顶板"
+        ]
+    },
+    {
+        "name": "roof bolting",
+        "trans": [
+            "顶板锚栓支架"
+        ]
+    },
+    {
+        "name": "roof of coal seam",
+        "trans": [
+            "煤层顶板"
+        ]
+    },
+    {
+        "name": "roof rock",
+        "trans": [
+            "顶盖岩"
+        ]
+    },
+    {
+        "name": "roof timbering",
+        "trans": [
+            "顶板支架"
+        ]
+    },
+    {
+        "name": "roofing slate",
+        "trans": [
+            "盖板岩"
+        ]
+    },
+    {
+        "name": "room",
+        "trans": [
+            "室"
+        ]
+    },
+    {
+        "name": "rooseveltite",
+        "trans": [
+            "砷铋矿"
+        ]
+    },
+    {
+        "name": "root nodule",
+        "trans": [
+            "根瘤"
+        ]
+    },
+    {
+        "name": "root zone",
+        "trans": [
+            "根带"
+        ]
+    },
+    {
+        "name": "rootless fumarole",
+        "trans": [
+            "无根喷气孔"
+        ]
+    },
+    {
+        "name": "rope boring",
+        "trans": [
+            "绳私打钻"
+        ]
+    },
+    {
+        "name": "rope socket",
+        "trans": [
+            "绳帽"
+        ]
+    },
+    {
+        "name": "ropy lava",
+        "trans": [
+            "波纹熔岩"
+        ]
+    },
+    {
+        "name": "rosasite",
+        "trans": [
+            "斜方绿铜锌矿"
+        ]
+    },
+    {
+        "name": "roscoelite",
+        "trans": [
+            "钒云母"
+        ]
+    },
+    {
+        "name": "rose diagram",
+        "trans": [
+            "玫瑰图"
+        ]
+    },
+    {
+        "name": "rose quartz",
+        "trans": [
+            "蔷薇石英"
+        ]
+    },
+    {
+        "name": "rosenbuschite",
+        "trans": [
+            "橙针钠钙石"
+        ]
+    },
+    {
+        "name": "rosieresite",
+        "trans": [
+            "磷铝铅铜矿"
+        ]
+    },
+    {
+        "name": "ross",
+        "trans": [
+            "岬"
+        ]
+    },
+    {
+        "name": "rossite",
+        "trans": [
+            "水钒钙石"
+        ]
+    },
+    {
+        "name": "rotary bit",
+        "trans": [
+            "旋转式钻头"
+        ]
+    },
+    {
+        "name": "rotary boring",
+        "trans": [
+            "回转钻探"
+        ]
+    },
+    {
+        "name": "rotary drill",
+        "trans": [
+            "旋转钻机"
+        ]
+    },
+    {
+        "name": "rotary drilling machine",
+        "trans": [
+            "旋转钻机"
+        ]
+    },
+    {
+        "name": "rotary filter",
+        "trans": [
+            "旋转滤器"
+        ]
+    },
+    {
+        "name": "rotary percussive drilling",
+        "trans": [
+            "回转冲魂进"
+        ]
+    },
+    {
+        "name": "rotary polarization of petroleum",
+        "trans": [
+            "石油旋光性"
+        ]
+    },
+    {
+        "name": "rotary system of drilling",
+        "trans": [
+            "回转钻井方法"
+        ]
+    },
+    {
+        "name": "rotary table",
+        "trans": [
+            "转盘"
+        ]
+    },
+    {
+        "name": "rotating crystal method",
+        "trans": [
+            "旋转晶体法"
+        ]
+    },
+    {
+        "name": "rotating meter",
+        "trans": [
+            "旋转临计"
+        ]
+    },
+    {
+        "name": "rotating table",
+        "trans": [
+            "转盘"
+        ]
+    },
+    {
+        "name": "rotation tectonite",
+        "trans": [
+            "构造岩"
+        ]
+    },
+    {
+        "name": "rotation twin",
+        "trans": [
+            "旋转双晶"
+        ]
+    },
+    {
+        "name": "rotational deformation",
+        "trans": [
+            "旋转变形"
+        ]
+    },
+    {
+        "name": "rotational fault",
+        "trans": [
+            "旋转断层"
+        ]
+    },
+    {
+        "name": "rotational grain",
+        "trans": [
+            "旋转晶粒"
+        ]
+    },
+    {
+        "name": "rotational speed",
+        "trans": [
+            "转速"
+        ]
+    },
+    {
+        "name": "rotatory fault",
+        "trans": [
+            "旋转断层"
+        ]
+    },
+    {
+        "name": "rotten spot",
+        "trans": [
+            "锅穴"
+        ]
+    },
+    {
+        "name": "rougemontite",
+        "trans": [
+            "橄钛辉长岩"
+        ]
+    },
+    {
+        "name": "rougher flotation",
+        "trans": [
+            "粗选"
+        ]
+    },
+    {
+        "name": "roughing",
+        "trans": [
+            "粗选"
+        ]
+    },
+    {
+        "name": "roughness",
+        "trans": [
+            "粗糙度"
+        ]
+    },
+    {
+        "name": "roughness coefficient",
+        "trans": [
+            "粗糙度系数"
+        ]
+    },
+    {
+        "name": "round trip",
+        "trans": [
+            "回次"
+        ]
+    },
+    {
+        "name": "round worms",
+        "trans": [
+            "线形动物类"
+        ]
+    },
+    {
+        "name": "roundness",
+        "trans": [
+            "圆度"
+        ]
+    },
+    {
+        "name": "roundstone",
+        "trans": [
+            "圆石"
+        ]
+    },
+    {
+        "name": "route",
+        "trans": [
+            "航线"
+        ]
+    },
+    {
+        "name": "routivarite",
+        "trans": [
+            "褶英二长岩"
+        ]
+    },
+    {
+        "name": "rouvillite",
+        "trans": [
+            "淡霞斜岩"
+        ]
+    },
+    {
+        "name": "row",
+        "trans": [
+            "煤层"
+        ]
+    },
+    {
+        "name": "roweit",
+        "trans": [
+            "基性硼锰钙石"
+        ]
+    },
+    {
+        "name": "rowlandite",
+        "trans": [
+            "硅氟铁钇矿"
+        ]
+    },
+    {
+        "name": "royalty",
+        "trans": [
+            "矿藏开采权"
+        ]
+    },
+    {
+        "name": "rubbish",
+        "trans": [
+            "碎屑;废石"
+        ]
+    },
+    {
+        "name": "rubbish dump",
+        "trans": [
+            "碎石堆"
+        ]
+    },
+    {
+        "name": "rubble",
+        "trans": [
+            "碎石"
+        ]
+    },
+    {
+        "name": "rubellite",
+        "trans": [
+            "红电气石"
+        ]
+    },
+    {
+        "name": "rubicelle",
+        "trans": [
+            "橙尖晶石"
+        ]
+    },
+    {
+        "name": "rubidium",
+        "trans": [
+            "铷"
+        ]
+    },
+    {
+        "name": "rubidium strontium dating",
+        "trans": [
+            "铷锶年代测定"
+        ]
+    },
+    {
+        "name": "rubidium strontium method",
+        "trans": [
+            "铷锶年代测定法"
+        ]
+    },
+    {
+        "name": "rubrozem",
+        "trans": [
+            "腐殖质红色土"
+        ]
+    },
+    {
+        "name": "ruby",
+        "trans": [
+            "红宝石"
+        ]
+    },
+    {
+        "name": "rudaceous",
+        "trans": [
+            "砾状的"
+        ]
+    },
+    {
+        "name": "rudimentary organ",
+        "trans": [
+            "退化瀑"
+        ]
+    },
+    {
+        "name": "rudimentogeosyncline",
+        "trans": [
+            "雏地槽"
+        ]
+    },
+    {
+        "name": "rudyte",
+        "trans": [
+            "砾质岩"
+        ]
+    },
+    {
+        "name": "rugged",
+        "trans": [
+            "凹凸不平的"
+        ]
+    },
+    {
+        "name": "ruin",
+        "trans": [
+            "毁灭"
+        ]
+    },
+    {
+        "name": "rules of nomenclature",
+        "trans": [
+            "命名法规"
+        ]
+    },
+    {
+        "name": "rumpfite",
+        "trans": [
+            "淡斜绿泥石"
+        ]
+    },
+    {
+        "name": "run",
+        "trans": [
+            "走向"
+        ]
+    },
+    {
+        "name": "run of bank gravel",
+        "trans": [
+            "采石坑砾石"
+        ]
+    },
+    {
+        "name": "run of mine coal",
+        "trans": [
+            "原煤"
+        ]
+    },
+    {
+        "name": "run of mine ore",
+        "trans": [
+            "原矿"
+        ]
+    },
+    {
+        "name": "run off",
+        "trans": [
+            "瘤"
+        ]
+    },
+    {
+        "name": "running sand",
+        "trans": [
+            "松砂"
+        ]
+    },
+    {
+        "name": "running water level",
+        "trans": [
+            "廉位"
+        ]
+    },
+    {
+        "name": "runoff coefficient",
+        "trans": [
+            "经恋数"
+        ]
+    },
+    {
+        "name": "rupelian",
+        "trans": [
+            "鲁培勒阶"
+        ]
+    },
+    {
+        "name": "rupture",
+        "trans": [
+            "破裂"
+        ]
+    },
+    {
+        "name": "rupture stress",
+        "trans": [
+            "破裂应力"
+        ]
+    },
+    {
+        "name": "ruptured zone",
+        "trans": [
+            "碎裂带"
+        ]
+    },
+    {
+        "name": "russellite",
+        "trans": [
+            "钨铋矿"
+        ]
+    },
+    {
+        "name": "rust coloured forest soil",
+        "trans": [
+            "潜育灰化土"
+        ]
+    },
+    {
+        "name": "ruthenium",
+        "trans": [
+            "钌"
+        ]
+    },
+    {
+        "name": "rutherfordine",
+        "trans": [
+            "纤碳铀矿"
+        ]
+    },
+    {
+        "name": "rutile",
+        "trans": [
+            "金红石"
+        ]
+    }
+]

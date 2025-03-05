@@ -1,0 +1,2546 @@
+[
+    {
+        "name": "oasis",
+        "trans": [
+            "绿州"
+        ]
+    },
+    {
+        "name": "obduction",
+        "trans": [
+            "仰冲"
+        ]
+    },
+    {
+        "name": "obduction plate",
+        "trans": [
+            "仰冲板块"
+        ]
+    },
+    {
+        "name": "obduction zone",
+        "trans": [
+            "仰冲带"
+        ]
+    },
+    {
+        "name": "objective",
+        "trans": [
+            "接物镜"
+        ]
+    },
+    {
+        "name": "objective analysis",
+        "trans": [
+            "客观分析"
+        ]
+    },
+    {
+        "name": "oblique extinction",
+        "trans": [
+            "斜消光"
+        ]
+    },
+    {
+        "name": "oblique fault",
+        "trans": [
+            "斜断层"
+        ]
+    },
+    {
+        "name": "oblique fold",
+        "trans": [
+            "斜卧褶皱"
+        ]
+    },
+    {
+        "name": "oblique joint",
+        "trans": [
+            "斜节理"
+        ]
+    },
+    {
+        "name": "oblique projection",
+        "trans": [
+            "斜投影"
+        ]
+    },
+    {
+        "name": "oblique slip fault",
+        "trans": [
+            "斜滑断层"
+        ]
+    },
+    {
+        "name": "oblong",
+        "trans": [
+            "长方形的"
+        ]
+    },
+    {
+        "name": "oborite",
+        "trans": [
+            "鄂博矿"
+        ]
+    },
+    {
+        "name": "obsequent fault line scarp",
+        "trans": [
+            "逆断线崖"
+        ]
+    },
+    {
+        "name": "obsequent river",
+        "trans": [
+            "逆向河"
+        ]
+    },
+    {
+        "name": "observation",
+        "trans": [
+            "观测"
+        ]
+    },
+    {
+        "name": "observation field",
+        "trans": [
+            "观测场"
+        ]
+    },
+    {
+        "name": "observation network",
+        "trans": [
+            "观测网"
+        ]
+    },
+    {
+        "name": "observation well",
+        "trans": [
+            "观测孔"
+        ]
+    },
+    {
+        "name": "observational error",
+        "trans": [
+            "观察误差"
+        ]
+    },
+    {
+        "name": "obsidian",
+        "trans": [
+            "黑曜岩"
+        ]
+    },
+    {
+        "name": "occasional species",
+        "trans": [
+            "偶见种"
+        ]
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "大洋"
+        ]
+    },
+    {
+        "name": "ocean bed",
+        "trans": [
+            "洋底"
+        ]
+    },
+    {
+        "name": "ocean current",
+        "trans": [
+            "海流"
+        ]
+    },
+    {
+        "name": "ocean floor",
+        "trans": [
+            "洋底"
+        ]
+    },
+    {
+        "name": "ocean floor fracture zone",
+        "trans": [
+            "洋底断裂带"
+        ]
+    },
+    {
+        "name": "ocean floor spreading",
+        "trans": [
+            "海底扩张"
+        ]
+    },
+    {
+        "name": "ocean wave",
+        "trans": [
+            "大洋波浪"
+        ]
+    },
+    {
+        "name": "oceanic craton",
+        "trans": [
+            "洋台"
+        ]
+    },
+    {
+        "name": "oceanic crust",
+        "trans": [
+            "海洋地壳"
+        ]
+    },
+    {
+        "name": "oceanic island",
+        "trans": [
+            "海洋岛"
+        ]
+    },
+    {
+        "name": "oceanic ridge tholeiite",
+        "trans": [
+            "洋脊拉斑玄武岩"
+        ]
+    },
+    {
+        "name": "oceanic rise",
+        "trans": [
+            "大洋中隆"
+        ]
+    },
+    {
+        "name": "oceanic tholeiite",
+        "trans": [
+            "海洋性拉斑玄武岩"
+        ]
+    },
+    {
+        "name": "oceanic water",
+        "trans": [
+            "大洋水"
+        ]
+    },
+    {
+        "name": "oceanite",
+        "trans": [
+            "大洋岩"
+        ]
+    },
+    {
+        "name": "oceanization",
+        "trans": [
+            "海洋化酌"
+        ]
+    },
+    {
+        "name": "oceanographical remote sensing",
+        "trans": [
+            "海洋遥感"
+        ]
+    },
+    {
+        "name": "oceanology",
+        "trans": [
+            "海洋学"
+        ]
+    },
+    {
+        "name": "ocellar",
+        "trans": [
+            "眼班状的"
+        ]
+    },
+    {
+        "name": "ocellus",
+        "trans": [
+            "单眼"
+        ]
+    },
+    {
+        "name": "ochre",
+        "trans": [
+            "舣"
+        ]
+    },
+    {
+        "name": "ochrea",
+        "trans": [
+            "托叶鞘"
+        ]
+    },
+    {
+        "name": "octahedrite",
+        "trans": [
+            "八面石"
+        ]
+    },
+    {
+        "name": "octahedron",
+        "trans": [
+            "八面体"
+        ]
+    },
+    {
+        "name": "octophyllite",
+        "trans": [
+            "八叶云母"
+        ]
+    },
+    {
+        "name": "ocular",
+        "trans": [
+            "目镜"
+        ]
+    },
+    {
+        "name": "odd pinnate",
+        "trans": [
+            "奇数羽状的"
+        ]
+    },
+    {
+        "name": "odinite",
+        "trans": [
+            "拉辉煌斑岩"
+        ]
+    },
+    {
+        "name": "odometer",
+        "trans": [
+            "里程表"
+        ]
+    },
+    {
+        "name": "odontoid",
+        "trans": [
+            "齿状的"
+        ]
+    },
+    {
+        "name": "odontolite",
+        "trans": [
+            "齿绿松石"
+        ]
+    },
+    {
+        "name": "oersted",
+        "trans": [
+            "奥斯忒"
+        ]
+    },
+    {
+        "name": "offlap",
+        "trans": [
+            "退复"
+        ]
+    },
+    {
+        "name": "offretite",
+        "trans": [
+            "菱钾铝矿"
+        ]
+    },
+    {
+        "name": "offset",
+        "trans": [
+            "支脉"
+        ]
+    },
+    {
+        "name": "offset well",
+        "trans": [
+            "探边井"
+        ]
+    },
+    {
+        "name": "offshore",
+        "trans": [
+            "外滨"
+        ]
+    },
+    {
+        "name": "offshore bar",
+        "trans": [
+            "滨外洲"
+        ]
+    },
+    {
+        "name": "offshore coring drilling",
+        "trans": [
+            "近海浅钻钻探"
+        ]
+    },
+    {
+        "name": "offshore drilling",
+        "trans": [
+            "近海钻井"
+        ]
+    },
+    {
+        "name": "offshore drilling rig",
+        "trans": [
+            "海上钻探装置"
+        ]
+    },
+    {
+        "name": "offshore oil drilling",
+        "trans": [
+            "海上石油钻探"
+        ]
+    },
+    {
+        "name": "ohmic resistance",
+        "trans": [
+            "欧姆阻抗"
+        ]
+    },
+    {
+        "name": "oikesis",
+        "trans": [
+            "定居"
+        ]
+    },
+    {
+        "name": "oil",
+        "trans": [
+            "油"
+        ]
+    },
+    {
+        "name": "oil accumulating area",
+        "trans": [
+            "聚油面积"
+        ]
+    },
+    {
+        "name": "oil accumulation",
+        "trans": [
+            "油池"
+        ]
+    },
+    {
+        "name": "oil basin",
+        "trans": [
+            "油田"
+        ]
+    },
+    {
+        "name": "oil bearing",
+        "trans": [
+            "含油的"
+        ]
+    },
+    {
+        "name": "oil bearing rock",
+        "trans": [
+            "油母岩"
+        ]
+    },
+    {
+        "name": "oil bearing structure",
+        "trans": [
+            "储油构造"
+        ]
+    },
+    {
+        "name": "oil damping",
+        "trans": [
+            "油减震"
+        ]
+    },
+    {
+        "name": "oil deposit",
+        "trans": [
+            "石油矿床"
+        ]
+    },
+    {
+        "name": "oil field",
+        "trans": [
+            "油田"
+        ]
+    },
+    {
+        "name": "oil field water",
+        "trans": [
+            "油田水"
+        ]
+    },
+    {
+        "name": "oil gas",
+        "trans": [
+            "油气"
+        ]
+    },
+    {
+        "name": "oil geology",
+        "trans": [
+            "石油地质学"
+        ]
+    },
+    {
+        "name": "oil horizon",
+        "trans": [
+            "含油层"
+        ]
+    },
+    {
+        "name": "oil indication",
+        "trans": [
+            "石油显示"
+        ]
+    },
+    {
+        "name": "oil layer",
+        "trans": [
+            "含油层"
+        ]
+    },
+    {
+        "name": "oil measure",
+        "trans": [
+            "油层;油贮"
+        ]
+    },
+    {
+        "name": "oil pool",
+        "trans": [
+            "油池"
+        ]
+    },
+    {
+        "name": "oil production",
+        "trans": [
+            "采油"
+        ]
+    },
+    {
+        "name": "oil sand",
+        "trans": [
+            "油砂"
+        ]
+    },
+    {
+        "name": "oil saturation",
+        "trans": [
+            "油饱和率"
+        ]
+    },
+    {
+        "name": "oil seepage",
+        "trans": [
+            "油苗"
+        ]
+    },
+    {
+        "name": "oil shale",
+        "trans": [
+            "油母页岩"
+        ]
+    },
+    {
+        "name": "oil stone",
+        "trans": [
+            "油石"
+        ]
+    },
+    {
+        "name": "oil trap",
+        "trans": [
+            "油捕"
+        ]
+    },
+    {
+        "name": "oil well",
+        "trans": [
+            "油井"
+        ]
+    },
+    {
+        "name": "okenite",
+        "trans": [
+            "水硅钙石"
+        ]
+    },
+    {
+        "name": "olafite",
+        "trans": [
+            "钠长石"
+        ]
+    },
+    {
+        "name": "old stage",
+        "trans": [
+            "老年期"
+        ]
+    },
+    {
+        "name": "old stone age",
+        "trans": [
+            "旧石票代"
+        ]
+    },
+    {
+        "name": "old valley",
+        "trans": [
+            "老年谷"
+        ]
+    },
+    {
+        "name": "old world",
+        "trans": [
+            "旧世界"
+        ]
+    },
+    {
+        "name": "oldhamite",
+        "trans": [
+            "褐硫钙石;陨硫钙石"
+        ]
+    },
+    {
+        "name": "oligocene",
+        "trans": [
+            "渐新世"
+        ]
+    },
+    {
+        "name": "oligoclase",
+        "trans": [
+            "奥长石"
+        ]
+    },
+    {
+        "name": "oligonite",
+        "trans": [
+            "菱锰铁矿"
+        ]
+    },
+    {
+        "name": "oligosite",
+        "trans": [
+            "奥长岩"
+        ]
+    },
+    {
+        "name": "oligotrophic",
+        "trans": [
+            "寡养的"
+        ]
+    },
+    {
+        "name": "oligotrophic lake",
+        "trans": [
+            "寡养湖"
+        ]
+    },
+    {
+        "name": "olistolith",
+        "trans": [
+            "滑动岩体"
+        ]
+    },
+    {
+        "name": "olistostrome",
+        "trans": [
+            "重力滑动沉积"
+        ]
+    },
+    {
+        "name": "olivenite",
+        "trans": [
+            "橄榄铜矿"
+        ]
+    },
+    {
+        "name": "olivine",
+        "trans": [
+            "橄榄石"
+        ]
+    },
+    {
+        "name": "olivine basalt",
+        "trans": [
+            "橄件武岩"
+        ]
+    },
+    {
+        "name": "olivinfree basalt",
+        "trans": [
+            "无橄件武岩"
+        ]
+    },
+    {
+        "name": "ollenite",
+        "trans": [
+            "绿帘金红角闪片岩"
+        ]
+    },
+    {
+        "name": "omphacite",
+        "trans": [
+            "绿辉石"
+        ]
+    },
+    {
+        "name": "one electron bond",
+        "trans": [
+            "单电子键"
+        ]
+    },
+    {
+        "name": "onkilonite",
+        "trans": [
+            "橄辉霞岩"
+        ]
+    },
+    {
+        "name": "onlap",
+        "trans": [
+            "海侵超覆"
+        ]
+    },
+    {
+        "name": "onofrite",
+        "trans": [
+            "硒汞矿"
+        ]
+    },
+    {
+        "name": "ontogenetic",
+        "trans": [
+            "个体发生的"
+        ]
+    },
+    {
+        "name": "ontogeny",
+        "trans": [
+            "个体发生学"
+        ]
+    },
+    {
+        "name": "ontogeny of minerals",
+        "trans": [
+            "矿物发生学"
+        ]
+    },
+    {
+        "name": "onyx",
+        "trans": [
+            "缟玛瑙"
+        ]
+    },
+    {
+        "name": "oogonium",
+        "trans": [
+            "卵原细胞"
+        ]
+    },
+    {
+        "name": "oolite",
+        "trans": [
+            "鲕状岩"
+        ]
+    },
+    {
+        "name": "oolitic",
+        "trans": [
+            "鲕状的"
+        ]
+    },
+    {
+        "name": "oolitic iron ore deposit",
+        "trans": [
+            "鲡状铁矿床"
+        ]
+    },
+    {
+        "name": "oolitic limestone",
+        "trans": [
+            "鲕状灰岩"
+        ]
+    },
+    {
+        "name": "oolitic structure",
+        "trans": [
+            "鲡状构造"
+        ]
+    },
+    {
+        "name": "ooze",
+        "trans": [
+            "软泥"
+        ]
+    },
+    {
+        "name": "opacite",
+        "trans": [
+            "不透蔑"
+        ]
+    },
+    {
+        "name": "opacite margin",
+        "trans": [
+            "不透眠缘"
+        ]
+    },
+    {
+        "name": "opal",
+        "trans": [
+            "蛋白石"
+        ]
+    },
+    {
+        "name": "opalization",
+        "trans": [
+            "蛋白石化"
+        ]
+    },
+    {
+        "name": "opalize",
+        "trans": [
+            "使呈乳白状"
+        ]
+    },
+    {
+        "name": "open circuit",
+        "trans": [
+            "开路"
+        ]
+    },
+    {
+        "name": "open cut mining",
+        "trans": [
+            "露天采矿"
+        ]
+    },
+    {
+        "name": "open cut ore mine",
+        "trans": [
+            "露天开采矿山"
+        ]
+    },
+    {
+        "name": "open cut working",
+        "trans": [
+            "露天采矿"
+        ]
+    },
+    {
+        "name": "open fault",
+        "trans": [
+            "张开断层"
+        ]
+    },
+    {
+        "name": "open fold",
+        "trans": [
+            "敞开褶皱"
+        ]
+    },
+    {
+        "name": "open hearth",
+        "trans": [
+            "平炉"
+        ]
+    },
+    {
+        "name": "open pit method",
+        "trans": [
+            "露天开采法"
+        ]
+    },
+    {
+        "name": "open pit quarry",
+        "trans": [
+            "露天矿场"
+        ]
+    },
+    {
+        "name": "open stope method",
+        "trans": [
+            "空场回采法"
+        ]
+    },
+    {
+        "name": "open stope mining",
+        "trans": [
+            "空场回采法"
+        ]
+    },
+    {
+        "name": "open system",
+        "trans": [
+            "开放系统"
+        ]
+    },
+    {
+        "name": "open tube analysis",
+        "trans": [
+            "开管分析"
+        ]
+    },
+    {
+        "name": "open type geothermal reservoir",
+        "trans": [
+            "开放式地热储"
+        ]
+    },
+    {
+        "name": "opening of mines",
+        "trans": [
+            "矿体开发"
+        ]
+    },
+    {
+        "name": "operculum",
+        "trans": [
+            "鳃盖"
+        ]
+    },
+    {
+        "name": "ophicalcite",
+        "trans": [
+            "蛇纹大理岩"
+        ]
+    },
+    {
+        "name": "ophiolite",
+        "trans": [
+            "蛇绿岩"
+        ]
+    },
+    {
+        "name": "ophiolite formation",
+        "trans": [
+            "蛇绿岩建造"
+        ]
+    },
+    {
+        "name": "ophiolitic melange",
+        "trans": [
+            "蛇绿混杂岩"
+        ]
+    },
+    {
+        "name": "ophite",
+        "trans": [
+            "纤闪辉绿岩"
+        ]
+    },
+    {
+        "name": "ophitic texture",
+        "trans": [
+            "辉绿结构"
+        ]
+    },
+    {
+        "name": "ophyolitic complex",
+        "trans": [
+            "蛇绿岩复合体"
+        ]
+    },
+    {
+        "name": "opposite",
+        "trans": [
+            "对生的"
+        ]
+    },
+    {
+        "name": "opposite phyllotaxis",
+        "trans": [
+            "对生叶序"
+        ]
+    },
+    {
+        "name": "optic axis",
+        "trans": [
+            "光轴"
+        ]
+    },
+    {
+        "name": "optic binormals",
+        "trans": [
+            "光轴副法线"
+        ]
+    },
+    {
+        "name": "optic biradial",
+        "trans": [
+            "副光轴"
+        ]
+    },
+    {
+        "name": "optic elasticity axes",
+        "trans": [
+            "光学弹性轴"
+        ]
+    },
+    {
+        "name": "optical activity",
+        "trans": [
+            "旋光性"
+        ]
+    },
+    {
+        "name": "optical angle",
+        "trans": [
+            "光轴角"
+        ]
+    },
+    {
+        "name": "optical anisotropy",
+        "trans": [
+            "光学蛤异性"
+        ]
+    },
+    {
+        "name": "optical anomaly",
+        "trans": [
+            "光性异常"
+        ]
+    },
+    {
+        "name": "optical character",
+        "trans": [
+            "光性"
+        ]
+    },
+    {
+        "name": "optical constant",
+        "trans": [
+            "光性常数"
+        ]
+    },
+    {
+        "name": "optical dispersion",
+        "trans": [
+            "色散"
+        ]
+    },
+    {
+        "name": "optical indicatrix",
+        "trans": [
+            "光率体"
+        ]
+    },
+    {
+        "name": "optical isotropy",
+        "trans": [
+            "光学蛤同性"
+        ]
+    },
+    {
+        "name": "optical orientation",
+        "trans": [
+            "光性方位"
+        ]
+    },
+    {
+        "name": "optical phenomenon",
+        "trans": [
+            "光学现象"
+        ]
+    },
+    {
+        "name": "optical section",
+        "trans": [
+            "光切面"
+        ]
+    },
+    {
+        "name": "optical strain",
+        "trans": [
+            "光性变形"
+        ]
+    },
+    {
+        "name": "optical system",
+        "trans": [
+            "光学系统"
+        ]
+    },
+    {
+        "name": "optical twin",
+        "trans": [
+            "巴潍晶"
+        ]
+    },
+    {
+        "name": "optically anisotropic",
+        "trans": [
+            "光学异向性的"
+        ]
+    },
+    {
+        "name": "optically biaxial",
+        "trans": [
+            "双光轴的"
+        ]
+    },
+    {
+        "name": "optically isotropic",
+        "trans": [
+            "光性均质的"
+        ]
+    },
+    {
+        "name": "optically negative",
+        "trans": [
+            "负光性的"
+        ]
+    },
+    {
+        "name": "optically positive",
+        "trans": [
+            "正光性的"
+        ]
+    },
+    {
+        "name": "optically uniaxial",
+        "trans": [
+            "单光轴的"
+        ]
+    },
+    {
+        "name": "optimization",
+        "trans": [
+            "最佳化"
+        ]
+    },
+    {
+        "name": "oral appendage",
+        "trans": [
+            "口肢"
+        ]
+    },
+    {
+        "name": "oral arm",
+        "trans": [
+            "口腕"
+        ]
+    },
+    {
+        "name": "orangite",
+        "trans": [
+            "橙黄石"
+        ]
+    },
+    {
+        "name": "orbicular",
+        "trans": [
+            "球状的"
+        ]
+    },
+    {
+        "name": "orbicular granite",
+        "trans": [
+            "球状花岗岩"
+        ]
+    },
+    {
+        "name": "orbital electron",
+        "trans": [
+            "轨道电子"
+        ]
+    },
+    {
+        "name": "order",
+        "trans": [
+            "目"
+        ]
+    },
+    {
+        "name": "order of crystallization",
+        "trans": [
+            "结晶顺序"
+        ]
+    },
+    {
+        "name": "ordinary chernozem",
+        "trans": [
+            "普通黑土"
+        ]
+    },
+    {
+        "name": "ordinary light",
+        "trans": [
+            "普通光线"
+        ]
+    },
+    {
+        "name": "ordovician",
+        "trans": [
+            "奥陶纪"
+        ]
+    },
+    {
+        "name": "ore",
+        "trans": [
+            "矿石"
+        ]
+    },
+    {
+        "name": "ore bearing",
+        "trans": [
+            "含矿的"
+        ]
+    },
+    {
+        "name": "ore bed",
+        "trans": [
+            "矿层"
+        ]
+    },
+    {
+        "name": "ore bin",
+        "trans": [
+            "矿仓"
+        ]
+    },
+    {
+        "name": "ore block",
+        "trans": [
+            "矿段"
+        ]
+    },
+    {
+        "name": "ore bringer",
+        "trans": [
+            "运矿岩"
+        ]
+    },
+    {
+        "name": "ore bunch",
+        "trans": [
+            "矿袋"
+        ]
+    },
+    {
+        "name": "ore chimney",
+        "trans": [
+            "管状矿体"
+        ]
+    },
+    {
+        "name": "ore column",
+        "trans": [
+            "矿柱"
+        ]
+    },
+    {
+        "name": "ore complex",
+        "trans": [
+            "矿石复合"
+        ]
+    },
+    {
+        "name": "ore core",
+        "trans": [
+            "矿心"
+        ]
+    },
+    {
+        "name": "ore course",
+        "trans": [
+            "富矿体"
+        ]
+    },
+    {
+        "name": "ore dampness",
+        "trans": [
+            "矿石湿度"
+        ]
+    },
+    {
+        "name": "ore deposit",
+        "trans": [
+            "矿床"
+        ]
+    },
+    {
+        "name": "ore dilution",
+        "trans": [
+            "矿石贫化"
+        ]
+    },
+    {
+        "name": "ore dressing",
+        "trans": [
+            "选矿"
+        ]
+    },
+    {
+        "name": "ore fines",
+        "trans": [
+            "粉矿"
+        ]
+    },
+    {
+        "name": "ore formation",
+        "trans": [
+            "矿石建造"
+        ]
+    },
+    {
+        "name": "ore grade",
+        "trans": [
+            "矿石品级"
+        ]
+    },
+    {
+        "name": "ore hardness",
+        "trans": [
+            "矿硬"
+        ]
+    },
+    {
+        "name": "ore leaching",
+        "trans": [
+            "矿石浸出"
+        ]
+    },
+    {
+        "name": "ore losses",
+        "trans": [
+            "矿石损失"
+        ]
+    },
+    {
+        "name": "ore mineral",
+        "trans": [
+            "金属矿物"
+        ]
+    },
+    {
+        "name": "ore nest",
+        "trans": [
+            "矿巢"
+        ]
+    },
+    {
+        "name": "ore pillar",
+        "trans": [
+            "矿柱"
+        ]
+    },
+    {
+        "name": "ore pipe",
+        "trans": [
+            "管状矿体"
+        ]
+    },
+    {
+        "name": "ore pocket",
+        "trans": [
+            "矿袋"
+        ]
+    },
+    {
+        "name": "ore reserve",
+        "trans": [
+            "矿储藏量"
+        ]
+    },
+    {
+        "name": "ore rock",
+        "trans": [
+            "含矿岩"
+        ]
+    },
+    {
+        "name": "ore shoot",
+        "trans": [
+            "富矿体"
+        ]
+    },
+    {
+        "name": "ore sort",
+        "trans": [
+            "矿石工业品级"
+        ]
+    },
+    {
+        "name": "ore stock",
+        "trans": [
+            "矿储藏量"
+        ]
+    },
+    {
+        "name": "oreforming element",
+        "trans": [
+            "成矿元素"
+        ]
+    },
+    {
+        "name": "orford process",
+        "trans": [
+            "奥福特法"
+        ]
+    },
+    {
+        "name": "organ",
+        "trans": [
+            "瀑"
+        ]
+    },
+    {
+        "name": "organic acid",
+        "trans": [
+            "有机酸"
+        ]
+    },
+    {
+        "name": "organic compound",
+        "trans": [
+            "有机化合物"
+        ]
+    },
+    {
+        "name": "organic deposits",
+        "trans": [
+            "有机沉积"
+        ]
+    },
+    {
+        "name": "organic geochemistry",
+        "trans": [
+            "有机地球化学"
+        ]
+    },
+    {
+        "name": "organic matter",
+        "trans": [
+            "有机物"
+        ]
+    },
+    {
+        "name": "organic matter content",
+        "trans": [
+            "有机物质含量"
+        ]
+    },
+    {
+        "name": "organic pigment",
+        "trans": [
+            "有机颜料"
+        ]
+    },
+    {
+        "name": "organic pollution",
+        "trans": [
+            "有机污染"
+        ]
+    },
+    {
+        "name": "organic remains",
+        "trans": [
+            "有机残余物"
+        ]
+    },
+    {
+        "name": "organic rock",
+        "trans": [
+            "有机岩"
+        ]
+    },
+    {
+        "name": "organic sediments",
+        "trans": [
+            "有机沉积物"
+        ]
+    },
+    {
+        "name": "organic silt",
+        "trans": [
+            "泥炭粘土"
+        ]
+    },
+    {
+        "name": "organism",
+        "trans": [
+            "生物"
+        ]
+    },
+    {
+        "name": "organogenic",
+        "trans": [
+            "有机生成的"
+        ]
+    },
+    {
+        "name": "organometallic compound",
+        "trans": [
+            "有机金属化合物"
+        ]
+    },
+    {
+        "name": "orictocoenosis",
+        "trans": [
+            "生物化石群落"
+        ]
+    },
+    {
+        "name": "orientation",
+        "trans": [
+            "定向"
+        ]
+    },
+    {
+        "name": "orientation of crystal",
+        "trans": [
+            "晶体定位"
+        ]
+    },
+    {
+        "name": "oriented thin section",
+        "trans": [
+            "定向薄片"
+        ]
+    },
+    {
+        "name": "orientite",
+        "trans": [
+            "锰柱石"
+        ]
+    },
+    {
+        "name": "origin",
+        "trans": [
+            "起原"
+        ]
+    },
+    {
+        "name": "origin of life",
+        "trans": [
+            "生命起原"
+        ]
+    },
+    {
+        "name": "original dip",
+        "trans": [
+            "原生倾斜"
+        ]
+    },
+    {
+        "name": "original interstice",
+        "trans": [
+            "原生空隙"
+        ]
+    },
+    {
+        "name": "original order",
+        "trans": [
+            "原层序"
+        ]
+    },
+    {
+        "name": "ornamental stone",
+        "trans": [
+            "装饰石"
+        ]
+    },
+    {
+        "name": "ornamentation",
+        "trans": [
+            "纹饰"
+        ]
+    },
+    {
+        "name": "ornithology",
+        "trans": [
+            "鸟类学"
+        ]
+    },
+    {
+        "name": "orocline",
+        "trans": [
+            "造山带弯曲"
+        ]
+    },
+    {
+        "name": "orogen",
+        "trans": [
+            "造山地带"
+        ]
+    },
+    {
+        "name": "orogenesis",
+        "trans": [
+            "造山运动"
+        ]
+    },
+    {
+        "name": "orogenetic",
+        "trans": [
+            "造山的"
+        ]
+    },
+    {
+        "name": "orogenetic movements",
+        "trans": [
+            "造山运动"
+        ]
+    },
+    {
+        "name": "orogenic",
+        "trans": [
+            "造山的"
+        ]
+    },
+    {
+        "name": "orogenic belt",
+        "trans": [
+            "造山带"
+        ]
+    },
+    {
+        "name": "orogenic cycle",
+        "trans": [
+            "造山旋回"
+        ]
+    },
+    {
+        "name": "orogenic hydrothermal deposit",
+        "trans": [
+            "造山热液矿床"
+        ]
+    },
+    {
+        "name": "orogenic phase",
+        "trans": [
+            "造山相"
+        ]
+    },
+    {
+        "name": "orogenic zone",
+        "trans": [
+            "造山带"
+        ]
+    },
+    {
+        "name": "orogeny",
+        "trans": [
+            "造山运动"
+        ]
+    },
+    {
+        "name": "ort",
+        "trans": [
+            "横巷"
+        ]
+    },
+    {
+        "name": "orthite",
+        "trans": [
+            "褐帘石"
+        ]
+    },
+    {
+        "name": "orthoaxis",
+        "trans": [
+            "正轴"
+        ]
+    },
+    {
+        "name": "orthochronology",
+        "trans": [
+            "标准地质年代学"
+        ]
+    },
+    {
+        "name": "orthoclase",
+        "trans": [
+            "正长石"
+        ]
+    },
+    {
+        "name": "orthoclasite",
+        "trans": [
+            "微正长岩"
+        ]
+    },
+    {
+        "name": "orthoclastization",
+        "trans": [
+            "正长石化"
+        ]
+    },
+    {
+        "name": "orthoconglomerate",
+        "trans": [
+            "正砾岩"
+        ]
+    },
+    {
+        "name": "orthocumulate",
+        "trans": [
+            "正堆积岩"
+        ]
+    },
+    {
+        "name": "orthodiadochite",
+        "trans": [
+            "磷铁华"
+        ]
+    },
+    {
+        "name": "orthodiagonal axis",
+        "trans": [
+            "正轴"
+        ]
+    },
+    {
+        "name": "orthodolomite",
+        "trans": [
+            "正白云石"
+        ]
+    },
+    {
+        "name": "orthodome",
+        "trans": [
+            "正轴坡面"
+        ]
+    },
+    {
+        "name": "orthoevolution",
+        "trans": [
+            "直向进化"
+        ]
+    },
+    {
+        "name": "orthofelsite",
+        "trans": [
+            "正长霏细岩"
+        ]
+    },
+    {
+        "name": "orthogenesis",
+        "trans": [
+            "直向演化"
+        ]
+    },
+    {
+        "name": "orthogeosynclinal system",
+        "trans": [
+            "正地槽系"
+        ]
+    },
+    {
+        "name": "orthogeosyncline",
+        "trans": [
+            "正地槽"
+        ]
+    },
+    {
+        "name": "orthogneiss",
+        "trans": [
+            "正片麻岩"
+        ]
+    },
+    {
+        "name": "orthogonality",
+        "trans": [
+            "正交"
+        ]
+    },
+    {
+        "name": "orthographic projection",
+        "trans": [
+            "正射投影"
+        ]
+    },
+    {
+        "name": "ortholimestone",
+        "trans": [
+            "正石灰石"
+        ]
+    },
+    {
+        "name": "orthomagmatic deposit",
+        "trans": [
+            "正岩浆矿床"
+        ]
+    },
+    {
+        "name": "orthomagmatic stage",
+        "trans": [
+            "正岩浆期"
+        ]
+    },
+    {
+        "name": "orthometamorphism",
+        "trans": [
+            "正变质酌"
+        ]
+    },
+    {
+        "name": "orthometamorphite",
+        "trans": [
+            "正变质岩"
+        ]
+    },
+    {
+        "name": "orthomigmatite",
+        "trans": [
+            "正混合岩"
+        ]
+    },
+    {
+        "name": "orthophotomap",
+        "trans": [
+            "正射投影像片组合图"
+        ]
+    },
+    {
+        "name": "orthophyre",
+        "trans": [
+            "正长斑岩"
+        ]
+    },
+    {
+        "name": "orthophyric",
+        "trans": [
+            "正斑状的"
+        ]
+    },
+    {
+        "name": "orthopinacoid",
+        "trans": [
+            "正轴轴面"
+        ]
+    },
+    {
+        "name": "orthoplatform",
+        "trans": [
+            "正地台"
+        ]
+    },
+    {
+        "name": "orthoprism",
+        "trans": [
+            "正轴柱"
+        ]
+    },
+    {
+        "name": "orthopyramid",
+        "trans": [
+            "正轴锥"
+        ]
+    },
+    {
+        "name": "orthopyroxene",
+        "trans": [
+            "斜方辉石"
+        ]
+    },
+    {
+        "name": "orthopyroxenite",
+        "trans": [
+            "斜方辉岩"
+        ]
+    },
+    {
+        "name": "orthorhombic",
+        "trans": [
+            "斜方的"
+        ]
+    },
+    {
+        "name": "orthorhombic system",
+        "trans": [
+            "斜方晶系"
+        ]
+    },
+    {
+        "name": "orthoschist",
+        "trans": [
+            "火成片岩"
+        ]
+    },
+    {
+        "name": "orthoscope",
+        "trans": [
+            "直光镜"
+        ]
+    },
+    {
+        "name": "orthoselection",
+        "trans": [
+            "直向选择"
+        ]
+    },
+    {
+        "name": "orthosilicate",
+        "trans": [
+            "正硅酸盐"
+        ]
+    },
+    {
+        "name": "orthosite",
+        "trans": [
+            "粗粒正长岩"
+        ]
+    },
+    {
+        "name": "orthostratigraphy",
+        "trans": [
+            "正交地层学"
+        ]
+    },
+    {
+        "name": "orthosyenite",
+        "trans": [
+            "钾质正长岩"
+        ]
+    },
+    {
+        "name": "orthotectonics",
+        "trans": [
+            "正构造"
+        ]
+    },
+    {
+        "name": "ortlerite",
+        "trans": [
+            "闪斑玢岩"
+        ]
+    },
+    {
+        "name": "ortstein",
+        "trans": [
+            "硬盘"
+        ]
+    },
+    {
+        "name": "oryctogeology",
+        "trans": [
+            "化石地质学"
+        ]
+    },
+    {
+        "name": "oryctognosy",
+        "trans": [
+            "地物学"
+        ]
+    },
+    {
+        "name": "oryctology",
+        "trans": [
+            "化石学"
+        ]
+    },
+    {
+        "name": "osannite",
+        "trans": [
+            "钠闪石"
+        ]
+    },
+    {
+        "name": "osbornite",
+        "trans": [
+            "陨氯钛矿"
+        ]
+    },
+    {
+        "name": "oscillation theory",
+        "trans": [
+            "颤动说"
+        ]
+    },
+    {
+        "name": "oscillatory ripples",
+        "trans": [
+            "对称波痕"
+        ]
+    },
+    {
+        "name": "oscillatory twinning",
+        "trans": [
+            "反复双晶"
+        ]
+    },
+    {
+        "name": "osmiridium",
+        "trans": [
+            "铱锇矿"
+        ]
+    },
+    {
+        "name": "osmium",
+        "trans": [
+            "锇"
+        ]
+    },
+    {
+        "name": "osmotic equilibrium",
+        "trans": [
+            "渗透平衡"
+        ]
+    },
+    {
+        "name": "osmotic force",
+        "trans": [
+            "渗透力"
+        ]
+    },
+    {
+        "name": "osmotic pressure",
+        "trans": [
+            "渗透压"
+        ]
+    },
+    {
+        "name": "ossicle",
+        "trans": [
+            "小骨"
+        ]
+    },
+    {
+        "name": "ossification",
+        "trans": [
+            "骨化"
+        ]
+    },
+    {
+        "name": "osteal",
+        "trans": [
+            "骨的"
+        ]
+    },
+    {
+        "name": "ostium",
+        "trans": [
+            "小孔"
+        ]
+    },
+    {
+        "name": "ostracodermi",
+        "trans": [
+            "甲胄鱼纲"
+        ]
+    },
+    {
+        "name": "ostraite",
+        "trans": [
+            "磁铁尖晶辉岩"
+        ]
+    },
+    {
+        "name": "otavite",
+        "trans": [
+            "菱镉矿"
+        ]
+    },
+    {
+        "name": "ottrelite",
+        "trans": [
+            "粒硬绿泥石"
+        ]
+    },
+    {
+        "name": "ouachitite",
+        "trans": [
+            "黑云沸煌岩"
+        ]
+    },
+    {
+        "name": "outcrop",
+        "trans": [
+            "露头"
+        ]
+    },
+    {
+        "name": "outer core",
+        "trans": [
+            "外核"
+        ]
+    },
+    {
+        "name": "outer electron",
+        "trans": [
+            "外电子"
+        ]
+    },
+    {
+        "name": "outer lip",
+        "trans": [
+            "外唇"
+        ]
+    },
+    {
+        "name": "outer shell",
+        "trans": [
+            "外电子层"
+        ]
+    },
+    {
+        "name": "outer shell electron",
+        "trans": [
+            "外电子"
+        ]
+    },
+    {
+        "name": "outer sublittoral zone",
+        "trans": [
+            "底亚滨海带"
+        ]
+    },
+    {
+        "name": "outflow",
+        "trans": [
+            "瘤"
+        ]
+    },
+    {
+        "name": "outflow lake",
+        "trans": [
+            "外窿"
+        ]
+    },
+    {
+        "name": "outlier",
+        "trans": [
+            "老围层"
+        ]
+    },
+    {
+        "name": "outline",
+        "trans": [
+            "轮廓"
+        ]
+    },
+    {
+        "name": "output voltage",
+        "trans": [
+            "输出电压"
+        ]
+    },
+    {
+        "name": "outside balance reserves",
+        "trans": [
+            "表外储量"
+        ]
+    },
+    {
+        "name": "outwash",
+        "trans": [
+            "冰水沉积"
+        ]
+    },
+    {
+        "name": "outwash gravel",
+        "trans": [
+            "冰水砾"
+        ]
+    },
+    {
+        "name": "outwash plain",
+        "trans": [
+            "冰水沉积平原"
+        ]
+    },
+    {
+        "name": "oval",
+        "trans": [
+            "卵圆形的"
+        ]
+    },
+    {
+        "name": "ovate",
+        "trans": [
+            "卵圆形的"
+        ]
+    },
+    {
+        "name": "over load",
+        "trans": [
+            "过负荷"
+        ]
+    },
+    {
+        "name": "overall output",
+        "trans": [
+            "总产量"
+        ]
+    },
+    {
+        "name": "overburden",
+        "trans": [
+            "表土;复盖岩层;盖岩层"
+        ]
+    },
+    {
+        "name": "overburden pressure",
+        "trans": [
+            "积土压力"
+        ]
+    },
+    {
+        "name": "overcast sky",
+        "trans": [
+            "阴天"
+        ]
+    },
+    {
+        "name": "overflow",
+        "trans": [
+            "泛滥"
+        ]
+    },
+    {
+        "name": "overflow dam",
+        "trans": [
+            "溢劣"
+        ]
+    },
+    {
+        "name": "overflow weir",
+        "trans": [
+            "溢劣"
+        ]
+    },
+    {
+        "name": "overfold",
+        "trans": [
+            "倒转褶皱"
+        ]
+    },
+    {
+        "name": "overground part",
+        "trans": [
+            "地上部分"
+        ]
+    },
+    {
+        "name": "overhand stope",
+        "trans": [
+            "上向梯段回采工祖"
+        ]
+    },
+    {
+        "name": "overland flow",
+        "trans": [
+            "表面径流"
+        ]
+    },
+    {
+        "name": "overland runoff",
+        "trans": [
+            "地表径流"
+        ]
+    },
+    {
+        "name": "overlap",
+        "trans": [
+            "超复"
+        ]
+    },
+    {
+        "name": "overlap trap",
+        "trans": [
+            "超复圈闭"
+        ]
+    },
+    {
+        "name": "overlying strata",
+        "trans": [
+            "覆层"
+        ]
+    },
+    {
+        "name": "overlying strata of coal measures",
+        "trans": [
+            "煤系盖层"
+        ]
+    },
+    {
+        "name": "overpressure",
+        "trans": [
+            "过压"
+        ]
+    },
+    {
+        "name": "overriding plate",
+        "trans": [
+            "上冲板块"
+        ]
+    },
+    {
+        "name": "oversaturated rock",
+        "trans": [
+            "过饱和岩"
+        ]
+    },
+    {
+        "name": "oversize",
+        "trans": [
+            "筛上产品"
+        ]
+    },
+    {
+        "name": "oversize product",
+        "trans": [
+            "筛上产品"
+        ]
+    },
+    {
+        "name": "overthrust",
+        "trans": [
+            "逆掩断层"
+        ]
+    },
+    {
+        "name": "overthrust block",
+        "trans": [
+            "掩冲体"
+        ]
+    },
+    {
+        "name": "overthrust mass",
+        "trans": [
+            "掩冲体"
+        ]
+    },
+    {
+        "name": "overthrust plane",
+        "trans": [
+            "逆掩断层面"
+        ]
+    },
+    {
+        "name": "overthrust sheet",
+        "trans": [
+            "逆掩层"
+        ]
+    },
+    {
+        "name": "overthrusting plate",
+        "trans": [
+            "上冲板块"
+        ]
+    },
+    {
+        "name": "overturn",
+        "trans": [
+            "倒转"
+        ]
+    },
+    {
+        "name": "overturned anticline",
+        "trans": [
+            "倒转背斜"
+        ]
+    },
+    {
+        "name": "overturned fold",
+        "trans": [
+            "倒转褶皱"
+        ]
+    },
+    {
+        "name": "overturned succession of strata",
+        "trans": [
+            "倒转层序"
+        ]
+    },
+    {
+        "name": "overturning",
+        "trans": [
+            "倒转"
+        ]
+    },
+    {
+        "name": "ovule",
+        "trans": [
+            "胚珠"
+        ]
+    },
+    {
+        "name": "oxalate",
+        "trans": [
+            "草酸盐"
+        ]
+    },
+    {
+        "name": "oxalic acid",
+        "trans": [
+            "草酸"
+        ]
+    },
+    {
+        "name": "oxalite",
+        "trans": [
+            "草酸铁矿"
+        ]
+    },
+    {
+        "name": "oxbow lake",
+        "trans": [
+            "牛角湖"
+        ]
+    },
+    {
+        "name": "oxfordian",
+        "trans": [
+            "牛津阶"
+        ]
+    },
+    {
+        "name": "oxidability",
+        "trans": [
+            "易氧化度"
+        ]
+    },
+    {
+        "name": "oxidation potential",
+        "trans": [
+            "氧化势"
+        ]
+    },
+    {
+        "name": "oxidation reduction cycle",
+        "trans": [
+            "氧化还原循环"
+        ]
+    },
+    {
+        "name": "oxidation reduction potential",
+        "trans": [
+            "氧化还原势"
+        ]
+    },
+    {
+        "name": "oxidation reduction system",
+        "trans": [
+            "氧化还原系"
+        ]
+    },
+    {
+        "name": "oxidation state",
+        "trans": [
+            "氧化状态"
+        ]
+    },
+    {
+        "name": "oxidation zone",
+        "trans": [
+            "氧化带"
+        ]
+    },
+    {
+        "name": "oxidation zone of sulphide deposits",
+        "trans": [
+            "硫化物矿床氧化带"
+        ]
+    },
+    {
+        "name": "oxide",
+        "trans": [
+            "氧化物"
+        ]
+    },
+    {
+        "name": "oxidizability",
+        "trans": [
+            "易氧化度"
+        ]
+    },
+    {
+        "name": "oxidize",
+        "trans": [
+            "氧化"
+        ]
+    },
+    {
+        "name": "oxidized ore",
+        "trans": [
+            "氧化矿石"
+        ]
+    },
+    {
+        "name": "oxidizing roasting",
+        "trans": [
+            "氧化焙烧"
+        ]
+    },
+    {
+        "name": "oxydate",
+        "trans": [
+            "氧化沉积物"
+        ]
+    },
+    {
+        "name": "oxygen",
+        "trans": [
+            "氧"
+        ]
+    },
+    {
+        "name": "oxygen content of coal",
+        "trans": [
+            "煤中氧"
+        ]
+    },
+    {
+        "name": "oxygen cycle",
+        "trans": [
+            "氧的循环"
+        ]
+    },
+    {
+        "name": "oxygen demand",
+        "trans": [
+            "需氧量"
+        ]
+    },
+    {
+        "name": "oxygen isotope method",
+        "trans": [
+            "氧同位素法"
+        ]
+    },
+    {
+        "name": "oxygen logging",
+        "trans": [
+            "氧测井"
+        ]
+    },
+    {
+        "name": "oxygen partial pressure",
+        "trans": [
+            "氧分压力"
+        ]
+    },
+    {
+        "name": "oxyphile elements",
+        "trans": [
+            "亲氧元素"
+        ]
+    },
+    {
+        "name": "oyamalite",
+        "trans": [
+            "稀土锆石"
+        ]
+    },
+    {
+        "name": "ozocerite",
+        "trans": [
+            "地蜡"
+        ]
+    },
+    {
+        "name": "ozokerite",
+        "trans": [
+            "地蜡"
+        ]
+    },
+    {
+        "name": "ozonosphere",
+        "trans": [
+            "臭氧层"
+        ]
+    }
+]

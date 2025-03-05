@@ -15,6 +15,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'cet4',
+    name: 'CET-4',
+    description: '大学英语四级词库',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/CET4_T.json',
+    length: 2607,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet6',
     name: 'CET-6',
     description: '大学英语六级词库',

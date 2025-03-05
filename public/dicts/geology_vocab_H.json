@@ -1,0 +1,3716 @@
+[
+    {
+        "name": "habit",
+        "trans": [
+            "结晶外貌"
+        ]
+    },
+    {
+        "name": "habit plane",
+        "trans": [
+            "嗜好面"
+        ]
+    },
+    {
+        "name": "hackmanite",
+        "trans": [
+            "紫方钠石"
+        ]
+    },
+    {
+        "name": "hade",
+        "trans": [
+            "伸角"
+        ]
+    },
+    {
+        "name": "hafnium",
+        "trans": [
+            "铪"
+        ]
+    },
+    {
+        "name": "hagatalite",
+        "trans": [
+            "钇铈锆石"
+        ]
+    },
+    {
+        "name": "haidingerite",
+        "trans": [
+            "砷钙石"
+        ]
+    },
+    {
+        "name": "hail",
+        "trans": [
+            "雹"
+        ]
+    },
+    {
+        "name": "hainite",
+        "trans": [
+            "铈片榍石"
+        ]
+    },
+    {
+        "name": "hair crack",
+        "trans": [
+            "毛发裂隙"
+        ]
+    },
+    {
+        "name": "hakutoite",
+        "trans": [
+            "白头岩"
+        ]
+    },
+    {
+        "name": "half bog soil",
+        "trans": [
+            "半沼泽土"
+        ]
+    },
+    {
+        "name": "half cycle",
+        "trans": [
+            "半周"
+        ]
+    },
+    {
+        "name": "half life",
+        "trans": [
+            "半衰期"
+        ]
+    },
+    {
+        "name": "half value lyer",
+        "trans": [
+            "半价层"
+        ]
+    },
+    {
+        "name": "half wave antenna",
+        "trans": [
+            "半波天线"
+        ]
+    },
+    {
+        "name": "half wave dipole",
+        "trans": [
+            "半波偶极子"
+        ]
+    },
+    {
+        "name": "halite",
+        "trans": [
+            "石盐"
+        ]
+    },
+    {
+        "name": "halloysite",
+        "trans": [
+            "多水高岭石"
+        ]
+    },
+    {
+        "name": "halmirolysis",
+        "trans": [
+            "海底分解"
+        ]
+    },
+    {
+        "name": "halo",
+        "trans": [
+            "晕"
+        ]
+    },
+    {
+        "name": "halo phenomenon",
+        "trans": [
+            "晕"
+        ]
+    },
+    {
+        "name": "halogenesis",
+        "trans": [
+            "卤化酌"
+        ]
+    },
+    {
+        "name": "halophility",
+        "trans": [
+            "喜盐性"
+        ]
+    },
+    {
+        "name": "halophytic vegetation",
+        "trans": [
+            "盐生植被"
+        ]
+    },
+    {
+        "name": "haloplankton",
+        "trans": [
+            "海洋浮游生物"
+        ]
+    },
+    {
+        "name": "halotolerancy",
+        "trans": [
+            "耐盐性"
+        ]
+    },
+    {
+        "name": "halotrichite",
+        "trans": [
+            "铁茂"
+        ]
+    },
+    {
+        "name": "halvings",
+        "trans": [
+            "贫矿"
+        ]
+    },
+    {
+        "name": "hambergite",
+        "trans": [
+            "硼铍石"
+        ]
+    },
+    {
+        "name": "hammarite",
+        "trans": [
+            "硫铜铅铋矿"
+        ]
+    },
+    {
+        "name": "hammer",
+        "trans": [
+            "锤"
+        ]
+    },
+    {
+        "name": "hancockite",
+        "trans": [
+            "锶帘石"
+        ]
+    },
+    {
+        "name": "hand axe",
+        "trans": [
+            "手斧"
+        ]
+    },
+    {
+        "name": "hand control",
+        "trans": [
+            "半动操纵"
+        ]
+    },
+    {
+        "name": "hand drilling",
+        "trans": [
+            "人工打钻"
+        ]
+    },
+    {
+        "name": "hand generator",
+        "trans": [
+            "手摇发电机"
+        ]
+    },
+    {
+        "name": "hand picking",
+        "trans": [
+            "手选"
+        ]
+    },
+    {
+        "name": "hand reset",
+        "trans": [
+            "人工重调人工复原"
+        ]
+    },
+    {
+        "name": "hanger",
+        "trans": [
+            "悬挂架"
+        ]
+    },
+    {
+        "name": "hanging glacier",
+        "trans": [
+            "悬冰川"
+        ]
+    },
+    {
+        "name": "hanging junction",
+        "trans": [
+            "悬垂合流悬垂汇流"
+        ]
+    },
+    {
+        "name": "hanging side",
+        "trans": [
+            "上盘"
+        ]
+    },
+    {
+        "name": "hanging valley",
+        "trans": [
+            "悬谷"
+        ]
+    },
+    {
+        "name": "hanging wall",
+        "trans": [
+            "上盘"
+        ]
+    },
+    {
+        "name": "hanksite",
+        "trans": [
+            "碳酸芒硝"
+        ]
+    },
+    {
+        "name": "harbolite",
+        "trans": [
+            "硬辉沥青"
+        ]
+    },
+    {
+        "name": "hard alloy",
+        "trans": [
+            "硬质合金"
+        ]
+    },
+    {
+        "name": "hard metal",
+        "trans": [
+            "硬质合金"
+        ]
+    },
+    {
+        "name": "hard metal bit tipping",
+        "trans": [
+            "硬合金钻头翻转"
+        ]
+    },
+    {
+        "name": "hard pan",
+        "trans": [
+            "硬盘"
+        ]
+    },
+    {
+        "name": "hard rock",
+        "trans": [
+            "硬岩石"
+        ]
+    },
+    {
+        "name": "hard water",
+        "trans": [
+            "硬水"
+        ]
+    },
+    {
+        "name": "hardening",
+        "trans": [
+            "硬化"
+        ]
+    },
+    {
+        "name": "hardness of crystals",
+        "trans": [
+            "晶体硬度"
+        ]
+    },
+    {
+        "name": "hardness of water",
+        "trans": [
+            "水的硬度"
+        ]
+    },
+    {
+        "name": "hardness scale",
+        "trans": [
+            "硬度标"
+        ]
+    },
+    {
+        "name": "hardpan",
+        "trans": [
+            "硬盘"
+        ]
+    },
+    {
+        "name": "hardwood forest",
+        "trans": [
+            "阔叶手"
+        ]
+    },
+    {
+        "name": "hardystonite",
+        "trans": [
+            "锌黄长石"
+        ]
+    },
+    {
+        "name": "harmonic fold",
+        "trans": [
+            "谐和褶曲"
+        ]
+    },
+    {
+        "name": "harmonic lake type",
+        "trans": [
+            "谐和湖型"
+        ]
+    },
+    {
+        "name": "harmonic oscillator",
+        "trans": [
+            "谐波振荡器"
+        ]
+    },
+    {
+        "name": "harmotome",
+        "trans": [
+            "交沸石"
+        ]
+    },
+    {
+        "name": "harrisite",
+        "trans": [
+            "方铜矿"
+        ]
+    },
+    {
+        "name": "harrowing",
+        "trans": [
+            "耙地"
+        ]
+    },
+    {
+        "name": "harstigite",
+        "trans": [
+            "镁柱石"
+        ]
+    },
+    {
+        "name": "hartmannite",
+        "trans": [
+            "红锑镍矿"
+        ]
+    },
+    {
+        "name": "hastingsite",
+        "trans": [
+            "富铁钠闪石"
+        ]
+    },
+    {
+        "name": "hatchettite",
+        "trans": [
+            "伟晶蜡石"
+        ]
+    },
+    {
+        "name": "hatchettolite",
+        "trans": [
+            "铀钽铌矿"
+        ]
+    },
+    {
+        "name": "hatherlite",
+        "trans": [
+            "歪长棕闪正长岩"
+        ]
+    },
+    {
+        "name": "hauchecornite",
+        "trans": [
+            "硫镍铋锑矿"
+        ]
+    },
+    {
+        "name": "hauerite",
+        "trans": [
+            "褐硫锰矿"
+        ]
+    },
+    {
+        "name": "hausmannite",
+        "trans": [
+            "黑锰矿"
+        ]
+    },
+    {
+        "name": "hauterivian stage",
+        "trans": [
+            "欧特里夫阶"
+        ]
+    },
+    {
+        "name": "hauyne",
+        "trans": [
+            "蓝方石"
+        ]
+    },
+    {
+        "name": "hauynite",
+        "trans": [
+            "蓝方石"
+        ]
+    },
+    {
+        "name": "hauynophyre",
+        "trans": [
+            "蓝方岩"
+        ]
+    },
+    {
+        "name": "hawaiian type eruption",
+        "trans": [
+            "夏威夷型火山喷发"
+        ]
+    },
+    {
+        "name": "hayesine",
+        "trans": [
+            "硼酸方解石"
+        ]
+    },
+    {
+        "name": "haystack",
+        "trans": [
+            "溶蚀残丘"
+        ]
+    },
+    {
+        "name": "head amplifier",
+        "trans": [
+            "前置放大器"
+        ]
+    },
+    {
+        "name": "head drop",
+        "trans": [
+            "落差"
+        ]
+    },
+    {
+        "name": "head erosion",
+        "trans": [
+            "溯源侵蚀"
+        ]
+    },
+    {
+        "name": "head loss",
+        "trans": [
+            "压头损失"
+        ]
+    },
+    {
+        "name": "head water",
+        "trans": [
+            "上游"
+        ]
+    },
+    {
+        "name": "heading machine",
+        "trans": [
+            "掘进机"
+        ]
+    },
+    {
+        "name": "headward erosion",
+        "trans": [
+            "向源侵蚀"
+        ]
+    },
+    {
+        "name": "headwind",
+        "trans": [
+            "逆风"
+        ]
+    },
+    {
+        "name": "heat absorption",
+        "trans": [
+            "吸热"
+        ]
+    },
+    {
+        "name": "heat balance",
+        "trans": [
+            "热量平衡"
+        ]
+    },
+    {
+        "name": "heat capacity",
+        "trans": [
+            "热容"
+        ]
+    },
+    {
+        "name": "heat conductivity",
+        "trans": [
+            "热导率"
+        ]
+    },
+    {
+        "name": "heat effect",
+        "trans": [
+            "热效应"
+        ]
+    },
+    {
+        "name": "heat equator",
+        "trans": [
+            "热赤道"
+        ]
+    },
+    {
+        "name": "heat equilibrium",
+        "trans": [
+            "热平衡"
+        ]
+    },
+    {
+        "name": "heat exchange",
+        "trans": [
+            "热交换"
+        ]
+    },
+    {
+        "name": "heat flow",
+        "trans": [
+            "热量"
+        ]
+    },
+    {
+        "name": "heat loss",
+        "trans": [
+            "热损失"
+        ]
+    },
+    {
+        "name": "heat of coagulation",
+        "trans": [
+            "凝结热"
+        ]
+    },
+    {
+        "name": "heat of condensation",
+        "trans": [
+            "冷凝热"
+        ]
+    },
+    {
+        "name": "heat of crystallization",
+        "trans": [
+            "结晶热"
+        ]
+    },
+    {
+        "name": "heat of dissociation",
+        "trans": [
+            "离解热"
+        ]
+    },
+    {
+        "name": "heat of reaction",
+        "trans": [
+            "反应热"
+        ]
+    },
+    {
+        "name": "heat of transformation",
+        "trans": [
+            "转变热"
+        ]
+    },
+    {
+        "name": "heat of vaporization",
+        "trans": [
+            "蒸发热"
+        ]
+    },
+    {
+        "name": "heat radiation",
+        "trans": [
+            "热辐射"
+        ]
+    },
+    {
+        "name": "heat rays",
+        "trans": [
+            "热线"
+        ]
+    },
+    {
+        "name": "heat sources of the geothermal resource",
+        "trans": [
+            "地热资源热源"
+        ]
+    },
+    {
+        "name": "heat test",
+        "trans": [
+            "加热试验"
+        ]
+    },
+    {
+        "name": "heat transfer",
+        "trans": [
+            "传热"
+        ]
+    },
+    {
+        "name": "heat treated gemstone",
+        "trans": [
+            "热处理宝石"
+        ]
+    },
+    {
+        "name": "heat treatment",
+        "trans": [
+            "热处理"
+        ]
+    },
+    {
+        "name": "heat wave",
+        "trans": [
+            "热浪"
+        ]
+    },
+    {
+        "name": "heating current",
+        "trans": [
+            "加热电流"
+        ]
+    },
+    {
+        "name": "heating microscope",
+        "trans": [
+            "高温显微镜"
+        ]
+    },
+    {
+        "name": "heating surface",
+        "trans": [
+            "加热面"
+        ]
+    },
+    {
+        "name": "heave",
+        "trans": [
+            "平错"
+        ]
+    },
+    {
+        "name": "heavy crude oil",
+        "trans": [
+            "重质原油"
+        ]
+    },
+    {
+        "name": "heavy fluid separation",
+        "trans": [
+            "重液选"
+        ]
+    },
+    {
+        "name": "heavy liquid",
+        "trans": [
+            "重液"
+        ]
+    },
+    {
+        "name": "heavy minerals",
+        "trans": [
+            "重矿物"
+        ]
+    },
+    {
+        "name": "heavy oil",
+        "trans": [
+            "重油"
+        ]
+    },
+    {
+        "name": "heavy soil",
+        "trans": [
+            "粘重土"
+        ]
+    },
+    {
+        "name": "heazlewoodite",
+        "trans": [
+            "希兹硫镍矿"
+        ]
+    },
+    {
+        "name": "hectocotylus",
+        "trans": [
+            "交接腕"
+        ]
+    },
+    {
+        "name": "hectorite",
+        "trans": [
+            "水辉石"
+        ]
+    },
+    {
+        "name": "hedenbergite",
+        "trans": [
+            "镁铁辉石"
+        ]
+    },
+    {
+        "name": "hedrumite",
+        "trans": [
+            "霞碱正长岩"
+        ]
+    },
+    {
+        "name": "heikolite",
+        "trans": [
+            "平康石"
+        ]
+    },
+    {
+        "name": "heintzite",
+        "trans": [
+            "硼钾镁石"
+        ]
+    },
+    {
+        "name": "helical",
+        "trans": [
+            "螺旋状的"
+        ]
+    },
+    {
+        "name": "helicitic",
+        "trans": [
+            "残缕状的"
+        ]
+    },
+    {
+        "name": "helicitic structure",
+        "trans": [
+            "残缕构造"
+        ]
+    },
+    {
+        "name": "heliodor",
+        "trans": [
+            "日长石"
+        ]
+    },
+    {
+        "name": "heliolite",
+        "trans": [
+            "日叶石"
+        ]
+    },
+    {
+        "name": "heliophyllite",
+        "trans": [
+            "日叶石"
+        ]
+    },
+    {
+        "name": "heliotrope",
+        "trans": [
+            "血滴石"
+        ]
+    },
+    {
+        "name": "heliotropism",
+        "trans": [
+            "向日性"
+        ]
+    },
+    {
+        "name": "helium",
+        "trans": [
+            "氦"
+        ]
+    },
+    {
+        "name": "hellandite",
+        "trans": [
+            "钙铒钇矿"
+        ]
+    },
+    {
+        "name": "helophytes",
+        "trans": [
+            "沼生植物"
+        ]
+    },
+    {
+        "name": "helvetian stage",
+        "trans": [
+            "海尔微阶"
+        ]
+    },
+    {
+        "name": "helvine",
+        "trans": [
+            "日光榴石"
+        ]
+    },
+    {
+        "name": "helvite",
+        "trans": [
+            "日光榴石"
+        ]
+    },
+    {
+        "name": "hematite",
+        "trans": [
+            "赤铁矿"
+        ]
+    },
+    {
+        "name": "hematitization",
+        "trans": [
+            "赤铁矿化"
+        ]
+    },
+    {
+        "name": "hematolite",
+        "trans": [
+            "红砷锰矿"
+        ]
+    },
+    {
+        "name": "hemicellulose",
+        "trans": [
+            "半纤维素"
+        ]
+    },
+    {
+        "name": "hemicolloid",
+        "trans": [
+            "半胶体"
+        ]
+    },
+    {
+        "name": "hemicrystalline",
+        "trans": [
+            "半晶质的"
+        ]
+    },
+    {
+        "name": "hemielytra",
+        "trans": [
+            "半翅鞘"
+        ]
+    },
+    {
+        "name": "hemihedral form",
+        "trans": [
+            "半面形"
+        ]
+    },
+    {
+        "name": "hemihedry",
+        "trans": [
+            "半面形"
+        ]
+    },
+    {
+        "name": "hemimorphic form",
+        "trans": [
+            "异极象"
+        ]
+    },
+    {
+        "name": "hemimorphic hemihedry",
+        "trans": [
+            "异极半面象"
+        ]
+    },
+    {
+        "name": "hemimorphism",
+        "trans": [
+            "异极象"
+        ]
+    },
+    {
+        "name": "hemimorphite",
+        "trans": [
+            "异极矿"
+        ]
+    },
+    {
+        "name": "hemimorphy",
+        "trans": [
+            "异极象"
+        ]
+    },
+    {
+        "name": "hemipelagic sediment",
+        "trans": [
+            "半远洋性沉积物"
+        ]
+    },
+    {
+        "name": "hemiplankton",
+        "trans": [
+            "季节浮游生物"
+        ]
+    },
+    {
+        "name": "hemiprism",
+        "trans": [
+            "半柱"
+        ]
+    },
+    {
+        "name": "hemisphere",
+        "trans": [
+            "半球"
+        ]
+    },
+    {
+        "name": "hemitrope",
+        "trans": [
+            "半体双晶"
+        ]
+    },
+    {
+        "name": "hengleinite",
+        "trans": [
+            "钴镍黄铁矿"
+        ]
+    },
+    {
+        "name": "henry",
+        "trans": [
+            "亨"
+        ]
+    },
+    {
+        "name": "herb",
+        "trans": [
+            "草本"
+        ]
+    },
+    {
+        "name": "herbaceous vegetation",
+        "trans": [
+            "草本植被"
+        ]
+    },
+    {
+        "name": "herbivores",
+        "trans": [
+            "食草动物"
+        ]
+    },
+    {
+        "name": "hercynian orogeny",
+        "trans": [
+            "海戊山运动"
+        ]
+    },
+    {
+        "name": "hercynite",
+        "trans": [
+            "铁尖晶石"
+        ]
+    },
+    {
+        "name": "herderite",
+        "trans": [
+            "磷铍钙石"
+        ]
+    },
+    {
+        "name": "hereditable character",
+        "trans": [
+            "遗传性"
+        ]
+    },
+    {
+        "name": "heronite",
+        "trans": [
+            "正长球粒霞霓岩"
+        ]
+    },
+    {
+        "name": "herpetology",
+        "trans": [
+            "爬虫学"
+        ]
+    },
+    {
+        "name": "herrengrundite",
+        "trans": [
+            "钙铜矾"
+        ]
+    },
+    {
+        "name": "herschelite",
+        "trans": [
+            "碱菱沸石"
+        ]
+    },
+    {
+        "name": "hertz",
+        "trans": [
+            "赫"
+        ]
+    },
+    {
+        "name": "hessite",
+        "trans": [
+            "铈银矿"
+        ]
+    },
+    {
+        "name": "hessonite",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "hetaerolite",
+        "trans": [
+            "锌黑锰矿"
+        ]
+    },
+    {
+        "name": "heteroblastic",
+        "trans": [
+            "不等粒变晶的"
+        ]
+    },
+    {
+        "name": "heterochrony",
+        "trans": [
+            "异时发生"
+        ]
+    },
+    {
+        "name": "heterogeneity",
+        "trans": [
+            "不均匀性"
+        ]
+    },
+    {
+        "name": "heterogeneous deformation",
+        "trans": [
+            "非均匀变形"
+        ]
+    },
+    {
+        "name": "heterogeneous equilibrium",
+        "trans": [
+            "多相平衡"
+        ]
+    },
+    {
+        "name": "heterogeneous reaction",
+        "trans": [
+            "多相反应"
+        ]
+    },
+    {
+        "name": "heterogeneous system",
+        "trans": [
+            "非均质系"
+        ]
+    },
+    {
+        "name": "heterogenite",
+        "trans": [
+            "水钴矿"
+        ]
+    },
+    {
+        "name": "heterogenous nucleation",
+        "trans": [
+            "不均质核形成"
+        ]
+    },
+    {
+        "name": "heteromesic facies",
+        "trans": [
+            "异媒相"
+        ]
+    },
+    {
+        "name": "heterometrically grained",
+        "trans": [
+            "不均粒的"
+        ]
+    },
+    {
+        "name": "heteromorphism",
+        "trans": [
+            "同质异象"
+        ]
+    },
+    {
+        "name": "heteromorphite",
+        "trans": [
+            "脆硫锑铅矿"
+        ]
+    },
+    {
+        "name": "heteronuclear molecule",
+        "trans": [
+            "异核分子"
+        ]
+    },
+    {
+        "name": "heteropical",
+        "trans": [
+            "异相的"
+        ]
+    },
+    {
+        "name": "heteropolar bond",
+        "trans": [
+            "异极键"
+        ]
+    },
+    {
+        "name": "heteropolar colloid",
+        "trans": [
+            "有极胶体"
+        ]
+    },
+    {
+        "name": "heteropolar compound",
+        "trans": [
+            "离子化合物"
+        ]
+    },
+    {
+        "name": "heteropolar crystal",
+        "trans": [
+            "有极结晶"
+        ]
+    },
+    {
+        "name": "heteropterous",
+        "trans": [
+            "异翅的"
+        ]
+    },
+    {
+        "name": "heterosite",
+        "trans": [
+            "磷铁锰矿"
+        ]
+    },
+    {
+        "name": "heterospore",
+        "trans": [
+            "异形孢子"
+        ]
+    },
+    {
+        "name": "hettonite",
+        "trans": [
+            "硅钍石"
+        ]
+    },
+    {
+        "name": "heubachite",
+        "trans": [
+            "水钴镍矿"
+        ]
+    },
+    {
+        "name": "heulandite",
+        "trans": [
+            "片沸石"
+        ]
+    },
+    {
+        "name": "heumite",
+        "trans": [
+            "棕闪碱长岩"
+        ]
+    },
+    {
+        "name": "hewettite",
+        "trans": [
+            "薄晶钒钙石"
+        ]
+    },
+    {
+        "name": "hexagonal",
+        "trans": [
+            "六角形的"
+        ]
+    },
+    {
+        "name": "hexagonal axis",
+        "trans": [
+            "六次对称轴"
+        ]
+    },
+    {
+        "name": "hexagonal closest packing",
+        "trans": [
+            "六方紧密填集"
+        ]
+    },
+    {
+        "name": "hexagonal dipyramid",
+        "trans": [
+            "六方双锥"
+        ]
+    },
+    {
+        "name": "hexagonal dipyramidal class",
+        "trans": [
+            "六方双锥类"
+        ]
+    },
+    {
+        "name": "hexagonal enatiomorphic hemihedral class",
+        "trans": [
+            "六方对映半面象晶族"
+        ]
+    },
+    {
+        "name": "hexagonal prism",
+        "trans": [
+            "六方柱"
+        ]
+    },
+    {
+        "name": "hexagonal pyramidal class",
+        "trans": [
+            "六方锥类"
+        ]
+    },
+    {
+        "name": "hexagonal system",
+        "trans": [
+            "六方晶系"
+        ]
+    },
+    {
+        "name": "hexagonal trapezohedral class",
+        "trans": [
+            "六方偏方面体类"
+        ]
+    },
+    {
+        "name": "hexahedrite",
+        "trans": [
+            "六面体式陨铁"
+        ]
+    },
+    {
+        "name": "hexahedron",
+        "trans": [
+            "六面体"
+        ]
+    },
+    {
+        "name": "hexakisoctahedron",
+        "trans": [
+            "六八面体"
+        ]
+    },
+    {
+        "name": "hexatetrahedral class",
+        "trans": [
+            "六四面体类"
+        ]
+    },
+    {
+        "name": "hexatetrahedron",
+        "trans": [
+            "六四面体"
+        ]
+    },
+    {
+        "name": "hexoctahedron",
+        "trans": [
+            "六八面体"
+        ]
+    },
+    {
+        "name": "hiatus",
+        "trans": [
+            "沉积间断"
+        ]
+    },
+    {
+        "name": "hibbenite",
+        "trans": [
+            "板状磷锌矿"
+        ]
+    },
+    {
+        "name": "hidden relief",
+        "trans": [
+            "隐地形"
+        ]
+    },
+    {
+        "name": "hielmite",
+        "trans": [
+            "钙铌钽矿"
+        ]
+    },
+    {
+        "name": "hieratite",
+        "trans": [
+            "氟硅钾石"
+        ]
+    },
+    {
+        "name": "higginsite",
+        "trans": [
+            "绿水砷钙铜矿"
+        ]
+    },
+    {
+        "name": "high albite",
+        "trans": [
+            "高温型钠长石"
+        ]
+    },
+    {
+        "name": "high alumina basalt",
+        "trans": [
+            "高铝氧玄武岩"
+        ]
+    },
+    {
+        "name": "high bank",
+        "trans": [
+            "高沙洲"
+        ]
+    },
+    {
+        "name": "high dip",
+        "trans": [
+            "高倾斜"
+        ]
+    },
+    {
+        "name": "high frequency compensation",
+        "trans": [
+            "高频补偿"
+        ]
+    },
+    {
+        "name": "high grade",
+        "trans": [
+            "高品位"
+        ]
+    },
+    {
+        "name": "high grade ore",
+        "trans": [
+            "高品位矿石"
+        ]
+    },
+    {
+        "name": "high moor",
+        "trans": [
+            "高位沼泽"
+        ]
+    },
+    {
+        "name": "high mountain",
+        "trans": [
+            "高山"
+        ]
+    },
+    {
+        "name": "high mountain meadow",
+        "trans": [
+            "高山草原"
+        ]
+    },
+    {
+        "name": "high pressure belt",
+        "trans": [
+            "高压带"
+        ]
+    },
+    {
+        "name": "high pressure type metamorphism",
+        "trans": [
+            "高压变质酌"
+        ]
+    },
+    {
+        "name": "high quartz",
+        "trans": [
+            "高温石英"
+        ]
+    },
+    {
+        "name": "high sanidine",
+        "trans": [
+            "高温型透长石"
+        ]
+    },
+    {
+        "name": "high seas",
+        "trans": [
+            "公海"
+        ]
+    },
+    {
+        "name": "high temperature form",
+        "trans": [
+            "高温型"
+        ]
+    },
+    {
+        "name": "high temperature plagioclase",
+        "trans": [
+            "高温型斜长石"
+        ]
+    },
+    {
+        "name": "high tide",
+        "trans": [
+            "高潮"
+        ]
+    },
+    {
+        "name": "high volatile bituminous coal a",
+        "trans": [
+            "气煤"
+        ]
+    },
+    {
+        "name": "high volatile bituminous coal b",
+        "trans": [
+            "长焰煤"
+        ]
+    },
+    {
+        "name": "high volatile bituminous coal c",
+        "trans": [
+            "焰煤"
+        ]
+    },
+    {
+        "name": "high volume hole",
+        "trans": [
+            "大容积药壶钻孔"
+        ]
+    },
+    {
+        "name": "high water",
+        "trans": [
+            "高潮"
+        ]
+    },
+    {
+        "name": "highland",
+        "trans": [
+            "山原"
+        ]
+    },
+    {
+        "name": "hill",
+        "trans": [
+            "丘陵"
+        ]
+    },
+    {
+        "name": "hill creep",
+        "trans": [
+            "滑坡"
+        ]
+    },
+    {
+        "name": "hillebrandite",
+        "trans": [
+            "水硅钙石"
+        ]
+    },
+    {
+        "name": "hillside",
+        "trans": [
+            "山腰"
+        ]
+    },
+    {
+        "name": "hillside creep",
+        "trans": [
+            "滑坡"
+        ]
+    },
+    {
+        "name": "hilly country",
+        "trans": [
+            "丘陵地"
+        ]
+    },
+    {
+        "name": "hilly land",
+        "trans": [
+            "丘陵地"
+        ]
+    },
+    {
+        "name": "hind leg",
+        "trans": [
+            "后肢"
+        ]
+    },
+    {
+        "name": "hind wing",
+        "trans": [
+            "后翅"
+        ]
+    },
+    {
+        "name": "hinge fault",
+        "trans": [
+            "旋转断层"
+        ]
+    },
+    {
+        "name": "hinge line",
+        "trans": [
+            "枢纽线"
+        ]
+    },
+    {
+        "name": "hinge of fold",
+        "trans": [
+            "褶皱枢纽"
+        ]
+    },
+    {
+        "name": "hinsdalite",
+        "trans": [
+            "磷硫铅铝矿"
+        ]
+    },
+    {
+        "name": "hinterland",
+        "trans": [
+            "后置地"
+        ]
+    },
+    {
+        "name": "hiortdahlite",
+        "trans": [
+            "片榍石"
+        ]
+    },
+    {
+        "name": "hirnantite",
+        "trans": [
+            "绿泥钠长角斑岩"
+        ]
+    },
+    {
+        "name": "hisingerite",
+        "trans": [
+            "硅铁土"
+        ]
+    },
+    {
+        "name": "histogram",
+        "trans": [
+            "倾率分布图"
+        ]
+    },
+    {
+        "name": "historic period",
+        "trans": [
+            "历史时代"
+        ]
+    },
+    {
+        "name": "historic spot",
+        "trans": [
+            "古迹"
+        ]
+    },
+    {
+        "name": "historical geochemistry",
+        "trans": [
+            "历史地球化学"
+        ]
+    },
+    {
+        "name": "historical geography",
+        "trans": [
+            "历史地理学"
+        ]
+    },
+    {
+        "name": "historical geology",
+        "trans": [
+            "地史学"
+        ]
+    },
+    {
+        "name": "hodgkinsonite",
+        "trans": [
+            "褐锌锰矿"
+        ]
+    },
+    {
+        "name": "hodograph",
+        "trans": [
+            "时距曲线"
+        ]
+    },
+    {
+        "name": "hodograph plane",
+        "trans": [
+            "速度图面"
+        ]
+    },
+    {
+        "name": "hogauite",
+        "trans": [
+            "钠沸石"
+        ]
+    },
+    {
+        "name": "hoist",
+        "trans": [
+            "升起"
+        ]
+    },
+    {
+        "name": "hoisting cable",
+        "trans": [
+            "提升铜丝绳"
+        ]
+    },
+    {
+        "name": "hoisting crane",
+        "trans": [
+            "升降起重机"
+        ]
+    },
+    {
+        "name": "hokutolite",
+        "trans": [
+            "北投石"
+        ]
+    },
+    {
+        "name": "holdenite",
+        "trans": [
+            "红砷锌锰矿"
+        ]
+    },
+    {
+        "name": "holding circuit",
+        "trans": [
+            "吸持电路"
+        ]
+    },
+    {
+        "name": "holding relay",
+        "trans": [
+            "保持继电器"
+        ]
+    },
+    {
+        "name": "holding tank",
+        "trans": [
+            "容纳槽"
+        ]
+    },
+    {
+        "name": "hole boring",
+        "trans": [
+            "井孔钻进"
+        ]
+    },
+    {
+        "name": "hole deviation",
+        "trans": [
+            "钻眼偏斜"
+        ]
+    },
+    {
+        "name": "hole drilling",
+        "trans": [
+            "井孔钻进"
+        ]
+    },
+    {
+        "name": "hole mouth",
+        "trans": [
+            "井口"
+        ]
+    },
+    {
+        "name": "hole size",
+        "trans": [
+            "钻孔直径"
+        ]
+    },
+    {
+        "name": "hole stemming",
+        "trans": [
+            "钻孔堵塞物"
+        ]
+    },
+    {
+        "name": "holespacing",
+        "trans": [
+            "炮眼间距"
+        ]
+    },
+    {
+        "name": "hollandite",
+        "trans": [
+            "锰钡矿"
+        ]
+    },
+    {
+        "name": "hollow",
+        "trans": [
+            "浅凹地"
+        ]
+    },
+    {
+        "name": "hollow bit",
+        "trans": [
+            "空心钻"
+        ]
+    },
+    {
+        "name": "holmium",
+        "trans": [
+            "钬"
+        ]
+    },
+    {
+        "name": "holoblast",
+        "trans": [
+            "全变晶的"
+        ]
+    },
+    {
+        "name": "holocene",
+        "trans": [
+            "全新世"
+        ]
+    },
+    {
+        "name": "holocrystalline",
+        "trans": [
+            "全结晶的"
+        ]
+    },
+    {
+        "name": "holocrystalline interstitial",
+        "trans": [
+            "全晶间片状的"
+        ]
+    },
+    {
+        "name": "holocrystalline porphyritic",
+        "trans": [
+            "全晶斑状的"
+        ]
+    },
+    {
+        "name": "holocrystalline texture",
+        "trans": [
+            "全晶质结构"
+        ]
+    },
+    {
+        "name": "holohedron",
+        "trans": [
+            "全面形"
+        ]
+    },
+    {
+        "name": "holohedry",
+        "trans": [
+            "全面象"
+        ]
+    },
+    {
+        "name": "holohyaline texture",
+        "trans": [
+            "全玻质结构"
+        ]
+    },
+    {
+        "name": "hololeucocratic",
+        "trans": [
+            "全白色的"
+        ]
+    },
+    {
+        "name": "holomelanocratic",
+        "trans": [
+            "全黑色的"
+        ]
+    },
+    {
+        "name": "holomictic lake",
+        "trans": [
+            "全循环湖"
+        ]
+    },
+    {
+        "name": "holoplankton",
+        "trans": [
+            "全浮游生物"
+        ]
+    },
+    {
+        "name": "holotype",
+        "trans": [
+            "全型"
+        ]
+    },
+    {
+        "name": "holtonite",
+        "trans": [
+            "小藤石"
+        ]
+    },
+    {
+        "name": "holyokeite",
+        "trans": [
+            "钠长辉绿岩"
+        ]
+    },
+    {
+        "name": "homeoblastic",
+        "trans": [
+            "等粒变晶状的"
+        ]
+    },
+    {
+        "name": "homeocrystalline",
+        "trans": [
+            "等粒晶质的"
+        ]
+    },
+    {
+        "name": "homeomorphism",
+        "trans": [
+            "异同形"
+        ]
+    },
+    {
+        "name": "homeopolar compound",
+        "trans": [
+            "无极化合物"
+        ]
+    },
+    {
+        "name": "homilite",
+        "trans": [
+            "硅硼钙铁矿"
+        ]
+    },
+    {
+        "name": "homoclinal structure",
+        "trans": [
+            "均斜构造"
+        ]
+    },
+    {
+        "name": "homocline",
+        "trans": [
+            "均斜"
+        ]
+    },
+    {
+        "name": "homogeneity",
+        "trans": [
+            "均匀性"
+        ]
+    },
+    {
+        "name": "homogeneous",
+        "trans": [
+            "均质的"
+        ]
+    },
+    {
+        "name": "homogeneous chemical reaction",
+        "trans": [
+            "均匀化学反应"
+        ]
+    },
+    {
+        "name": "homogeneous deformation",
+        "trans": [
+            "均匀变形"
+        ]
+    },
+    {
+        "name": "homogeneous system",
+        "trans": [
+            "均匀系"
+        ]
+    },
+    {
+        "name": "homogenization method",
+        "trans": [
+            "均一法"
+        ]
+    },
+    {
+        "name": "homologous pair",
+        "trans": [
+            "对应线"
+        ]
+    },
+    {
+        "name": "homologous series",
+        "trans": [
+            "同系列"
+        ]
+    },
+    {
+        "name": "homology",
+        "trans": [
+            "同源"
+        ]
+    },
+    {
+        "name": "homonym",
+        "trans": [
+            "异物同名"
+        ]
+    },
+    {
+        "name": "homopolar bond",
+        "trans": [
+            "无极键"
+        ]
+    },
+    {
+        "name": "homopolar compound",
+        "trans": [
+            "无极化合物"
+        ]
+    },
+    {
+        "name": "homopolar crystal",
+        "trans": [
+            "共价结晶"
+        ]
+    },
+    {
+        "name": "homospore",
+        "trans": [
+            "同形孢子"
+        ]
+    },
+    {
+        "name": "homotaxial",
+        "trans": [
+            "等列的"
+        ]
+    },
+    {
+        "name": "homotypic",
+        "trans": [
+            "同型的"
+        ]
+    },
+    {
+        "name": "honeycomb coil",
+        "trans": [
+            "蜂巢线圈"
+        ]
+    },
+    {
+        "name": "honeycomb structure",
+        "trans": [
+            "蜂窝状构造"
+        ]
+    },
+    {
+        "name": "hoodoo",
+        "trans": [
+            "峰林"
+        ]
+    },
+    {
+        "name": "hoof",
+        "trans": [
+            "蹄"
+        ]
+    },
+    {
+        "name": "hopeite",
+        "trans": [
+            "磷锌矿"
+        ]
+    },
+    {
+        "name": "hopper",
+        "trans": [
+            "漏斗"
+        ]
+    },
+    {
+        "name": "horizon",
+        "trans": [
+            "层"
+        ]
+    },
+    {
+        "name": "horizon b",
+        "trans": [
+            "淀积层"
+        ]
+    },
+    {
+        "name": "horizon refraction",
+        "trans": [
+            "水平折射"
+        ]
+    },
+    {
+        "name": "horizontal angle",
+        "trans": [
+            "水平角"
+        ]
+    },
+    {
+        "name": "horizontal axis",
+        "trans": [
+            "水平轴"
+        ]
+    },
+    {
+        "name": "horizontal borehole",
+        "trans": [
+            "水平钻孔"
+        ]
+    },
+    {
+        "name": "horizontal component",
+        "trans": [
+            "水平部分"
+        ]
+    },
+    {
+        "name": "horizontal distribution",
+        "trans": [
+            "水平分布"
+        ]
+    },
+    {
+        "name": "horizontal fault",
+        "trans": [
+            "水平断层"
+        ]
+    },
+    {
+        "name": "horizontal instability",
+        "trans": [
+            "水平不稳定"
+        ]
+    },
+    {
+        "name": "horizontal magnetometer",
+        "trans": [
+            "水平地磁仪"
+        ]
+    },
+    {
+        "name": "horizontal mixing",
+        "trans": [
+            "水平混合"
+        ]
+    },
+    {
+        "name": "horizontal pendulum",
+        "trans": [
+            "水平摆"
+        ]
+    },
+    {
+        "name": "horizontal plane",
+        "trans": [
+            "水平面"
+        ]
+    },
+    {
+        "name": "horizontal seam",
+        "trans": [
+            "水平矿层"
+        ]
+    },
+    {
+        "name": "horizontal seismograph",
+        "trans": [
+            "水平地震仪"
+        ]
+    },
+    {
+        "name": "horizontal separation",
+        "trans": [
+            "水平离距"
+        ]
+    },
+    {
+        "name": "horizontal slice",
+        "trans": [
+            "水平分层"
+        ]
+    },
+    {
+        "name": "horizontal slip",
+        "trans": [
+            "水平滑动"
+        ]
+    },
+    {
+        "name": "horizontal stratum",
+        "trans": [
+            "水平岩层"
+        ]
+    },
+    {
+        "name": "horizontal tension",
+        "trans": [
+            "横张力"
+        ]
+    },
+    {
+        "name": "horizontal zonality",
+        "trans": [
+            "水平地带性"
+        ]
+    },
+    {
+        "name": "horizontale",
+        "trans": [
+            "水平轴"
+        ]
+    },
+    {
+        "name": "horn",
+        "trans": [
+            "角"
+        ]
+    },
+    {
+        "name": "hornblende",
+        "trans": [
+            "角闪石"
+        ]
+    },
+    {
+        "name": "hornblendite",
+        "trans": [
+            "角闪石岩"
+        ]
+    },
+    {
+        "name": "hornesite",
+        "trans": [
+            "砷镁石"
+        ]
+    },
+    {
+        "name": "hornfels",
+        "trans": [
+            "角页岩"
+        ]
+    },
+    {
+        "name": "hornfels facies",
+        "trans": [
+            "角页岩相"
+        ]
+    },
+    {
+        "name": "hornfels texture",
+        "trans": [
+            "角页岩构造"
+        ]
+    },
+    {
+        "name": "hornito",
+        "trans": [
+            "溶岩滴丘"
+        ]
+    },
+    {
+        "name": "hornstone",
+        "trans": [
+            "角岩"
+        ]
+    },
+    {
+        "name": "horny layer",
+        "trans": [
+            "角质层"
+        ]
+    },
+    {
+        "name": "horny scale",
+        "trans": [
+            "角质鳞"
+        ]
+    },
+    {
+        "name": "horse",
+        "trans": [
+            "夹石"
+        ]
+    },
+    {
+        "name": "horsetail structure",
+        "trans": [
+            "马尾丝状构造"
+        ]
+    },
+    {
+        "name": "horsetails",
+        "trans": [
+            "木贼类"
+        ]
+    },
+    {
+        "name": "horsfordite",
+        "trans": [
+            "锑铜矿"
+        ]
+    },
+    {
+        "name": "horst",
+        "trans": [
+            "地垒"
+        ]
+    },
+    {
+        "name": "horst block mountain",
+        "trans": [
+            "地垒式断块山"
+        ]
+    },
+    {
+        "name": "hortite",
+        "trans": [
+            "方解辉长混杂岩"
+        ]
+    },
+    {
+        "name": "horton number",
+        "trans": [
+            "哈通数"
+        ]
+    },
+    {
+        "name": "hortonolite",
+        "trans": [
+            "镁铁橄榄石"
+        ]
+    },
+    {
+        "name": "host mineral",
+        "trans": [
+            "原生矿物"
+        ]
+    },
+    {
+        "name": "host rock",
+        "trans": [
+            "忠"
+        ]
+    },
+    {
+        "name": "hot brine metallogenesis",
+        "trans": [
+            "热卤水成矿酌"
+        ]
+    },
+    {
+        "name": "hot ground",
+        "trans": [
+            "放热地面"
+        ]
+    },
+    {
+        "name": "hot lake",
+        "trans": [
+            "热水湖"
+        ]
+    },
+    {
+        "name": "hot pool",
+        "trans": [
+            "热水塘"
+        ]
+    },
+    {
+        "name": "hot river",
+        "trans": [
+            "热水河"
+        ]
+    },
+    {
+        "name": "hot spot",
+        "trans": [
+            "热点"
+        ]
+    },
+    {
+        "name": "hot spot hypothesis",
+        "trans": [
+            "热点说"
+        ]
+    },
+    {
+        "name": "hot spring",
+        "trans": [
+            "热泉"
+        ]
+    },
+    {
+        "name": "hot stream",
+        "trans": [
+            "热水河"
+        ]
+    },
+    {
+        "name": "hot wave",
+        "trans": [
+            "热浪"
+        ]
+    },
+    {
+        "name": "hot wire ammeter",
+        "trans": [
+            "热线安培计"
+        ]
+    },
+    {
+        "name": "hour glass structure",
+        "trans": [
+            "砂钟构造"
+        ]
+    },
+    {
+        "name": "housing",
+        "trans": [
+            "外壳"
+        ]
+    },
+    {
+        "name": "howardite",
+        "trans": [
+            "钙长紫苏辉石无球粒陨石"
+        ]
+    },
+    {
+        "name": "howlite",
+        "trans": [
+            "硅硼钙石"
+        ]
+    },
+    {
+        "name": "hubnerite",
+        "trans": [
+            "钨锰矿"
+        ]
+    },
+    {
+        "name": "hudsonite",
+        "trans": [
+            "角闪橄榄岩"
+        ]
+    },
+    {
+        "name": "hugelite",
+        "trans": [
+            "钒锌铅矿"
+        ]
+    },
+    {
+        "name": "hullite",
+        "trans": [
+            "玄玻杏仁体"
+        ]
+    },
+    {
+        "name": "hulsite",
+        "trans": [
+            "黑硼锡铁矿"
+        ]
+    },
+    {
+        "name": "human geography",
+        "trans": [
+            "人类地理学"
+        ]
+    },
+    {
+        "name": "humate",
+        "trans": [
+            "腐殖酸盐"
+        ]
+    },
+    {
+        "name": "humic acid",
+        "trans": [
+            "胡敏酸"
+        ]
+    },
+    {
+        "name": "humic coal",
+        "trans": [
+            "腐殖煤"
+        ]
+    },
+    {
+        "name": "humic gley soil",
+        "trans": [
+            "腐殖质潜育土"
+        ]
+    },
+    {
+        "name": "humid",
+        "trans": [
+            "湿润的"
+        ]
+    },
+    {
+        "name": "humid region",
+        "trans": [
+            "湿润地带"
+        ]
+    },
+    {
+        "name": "humidity",
+        "trans": [
+            "湿度"
+        ]
+    },
+    {
+        "name": "humidity meter",
+        "trans": [
+            "湿度表"
+        ]
+    },
+    {
+        "name": "humification",
+        "trans": [
+            "腐殖化"
+        ]
+    },
+    {
+        "name": "humin",
+        "trans": [
+            "胡敏素"
+        ]
+    },
+    {
+        "name": "huminite",
+        "trans": [
+            "腐殖煤"
+        ]
+    },
+    {
+        "name": "humite",
+        "trans": [
+            "硅镁石"
+        ]
+    },
+    {
+        "name": "hummock",
+        "trans": [
+            "小丘"
+        ]
+    },
+    {
+        "name": "humosapropelic coal",
+        "trans": [
+            "腐殖腐泥煤"
+        ]
+    },
+    {
+        "name": "humus",
+        "trans": [
+            "腐殖质"
+        ]
+    },
+    {
+        "name": "humus carbonatic soil",
+        "trans": [
+            "腐殖质碳酸盐土"
+        ]
+    },
+    {
+        "name": "humus fen soil",
+        "trans": [
+            "腐殖质沼泽土"
+        ]
+    },
+    {
+        "name": "humus formation",
+        "trans": [
+            "腐殖质形成"
+        ]
+    },
+    {
+        "name": "humus layer",
+        "trans": [
+            "腐殖质层"
+        ]
+    },
+    {
+        "name": "humus loam",
+        "trans": [
+            "腐殖壤土"
+        ]
+    },
+    {
+        "name": "humus soil",
+        "trans": [
+            "腐殖质土壤"
+        ]
+    },
+    {
+        "name": "huntilite",
+        "trans": [
+            "砷银矿"
+        ]
+    },
+    {
+        "name": "hurricane",
+        "trans": [
+            "飓风"
+        ]
+    },
+    {
+        "name": "hussakite",
+        "trans": [
+            "磷钇矿"
+        ]
+    },
+    {
+        "name": "hutchinsonite",
+        "trans": [
+            "硫砷铊铅矿"
+        ]
+    },
+    {
+        "name": "huttonite",
+        "trans": [
+            "硅钍石"
+        ]
+    },
+    {
+        "name": "hyacinth",
+        "trans": [
+            "红锆石"
+        ]
+    },
+    {
+        "name": "hyaline",
+        "trans": [
+            "玻璃质的"
+        ]
+    },
+    {
+        "name": "hyalite",
+        "trans": [
+            "玻璃蛋白石"
+        ]
+    },
+    {
+        "name": "hyalobasalt",
+        "trans": [
+            "玻质玄武岩"
+        ]
+    },
+    {
+        "name": "hyalocrystalline",
+        "trans": [
+            "玻晶质的"
+        ]
+    },
+    {
+        "name": "hyaloophitic",
+        "trans": [
+            "玻质辉绿岩的"
+        ]
+    },
+    {
+        "name": "hyalophane",
+        "trans": [
+            "钡冰长石"
+        ]
+    },
+    {
+        "name": "hyalopilitic",
+        "trans": [
+            "玻晶交织的"
+        ]
+    },
+    {
+        "name": "hyalosiderite",
+        "trans": [
+            "透铁橄榄石"
+        ]
+    },
+    {
+        "name": "hyalotekite",
+        "trans": [
+            "硼硅钡铅矿"
+        ]
+    },
+    {
+        "name": "hybrid",
+        "trans": [
+            "杂种"
+        ]
+    },
+    {
+        "name": "hybrid rock",
+        "trans": [
+            "混染岩"
+        ]
+    },
+    {
+        "name": "hybridization",
+        "trans": [
+            "混合酌"
+        ]
+    },
+    {
+        "name": "hydatogenesis",
+        "trans": [
+            "热液成矿酌"
+        ]
+    },
+    {
+        "name": "hydatogenic",
+        "trans": [
+            "热液成的"
+        ]
+    },
+    {
+        "name": "hydatogenic rock",
+        "trans": [
+            "蒸发的"
+        ]
+    },
+    {
+        "name": "hydatogenous",
+        "trans": [
+            "液成的"
+        ]
+    },
+    {
+        "name": "hydatogenous rock",
+        "trans": [
+            "水成岩"
+        ]
+    },
+    {
+        "name": "hydatometamorphic rock",
+        "trans": [
+            "水成变质岩"
+        ]
+    },
+    {
+        "name": "hydatomorphism",
+        "trans": [
+            "水变质酌"
+        ]
+    },
+    {
+        "name": "hydatophytes",
+        "trans": [
+            "浸生植物"
+        ]
+    },
+    {
+        "name": "hydatopyrogenic",
+        "trans": [
+            "火水成的"
+        ]
+    },
+    {
+        "name": "hydracid",
+        "trans": [
+            "氢酸"
+        ]
+    },
+    {
+        "name": "hydrargyrum",
+        "trans": [
+            "汞"
+        ]
+    },
+    {
+        "name": "hydrate",
+        "trans": [
+            "水化物"
+        ]
+    },
+    {
+        "name": "hydration",
+        "trans": [
+            "水合酌"
+        ]
+    },
+    {
+        "name": "hydration heat",
+        "trans": [
+            "水合热"
+        ]
+    },
+    {
+        "name": "hydration of colloidal particles",
+        "trans": [
+            "胶粒的水化酌"
+        ]
+    },
+    {
+        "name": "hydraulic brake",
+        "trans": [
+            "液压制动器"
+        ]
+    },
+    {
+        "name": "hydraulic classification",
+        "trans": [
+            "水力分级"
+        ]
+    },
+    {
+        "name": "hydraulic conductivity",
+        "trans": [
+            "渗透系数"
+        ]
+    },
+    {
+        "name": "hydraulic discharge",
+        "trans": [
+            "地下水出流"
+        ]
+    },
+    {
+        "name": "hydraulic feed drill",
+        "trans": [
+            "油压钻机"
+        ]
+    },
+    {
+        "name": "hydraulic fracturing",
+        "trans": [
+            "水力压裂"
+        ]
+    },
+    {
+        "name": "hydraulic gradient",
+        "trans": [
+            "水力梯度"
+        ]
+    },
+    {
+        "name": "hydraulic head",
+        "trans": [
+            "水头"
+        ]
+    },
+    {
+        "name": "hydraulic jump",
+        "trans": [
+            "液压跳"
+        ]
+    },
+    {
+        "name": "hydraulic mining",
+        "trans": [
+            "水力采矿"
+        ]
+    },
+    {
+        "name": "hydraulic percussive boring",
+        "trans": [
+            "水力冲魂井"
+        ]
+    },
+    {
+        "name": "hydraulic pipe cutter",
+        "trans": [
+            "水压切管器"
+        ]
+    },
+    {
+        "name": "hydraulic profile",
+        "trans": [
+            "水力学剖面"
+        ]
+    },
+    {
+        "name": "hydraulic radius",
+        "trans": [
+            "水力半径"
+        ]
+    },
+    {
+        "name": "hydraulic reamer",
+        "trans": [
+            "水压扩孔器"
+        ]
+    },
+    {
+        "name": "hydraulic rotary",
+        "trans": [
+            "水力转盘"
+        ]
+    },
+    {
+        "name": "hydraulic submersible impact tool",
+        "trans": [
+            "水力冲话备"
+        ]
+    },
+    {
+        "name": "hydraulics",
+        "trans": [
+            "水力学"
+        ]
+    },
+    {
+        "name": "hydride",
+        "trans": [
+            "氢化物"
+        ]
+    },
+    {
+        "name": "hydrobiology",
+        "trans": [
+            "水生生物学"
+        ]
+    },
+    {
+        "name": "hydroboracite",
+        "trans": [
+            "水方硼石"
+        ]
+    },
+    {
+        "name": "hydrocalumite",
+        "trans": [
+            "水铝钙石"
+        ]
+    },
+    {
+        "name": "hydrocarbon",
+        "trans": [
+            "碳氢化合物"
+        ]
+    },
+    {
+        "name": "hydrocarbon ratio",
+        "trans": [
+            "烃比值"
+        ]
+    },
+    {
+        "name": "hydrocerussite",
+        "trans": [
+            "水白铅矿"
+        ]
+    },
+    {
+        "name": "hydrochemical analyse",
+        "trans": [
+            "水化学分析"
+        ]
+    },
+    {
+        "name": "hydrochemical metamorphism",
+        "trans": [
+            "水化变质"
+        ]
+    },
+    {
+        "name": "hydrochemical prospecting",
+        "trans": [
+            "水化学勘探"
+        ]
+    },
+    {
+        "name": "hydrochemistry",
+        "trans": [
+            "水文化学"
+        ]
+    },
+    {
+        "name": "hydroclast",
+        "trans": [
+            "水成碎屑岩"
+        ]
+    },
+    {
+        "name": "hydroclastic rock",
+        "trans": [
+            "水成碎屑岩"
+        ]
+    },
+    {
+        "name": "hydrodolomite",
+        "trans": [
+            "水白云石"
+        ]
+    },
+    {
+        "name": "hydrodynamic conductibility",
+        "trans": [
+            "铃动力学的传导性"
+        ]
+    },
+    {
+        "name": "hydrodynamic dispersion",
+        "trans": [
+            "水动力的分散"
+        ]
+    },
+    {
+        "name": "hydrodynamics",
+        "trans": [
+            "铃动力学"
+        ]
+    },
+    {
+        "name": "hydrogen",
+        "trans": [
+            "氢"
+        ]
+    },
+    {
+        "name": "hydrogen bond",
+        "trans": [
+            "氢键"
+        ]
+    },
+    {
+        "name": "hydrogen bonding",
+        "trans": [
+            "氢结合"
+        ]
+    },
+    {
+        "name": "hydrogen content of coal",
+        "trans": [
+            "煤中氢"
+        ]
+    },
+    {
+        "name": "hydrogen electrode",
+        "trans": [
+            "氢电极"
+        ]
+    },
+    {
+        "name": "hydrogen peroxide",
+        "trans": [
+            "过氧化氢"
+        ]
+    },
+    {
+        "name": "hydrogenation",
+        "trans": [
+            "加氢"
+        ]
+    },
+    {
+        "name": "hydrogeochemical prospecting",
+        "trans": [
+            "水文地球化学勘探"
+        ]
+    },
+    {
+        "name": "hydrogeochemistry",
+        "trans": [
+            "水文地球化学"
+        ]
+    },
+    {
+        "name": "hydrogeologic map",
+        "trans": [
+            "水文地质图"
+        ]
+    },
+    {
+        "name": "hydrogeological logging",
+        "trans": [
+            "水文测井"
+        ]
+    },
+    {
+        "name": "hydrogeology",
+        "trans": [
+            "水文地质学"
+        ]
+    },
+    {
+        "name": "hydrogoethite",
+        "trans": [
+            "含水针铁矿"
+        ]
+    },
+    {
+        "name": "hydrograph",
+        "trans": [
+            "水文曲线"
+        ]
+    },
+    {
+        "name": "hydrography",
+        "trans": [
+            "水文地理学"
+        ]
+    },
+    {
+        "name": "hydrogrossular",
+        "trans": [
+            "水绿榴石"
+        ]
+    },
+    {
+        "name": "hydrohematite",
+        "trans": [
+            "水赤铁矿"
+        ]
+    },
+    {
+        "name": "hydrohetaerolite",
+        "trans": [
+            "水锌锰矿"
+        ]
+    },
+    {
+        "name": "hydrolaccolith",
+        "trans": [
+            "水成岩盖"
+        ]
+    },
+    {
+        "name": "hydrologic barrier",
+        "trans": [
+            "水文堰洲"
+        ]
+    },
+    {
+        "name": "hydrologic budget",
+        "trans": [
+            "水均衡"
+        ]
+    },
+    {
+        "name": "hydrologic cycle",
+        "trans": [
+            "水循环"
+        ]
+    },
+    {
+        "name": "hydrologic equation",
+        "trans": [
+            "水均衡方程"
+        ]
+    },
+    {
+        "name": "hydrological regime",
+        "trans": [
+            "水文状况"
+        ]
+    },
+    {
+        "name": "hydrological survey",
+        "trans": [
+            "水文勘查"
+        ]
+    },
+    {
+        "name": "hydrology",
+        "trans": [
+            "水文学"
+        ]
+    },
+    {
+        "name": "hydrolysis",
+        "trans": [
+            "水解"
+        ]
+    },
+    {
+        "name": "hydrolytic acidity",
+        "trans": [
+            "水解酸度"
+        ]
+    },
+    {
+        "name": "hydrolyzate",
+        "trans": [
+            "水解产物"
+        ]
+    },
+    {
+        "name": "hydromagnesite",
+        "trans": [
+            "水菱镁矿"
+        ]
+    },
+    {
+        "name": "hydromanganite",
+        "trans": [
+            "水锰矿"
+        ]
+    },
+    {
+        "name": "hydromanganosite",
+        "trans": [
+            "水方锰矿"
+        ]
+    },
+    {
+        "name": "hydromatic brake",
+        "trans": [
+            "水刹车"
+        ]
+    },
+    {
+        "name": "hydrometallurgy",
+        "trans": [
+            "湿式冶金"
+        ]
+    },
+    {
+        "name": "hydrometamorphism",
+        "trans": [
+            "热水变质"
+        ]
+    },
+    {
+        "name": "hydrometasomatose",
+        "trans": [
+            "热液交替酌"
+        ]
+    },
+    {
+        "name": "hydrometeor",
+        "trans": [
+            "水汽凝结体"
+        ]
+    },
+    {
+        "name": "hydrometer",
+        "trans": [
+            "比重计"
+        ]
+    },
+    {
+        "name": "hydrometry",
+        "trans": [
+            "水文测量"
+        ]
+    },
+    {
+        "name": "hydromica",
+        "trans": [
+            "水云母"
+        ]
+    },
+    {
+        "name": "hydromorphic",
+        "trans": [
+            "水成的"
+        ]
+    },
+    {
+        "name": "hydromorphic soils",
+        "trans": [
+            "水成土"
+        ]
+    },
+    {
+        "name": "hydromuscovite",
+        "trans": [
+            "水白云母"
+        ]
+    },
+    {
+        "name": "hydrophane",
+        "trans": [
+            "水蛋白石"
+        ]
+    },
+    {
+        "name": "hydrophilic colloid",
+        "trans": [
+            "亲水胶体"
+        ]
+    },
+    {
+        "name": "hydrophilic radical",
+        "trans": [
+            "亲水基"
+        ]
+    },
+    {
+        "name": "hydrophilite",
+        "trans": [
+            "氯钙石"
+        ]
+    },
+    {
+        "name": "hydrophobic colloid",
+        "trans": [
+            "疏水胶体"
+        ]
+    },
+    {
+        "name": "hydrophone",
+        "trans": [
+            "水中地震检波器"
+        ]
+    },
+    {
+        "name": "hydrophytes",
+        "trans": [
+            "水生植物"
+        ]
+    },
+    {
+        "name": "hydrophytic vegetation",
+        "trans": [
+            "适湿植被"
+        ]
+    },
+    {
+        "name": "hydrosphere",
+        "trans": [
+            "水圈"
+        ]
+    },
+    {
+        "name": "hydrostatic pressure",
+        "trans": [
+            "静水压力"
+        ]
+    },
+    {
+        "name": "hydrotalcite",
+        "trans": [
+            "水滑石"
+        ]
+    },
+    {
+        "name": "hydrothermal activity",
+        "trans": [
+            "水热活动"
+        ]
+    },
+    {
+        "name": "hydrothermal alteration",
+        "trans": [
+            "热液蚀变"
+        ]
+    },
+    {
+        "name": "hydrothermal area",
+        "trans": [
+            "热水活动区"
+        ]
+    },
+    {
+        "name": "hydrothermal deposit",
+        "trans": [
+            "热液矿床"
+        ]
+    },
+    {
+        "name": "hydrothermal experiment",
+        "trans": [
+            "热水实验"
+        ]
+    },
+    {
+        "name": "hydrothermal process",
+        "trans": [
+            "热液酌"
+        ]
+    },
+    {
+        "name": "hydrothermal solution",
+        "trans": [
+            "热水溶液"
+        ]
+    },
+    {
+        "name": "hydrothermal stage",
+        "trans": [
+            "热液期"
+        ]
+    },
+    {
+        "name": "hydrothermal synthesis",
+        "trans": [
+            "热液合成"
+        ]
+    },
+    {
+        "name": "hydrothermal system",
+        "trans": [
+            "水热系统"
+        ]
+    },
+    {
+        "name": "hydrothermal theory",
+        "trans": [
+            "热液说"
+        ]
+    },
+    {
+        "name": "hydrothermic coefficient",
+        "trans": [
+            "水热系数"
+        ]
+    },
+    {
+        "name": "hydrothermic factor",
+        "trans": [
+            "水热因子"
+        ]
+    },
+    {
+        "name": "hydroxybenzoic acid",
+        "trans": [
+            "水杨酸"
+        ]
+    },
+    {
+        "name": "hydroxylapatite",
+        "trans": [
+            "羟磷灰石"
+        ]
+    },
+    {
+        "name": "hydrozincite",
+        "trans": [
+            "水锌矿"
+        ]
+    },
+    {
+        "name": "hyetograph",
+        "trans": [
+            "时间雨量曲线"
+        ]
+    },
+    {
+        "name": "hygrometer",
+        "trans": [
+            "湿度表"
+        ]
+    },
+    {
+        "name": "hygroscopic nucleus",
+        "trans": [
+            "吸湿核"
+        ]
+    },
+    {
+        "name": "hygroscopic water",
+        "trans": [
+            "吸着水"
+        ]
+    },
+    {
+        "name": "hygroscopicity",
+        "trans": [
+            "吸湿性"
+        ]
+    },
+    {
+        "name": "hypabyssal",
+        "trans": [
+            "半深成的"
+        ]
+    },
+    {
+        "name": "hypautochthonous coal",
+        "trans": [
+            "微异地生成煤"
+        ]
+    },
+    {
+        "name": "hypautomorphic",
+        "trans": [
+            "半自形的"
+        ]
+    },
+    {
+        "name": "hyperalkaline",
+        "trans": [
+            "超碱性"
+        ]
+    },
+    {
+        "name": "hypereutectic",
+        "trans": [
+            "过共晶体"
+        ]
+    },
+    {
+        "name": "hypereutectoid",
+        "trans": [
+            "过共析体"
+        ]
+    },
+    {
+        "name": "hypergene mobility",
+        "trans": [
+            "浅成活动性"
+        ]
+    },
+    {
+        "name": "hypergene structure",
+        "trans": [
+            "表生构造"
+        ]
+    },
+    {
+        "name": "hypergene zone",
+        "trans": [
+            "浅成带"
+        ]
+    },
+    {
+        "name": "hypergenesis",
+        "trans": [
+            "表面蚀变"
+        ]
+    },
+    {
+        "name": "hyperite",
+        "trans": [
+            "辉长苏长岩"
+        ]
+    },
+    {
+        "name": "hypermelanic rock",
+        "trans": [
+            "深暗色岩"
+        ]
+    },
+    {
+        "name": "hypermorphosis",
+        "trans": [
+            "超形态形成过程"
+        ]
+    },
+    {
+        "name": "hypersthene",
+        "trans": [
+            "紫苏辉石"
+        ]
+    },
+    {
+        "name": "hypidiomorphic",
+        "trans": [
+            "半自形的"
+        ]
+    },
+    {
+        "name": "hypidiomorphic granular",
+        "trans": [
+            "半自形粒状的"
+        ]
+    },
+    {
+        "name": "hypidiomorphic granular texture",
+        "trans": [
+            "半自形晶粒状结构"
+        ]
+    },
+    {
+        "name": "hypidiomorphic structure",
+        "trans": [
+            "半自形构造"
+        ]
+    },
+    {
+        "name": "hypidiomorphic texture",
+        "trans": [
+            "半自形结构"
+        ]
+    },
+    {
+        "name": "hypnum moss bog",
+        "trans": [
+            "灰藓沼泽"
+        ]
+    },
+    {
+        "name": "hypo eutectic",
+        "trans": [
+            "亚共晶"
+        ]
+    },
+    {
+        "name": "hypocentral distance",
+        "trans": [
+            "震源距离"
+        ]
+    },
+    {
+        "name": "hypocentral region",
+        "trans": [
+            "震源区"
+        ]
+    },
+    {
+        "name": "hypocentre",
+        "trans": [
+            "震源"
+        ]
+    },
+    {
+        "name": "hypocentrum",
+        "trans": [
+            "震源"
+        ]
+    },
+    {
+        "name": "hypocrystalline",
+        "trans": [
+            "半晶质的"
+        ]
+    },
+    {
+        "name": "hypocrystalline porphyric",
+        "trans": [
+            "半晶质斑状的"
+        ]
+    },
+    {
+        "name": "hypocrystalline texture",
+        "trans": [
+            "半晶质结构"
+        ]
+    },
+    {
+        "name": "hypogene",
+        "trans": [
+            "内力的"
+        ]
+    },
+    {
+        "name": "hypogene mineral deposit",
+        "trans": [
+            "深成矿床"
+        ]
+    },
+    {
+        "name": "hypogene mobility",
+        "trans": [
+            "深成活动性"
+        ]
+    },
+    {
+        "name": "hypogene spring",
+        "trans": [
+            "上升泉"
+        ]
+    },
+    {
+        "name": "hypogenic",
+        "trans": [
+            "内力的"
+        ]
+    },
+    {
+        "name": "hypohyaline",
+        "trans": [
+            "半玻质的"
+        ]
+    },
+    {
+        "name": "hypolimnion",
+        "trans": [
+            "最下层湖水"
+        ]
+    },
+    {
+        "name": "hypometamorphic",
+        "trans": [
+            "深变质的"
+        ]
+    },
+    {
+        "name": "hypothermal deposit",
+        "trans": [
+            "高温热液矿床"
+        ]
+    },
+    {
+        "name": "hypothermal vein",
+        "trans": [
+            "高温热液矿脉"
+        ]
+    },
+    {
+        "name": "hypothetical anomaly",
+        "trans": [
+            "假说异常"
+        ]
+    },
+    {
+        "name": "hypothetical reserves",
+        "trans": [
+            "可能储量"
+        ]
+    },
+    {
+        "name": "hypotype",
+        "trans": [
+            "近型"
+        ]
+    },
+    {
+        "name": "hypsographic map",
+        "trans": [
+            "等高线地形图"
+        ]
+    },
+    {
+        "name": "hypsometer",
+        "trans": [
+            "测高计"
+        ]
+    }
+]

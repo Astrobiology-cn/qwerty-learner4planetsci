@@ -1,0 +1,1604 @@
+[
+    {
+        "name": "vacancy",
+        "trans": [
+            "空位"
+        ]
+    },
+    {
+        "name": "vacant lattice site",
+        "trans": [
+            "未满晶格结点"
+        ]
+    },
+    {
+        "name": "vacuum evaporation",
+        "trans": [
+            "真空蒸发"
+        ]
+    },
+    {
+        "name": "vacuum flask",
+        "trans": [
+            "真空瓶"
+        ]
+    },
+    {
+        "name": "vacuum thermocouple",
+        "trans": [
+            "真空温差电偶"
+        ]
+    },
+    {
+        "name": "vadose water",
+        "trans": [
+            "悬着水"
+        ]
+    },
+    {
+        "name": "vadose zone",
+        "trans": [
+            "通气层"
+        ]
+    },
+    {
+        "name": "vaesite",
+        "trans": [
+            "方硫镍矿"
+        ]
+    },
+    {
+        "name": "vaginate",
+        "trans": [
+            "具鞘的"
+        ]
+    },
+    {
+        "name": "valanginian",
+        "trans": [
+            "风兰易"
+        ]
+    },
+    {
+        "name": "valbellite",
+        "trans": [
+            "闪苏橄榄岩"
+        ]
+    },
+    {
+        "name": "vale",
+        "trans": [
+            "谷"
+        ]
+    },
+    {
+        "name": "valence crystal",
+        "trans": [
+            "价晶格"
+        ]
+    },
+    {
+        "name": "valence electron",
+        "trans": [
+            "价电子"
+        ]
+    },
+    {
+        "name": "valence force",
+        "trans": [
+            "原子价力"
+        ]
+    },
+    {
+        "name": "valencianite",
+        "trans": [
+            "冰长石"
+        ]
+    },
+    {
+        "name": "valent state",
+        "trans": [
+            "价态"
+        ]
+    },
+    {
+        "name": "valentinite",
+        "trans": [
+            "锑华"
+        ]
+    },
+    {
+        "name": "valleriite",
+        "trans": [
+            "墨铜矿"
+        ]
+    },
+    {
+        "name": "valley",
+        "trans": [
+            "谷"
+        ]
+    },
+    {
+        "name": "valley bog",
+        "trans": [
+            "河谷沼泽"
+        ]
+    },
+    {
+        "name": "valley fill",
+        "trans": [
+            "河谷填积"
+        ]
+    },
+    {
+        "name": "valley glacier",
+        "trans": [
+            "谷冰川"
+        ]
+    },
+    {
+        "name": "valley in valley",
+        "trans": [
+            "谷中谷"
+        ]
+    },
+    {
+        "name": "valley placer",
+        "trans": [
+            "河谷砂矿"
+        ]
+    },
+    {
+        "name": "valley water",
+        "trans": [
+            "河谷水"
+        ]
+    },
+    {
+        "name": "valleyside slope",
+        "trans": [
+            "谷边坡"
+        ]
+    },
+    {
+        "name": "valuation",
+        "trans": [
+            "评价"
+        ]
+    },
+    {
+        "name": "valve",
+        "trans": [
+            "贝壳;活门"
+        ]
+    },
+    {
+        "name": "vanadinite",
+        "trans": [
+            "钒铅矿"
+        ]
+    },
+    {
+        "name": "vanadite",
+        "trans": [
+            "钒铅锌矿"
+        ]
+    },
+    {
+        "name": "vanadium",
+        "trans": [
+            "钒"
+        ]
+    },
+    {
+        "name": "vandenbrandeite",
+        "trans": [
+            "绿铀矿"
+        ]
+    },
+    {
+        "name": "vandendriesscheite",
+        "trans": [
+            "水铀铅矿"
+        ]
+    },
+    {
+        "name": "vanoxite",
+        "trans": [
+            "水钒矿"
+        ]
+    },
+    {
+        "name": "vanthoffite",
+        "trans": [
+            "钠镁矾"
+        ]
+    },
+    {
+        "name": "vapor phase growth",
+        "trans": [
+            "汽相生长"
+        ]
+    },
+    {
+        "name": "vapour pressure",
+        "trans": [
+            "水汽压"
+        ]
+    },
+    {
+        "name": "vapourization",
+        "trans": [
+            "汽化"
+        ]
+    },
+    {
+        "name": "variability",
+        "trans": [
+            "变异性"
+        ]
+    },
+    {
+        "name": "variable zone of subsurface temperature",
+        "trans": [
+            "变温层"
+        ]
+    },
+    {
+        "name": "variance",
+        "trans": [
+            "离散"
+        ]
+    },
+    {
+        "name": "variance ratio test",
+        "trans": [
+            "检验"
+        ]
+    },
+    {
+        "name": "variation",
+        "trans": [
+            "变异"
+        ]
+    },
+    {
+        "name": "variation diagram",
+        "trans": [
+            "变异图解"
+        ]
+    },
+    {
+        "name": "variegated",
+        "trans": [
+            "杂色的"
+        ]
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "变种"
+        ]
+    },
+    {
+        "name": "variolated",
+        "trans": [
+            "玄武球颗的"
+        ]
+    },
+    {
+        "name": "varioles",
+        "trans": [
+            "球颗"
+        ]
+    },
+    {
+        "name": "variolite",
+        "trans": [
+            "球颗玄武岩"
+        ]
+    },
+    {
+        "name": "variolitic",
+        "trans": [
+            "球颗状的"
+        ]
+    },
+    {
+        "name": "variometer",
+        "trans": [
+            "磁变仪"
+        ]
+    },
+    {
+        "name": "variscite",
+        "trans": [
+            "磷铝石"
+        ]
+    },
+    {
+        "name": "varve",
+        "trans": [
+            "季候泥"
+        ]
+    },
+    {
+        "name": "varved clay",
+        "trans": [
+            "纹泥"
+        ]
+    },
+    {
+        "name": "vascular bundle",
+        "trans": [
+            "维管束"
+        ]
+    },
+    {
+        "name": "vascular plants",
+        "trans": [
+            "维管植物"
+        ]
+    },
+    {
+        "name": "vashegyite",
+        "trans": [
+            "纤磷铝石"
+        ]
+    },
+    {
+        "name": "vaterite",
+        "trans": [
+            "球霰石"
+        ]
+    },
+    {
+        "name": "vaugnerite",
+        "trans": [
+            "磷英黑云二长岩"
+        ]
+    },
+    {
+        "name": "vauquelinite",
+        "trans": [
+            "磷铬铜铅矿"
+        ]
+    },
+    {
+        "name": "vauxite",
+        "trans": [
+            "蓝磷铁矿"
+        ]
+    },
+    {
+        "name": "veatchite",
+        "trans": [
+            "水硼锶石"
+        ]
+    },
+    {
+        "name": "vegasite",
+        "trans": [
+            "铅铁矾"
+        ]
+    },
+    {
+        "name": "vegetable mould",
+        "trans": [
+            "沼泽泥"
+        ]
+    },
+    {
+        "name": "vegetable remains",
+        "trans": [
+            "植物残余"
+        ]
+    },
+    {
+        "name": "vegetal organ",
+        "trans": [
+            "营养瀑"
+        ]
+    },
+    {
+        "name": "vegetation zone",
+        "trans": [
+            "植被带"
+        ]
+    },
+    {
+        "name": "vegetative organ",
+        "trans": [
+            "营养瀑"
+        ]
+    },
+    {
+        "name": "vegetative propagation",
+        "trans": [
+            "营养繁殖"
+        ]
+    },
+    {
+        "name": "vein",
+        "trans": [
+            "矿脉"
+        ]
+    },
+    {
+        "name": "vein deposit",
+        "trans": [
+            "脉矿床"
+        ]
+    },
+    {
+        "name": "vein structure",
+        "trans": [
+            "脉构造"
+        ]
+    },
+    {
+        "name": "veined",
+        "trans": [
+            "脉状的"
+        ]
+    },
+    {
+        "name": "veinlet",
+        "trans": [
+            "细脉"
+        ]
+    },
+    {
+        "name": "velocity filtering",
+        "trans": [
+            "速度滤波"
+        ]
+    },
+    {
+        "name": "velocity interface",
+        "trans": [
+            "速度界面"
+        ]
+    },
+    {
+        "name": "velocity layer",
+        "trans": [
+            "速度层"
+        ]
+    },
+    {
+        "name": "velocity logging",
+        "trans": [
+            "速度测井"
+        ]
+    },
+    {
+        "name": "velocity of propagation",
+        "trans": [
+            "传播速度"
+        ]
+    },
+    {
+        "name": "velocity spectrum",
+        "trans": [
+            "速度谱"
+        ]
+    },
+    {
+        "name": "velum",
+        "trans": [
+            "面盘"
+        ]
+    },
+    {
+        "name": "venanzite",
+        "trans": [
+            "橄金斑岩"
+        ]
+    },
+    {
+        "name": "veneer",
+        "trans": [
+            "覆盖层"
+        ]
+    },
+    {
+        "name": "venite",
+        "trans": [
+            "脉混合岩"
+        ]
+    },
+    {
+        "name": "venner rock",
+        "trans": [
+            "表层"
+        ]
+    },
+    {
+        "name": "vent",
+        "trans": [
+            "火山口"
+        ]
+    },
+    {
+        "name": "venter",
+        "trans": [
+            "腹"
+        ]
+    },
+    {
+        "name": "ventifact",
+        "trans": [
+            "风棱石"
+        ]
+    },
+    {
+        "name": "ventilation hole",
+        "trans": [
+            "通风孔"
+        ]
+    },
+    {
+        "name": "ventral fin",
+        "trans": [
+            "腹"
+        ]
+    },
+    {
+        "name": "verdelite",
+        "trans": [
+            "电气石"
+        ]
+    },
+    {
+        "name": "vergence",
+        "trans": [
+            "倾向"
+        ]
+    },
+    {
+        "name": "verite",
+        "trans": [
+            "金云橄煌松岩"
+        ]
+    },
+    {
+        "name": "vermiculite",
+        "trans": [
+            "蛭石"
+        ]
+    },
+    {
+        "name": "vernadite",
+        "trans": [
+            "复水锰矿"
+        ]
+    },
+    {
+        "name": "vernadskite",
+        "trans": [
+            "水褐铜矾"
+        ]
+    },
+    {
+        "name": "vernal point",
+        "trans": [
+            "春分点"
+        ]
+    },
+    {
+        "name": "vernalization",
+        "trans": [
+            "春化处理"
+        ]
+    },
+    {
+        "name": "vernier",
+        "trans": [
+            "游尺"
+        ]
+    },
+    {
+        "name": "verrucano",
+        "trans": [
+            "红色砂岩"
+        ]
+    },
+    {
+        "name": "verruciform",
+        "trans": [
+            "疣状的"
+        ]
+    },
+    {
+        "name": "vertebral column",
+        "trans": [
+            "脊柱"
+        ]
+    },
+    {
+        "name": "vertebrates",
+        "trans": [
+            "脊椎动物"
+        ]
+    },
+    {
+        "name": "vertical angle",
+        "trans": [
+            "垂直角"
+        ]
+    },
+    {
+        "name": "vertical beds",
+        "trans": [
+            "直立地层带"
+        ]
+    },
+    {
+        "name": "vertical deflection",
+        "trans": [
+            "垂直偏转"
+        ]
+    },
+    {
+        "name": "vertical distribution",
+        "trans": [
+            "垂直分布"
+        ]
+    },
+    {
+        "name": "vertical electrical sounding",
+        "trans": [
+            "垂直电测深"
+        ]
+    },
+    {
+        "name": "vertical fold",
+        "trans": [
+            "垂直褶皱"
+        ]
+    },
+    {
+        "name": "vertical line",
+        "trans": [
+            "垂线"
+        ]
+    },
+    {
+        "name": "vertical magnetic anomaly",
+        "trans": [
+            "垂直磁异常"
+        ]
+    },
+    {
+        "name": "vertical migration",
+        "trans": [
+            "垂向运移"
+        ]
+    },
+    {
+        "name": "vertical mixing",
+        "trans": [
+            "垂直混合"
+        ]
+    },
+    {
+        "name": "vertical movement of the crust",
+        "trans": [
+            "地壳垂直运动"
+        ]
+    },
+    {
+        "name": "vertical pendulum",
+        "trans": [
+            "垂直摆"
+        ]
+    },
+    {
+        "name": "vertical section",
+        "trans": [
+            "垂直剖面"
+        ]
+    },
+    {
+        "name": "vertical seismograph",
+        "trans": [
+            "垂直震仪"
+        ]
+    },
+    {
+        "name": "vertical temperature gradient",
+        "trans": [
+            "温度垂直梯度"
+        ]
+    },
+    {
+        "name": "vertical thickness",
+        "trans": [
+            "垂直厚度"
+        ]
+    },
+    {
+        "name": "verticillation",
+        "trans": [
+            "轮生叶序"
+        ]
+    },
+    {
+        "name": "very fine sand",
+        "trans": [
+            "极细砂"
+        ]
+    },
+    {
+        "name": "vesbite",
+        "trans": [
+            "辉石黄长白榴岩"
+        ]
+    },
+    {
+        "name": "vesecite",
+        "trans": [
+            "二橄黄粗玄岩"
+        ]
+    },
+    {
+        "name": "vesicle",
+        "trans": [
+            "气泡"
+        ]
+    },
+    {
+        "name": "vesicular",
+        "trans": [
+            "气孔质的"
+        ]
+    },
+    {
+        "name": "vesicular structure",
+        "trans": [
+            "多孔状构造"
+        ]
+    },
+    {
+        "name": "vesignieite",
+        "trans": [
+            "钒钡铜矿"
+        ]
+    },
+    {
+        "name": "vesuvian",
+        "trans": [
+            "符山石"
+        ]
+    },
+    {
+        "name": "vesuvianite",
+        "trans": [
+            "符山石"
+        ]
+    },
+    {
+        "name": "vesuvite",
+        "trans": [
+            "白榴碱玄岩"
+        ]
+    },
+    {
+        "name": "veszelyite",
+        "trans": [
+            "磷砷锌铜矿"
+        ]
+    },
+    {
+        "name": "vibetoite",
+        "trans": [
+            "霞闪云钛辉岩"
+        ]
+    },
+    {
+        "name": "vibrating screen",
+        "trans": [
+            "振动筛"
+        ]
+    },
+    {
+        "name": "vibration spectrum",
+        "trans": [
+            "振动光谱"
+        ]
+    },
+    {
+        "name": "vibrator",
+        "trans": [
+            "振动器振子"
+        ]
+    },
+    {
+        "name": "vibratory drilling",
+        "trans": [
+            "振动钻进"
+        ]
+    },
+    {
+        "name": "vibratory percussive drilling",
+        "trans": [
+            "振动冲魂井"
+        ]
+    },
+    {
+        "name": "vibratory rotary drilling",
+        "trans": [
+            "振动旋转钻井"
+        ]
+    },
+    {
+        "name": "vibrograph",
+        "trans": [
+            "震动计"
+        ]
+    },
+    {
+        "name": "vicoite",
+        "trans": [
+            "白榴碱玄响岩"
+        ]
+    },
+    {
+        "name": "video frequency",
+        "trans": [
+            "视频"
+        ]
+    },
+    {
+        "name": "villamaninite",
+        "trans": [
+            "黑硫铜镍矿"
+        ]
+    },
+    {
+        "name": "villiaumite",
+        "trans": [
+            "氟盐"
+        ]
+    },
+    {
+        "name": "vintlite",
+        "trans": [
+            "基长闪斑辉绿岩"
+        ]
+    },
+    {
+        "name": "violan",
+        "trans": [
+            "青辉石"
+        ]
+    },
+    {
+        "name": "violarite",
+        "trans": [
+            "淡红辉镍铁矿"
+        ]
+    },
+    {
+        "name": "violent earthquake",
+        "trans": [
+            "大地震"
+        ]
+    },
+    {
+        "name": "virgation",
+        "trans": [
+            "分岐"
+        ]
+    },
+    {
+        "name": "virgin flow",
+        "trans": [
+            "原始水流"
+        ]
+    },
+    {
+        "name": "virgin forest",
+        "trans": [
+            "处女林"
+        ]
+    },
+    {
+        "name": "virgin soil",
+        "trans": [
+            "生荒地"
+        ]
+    },
+    {
+        "name": "viridine",
+        "trans": [
+            "锰红柱石"
+        ]
+    },
+    {
+        "name": "viridite",
+        "trans": [
+            "针铁绿泥石"
+        ]
+    },
+    {
+        "name": "virtual components",
+        "trans": [
+            "有效成分"
+        ]
+    },
+    {
+        "name": "virtual temperature",
+        "trans": [
+            "虚温"
+        ]
+    },
+    {
+        "name": "viscosimeter",
+        "trans": [
+            "粘滞计"
+        ]
+    },
+    {
+        "name": "viscosity",
+        "trans": [
+            "粘度"
+        ]
+    },
+    {
+        "name": "viscous force",
+        "trans": [
+            "粘性力"
+        ]
+    },
+    {
+        "name": "visean",
+        "trans": [
+            "韦先阶"
+        ]
+    },
+    {
+        "name": "visean series",
+        "trans": [
+            "韦先阶"
+        ]
+    },
+    {
+        "name": "visual estimated grade",
+        "trans": [
+            "目测品位"
+        ]
+    },
+    {
+        "name": "visual organ",
+        "trans": [
+            "视觉瀑"
+        ]
+    },
+    {
+        "name": "visual range",
+        "trans": [
+            "能见距离"
+        ]
+    },
+    {
+        "name": "visual valuation",
+        "trans": [
+            "目视评价"
+        ]
+    },
+    {
+        "name": "vitoriol spring",
+        "trans": [
+            "硫酸盐泉"
+        ]
+    },
+    {
+        "name": "vitrain",
+        "trans": [
+            "光亮型煤"
+        ]
+    },
+    {
+        "name": "vitreous lustre",
+        "trans": [
+            "玻璃光泽"
+        ]
+    },
+    {
+        "name": "vitric tuff",
+        "trans": [
+            "玻璃凝灰岩"
+        ]
+    },
+    {
+        "name": "vitrifusain",
+        "trans": [
+            "玻璃丝炭"
+        ]
+    },
+    {
+        "name": "vitrinite",
+        "trans": [
+            "镜质组"
+        ]
+    },
+    {
+        "name": "vitrite",
+        "trans": [
+            "微镜煤"
+        ]
+    },
+    {
+        "name": "vitrophyre",
+        "trans": [
+            "玻基斑岩"
+        ]
+    },
+    {
+        "name": "vitrophyric",
+        "trans": [
+            "玻基斑状的"
+        ]
+    },
+    {
+        "name": "vitrophyric texture",
+        "trans": [
+            "玻斑状结构"
+        ]
+    },
+    {
+        "name": "vitrophyrite",
+        "trans": [
+            "变玻英安岩"
+        ]
+    },
+    {
+        "name": "vivianite",
+        "trans": [
+            "蓝铁矿"
+        ]
+    },
+    {
+        "name": "vlasovite",
+        "trans": [
+            "硅锆钠石"
+        ]
+    },
+    {
+        "name": "vogesite",
+        "trans": [
+            "闪辉正煌岩"
+        ]
+    },
+    {
+        "name": "voglianite",
+        "trans": [
+            "铀硅石"
+        ]
+    },
+    {
+        "name": "voglite",
+        "trans": [
+            "菱铀矿"
+        ]
+    },
+    {
+        "name": "void",
+        "trans": [
+            "孔隙"
+        ]
+    },
+    {
+        "name": "void ratio",
+        "trans": [
+            "孔隙比"
+        ]
+    },
+    {
+        "name": "volatile",
+        "trans": [
+            "挥发性的"
+        ]
+    },
+    {
+        "name": "volatile components",
+        "trans": [
+            "挥发组分"
+        ]
+    },
+    {
+        "name": "volatile content",
+        "trans": [
+            "挥发组分含量"
+        ]
+    },
+    {
+        "name": "volborthite",
+        "trans": [
+            "水钙钒铜矿"
+        ]
+    },
+    {
+        "name": "volcanic",
+        "trans": [
+            "火山的"
+        ]
+    },
+    {
+        "name": "volcanic action",
+        "trans": [
+            "火山活动"
+        ]
+    },
+    {
+        "name": "volcanic activity",
+        "trans": [
+            "火山活动性"
+        ]
+    },
+    {
+        "name": "volcanic arc",
+        "trans": [
+            "火山岛弧"
+        ]
+    },
+    {
+        "name": "volcanic ash",
+        "trans": [
+            "火山灰"
+        ]
+    },
+    {
+        "name": "volcanic ash soil",
+        "trans": [
+            "火山灰土"
+        ]
+    },
+    {
+        "name": "volcanic association",
+        "trans": [
+            "火山岩组合"
+        ]
+    },
+    {
+        "name": "volcanic belt",
+        "trans": [
+            "火山带"
+        ]
+    },
+    {
+        "name": "volcanic block",
+        "trans": [
+            "火山地块"
+        ]
+    },
+    {
+        "name": "volcanic bomb",
+        "trans": [
+            "火山弹"
+        ]
+    },
+    {
+        "name": "volcanic breccia",
+        "trans": [
+            "火山角砾岩"
+        ]
+    },
+    {
+        "name": "volcanic butte",
+        "trans": [
+            "火山孤山"
+        ]
+    },
+    {
+        "name": "volcanic chain",
+        "trans": [
+            "火山山脉"
+        ]
+    },
+    {
+        "name": "volcanic clay",
+        "trans": [
+            "火山粘土"
+        ]
+    },
+    {
+        "name": "volcanic cloud",
+        "trans": [
+            "火山云"
+        ]
+    },
+    {
+        "name": "volcanic coast",
+        "trans": [
+            "火山海岸"
+        ]
+    },
+    {
+        "name": "volcanic cone",
+        "trans": [
+            "火山锥"
+        ]
+    },
+    {
+        "name": "volcanic conglomerate",
+        "trans": [
+            "火山砾岩"
+        ]
+    },
+    {
+        "name": "volcanic cycle",
+        "trans": [
+            "火山轮间"
+        ]
+    },
+    {
+        "name": "volcanic detritus soil",
+        "trans": [
+            "火山岩屑土"
+        ]
+    },
+    {
+        "name": "volcanic dome",
+        "trans": [
+            "火山穹丘"
+        ]
+    },
+    {
+        "name": "volcanic earthquake",
+        "trans": [
+            "火山地震"
+        ]
+    },
+    {
+        "name": "volcanic ejecta",
+        "trans": [
+            "火山抛出物"
+        ]
+    },
+    {
+        "name": "volcanic fissure",
+        "trans": [
+            "火山裂缝"
+        ]
+    },
+    {
+        "name": "volcanic front",
+        "trans": [
+            "火山前缘"
+        ]
+    },
+    {
+        "name": "volcanic gas",
+        "trans": [
+            "火山气体"
+        ]
+    },
+    {
+        "name": "volcanic graben",
+        "trans": [
+            "火山地堑"
+        ]
+    },
+    {
+        "name": "volcanic hair",
+        "trans": [
+            "火山毛"
+        ]
+    },
+    {
+        "name": "volcanic hazard",
+        "trans": [
+            "火山灾害"
+        ]
+    },
+    {
+        "name": "volcanic intensity",
+        "trans": [
+            "火山酌烈度"
+        ]
+    },
+    {
+        "name": "volcanic island",
+        "trans": [
+            "火山岛"
+        ]
+    },
+    {
+        "name": "volcanic landform",
+        "trans": [
+            "火山地貌"
+        ]
+    },
+    {
+        "name": "volcanic mud",
+        "trans": [
+            "火山泥"
+        ]
+    },
+    {
+        "name": "volcanic mud flow",
+        "trans": [
+            "火山泥流"
+        ]
+    },
+    {
+        "name": "volcanic neck",
+        "trans": [
+            "火山颈"
+        ]
+    },
+    {
+        "name": "volcanic phenomenon",
+        "trans": [
+            "火山现象"
+        ]
+    },
+    {
+        "name": "volcanic pipe",
+        "trans": [
+            "火山筒"
+        ]
+    },
+    {
+        "name": "volcanic plug",
+        "trans": [
+            "火山栓"
+        ]
+    },
+    {
+        "name": "volcanic product",
+        "trans": [
+            "火山喷出物"
+        ]
+    },
+    {
+        "name": "volcanic rent",
+        "trans": [
+            "火山裂缝槽地"
+        ]
+    },
+    {
+        "name": "volcanic rock",
+        "trans": [
+            "火山岩"
+        ]
+    },
+    {
+        "name": "volcanic row",
+        "trans": [
+            "火山列"
+        ]
+    },
+    {
+        "name": "volcanic rumbling",
+        "trans": [
+            "火山雷鸣"
+        ]
+    },
+    {
+        "name": "volcanic sand",
+        "trans": [
+            "火山砂"
+        ]
+    },
+    {
+        "name": "volcanic soil",
+        "trans": [
+            "火山土"
+        ]
+    },
+    {
+        "name": "volcanic spine",
+        "trans": [
+            "火山碑"
+        ]
+    },
+    {
+        "name": "volcanic structure",
+        "trans": [
+            "火山构造"
+        ]
+    },
+    {
+        "name": "volcanic sublimate",
+        "trans": [
+            "火山升华"
+        ]
+    },
+    {
+        "name": "volcanic tear",
+        "trans": [
+            "火山泪"
+        ]
+    },
+    {
+        "name": "volcanic tremor",
+        "trans": [
+            "火山颤动"
+        ]
+    },
+    {
+        "name": "volcanic vent",
+        "trans": [
+            "火山口"
+        ]
+    },
+    {
+        "name": "volcanic water",
+        "trans": [
+            "火山水"
+        ]
+    },
+    {
+        "name": "volcanic zone",
+        "trans": [
+            "火山带"
+        ]
+    },
+    {
+        "name": "volcanics",
+        "trans": [
+            "火山岩"
+        ]
+    },
+    {
+        "name": "volcanism",
+        "trans": [
+            "火山酌"
+        ]
+    },
+    {
+        "name": "volcanite",
+        "trans": [
+            "火山岩"
+        ]
+    },
+    {
+        "name": "volcano",
+        "trans": [
+            "火山"
+        ]
+    },
+    {
+        "name": "volcano plutonic association",
+        "trans": [
+            "火山深成联合岩群"
+        ]
+    },
+    {
+        "name": "volcano sedimentary deposit",
+        "trans": [
+            "火山沉积矿床"
+        ]
+    },
+    {
+        "name": "volcanogenic soil",
+        "trans": [
+            "火山土"
+        ]
+    },
+    {
+        "name": "volcanology",
+        "trans": [
+            "火山学"
+        ]
+    },
+    {
+        "name": "voltaite",
+        "trans": [
+            "绿镁铁矾"
+        ]
+    },
+    {
+        "name": "voltzite",
+        "trans": [
+            "锌乳石"
+        ]
+    },
+    {
+        "name": "volume dose",
+        "trans": [
+            "体积剂量"
+        ]
+    },
+    {
+        "name": "volume energy",
+        "trans": [
+            "体积能量"
+        ]
+    },
+    {
+        "name": "volume law",
+        "trans": [
+            "体积法则"
+        ]
+    },
+    {
+        "name": "volume weight",
+        "trans": [
+            "容重"
+        ]
+    },
+    {
+        "name": "volumetric analysis",
+        "trans": [
+            "容量分析"
+        ]
+    },
+    {
+        "name": "volumetric flowmeter",
+        "trans": [
+            "体积量计"
+        ]
+    },
+    {
+        "name": "volumetric moisture content",
+        "trans": [
+            "体积湿分含量"
+        ]
+    },
+    {
+        "name": "vorobyevite",
+        "trans": [
+            "红绿柱石"
+        ]
+    },
+    {
+        "name": "vortex",
+        "trans": [
+            "涡旋"
+        ]
+    },
+    {
+        "name": "vortex structure",
+        "trans": [
+            "旋卷构造"
+        ]
+    },
+    {
+        "name": "vortical surface",
+        "trans": [
+            "旋回面"
+        ]
+    },
+    {
+        "name": "vrbaite",
+        "trans": [
+            "辉铊锑矿"
+        ]
+    },
+    {
+        "name": "vug",
+        "trans": [
+            "晶簇"
+        ]
+    },
+    {
+        "name": "vugular pore space",
+        "trans": [
+            "空穴孔隙空间"
+        ]
+    },
+    {
+        "name": "vulcanian type eruption",
+        "trans": [
+            "乌尔堪型火山喷发"
+        ]
+    },
+    {
+        "name": "vulpinite",
+        "trans": [
+            "鳞硬石膏"
+        ]
+    },
+    {
+        "name": "vulsinite",
+        "trans": [
+            "斜斑粗安岩"
+        ]
+    }
+]

@@ -1,0 +1,7826 @@
+[
+    {
+        "name": "a horizon",
+        "trans": [
+            "层位"
+        ]
+    },
+    {
+        "name": "a lineation",
+        "trans": [
+            "线理"
+        ]
+    },
+    {
+        "name": "a twin",
+        "trans": [
+            "双晶"
+        ]
+    },
+    {
+        "name": "aa lava",
+        "trans": [
+            "块熔岩"
+        ]
+    },
+    {
+        "name": "aalenian stage",
+        "trans": [
+            "阿林阶"
+        ]
+    },
+    {
+        "name": "abandon",
+        "trans": [
+            "废弃"
+        ]
+    },
+    {
+        "name": "abandoned mine",
+        "trans": [
+            "废弃的矿山"
+        ]
+    },
+    {
+        "name": "abandoned well",
+        "trans": [
+            "废孔"
+        ]
+    },
+    {
+        "name": "abatis",
+        "trans": [
+            "通风隔墙"
+        ]
+    },
+    {
+        "name": "abdomen",
+        "trans": [
+            "腹部"
+        ]
+    },
+    {
+        "name": "abdominal appendage",
+        "trans": [
+            "腹肢"
+        ]
+    },
+    {
+        "name": "abdominal cavity",
+        "trans": [
+            "腹腔"
+        ]
+    },
+    {
+        "name": "abdominal fin",
+        "trans": [
+            "腹"
+        ]
+    },
+    {
+        "name": "abductor",
+        "trans": [
+            "外展肌"
+        ]
+    },
+    {
+        "name": "abductor muscle",
+        "trans": [
+            "外展肌"
+        ]
+    },
+    {
+        "name": "abernathyite",
+        "trans": [
+            "水砷钾铀矿"
+        ]
+    },
+    {
+        "name": "aberration",
+        "trans": [
+            "象差"
+        ]
+    },
+    {
+        "name": "abichite",
+        "trans": [
+            "光线矿"
+        ]
+    },
+    {
+        "name": "abiogenesis",
+        "trans": [
+            "自然发生"
+        ]
+    },
+    {
+        "name": "abiogeny",
+        "trans": [
+            "自然发生"
+        ]
+    },
+    {
+        "name": "abiotic factor",
+        "trans": [
+            "非生物因素"
+        ]
+    },
+    {
+        "name": "ablation",
+        "trans": [
+            "剥蚀"
+        ]
+    },
+    {
+        "name": "ablation breccia",
+        "trans": [
+            "剥蚀角砾岩"
+        ]
+    },
+    {
+        "name": "ablation moraine",
+        "trans": [
+            "消融碛"
+        ]
+    },
+    {
+        "name": "ablation skin",
+        "trans": [
+            "熔蚀皮"
+        ]
+    },
+    {
+        "name": "ablation till",
+        "trans": [
+            "消融碛"
+        ]
+    },
+    {
+        "name": "ablykite",
+        "trans": [
+            "阿布石"
+        ]
+    },
+    {
+        "name": "abnormal",
+        "trans": [
+            "异常的"
+        ]
+    },
+    {
+        "name": "abnormal interference color",
+        "trans": [
+            "异常干涉色"
+        ]
+    },
+    {
+        "name": "abnormal metamorphism",
+        "trans": [
+            "异常变质酌"
+        ]
+    },
+    {
+        "name": "abolition",
+        "trans": [
+            "废除"
+        ]
+    },
+    {
+        "name": "abrade",
+        "trans": [
+            "剥蚀"
+        ]
+    },
+    {
+        "name": "abrasion",
+        "trans": [
+            "海蚀"
+        ]
+    },
+    {
+        "name": "abrasion platform",
+        "trans": [
+            "磨蚀台地"
+        ]
+    },
+    {
+        "name": "abrasion surface",
+        "trans": [
+            "浪蚀面"
+        ]
+    },
+    {
+        "name": "abrasion terrace",
+        "trans": [
+            "磨蚀阶地"
+        ]
+    },
+    {
+        "name": "abrasionn test",
+        "trans": [
+            "磨耗试验"
+        ]
+    },
+    {
+        "name": "abrasive",
+        "trans": [
+            "磨料;海蚀的"
+        ]
+    },
+    {
+        "name": "abrazite",
+        "trans": [
+            "多水高岭土"
+        ]
+    },
+    {
+        "name": "absarokite",
+        "trans": [
+            "正边玄武岩"
+        ]
+    },
+    {
+        "name": "absite",
+        "trans": [
+            "钍钛铀矿"
+        ]
+    },
+    {
+        "name": "absolute age",
+        "trans": [
+            "绝对年龄"
+        ]
+    },
+    {
+        "name": "absolute black body",
+        "trans": [
+            "绝对黑体"
+        ]
+    },
+    {
+        "name": "absolute chronology",
+        "trans": [
+            "绝对年代学"
+        ]
+    },
+    {
+        "name": "absolute dating",
+        "trans": [
+            "绝对年代测定"
+        ]
+    },
+    {
+        "name": "absolute geopotential",
+        "trans": [
+            "绝对重力势"
+        ]
+    },
+    {
+        "name": "absolute porosity",
+        "trans": [
+            "绝对孔隙率"
+        ]
+    },
+    {
+        "name": "absolute pressure",
+        "trans": [
+            "绝对压力"
+        ]
+    },
+    {
+        "name": "absolute structure",
+        "trans": [
+            "绝对构造"
+        ]
+    },
+    {
+        "name": "absorbed water",
+        "trans": [
+            "吸附水"
+        ]
+    },
+    {
+        "name": "absorbent",
+        "trans": [
+            "吸收剂"
+        ]
+    },
+    {
+        "name": "absorber",
+        "trans": [
+            "吸收器"
+        ]
+    },
+    {
+        "name": "absorbing well",
+        "trans": [
+            "吸水井"
+        ]
+    },
+    {
+        "name": "absorption",
+        "trans": [
+            "吸收"
+        ]
+    },
+    {
+        "name": "absorption axis",
+        "trans": [
+            "吸收轴"
+        ]
+    },
+    {
+        "name": "absorption border",
+        "trans": [
+            "融蚀缘"
+        ]
+    },
+    {
+        "name": "absorption curve",
+        "trans": [
+            "吸收曲线"
+        ]
+    },
+    {
+        "name": "absorption edge",
+        "trans": [
+            "吸收端"
+        ]
+    },
+    {
+        "name": "absorption factor",
+        "trans": [
+            "吸收率"
+        ]
+    },
+    {
+        "name": "absorption spectrum",
+        "trans": [
+            "吸收光谱"
+        ]
+    },
+    {
+        "name": "absorptive capacity",
+        "trans": [
+            "吸收率"
+        ]
+    },
+    {
+        "name": "absorptivity",
+        "trans": [
+            "吸收性"
+        ]
+    },
+    {
+        "name": "abukumalite",
+        "trans": [
+            "铋磷灰石"
+        ]
+    },
+    {
+        "name": "abundance",
+        "trans": [
+            "丰度"
+        ]
+    },
+    {
+        "name": "abundance of elements",
+        "trans": [
+            "元素丰度"
+        ]
+    },
+    {
+        "name": "abundance of isotopes",
+        "trans": [
+            "同位素丰度"
+        ]
+    },
+    {
+        "name": "abundance ratio of isotopes",
+        "trans": [
+            "同位素相对丰度"
+        ]
+    },
+    {
+        "name": "abysmal deposits",
+        "trans": [
+            "深海沉积物"
+        ]
+    },
+    {
+        "name": "abyss",
+        "trans": [
+            "深海"
+        ]
+    },
+    {
+        "name": "abyssal",
+        "trans": [
+            "深海的"
+        ]
+    },
+    {
+        "name": "abyssal benthic zone",
+        "trans": [
+            "深渊底栖带"
+        ]
+    },
+    {
+        "name": "abyssal deposits",
+        "trans": [
+            "深海沉积物"
+        ]
+    },
+    {
+        "name": "abyssal facies",
+        "trans": [
+            "深海相"
+        ]
+    },
+    {
+        "name": "abyssal hills province",
+        "trans": [
+            "深海丘陵区"
+        ]
+    },
+    {
+        "name": "abyssal injection",
+        "trans": [
+            "深成贯入"
+        ]
+    },
+    {
+        "name": "abyssal rock",
+        "trans": [
+            "深成岩"
+        ]
+    },
+    {
+        "name": "abyssal sediments",
+        "trans": [
+            "深海沉积物"
+        ]
+    },
+    {
+        "name": "acadialite",
+        "trans": [
+            "红菱沸石"
+        ]
+    },
+    {
+        "name": "acadian stage",
+        "trans": [
+            "阿卡德阶"
+        ]
+    },
+    {
+        "name": "acalycine",
+        "trans": [
+            "无花萼的"
+        ]
+    },
+    {
+        "name": "acalycinous",
+        "trans": [
+            "无花萼的"
+        ]
+    },
+    {
+        "name": "acanthite",
+        "trans": [
+            "螺状硫银矿"
+        ]
+    },
+    {
+        "name": "acanthoid",
+        "trans": [
+            "刺状的"
+        ]
+    },
+    {
+        "name": "acaulescent",
+        "trans": [
+            "无茎的"
+        ]
+    },
+    {
+        "name": "acaulous",
+        "trans": [
+            "无茎的"
+        ]
+    },
+    {
+        "name": "acaustobiolite",
+        "trans": [
+            "非燃性生物岩"
+        ]
+    },
+    {
+        "name": "accelerated development",
+        "trans": [
+            "上升发育"
+        ]
+    },
+    {
+        "name": "acceleration",
+        "trans": [
+            "促进酌"
+        ]
+    },
+    {
+        "name": "accelerometer",
+        "trans": [
+            "加速度计"
+        ]
+    },
+    {
+        "name": "accessory",
+        "trans": [
+            "副的"
+        ]
+    },
+    {
+        "name": "accessory ejecta",
+        "trans": [
+            "早成同源抛出物"
+        ]
+    },
+    {
+        "name": "accessory minerals",
+        "trans": [
+            "副矿物"
+        ]
+    },
+    {
+        "name": "accidental ejecta",
+        "trans": [
+            "异源抛出物"
+        ]
+    },
+    {
+        "name": "accidental inclusion",
+        "trans": [
+            "外源包体"
+        ]
+    },
+    {
+        "name": "accidental species",
+        "trans": [
+            "偶见种"
+        ]
+    },
+    {
+        "name": "accidental xenolith",
+        "trans": [
+            "外源包体"
+        ]
+    },
+    {
+        "name": "acclivity",
+        "trans": [
+            "上坡"
+        ]
+    },
+    {
+        "name": "accompanying mineral",
+        "trans": [
+            "伴生矿物"
+        ]
+    },
+    {
+        "name": "accordance of summit levels",
+        "trans": [
+            "山峰高度一致"
+        ]
+    },
+    {
+        "name": "accordant junction",
+        "trans": [
+            "交合汇流"
+        ]
+    },
+    {
+        "name": "accordion fold",
+        "trans": [
+            "棱角褶皱"
+        ]
+    },
+    {
+        "name": "accretion",
+        "trans": [
+            "附加体"
+        ]
+    },
+    {
+        "name": "accretion gley",
+        "trans": [
+            "结核潜育层"
+        ]
+    },
+    {
+        "name": "accretion theory",
+        "trans": [
+            "吸积理论"
+        ]
+    },
+    {
+        "name": "accretionary lapilli",
+        "trans": [
+            "团积火山砾"
+        ]
+    },
+    {
+        "name": "accumulate",
+        "trans": [
+            "堆积"
+        ]
+    },
+    {
+        "name": "accumulated temperature",
+        "trans": [
+            "积温"
+        ]
+    },
+    {
+        "name": "accumulation",
+        "trans": [
+            "堆积"
+        ]
+    },
+    {
+        "name": "accumulation horizon",
+        "trans": [
+            "聚积层"
+        ]
+    },
+    {
+        "name": "accumulation moraine",
+        "trans": [
+            "堆积冰碛"
+        ]
+    },
+    {
+        "name": "accumulation terrace",
+        "trans": [
+            "堆积阶地"
+        ]
+    },
+    {
+        "name": "accumulation theory of volcano",
+        "trans": [
+            "火山堆积说"
+        ]
+    },
+    {
+        "name": "accumulation till",
+        "trans": [
+            "堆积冰碛"
+        ]
+    },
+    {
+        "name": "accumulative phase",
+        "trans": [
+            "堆积相"
+        ]
+    },
+    {
+        "name": "accuracy",
+        "trans": [
+            "准确度"
+        ]
+    },
+    {
+        "name": "acephalous",
+        "trans": [
+            "无头的"
+        ]
+    },
+    {
+        "name": "acephalous larva",
+        "trans": [
+            "无头幼虫"
+        ]
+    },
+    {
+        "name": "acerous",
+        "trans": [
+            "针状的"
+        ]
+    },
+    {
+        "name": "acetate",
+        "trans": [
+            "醋酸盐"
+        ]
+    },
+    {
+        "name": "acetic acid",
+        "trans": [
+            "醋酸"
+        ]
+    },
+    {
+        "name": "acf diagram",
+        "trans": [
+            "图解"
+        ]
+    },
+    {
+        "name": "achavalite",
+        "trans": [
+            "硒铁矿"
+        ]
+    },
+    {
+        "name": "achiardite",
+        "trans": [
+            "坏晶石"
+        ]
+    },
+    {
+        "name": "achirite",
+        "trans": [
+            "透视石"
+        ]
+    },
+    {
+        "name": "achlamydeous",
+        "trans": [
+            "无花被的"
+        ]
+    },
+    {
+        "name": "achlusite",
+        "trans": [
+            "钠滑石"
+        ]
+    },
+    {
+        "name": "achondrite",
+        "trans": [
+            "无球粒陨石"
+        ]
+    },
+    {
+        "name": "achroite",
+        "trans": [
+            "无色电气石"
+        ]
+    },
+    {
+        "name": "achromaite",
+        "trans": [
+            "浅闪石"
+        ]
+    },
+    {
+        "name": "achromatic body",
+        "trans": [
+            "消色物体"
+        ]
+    },
+    {
+        "name": "achromatic lens",
+        "trans": [
+            "消色差透镜"
+        ]
+    },
+    {
+        "name": "achromatism",
+        "trans": [
+            "消色差"
+        ]
+    },
+    {
+        "name": "achromatize",
+        "trans": [
+            "消色"
+        ]
+    },
+    {
+        "name": "acicular",
+        "trans": [
+            "针状的"
+        ]
+    },
+    {
+        "name": "aciculiform",
+        "trans": [
+            "针状的"
+        ]
+    },
+    {
+        "name": "acid base equilibrium",
+        "trans": [
+            "酸碱平衡"
+        ]
+    },
+    {
+        "name": "acid earth",
+        "trans": [
+            "酸性白土"
+        ]
+    },
+    {
+        "name": "acid humus",
+        "trans": [
+            "酸性腐殖质"
+        ]
+    },
+    {
+        "name": "acid mine drainage",
+        "trans": [
+            "酸性矿水排水"
+        ]
+    },
+    {
+        "name": "acid plagioclase",
+        "trans": [
+            "酸性斜长石"
+        ]
+    },
+    {
+        "name": "acid rock",
+        "trans": [
+            "酸性岩"
+        ]
+    },
+    {
+        "name": "acid soil",
+        "trans": [
+            "酸性土"
+        ]
+    },
+    {
+        "name": "acid solution",
+        "trans": [
+            "酸性溶液"
+        ]
+    },
+    {
+        "name": "acid spring",
+        "trans": [
+            "酸性泉"
+        ]
+    },
+    {
+        "name": "acid treatment of oil payzone",
+        "trans": [
+            "油层酸处理"
+        ]
+    },
+    {
+        "name": "acid treatment of well",
+        "trans": [
+            "井的酸处理"
+        ]
+    },
+    {
+        "name": "acidic lava",
+        "trans": [
+            "酸性熔岩"
+        ]
+    },
+    {
+        "name": "acidification",
+        "trans": [
+            "酸化"
+        ]
+    },
+    {
+        "name": "acidimetry",
+        "trans": [
+            "酸量滴定法"
+        ]
+    },
+    {
+        "name": "acidite",
+        "trans": [
+            "酸性岩"
+        ]
+    },
+    {
+        "name": "acidity",
+        "trans": [
+            "酸度"
+        ]
+    },
+    {
+        "name": "acidizing of well",
+        "trans": [
+            "井的酸处理"
+        ]
+    },
+    {
+        "name": "acidophilous plants",
+        "trans": [
+            "适酸植物"
+        ]
+    },
+    {
+        "name": "acidotrophic lake",
+        "trans": [
+            "酸性营养湖"
+        ]
+    },
+    {
+        "name": "acidulation",
+        "trans": [
+            "酸化"
+        ]
+    },
+    {
+        "name": "acline twin",
+        "trans": [
+            "翻底双晶"
+        ]
+    },
+    {
+        "name": "acmite",
+        "trans": [
+            "锥辉石"
+        ]
+    },
+    {
+        "name": "acotyledon",
+        "trans": [
+            "无子叶植物"
+        ]
+    },
+    {
+        "name": "acotyledonous",
+        "trans": [
+            "无子叶的"
+        ]
+    },
+    {
+        "name": "acoustic basement",
+        "trans": [
+            "声波基底"
+        ]
+    },
+    {
+        "name": "acoustic foundation",
+        "trans": [
+            "声波基底"
+        ]
+    },
+    {
+        "name": "acoustic logging",
+        "trans": [
+            "声波测井"
+        ]
+    },
+    {
+        "name": "acquired character",
+        "trans": [
+            "获得形质"
+        ]
+    },
+    {
+        "name": "acre foot",
+        "trans": [
+            "英亩英尺"
+        ]
+    },
+    {
+        "name": "acrobatholithic",
+        "trans": [
+            "露岩基的"
+        ]
+    },
+    {
+        "name": "acrochordite",
+        "trans": [
+            "球砷锰矿"
+        ]
+    },
+    {
+        "name": "acrospore",
+        "trans": [
+            "顶生孢子"
+        ]
+    },
+    {
+        "name": "actinides",
+        "trans": [
+            "锕系元素"
+        ]
+    },
+    {
+        "name": "actinium",
+        "trans": [
+            "锕"
+        ]
+    },
+    {
+        "name": "actinolite",
+        "trans": [
+            "阳起石"
+        ]
+    },
+    {
+        "name": "actinolite asbestos",
+        "trans": [
+            "阳起石石棉"
+        ]
+    },
+    {
+        "name": "actinolite schist",
+        "trans": [
+            "阳起片岩"
+        ]
+    },
+    {
+        "name": "actinolitic greenschist facies",
+        "trans": [
+            "阳起绿色片岩相"
+        ]
+    },
+    {
+        "name": "actinometer",
+        "trans": [
+            "日射表"
+        ]
+    },
+    {
+        "name": "actinometry",
+        "trans": [
+            "光化测定"
+        ]
+    },
+    {
+        "name": "actinomorphic",
+        "trans": [
+            "辐射对称的"
+        ]
+    },
+    {
+        "name": "actinomorphous",
+        "trans": [
+            "辐射对称的"
+        ]
+    },
+    {
+        "name": "actinomyces",
+        "trans": [
+            "放线菌类"
+        ]
+    },
+    {
+        "name": "actinostele",
+        "trans": [
+            "星状中柱"
+        ]
+    },
+    {
+        "name": "actinouranium",
+        "trans": [
+            "锕铀"
+        ]
+    },
+    {
+        "name": "actinula",
+        "trans": [
+            "辐射幼虫"
+        ]
+    },
+    {
+        "name": "activated adsorption",
+        "trans": [
+            "活化吸附"
+        ]
+    },
+    {
+        "name": "activated carbon",
+        "trans": [
+            "活性炭"
+        ]
+    },
+    {
+        "name": "activated clay",
+        "trans": [
+            "活化粘土"
+        ]
+    },
+    {
+        "name": "activated complex",
+        "trans": [
+            "活化络合物"
+        ]
+    },
+    {
+        "name": "activated water",
+        "trans": [
+            "活化水"
+        ]
+    },
+    {
+        "name": "activation",
+        "trans": [
+            "活化"
+        ]
+    },
+    {
+        "name": "activation analysis",
+        "trans": [
+            "活化分析"
+        ]
+    },
+    {
+        "name": "activation cross section",
+        "trans": [
+            "活化截面"
+        ]
+    },
+    {
+        "name": "activation energy",
+        "trans": [
+            "活化能"
+        ]
+    },
+    {
+        "name": "activation logging",
+        "trans": [
+            "活化测井"
+        ]
+    },
+    {
+        "name": "activation method",
+        "trans": [
+            "活化法"
+        ]
+    },
+    {
+        "name": "activation of platform",
+        "trans": [
+            "地台活化"
+        ]
+    },
+    {
+        "name": "activator",
+        "trans": [
+            "活化剂"
+        ]
+    },
+    {
+        "name": "active fault",
+        "trans": [
+            "活断层"
+        ]
+    },
+    {
+        "name": "active folding",
+        "trans": [
+            "活褶曲酌"
+        ]
+    },
+    {
+        "name": "active glacier",
+        "trans": [
+            "活动冰川"
+        ]
+    },
+    {
+        "name": "active humus",
+        "trans": [
+            "活性腐殖质"
+        ]
+    },
+    {
+        "name": "active hydrogen",
+        "trans": [
+            "活性氢"
+        ]
+    },
+    {
+        "name": "active plate",
+        "trans": [
+            "移动板块"
+        ]
+    },
+    {
+        "name": "active remote sensing",
+        "trans": [
+            "织式遥感"
+        ]
+    },
+    {
+        "name": "active tectonic pattern",
+        "trans": [
+            "活动构造型式"
+        ]
+    },
+    {
+        "name": "active volcano",
+        "trans": [
+            "活火山"
+        ]
+    },
+    {
+        "name": "active water",
+        "trans": [
+            "侵蚀性水"
+        ]
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "活度"
+        ]
+    },
+    {
+        "name": "activity coefficient",
+        "trans": [
+            "活度系数"
+        ]
+    },
+    {
+        "name": "activization",
+        "trans": [
+            "活化酌"
+        ]
+    },
+    {
+        "name": "activization platform block",
+        "trans": [
+            "活化台块"
+        ]
+    },
+    {
+        "name": "actual reserves",
+        "trans": [
+            "实在储藏量"
+        ]
+    },
+    {
+        "name": "actual volume",
+        "trans": [
+            "实际容积"
+        ]
+    },
+    {
+        "name": "actualily",
+        "trans": [
+            "真实"
+        ]
+    },
+    {
+        "name": "actualism",
+        "trans": [
+            "现实论"
+        ]
+    },
+    {
+        "name": "actuopalaeontology",
+        "trans": [
+            "现实古生物学"
+        ]
+    },
+    {
+        "name": "acute",
+        "trans": [
+            "急尖的"
+        ]
+    },
+    {
+        "name": "acute bisectrix",
+        "trans": [
+            "锐角等分线"
+        ]
+    },
+    {
+        "name": "acutifoliate",
+        "trans": [
+            "尖叶的"
+        ]
+    },
+    {
+        "name": "adamant",
+        "trans": [
+            "硬石"
+        ]
+    },
+    {
+        "name": "adamantine",
+        "trans": [
+            "坚硬的"
+        ]
+    },
+    {
+        "name": "adamantine lustre",
+        "trans": [
+            "金刚光泽"
+        ]
+    },
+    {
+        "name": "adamantine spar",
+        "trans": [
+            "刚玉"
+        ]
+    },
+    {
+        "name": "adamellite",
+        "trans": [
+            "石英二长岩"
+        ]
+    },
+    {
+        "name": "adamine",
+        "trans": [
+            "水砷锌矿"
+        ]
+    },
+    {
+        "name": "adamite",
+        "trans": [
+            "水砷锌矿"
+        ]
+    },
+    {
+        "name": "adamsite",
+        "trans": [
+            "暗绿云母"
+        ]
+    },
+    {
+        "name": "adaptability",
+        "trans": [
+            "适应性"
+        ]
+    },
+    {
+        "name": "adaptation",
+        "trans": [
+            "适应"
+        ]
+    },
+    {
+        "name": "adaptive radiation",
+        "trans": [
+            "适应辐射"
+        ]
+    },
+    {
+        "name": "adcumulate",
+        "trans": [
+            "累积岩"
+        ]
+    },
+    {
+        "name": "addition",
+        "trans": [
+            "添加"
+        ]
+    },
+    {
+        "name": "additional phase",
+        "trans": [
+            "加成相"
+        ]
+    },
+    {
+        "name": "adductor",
+        "trans": [
+            "收肌"
+        ]
+    },
+    {
+        "name": "adductor muscle scar",
+        "trans": [
+            "收肌筋痕"
+        ]
+    },
+    {
+        "name": "adelite",
+        "trans": [
+            "砷钙镁石"
+        ]
+    },
+    {
+        "name": "adelogenic",
+        "trans": [
+            "显衡隐晶质的"
+        ]
+    },
+    {
+        "name": "adelpholite",
+        "trans": [
+            "铌铁锰矿"
+        ]
+    },
+    {
+        "name": "adenoid",
+        "trans": [
+            "腺样的"
+        ]
+    },
+    {
+        "name": "adergneiss",
+        "trans": [
+            "脉状片麻岩"
+        ]
+    },
+    {
+        "name": "adhering",
+        "trans": [
+            "粘附性的;附着"
+        ]
+    },
+    {
+        "name": "adhesion",
+        "trans": [
+            "粘附"
+        ]
+    },
+    {
+        "name": "adhesive disk",
+        "trans": [
+            "吸盘"
+        ]
+    },
+    {
+        "name": "adhesiveness",
+        "trans": [
+            "胶糟性"
+        ]
+    },
+    {
+        "name": "adiabat",
+        "trans": [
+            "绝热线"
+        ]
+    },
+    {
+        "name": "adiabatic cooling",
+        "trans": [
+            "绝热冷却"
+        ]
+    },
+    {
+        "name": "adiabatic curve",
+        "trans": [
+            "绝热线"
+        ]
+    },
+    {
+        "name": "adiabatic equilibrium",
+        "trans": [
+            "绝热平衡"
+        ]
+    },
+    {
+        "name": "adiabatic heating",
+        "trans": [
+            "绝热增温"
+        ]
+    },
+    {
+        "name": "adiabatic lapse rate",
+        "trans": [
+            "绝热温度梯度"
+        ]
+    },
+    {
+        "name": "adiabatic process",
+        "trans": [
+            "绝热过程"
+        ]
+    },
+    {
+        "name": "adiabatic state",
+        "trans": [
+            "绝热状态"
+        ]
+    },
+    {
+        "name": "adiabatic temperature gradient",
+        "trans": [
+            "绝热温度梯度"
+        ]
+    },
+    {
+        "name": "adiagnostic",
+        "trans": [
+            "隐微晶质的"
+        ]
+    },
+    {
+        "name": "adigeite",
+        "trans": [
+            "镁蛇纹石"
+        ]
+    },
+    {
+        "name": "adinole",
+        "trans": [
+            "钠长英板岩"
+        ]
+    },
+    {
+        "name": "adipocerite",
+        "trans": [
+            "伟晶腊石"
+        ]
+    },
+    {
+        "name": "adipocire",
+        "trans": [
+            "伟晶腊石"
+        ]
+    },
+    {
+        "name": "adipose cell",
+        "trans": [
+            "脂细胞"
+        ]
+    },
+    {
+        "name": "adit",
+        "trans": [
+            "平峒"
+        ]
+    },
+    {
+        "name": "adjacent rock",
+        "trans": [
+            "围岩"
+        ]
+    },
+    {
+        "name": "adjacent sea",
+        "trans": [
+            "边缘海"
+        ]
+    },
+    {
+        "name": "adjoining rock",
+        "trans": [
+            "围岩"
+        ]
+    },
+    {
+        "name": "adjustment",
+        "trans": [
+            "蝶"
+        ]
+    },
+    {
+        "name": "admimistration",
+        "trans": [
+            "管理"
+        ]
+    },
+    {
+        "name": "admission",
+        "trans": [
+            "收气"
+        ]
+    },
+    {
+        "name": "adobe",
+        "trans": [
+            "灰质粘土"
+        ]
+    },
+    {
+        "name": "adoral",
+        "trans": [
+            "口侧的"
+        ]
+    },
+    {
+        "name": "adsorbent",
+        "trans": [
+            "吸附剂"
+        ]
+    },
+    {
+        "name": "adsorbing material",
+        "trans": [
+            "吸附剂"
+        ]
+    },
+    {
+        "name": "adsorption",
+        "trans": [
+            "吸附"
+        ]
+    },
+    {
+        "name": "adsorption indicator",
+        "trans": [
+            "吸附指示剂"
+        ]
+    },
+    {
+        "name": "adsorptive capacity",
+        "trans": [
+            "吸附能力"
+        ]
+    },
+    {
+        "name": "adular",
+        "trans": [
+            "冰长石"
+        ]
+    },
+    {
+        "name": "adularia",
+        "trans": [
+            "冰长石"
+        ]
+    },
+    {
+        "name": "adult",
+        "trans": [
+            "成体"
+        ]
+    },
+    {
+        "name": "advance",
+        "trans": [
+            "前进"
+        ]
+    },
+    {
+        "name": "adventitious plants",
+        "trans": [
+            "外来植物"
+        ]
+    },
+    {
+        "name": "adventive crater",
+        "trans": [
+            "寄生火口"
+        ]
+    },
+    {
+        "name": "adventive volcano",
+        "trans": [
+            "寄生火山"
+        ]
+    },
+    {
+        "name": "aecidiospore",
+        "trans": [
+            "锈孢子"
+        ]
+    },
+    {
+        "name": "aeciospore",
+        "trans": [
+            "锈孢子"
+        ]
+    },
+    {
+        "name": "aegirine",
+        "trans": [
+            "霓石"
+        ]
+    },
+    {
+        "name": "aegirine augite",
+        "trans": [
+            "霓辉石"
+        ]
+    },
+    {
+        "name": "aegirite",
+        "trans": [
+            "霓石"
+        ]
+    },
+    {
+        "name": "aenigmatite",
+        "trans": [
+            "三斜闪石"
+        ]
+    },
+    {
+        "name": "aeolian clastics",
+        "trans": [
+            "风成碎屑岩"
+        ]
+    },
+    {
+        "name": "aeolian deposit",
+        "trans": [
+            "风积"
+        ]
+    },
+    {
+        "name": "aeolian landform",
+        "trans": [
+            "风成地形"
+        ]
+    },
+    {
+        "name": "aeolian soil",
+        "trans": [
+            "风积土"
+        ]
+    },
+    {
+        "name": "aeration",
+        "trans": [
+            "充气"
+        ]
+    },
+    {
+        "name": "aeration tissue",
+        "trans": [
+            "通气组织"
+        ]
+    },
+    {
+        "name": "aeration zone",
+        "trans": [
+            "饱气带"
+        ]
+    },
+    {
+        "name": "aerenchyma",
+        "trans": [
+            "通气组织"
+        ]
+    },
+    {
+        "name": "aerial method of geology",
+        "trans": [
+            "航空地质甸方法"
+        ]
+    },
+    {
+        "name": "aerial photography",
+        "trans": [
+            "航空摄影学"
+        ]
+    },
+    {
+        "name": "aerial ropeway",
+        "trans": [
+            "架空死"
+        ]
+    },
+    {
+        "name": "aerial survey",
+        "trans": [
+            "航空测量"
+        ]
+    },
+    {
+        "name": "aerial triangulation",
+        "trans": [
+            "航空三角测量"
+        ]
+    },
+    {
+        "name": "aerify",
+        "trans": [
+            "使呈气态"
+        ]
+    },
+    {
+        "name": "aerobe",
+        "trans": [
+            "需气生物"
+        ]
+    },
+    {
+        "name": "aerocartograph",
+        "trans": [
+            "航空测图仪"
+        ]
+    },
+    {
+        "name": "aerogenous rock",
+        "trans": [
+            "风成岩"
+        ]
+    },
+    {
+        "name": "aerogeography",
+        "trans": [
+            "航空地理学"
+        ]
+    },
+    {
+        "name": "aerogeology",
+        "trans": [
+            "航空地质学"
+        ]
+    },
+    {
+        "name": "aerolite",
+        "trans": [
+            "石陨石"
+        ]
+    },
+    {
+        "name": "aerolith",
+        "trans": [
+            "石陨石"
+        ]
+    },
+    {
+        "name": "aeromagnetic survey",
+        "trans": [
+            "航空磁测"
+        ]
+    },
+    {
+        "name": "aerophotogeological map",
+        "trans": [
+            "航空摄影地质图"
+        ]
+    },
+    {
+        "name": "aerophotogrammetry",
+        "trans": [
+            "航空摄影测量学"
+        ]
+    },
+    {
+        "name": "aerophotography",
+        "trans": [
+            "航空摄影学"
+        ]
+    },
+    {
+        "name": "aerophotography of geology",
+        "trans": [
+            "地质专业航空摄影"
+        ]
+    },
+    {
+        "name": "aeroplankton",
+        "trans": [
+            "大气浮游生物"
+        ]
+    },
+    {
+        "name": "aeroradioactive survey",
+        "trans": [
+            "航空放射性测量"
+        ]
+    },
+    {
+        "name": "aerosiderite",
+        "trans": [
+            "铁陨石"
+        ]
+    },
+    {
+        "name": "aerosiderolite",
+        "trans": [
+            "铁石陨石"
+        ]
+    },
+    {
+        "name": "aerosite",
+        "trans": [
+            "深红银矿"
+        ]
+    },
+    {
+        "name": "aerugite",
+        "trans": [
+            "块砷镍矿"
+        ]
+    },
+    {
+        "name": "aeschynite",
+        "trans": [
+            "易解石"
+        ]
+    },
+    {
+        "name": "affiliation",
+        "trans": [
+            "亲缘关系"
+        ]
+    },
+    {
+        "name": "affine deformation",
+        "trans": [
+            "均匀变形"
+        ]
+    },
+    {
+        "name": "affinity",
+        "trans": [
+            "亲和力"
+        ]
+    },
+    {
+        "name": "afflux",
+        "trans": [
+            "汇入"
+        ]
+    },
+    {
+        "name": "after deep",
+        "trans": [
+            "后渊"
+        ]
+    },
+    {
+        "name": "aftereffect",
+        "trans": [
+            "后效"
+        ]
+    },
+    {
+        "name": "aftershock",
+        "trans": [
+            "余震"
+        ]
+    },
+    {
+        "name": "afwillite",
+        "trans": [
+            "桂硅钙石"
+        ]
+    },
+    {
+        "name": "agalite",
+        "trans": [
+            "纤滑石"
+        ]
+    },
+    {
+        "name": "agalmatolite",
+        "trans": [
+            "寿山石"
+        ]
+    },
+    {
+        "name": "agamogony",
+        "trans": [
+            "无配子生殖"
+        ]
+    },
+    {
+        "name": "agate",
+        "trans": [
+            "玛瑙"
+        ]
+    },
+    {
+        "name": "age",
+        "trans": [
+            "龄期"
+        ]
+    },
+    {
+        "name": "age determination",
+        "trans": [
+            "时代鉴定"
+        ]
+    },
+    {
+        "name": "age of cycads",
+        "trans": [
+            "苏铁植物时代"
+        ]
+    },
+    {
+        "name": "age spectra",
+        "trans": [
+            "年龄谱"
+        ]
+    },
+    {
+        "name": "ageing of colloids",
+        "trans": [
+            "胶体熟化"
+        ]
+    },
+    {
+        "name": "agent of erosion",
+        "trans": [
+            "侵蚀力"
+        ]
+    },
+    {
+        "name": "agents of metamorphism",
+        "trans": [
+            "变质营力"
+        ]
+    },
+    {
+        "name": "ageostrophic wind",
+        "trans": [
+            "非地转风"
+        ]
+    },
+    {
+        "name": "agglomerate",
+        "trans": [
+            "集块岩"
+        ]
+    },
+    {
+        "name": "agglomerate lava",
+        "trans": [
+            "集块熔岩"
+        ]
+    },
+    {
+        "name": "agglomeratic",
+        "trans": [
+            "集块岩状的"
+        ]
+    },
+    {
+        "name": "agglomeration",
+        "trans": [
+            "烧结"
+        ]
+    },
+    {
+        "name": "agglutinate",
+        "trans": [
+            "粘合集块岩"
+        ]
+    },
+    {
+        "name": "agglutination",
+        "trans": [
+            "胶着"
+        ]
+    },
+    {
+        "name": "agglutinin",
+        "trans": [
+            "凝集素"
+        ]
+    },
+    {
+        "name": "aggradation",
+        "trans": [
+            "加积"
+        ]
+    },
+    {
+        "name": "aggradation terrace",
+        "trans": [
+            "堆积阶地"
+        ]
+    },
+    {
+        "name": "aggradational plain",
+        "trans": [
+            "堆积平原"
+        ]
+    },
+    {
+        "name": "aggregate",
+        "trans": [
+            "集合体"
+        ]
+    },
+    {
+        "name": "aggregation",
+        "trans": [
+            "聚集"
+        ]
+    },
+    {
+        "name": "aggressive water",
+        "trans": [
+            "侵进水"
+        ]
+    },
+    {
+        "name": "agitation",
+        "trans": [
+            "搅拌"
+        ]
+    },
+    {
+        "name": "agmatite",
+        "trans": [
+            "角砾混合岩"
+        ]
+    },
+    {
+        "name": "agnatha",
+        "trans": [
+            "无颌类"
+        ]
+    },
+    {
+        "name": "agnolite",
+        "trans": [
+            "红硅钙锰矿"
+        ]
+    },
+    {
+        "name": "agnotozoic era",
+        "trans": [
+            "元古代"
+        ]
+    },
+    {
+        "name": "agpaite",
+        "trans": [
+            "钠质火成岩"
+        ]
+    },
+    {
+        "name": "agreement",
+        "trans": [
+            "协议"
+        ]
+    },
+    {
+        "name": "agricolite",
+        "trans": [
+            "闪铋矿"
+        ]
+    },
+    {
+        "name": "agricultural geology",
+        "trans": [
+            "农业地质学"
+        ]
+    },
+    {
+        "name": "agricultural geomorphology",
+        "trans": [
+            "农业地貌学"
+        ]
+    },
+    {
+        "name": "agroforestrial geology",
+        "trans": [
+            "农林地质学"
+        ]
+    },
+    {
+        "name": "agrogeology",
+        "trans": [
+            "农业地质学"
+        ]
+    },
+    {
+        "name": "agrohydrologg",
+        "trans": [
+            "农业水文学"
+        ]
+    },
+    {
+        "name": "aguilarite",
+        "trans": [
+            "辉硒银矿"
+        ]
+    },
+    {
+        "name": "aidyrlite",
+        "trans": [
+            "杂硅铝镍矿"
+        ]
+    },
+    {
+        "name": "aikinite",
+        "trans": [
+            "针硫铋铅矿"
+        ]
+    },
+    {
+        "name": "air borne radioactivity",
+        "trans": [
+            "大气放射性"
+        ]
+    },
+    {
+        "name": "air chamber",
+        "trans": [
+            "气室"
+        ]
+    },
+    {
+        "name": "air compressor",
+        "trans": [
+            "空气压缩机"
+        ]
+    },
+    {
+        "name": "air damping",
+        "trans": [
+            "空气制动"
+        ]
+    },
+    {
+        "name": "air drilling",
+        "trans": [
+            "空气钻进"
+        ]
+    },
+    {
+        "name": "air drying",
+        "trans": [
+            "风干"
+        ]
+    },
+    {
+        "name": "air elutriation",
+        "trans": [
+            "空气淘析"
+        ]
+    },
+    {
+        "name": "air flush drilling",
+        "trans": [
+            "空气冲洗钻井"
+        ]
+    },
+    {
+        "name": "air gun",
+        "trans": [
+            "空气枪"
+        ]
+    },
+    {
+        "name": "air hammer",
+        "trans": [
+            "气锤"
+        ]
+    },
+    {
+        "name": "air lift",
+        "trans": [
+            "气动提升机"
+        ]
+    },
+    {
+        "name": "air permeability",
+        "trans": [
+            "透气性"
+        ]
+    },
+    {
+        "name": "air pressure",
+        "trans": [
+            "空气压力"
+        ]
+    },
+    {
+        "name": "air release valve",
+        "trans": [
+            "放气阀"
+        ]
+    },
+    {
+        "name": "air sac",
+        "trans": [
+            "气囊"
+        ]
+    },
+    {
+        "name": "air separating tank",
+        "trans": [
+            "空气分离罐"
+        ]
+    },
+    {
+        "name": "air separator",
+        "trans": [
+            "气力分离器"
+        ]
+    },
+    {
+        "name": "air shrinkage",
+        "trans": [
+            "空气收缩"
+        ]
+    },
+    {
+        "name": "air vent",
+        "trans": [
+            "排气孔"
+        ]
+    },
+    {
+        "name": "air volcano",
+        "trans": [
+            "气火山"
+        ]
+    },
+    {
+        "name": "airborne electromagnetic method",
+        "trans": [
+            "航空电磁法"
+        ]
+    },
+    {
+        "name": "airborne electromagnetics",
+        "trans": [
+            "航空电磁法"
+        ]
+    },
+    {
+        "name": "airborne magnetic prospecting",
+        "trans": [
+            "航空磁法勘探"
+        ]
+    },
+    {
+        "name": "airborne magnetometer",
+        "trans": [
+            "航空地磁仪"
+        ]
+    },
+    {
+        "name": "airborne remote sensing",
+        "trans": [
+            "航空遥感"
+        ]
+    },
+    {
+        "name": "airborne survey",
+        "trans": [
+            "航空甸"
+        ]
+    },
+    {
+        "name": "airial camera",
+        "trans": [
+            "航空摄影机"
+        ]
+    },
+    {
+        "name": "airview",
+        "trans": [
+            "空瞰图"
+        ]
+    },
+    {
+        "name": "airy phase",
+        "trans": [
+            "艾氏相"
+        ]
+    },
+    {
+        "name": "airy's spiral",
+        "trans": [
+            "艾氏螺旋"
+        ]
+    },
+    {
+        "name": "akaustobiolite",
+        "trans": [
+            "非燃性生物岩"
+        ]
+    },
+    {
+        "name": "akaustobiolith",
+        "trans": [
+            "非燃性生物岩"
+        ]
+    },
+    {
+        "name": "akerite",
+        "trans": [
+            "英辉正长岩"
+        ]
+    },
+    {
+        "name": "akermanite",
+        "trans": [
+            "镁黄长石"
+        ]
+    },
+    {
+        "name": "akf diagram",
+        "trans": [
+            "图解"
+        ]
+    },
+    {
+        "name": "akinete",
+        "trans": [
+            "厚壁孢子"
+        ]
+    },
+    {
+        "name": "akrochordite",
+        "trans": [
+            "球砷锰矿"
+        ]
+    },
+    {
+        "name": "aksaite",
+        "trans": [
+            "阿氏硼镁石"
+        ]
+    },
+    {
+        "name": "ala twin",
+        "trans": [
+            "轴双晶"
+        ]
+    },
+    {
+        "name": "alabandine",
+        "trans": [
+            "硫锰矿"
+        ]
+    },
+    {
+        "name": "alabandite",
+        "trans": [
+            "硫锰矿"
+        ]
+    },
+    {
+        "name": "alabaster",
+        "trans": [
+            "雪花石膏"
+        ]
+    },
+    {
+        "name": "alabastrite",
+        "trans": [
+            "雪花石膏"
+        ]
+    },
+    {
+        "name": "alamosite",
+        "trans": [
+            "铅灰石"
+        ]
+    },
+    {
+        "name": "alar",
+        "trans": [
+            "翼状的"
+        ]
+    },
+    {
+        "name": "alary",
+        "trans": [
+            "翼状的"
+        ]
+    },
+    {
+        "name": "alaskaite",
+        "trans": [
+            "铅泡铋矿"
+        ]
+    },
+    {
+        "name": "alaskite",
+        "trans": [
+            "白岗岩"
+        ]
+    },
+    {
+        "name": "alate",
+        "trans": [
+            "有翼的"
+        ]
+    },
+    {
+        "name": "albedo",
+        "trans": [
+            "反照率"
+        ]
+    },
+    {
+        "name": "albers' equal area projection",
+        "trans": [
+            "亚尔勃斯等积投影"
+        ]
+    },
+    {
+        "name": "albertite",
+        "trans": [
+            "黑沥青"
+        ]
+    },
+    {
+        "name": "albian",
+        "trans": [
+            "阿尔布阶"
+        ]
+    },
+    {
+        "name": "albian stage",
+        "trans": [
+            "阿尔布阶"
+        ]
+    },
+    {
+        "name": "albite",
+        "trans": [
+            "钠长石"
+        ]
+    },
+    {
+        "name": "albite twin",
+        "trans": [
+            "钠长石双晶"
+        ]
+    },
+    {
+        "name": "albitite",
+        "trans": [
+            "钠长石玢岩"
+        ]
+    },
+    {
+        "name": "albitization",
+        "trans": [
+            "钠长石化"
+        ]
+    },
+    {
+        "name": "albitophyre",
+        "trans": [
+            "钠长斑岩"
+        ]
+    },
+    {
+        "name": "alboranite",
+        "trans": [
+            "紫苏变玄岩"
+        ]
+    },
+    {
+        "name": "aleurolite",
+        "trans": [
+            "粉砂岩"
+        ]
+    },
+    {
+        "name": "aleuropelitic",
+        "trans": [
+            "粉砂泥的"
+        ]
+    },
+    {
+        "name": "aleutite",
+        "trans": [
+            "易辉安山岩"
+        ]
+    },
+    {
+        "name": "alexandrite",
+        "trans": [
+            "翠绿宝石"
+        ]
+    },
+    {
+        "name": "algae",
+        "trans": [
+            "藻类"
+        ]
+    },
+    {
+        "name": "algae control",
+        "trans": [
+            "藻类控制"
+        ]
+    },
+    {
+        "name": "algal ball",
+        "trans": [
+            "海藻饼"
+        ]
+    },
+    {
+        "name": "algal biscuit",
+        "trans": [
+            "海藻饼"
+        ]
+    },
+    {
+        "name": "algal coal",
+        "trans": [
+            "藻煤"
+        ]
+    },
+    {
+        "name": "algal fungi",
+        "trans": [
+            "藻菌类"
+        ]
+    },
+    {
+        "name": "algal limestone",
+        "trans": [
+            "藻灰岩"
+        ]
+    },
+    {
+        "name": "algal reef",
+        "trans": [
+            "藻礁"
+        ]
+    },
+    {
+        "name": "algal structure",
+        "trans": [
+            "藻结构"
+        ]
+    },
+    {
+        "name": "alginite",
+        "trans": [
+            "藻类体"
+        ]
+    },
+    {
+        "name": "algodonite",
+        "trans": [
+            "微晶砷铜矿"
+        ]
+    },
+    {
+        "name": "algology",
+        "trans": [
+            "藻类学"
+        ]
+    },
+    {
+        "name": "algonkian",
+        "trans": [
+            "阿尔冈纪"
+        ]
+    },
+    {
+        "name": "algonkian system",
+        "trans": [
+            "阿尔冈系"
+        ]
+    },
+    {
+        "name": "algovite",
+        "trans": [
+            "辉斜岩"
+        ]
+    },
+    {
+        "name": "aliphatic compound",
+        "trans": [
+            "脂族化合物"
+        ]
+    },
+    {
+        "name": "alizarin",
+        "trans": [
+            "二羟蒽醌"
+        ]
+    },
+    {
+        "name": "alkali",
+        "trans": [
+            "碱"
+        ]
+    },
+    {
+        "name": "alkali alumina metasomatism",
+        "trans": [
+            "氧化铝交代"
+        ]
+    },
+    {
+        "name": "alkali basaet",
+        "trans": [
+            "碱性玄武岩"
+        ]
+    },
+    {
+        "name": "alkali earth metal",
+        "trans": [
+            "碱土金属"
+        ]
+    },
+    {
+        "name": "alkali feldspar",
+        "trans": [
+            "碱性长石"
+        ]
+    },
+    {
+        "name": "alkali flat",
+        "trans": [
+            "碱覆盖坪"
+        ]
+    },
+    {
+        "name": "alkali gabbro",
+        "trans": [
+            "碱性辉长岩"
+        ]
+    },
+    {
+        "name": "alkali granti",
+        "trans": [
+            "碱性花岗岩"
+        ]
+    },
+    {
+        "name": "alkali lime index",
+        "trans": [
+            "灰质指数"
+        ]
+    },
+    {
+        "name": "alkali metal",
+        "trans": [
+            "碱金属"
+        ]
+    },
+    {
+        "name": "alkali olivine basalt",
+        "trans": [
+            "碱性橄榄玄武岩"
+        ]
+    },
+    {
+        "name": "alkali pyroxene",
+        "trans": [
+            "碱性辉石"
+        ]
+    },
+    {
+        "name": "alkali rock series",
+        "trans": [
+            "碱性岩系"
+        ]
+    },
+    {
+        "name": "alkali salt",
+        "trans": [
+            "碱盐"
+        ]
+    },
+    {
+        "name": "alkali soil",
+        "trans": [
+            "碱土"
+        ]
+    },
+    {
+        "name": "alkali syenit",
+        "trans": [
+            "碱性正长岩"
+        ]
+    },
+    {
+        "name": "alkalic rock",
+        "trans": [
+            "硷性岩"
+        ]
+    },
+    {
+        "name": "alkalic ultrabasic rock",
+        "trans": [
+            "超基性岩"
+        ]
+    },
+    {
+        "name": "alkalify",
+        "trans": [
+            "碱化"
+        ]
+    },
+    {
+        "name": "alkalimetry",
+        "trans": [
+            "碱量滴定法"
+        ]
+    },
+    {
+        "name": "alkaline amphibolization",
+        "trans": [
+            "碱性角闪石化"
+        ]
+    },
+    {
+        "name": "alkaline earth",
+        "trans": [
+            "碱土族"
+        ]
+    },
+    {
+        "name": "alkaline earth metal",
+        "trans": [
+            "碱土金属"
+        ]
+    },
+    {
+        "name": "alkaline metasomatism",
+        "trans": [
+            "碱性交代酌"
+        ]
+    },
+    {
+        "name": "alkaline pyroxenization",
+        "trans": [
+            "碱性辉石化"
+        ]
+    },
+    {
+        "name": "alkaline rock",
+        "trans": [
+            "硷性岩"
+        ]
+    },
+    {
+        "name": "alkaline rocks",
+        "trans": [
+            "碱性岩类"
+        ]
+    },
+    {
+        "name": "alkaline soil",
+        "trans": [
+            "碱性土"
+        ]
+    },
+    {
+        "name": "alkaline solution",
+        "trans": [
+            "碱性溶液"
+        ]
+    },
+    {
+        "name": "alkaline spring",
+        "trans": [
+            "碱泉"
+        ]
+    },
+    {
+        "name": "alkalinity",
+        "trans": [
+            "碱度"
+        ]
+    },
+    {
+        "name": "alkalipicrite",
+        "trans": [
+            "碱性苦橄岩"
+        ]
+    },
+    {
+        "name": "alkalitrophic lake",
+        "trans": [
+            "碱液营养湖"
+        ]
+    },
+    {
+        "name": "alkalization",
+        "trans": [
+            "碱化酌"
+        ]
+    },
+    {
+        "name": "alkalize",
+        "trans": [
+            "碱化"
+        ]
+    },
+    {
+        "name": "alkaloid",
+        "trans": [
+            "生物碱"
+        ]
+    },
+    {
+        "name": "alkanes",
+        "trans": [
+            "链烷烃"
+        ]
+    },
+    {
+        "name": "allactite",
+        "trans": [
+            "砷水锰矿"
+        ]
+    },
+    {
+        "name": "allagite",
+        "trans": [
+            "绿蔷薇辉石"
+        ]
+    },
+    {
+        "name": "allalinite",
+        "trans": [
+            "浊变辉长岩"
+        ]
+    },
+    {
+        "name": "allanite",
+        "trans": [
+            "褐帘石"
+        ]
+    },
+    {
+        "name": "alleghanyite",
+        "trans": [
+            "粒硅锰矿"
+        ]
+    },
+    {
+        "name": "allemontite",
+        "trans": [
+            "砷锑矿"
+        ]
+    },
+    {
+        "name": "allite",
+        "trans": [
+            "铝铁土"
+        ]
+    },
+    {
+        "name": "allivalite",
+        "trans": [
+            "橄榄钙长岩"
+        ]
+    },
+    {
+        "name": "allobar",
+        "trans": [
+            "变压区"
+        ]
+    },
+    {
+        "name": "allocation",
+        "trans": [
+            "分配"
+        ]
+    },
+    {
+        "name": "allochemical metamorphism",
+        "trans": [
+            "异化变质"
+        ]
+    },
+    {
+        "name": "allochetite",
+        "trans": [
+            "霞辉二长斑岩"
+        ]
+    },
+    {
+        "name": "allochroite",
+        "trans": [
+            "粒榴石"
+        ]
+    },
+    {
+        "name": "allochromatic colour",
+        "trans": [
+            "假色"
+        ]
+    },
+    {
+        "name": "allochromatism",
+        "trans": [
+            "假色"
+        ]
+    },
+    {
+        "name": "allochthone",
+        "trans": [
+            "移置岩体"
+        ]
+    },
+    {
+        "name": "allochthonous",
+        "trans": [
+            "外来的"
+        ]
+    },
+    {
+        "name": "allochthonous coal",
+        "trans": [
+            "异地生成煤"
+        ]
+    },
+    {
+        "name": "allochthonous deposit",
+        "trans": [
+            "移积"
+        ]
+    },
+    {
+        "name": "allochthonous fold",
+        "trans": [
+            "移置性褶曲"
+        ]
+    },
+    {
+        "name": "allochthonous limestone",
+        "trans": [
+            "移置灰岩"
+        ]
+    },
+    {
+        "name": "alloclastic breccia",
+        "trans": [
+            "火山碎屑角砾岩"
+        ]
+    },
+    {
+        "name": "allogenic",
+        "trans": [
+            "他生的"
+        ]
+    },
+    {
+        "name": "allogenic element",
+        "trans": [
+            "他生元素"
+        ]
+    },
+    {
+        "name": "allogenic mineral",
+        "trans": [
+            "他生矿物"
+        ]
+    },
+    {
+        "name": "allogenic succession",
+        "trans": [
+            "他生演替"
+        ]
+    },
+    {
+        "name": "allomerism",
+        "trans": [
+            "异质同晶现象"
+        ]
+    },
+    {
+        "name": "allometamorphism",
+        "trans": [
+            "他变酌"
+        ]
+    },
+    {
+        "name": "allometry",
+        "trans": [
+            "异速生长"
+        ]
+    },
+    {
+        "name": "allomigmatite",
+        "trans": [
+            "他混合岩"
+        ]
+    },
+    {
+        "name": "allomorph",
+        "trans": [
+            "同质异形的"
+        ]
+    },
+    {
+        "name": "allomorphism",
+        "trans": [
+            "同质异晶"
+        ]
+    },
+    {
+        "name": "allomorphous",
+        "trans": [
+            "同质异形的"
+        ]
+    },
+    {
+        "name": "allopalladium",
+        "trans": [
+            "硒钯矿"
+        ]
+    },
+    {
+        "name": "allopatric polymorphism",
+        "trans": [
+            "同质多形"
+        ]
+    },
+    {
+        "name": "allophane",
+        "trans": [
+            "水铝英石"
+        ]
+    },
+    {
+        "name": "allophase metamorphism",
+        "trans": [
+            "他相变质"
+        ]
+    },
+    {
+        "name": "alloskarn",
+        "trans": [
+            "外成夕卡岩"
+        ]
+    },
+    {
+        "name": "allothigenic",
+        "trans": [
+            "他生的"
+        ]
+    },
+    {
+        "name": "allothigenous",
+        "trans": [
+            "他生的"
+        ]
+    },
+    {
+        "name": "allotriomorphic",
+        "trans": [
+            "他形的"
+        ]
+    },
+    {
+        "name": "allotriomorphic granular texture",
+        "trans": [
+            "他形晶粒状结构"
+        ]
+    },
+    {
+        "name": "allotriomorphic structure",
+        "trans": [
+            "他形构造"
+        ]
+    },
+    {
+        "name": "allotriomorphic texture",
+        "trans": [
+            "他形结构"
+        ]
+    },
+    {
+        "name": "allotrope",
+        "trans": [
+            "同素异形体"
+        ]
+    },
+    {
+        "name": "allotropic modification",
+        "trans": [
+            "同素异形体"
+        ]
+    },
+    {
+        "name": "allotropic transformation",
+        "trans": [
+            "同素异晶变化"
+        ]
+    },
+    {
+        "name": "allotropism",
+        "trans": [
+            "同素异形"
+        ]
+    },
+    {
+        "name": "allotropy",
+        "trans": [
+            "同素异形"
+        ]
+    },
+    {
+        "name": "allotype",
+        "trans": [
+            "异模式标本"
+        ]
+    },
+    {
+        "name": "alloy",
+        "trans": [
+            "合金"
+        ]
+    },
+    {
+        "name": "alluvial",
+        "trans": [
+            "冲积的"
+        ]
+    },
+    {
+        "name": "alluvial apron",
+        "trans": [
+            "山麓冲积扇"
+        ]
+    },
+    {
+        "name": "alluvial channel",
+        "trans": [
+            "冲积河道"
+        ]
+    },
+    {
+        "name": "alluvial cone",
+        "trans": [
+            "冲积锥"
+        ]
+    },
+    {
+        "name": "alluvial deposit",
+        "trans": [
+            "冲积层"
+        ]
+    },
+    {
+        "name": "alluvial fan",
+        "trans": [
+            "冲积扇"
+        ]
+    },
+    {
+        "name": "alluvial fan deposit",
+        "trans": [
+            "冲积扇层"
+        ]
+    },
+    {
+        "name": "alluvial ore deposit",
+        "trans": [
+            "冲积矿床"
+        ]
+    },
+    {
+        "name": "alluvial placer",
+        "trans": [
+            "冲积砂矿床"
+        ]
+    },
+    {
+        "name": "alluvial plain",
+        "trans": [
+            "冲积平原"
+        ]
+    },
+    {
+        "name": "alluvial sand ripples",
+        "trans": [
+            "河成砂纹"
+        ]
+    },
+    {
+        "name": "alluvial sand wave",
+        "trans": [
+            "河成沙波"
+        ]
+    },
+    {
+        "name": "alluvial soil",
+        "trans": [
+            "冲积土"
+        ]
+    },
+    {
+        "name": "alluvial terrace",
+        "trans": [
+            "冲积阶地"
+        ]
+    },
+    {
+        "name": "alluvial veneer",
+        "trans": [
+            "冲积表层"
+        ]
+    },
+    {
+        "name": "alluviation",
+        "trans": [
+            "冲积"
+        ]
+    },
+    {
+        "name": "alluvion",
+        "trans": [
+            "冲积层"
+        ]
+    },
+    {
+        "name": "alluvium",
+        "trans": [
+            "冲积层"
+        ]
+    },
+    {
+        "name": "almandine",
+        "trans": [
+            "铁铝榴石"
+        ]
+    },
+    {
+        "name": "almandite",
+        "trans": [
+            "铁铝榴石"
+        ]
+    },
+    {
+        "name": "alnico",
+        "trans": [
+            "铝镍钴合金"
+        ]
+    },
+    {
+        "name": "alnoite",
+        "trans": [
+            "黄长煌斑岩"
+        ]
+    },
+    {
+        "name": "alp",
+        "trans": [
+            "高山"
+        ]
+    },
+    {
+        "name": "alpha quartz",
+        "trans": [
+            "石英"
+        ]
+    },
+    {
+        "name": "alpha ray spectrometer",
+        "trans": [
+            "能谱仪"
+        ]
+    },
+    {
+        "name": "alphitite",
+        "trans": [
+            "岩粉土"
+        ]
+    },
+    {
+        "name": "alpides",
+        "trans": [
+            "阿尔卑斯造山带"
+        ]
+    },
+    {
+        "name": "alpine animals",
+        "trans": [
+            "高山动物"
+        ]
+    },
+    {
+        "name": "alpine belt",
+        "trans": [
+            "高山带"
+        ]
+    },
+    {
+        "name": "alpine orogeny",
+        "trans": [
+            "阿尔卑斯造山运动"
+        ]
+    },
+    {
+        "name": "alpine type peridotite",
+        "trans": [
+            "阿尔卑斯式橄榄岩"
+        ]
+    },
+    {
+        "name": "alpine type vein",
+        "trans": [
+            "阿尔卑斯型矿脉"
+        ]
+    },
+    {
+        "name": "alpinotype orogeny",
+        "trans": [
+            "阿尔卑斯型造山酌"
+        ]
+    },
+    {
+        "name": "alpinotype tectonics",
+        "trans": [
+            "阿尔卑斯型构造"
+        ]
+    },
+    {
+        "name": "alsbachite",
+        "trans": [
+            "榴云细斑岩"
+        ]
+    },
+    {
+        "name": "alstonite",
+        "trans": [
+            "碳碱钙钡矿"
+        ]
+    },
+    {
+        "name": "altaite",
+        "trans": [
+            "碲铅矿"
+        ]
+    },
+    {
+        "name": "altar",
+        "trans": [
+            "腋生的"
+        ]
+    },
+    {
+        "name": "altazimuth",
+        "trans": [
+            "经纬仪"
+        ]
+    },
+    {
+        "name": "alteration",
+        "trans": [
+            "蚀变"
+        ]
+    },
+    {
+        "name": "alteration halo",
+        "trans": [
+            "蚀变晕"
+        ]
+    },
+    {
+        "name": "alteration zone",
+        "trans": [
+            "蚀变晕"
+        ]
+    },
+    {
+        "name": "altered aureole",
+        "trans": [
+            "蚀变晕"
+        ]
+    },
+    {
+        "name": "altered mineral",
+        "trans": [
+            "蚀变矿物"
+        ]
+    },
+    {
+        "name": "alternant",
+        "trans": [
+            "交替的"
+        ]
+    },
+    {
+        "name": "alternate phyllotaxis",
+        "trans": [
+            "互生叶序"
+        ]
+    },
+    {
+        "name": "alternately pinnate",
+        "trans": [
+            "互生羽状的"
+        ]
+    },
+    {
+        "name": "alternating",
+        "trans": [
+            "交替"
+        ]
+    },
+    {
+        "name": "alternating layers",
+        "trans": [
+            "互层"
+        ]
+    },
+    {
+        "name": "alternation",
+        "trans": [
+            "互层"
+        ]
+    },
+    {
+        "name": "alternation of beds",
+        "trans": [
+            "互层"
+        ]
+    },
+    {
+        "name": "alternation of generations",
+        "trans": [
+            "世代交替"
+        ]
+    },
+    {
+        "name": "alternative",
+        "trans": [
+            "可选择的"
+        ]
+    },
+    {
+        "name": "altimeter",
+        "trans": [
+            "高度计"
+        ]
+    },
+    {
+        "name": "altitude",
+        "trans": [
+            "高度"
+        ]
+    },
+    {
+        "name": "altitudinal zonality",
+        "trans": [
+            "垂直分布带"
+        ]
+    },
+    {
+        "name": "alum",
+        "trans": [
+            "茂"
+        ]
+    },
+    {
+        "name": "alum shale",
+        "trans": [
+            "茂页岩"
+        ]
+    },
+    {
+        "name": "alum slate",
+        "trans": [
+            "茂板岩"
+        ]
+    },
+    {
+        "name": "alumian",
+        "trans": [
+            "无水矾石"
+        ]
+    },
+    {
+        "name": "alumina",
+        "trans": [
+            "矾土"
+        ]
+    },
+    {
+        "name": "aluminate",
+        "trans": [
+            "铝酸盐"
+        ]
+    },
+    {
+        "name": "aluminite",
+        "trans": [
+            "矾石"
+        ]
+    },
+    {
+        "name": "aluminum",
+        "trans": [
+            "铝"
+        ]
+    },
+    {
+        "name": "alumochromite",
+        "trans": [
+            "铝铬铁矿"
+        ]
+    },
+    {
+        "name": "alunite",
+        "trans": [
+            "茂石"
+        ]
+    },
+    {
+        "name": "alunitization",
+        "trans": [
+            "茂石化"
+        ]
+    },
+    {
+        "name": "alunogen",
+        "trans": [
+            "毛矾石"
+        ]
+    },
+    {
+        "name": "alurgite",
+        "trans": [
+            "锰云母"
+        ]
+    },
+    {
+        "name": "alveolar",
+        "trans": [
+            "蜂窝状"
+        ]
+    },
+    {
+        "name": "alvite",
+        "trans": [
+            "铪锆石"
+        ]
+    },
+    {
+        "name": "amagmatic",
+        "trans": [
+            "非岩浆活动的"
+        ]
+    },
+    {
+        "name": "amalgam",
+        "trans": [
+            "汞齐"
+        ]
+    },
+    {
+        "name": "amalgamation",
+        "trans": [
+            "混汞酌"
+        ]
+    },
+    {
+        "name": "amarantite",
+        "trans": [
+            "红铁矾"
+        ]
+    },
+    {
+        "name": "amazonite",
+        "trans": [
+            "天河石"
+        ]
+    },
+    {
+        "name": "amazonitization",
+        "trans": [
+            "天河石化"
+        ]
+    },
+    {
+        "name": "ambatoarinite",
+        "trans": [
+            "碳酸锶铈矿"
+        ]
+    },
+    {
+        "name": "amber",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "amberite",
+        "trans": [
+            "灰黄琥珀"
+        ]
+    },
+    {
+        "name": "ambient",
+        "trans": [
+            "外界的"
+        ]
+    },
+    {
+        "name": "ambiguity",
+        "trans": [
+            "多义性"
+        ]
+    },
+    {
+        "name": "amblygonite",
+        "trans": [
+            "磷铝石"
+        ]
+    },
+    {
+        "name": "ambrite",
+        "trans": [
+            "灰黄琥珀"
+        ]
+    },
+    {
+        "name": "ambulacral foot",
+        "trans": [
+            "管足"
+        ]
+    },
+    {
+        "name": "ambulacral system",
+        "trans": [
+            "步带系"
+        ]
+    },
+    {
+        "name": "ambularcral zone",
+        "trans": [
+            "步带"
+        ]
+    },
+    {
+        "name": "ameba",
+        "trans": [
+            "变形虫"
+        ]
+    },
+    {
+        "name": "amendment",
+        "trans": [
+            "修正;校正"
+        ]
+    },
+    {
+        "name": "americium",
+        "trans": [
+            "镅"
+        ]
+    },
+    {
+        "name": "amesite",
+        "trans": [
+            "镁绿泥石"
+        ]
+    },
+    {
+        "name": "ametaboly",
+        "trans": [
+            "无变态"
+        ]
+    },
+    {
+        "name": "amethyst",
+        "trans": [
+            "紫水晶"
+        ]
+    },
+    {
+        "name": "amherstite",
+        "trans": [
+            "反条正长闪长岩"
+        ]
+    },
+    {
+        "name": "amianthus",
+        "trans": [
+            "石棉"
+        ]
+    },
+    {
+        "name": "amino acid metabolism",
+        "trans": [
+            "氨基酸代谢"
+        ]
+    },
+    {
+        "name": "aminobenzoic acid",
+        "trans": [
+            "氨基苯酸"
+        ]
+    },
+    {
+        "name": "ammonioborite",
+        "trans": [
+            "水铵硼石"
+        ]
+    },
+    {
+        "name": "ammonites",
+        "trans": [
+            "菊石类"
+        ]
+    },
+    {
+        "name": "amorphous",
+        "trans": [
+            "非晶质的"
+        ]
+    },
+    {
+        "name": "amorphous graphite",
+        "trans": [
+            "无定型石墨"
+        ]
+    },
+    {
+        "name": "amorphous silica",
+        "trans": [
+            "无定形硅氧"
+        ]
+    },
+    {
+        "name": "amosite",
+        "trans": [
+            "铁石棉"
+        ]
+    },
+    {
+        "name": "amount",
+        "trans": [
+            "总计"
+        ]
+    },
+    {
+        "name": "amount of evaporation",
+        "trans": [
+            "蒸发量"
+        ]
+    },
+    {
+        "name": "amount of precipitation",
+        "trans": [
+            "降水量"
+        ]
+    },
+    {
+        "name": "amount of throw",
+        "trans": [
+            "纵距"
+        ]
+    },
+    {
+        "name": "ampangabeit",
+        "trans": [
+            "铌链铁铀矿"
+        ]
+    },
+    {
+        "name": "ampelite",
+        "trans": [
+            "黄铁炭质页岩"
+        ]
+    },
+    {
+        "name": "amphibia",
+        "trans": [
+            "两栖类"
+        ]
+    },
+    {
+        "name": "amphibious plants",
+        "trans": [
+            "两栖植物"
+        ]
+    },
+    {
+        "name": "amphibole",
+        "trans": [
+            "闪石"
+        ]
+    },
+    {
+        "name": "amphibolite",
+        "trans": [
+            "闪岩"
+        ]
+    },
+    {
+        "name": "amphibolite facies",
+        "trans": [
+            "角闪岩相"
+        ]
+    },
+    {
+        "name": "amphibolization",
+        "trans": [
+            "闪石化酌"
+        ]
+    },
+    {
+        "name": "amphigene",
+        "trans": [
+            "白榴石"
+        ]
+    },
+    {
+        "name": "amphigenite",
+        "trans": [
+            "白榴熔岩"
+        ]
+    },
+    {
+        "name": "amphiprotic",
+        "trans": [
+            "两性的"
+        ]
+    },
+    {
+        "name": "ampholyte",
+        "trans": [
+            "两性电解质"
+        ]
+    },
+    {
+        "name": "amphoteric",
+        "trans": [
+            "两性的"
+        ]
+    },
+    {
+        "name": "amphoteric electrolyte",
+        "trans": [
+            "两性电解质"
+        ]
+    },
+    {
+        "name": "amphoteric element",
+        "trans": [
+            "两性元素"
+        ]
+    },
+    {
+        "name": "amphoteric ion",
+        "trans": [
+            "两性离子"
+        ]
+    },
+    {
+        "name": "amphoteric oxide",
+        "trans": [
+            "两性氧化物"
+        ]
+    },
+    {
+        "name": "amphoterite",
+        "trans": [
+            "无粒古橄陨石"
+        ]
+    },
+    {
+        "name": "amplexicaul",
+        "trans": [
+            "抱茎的"
+        ]
+    },
+    {
+        "name": "amplifier for photocurrents",
+        "trans": [
+            "光电僚大器"
+        ]
+    },
+    {
+        "name": "amplitude",
+        "trans": [
+            "振幅"
+        ]
+    },
+    {
+        "name": "amplitude correction",
+        "trans": [
+            "振幅校正"
+        ]
+    },
+    {
+        "name": "amplitude spectrum",
+        "trans": [
+            "振幅谱"
+        ]
+    },
+    {
+        "name": "amygdale",
+        "trans": [
+            "杏仁孔"
+        ]
+    },
+    {
+        "name": "amygdaloid",
+        "trans": [
+            "杏仁岩"
+        ]
+    },
+    {
+        "name": "amygdaloidal",
+        "trans": [
+            "杏仁状的"
+        ]
+    },
+    {
+        "name": "amygdaloidal structure",
+        "trans": [
+            "杏仁状构造"
+        ]
+    },
+    {
+        "name": "amygdule",
+        "trans": [
+            "杏仁孔"
+        ]
+    },
+    {
+        "name": "anabatic wind",
+        "trans": [
+            "谷风"
+        ]
+    },
+    {
+        "name": "anabolism",
+        "trans": [
+            "合成代谢"
+        ]
+    },
+    {
+        "name": "anaboly",
+        "trans": [
+            "后加演化"
+        ]
+    },
+    {
+        "name": "anaclinal",
+        "trans": [
+            "逆向的"
+        ]
+    },
+    {
+        "name": "anadiagenesis",
+        "trans": [
+            "前进成岩酌"
+        ]
+    },
+    {
+        "name": "anaerobe",
+        "trans": [
+            "厌气微生物"
+        ]
+    },
+    {
+        "name": "anaerobic bacteria",
+        "trans": [
+            "嫌气细菌"
+        ]
+    },
+    {
+        "name": "anaerobiosis",
+        "trans": [
+            "嫌气生活"
+        ]
+    },
+    {
+        "name": "anagenesis",
+        "trans": [
+            "前进演化"
+        ]
+    },
+    {
+        "name": "anal fin",
+        "trans": [
+            "臀"
+        ]
+    },
+    {
+        "name": "anal gland",
+        "trans": [
+            "肛腺"
+        ]
+    },
+    {
+        "name": "analbite",
+        "trans": [
+            "单斜钠长石"
+        ]
+    },
+    {
+        "name": "analcime",
+        "trans": [
+            "方沸石"
+        ]
+    },
+    {
+        "name": "analcimite",
+        "trans": [
+            "方沸岩"
+        ]
+    },
+    {
+        "name": "analcimolith",
+        "trans": [
+            "方沸岩"
+        ]
+    },
+    {
+        "name": "analcite",
+        "trans": [
+            "方沸石"
+        ]
+    },
+    {
+        "name": "analog",
+        "trans": [
+            "相似体"
+        ]
+    },
+    {
+        "name": "analogous organ",
+        "trans": [
+            "同功瀑"
+        ]
+    },
+    {
+        "name": "analogue",
+        "trans": [
+            "相似体"
+        ]
+    },
+    {
+        "name": "analogy",
+        "trans": [
+            "类似"
+        ]
+    },
+    {
+        "name": "analysis by sedimentation",
+        "trans": [
+            "沉积分析"
+        ]
+    },
+    {
+        "name": "analytic standard",
+        "trans": [
+            "分析标准"
+        ]
+    },
+    {
+        "name": "analytical balance",
+        "trans": [
+            "分析天平"
+        ]
+    },
+    {
+        "name": "anamesite",
+        "trans": [
+            "中粒玄武岩"
+        ]
+    },
+    {
+        "name": "anamigmatism",
+        "trans": [
+            "深溶混合岩化"
+        ]
+    },
+    {
+        "name": "anamorphic zone",
+        "trans": [
+            "合成变质带"
+        ]
+    },
+    {
+        "name": "anamorphism",
+        "trans": [
+            "合成变质"
+        ]
+    },
+    {
+        "name": "anapaite",
+        "trans": [
+            "三斜磷钙铁矿"
+        ]
+    },
+    {
+        "name": "anaseism",
+        "trans": [
+            "背震中"
+        ]
+    },
+    {
+        "name": "anastomose",
+        "trans": [
+            "网结"
+        ]
+    },
+    {
+        "name": "anastrophen",
+        "trans": [
+            "倒装法"
+        ]
+    },
+    {
+        "name": "anatase",
+        "trans": [
+            "锐钛矿"
+        ]
+    },
+    {
+        "name": "anatectic magma",
+        "trans": [
+            "深熔岩浆"
+        ]
+    },
+    {
+        "name": "anatectite",
+        "trans": [
+            "深熔混合岩"
+        ]
+    },
+    {
+        "name": "anatexis",
+        "trans": [
+            "深熔酌"
+        ]
+    },
+    {
+        "name": "anauxite",
+        "trans": [
+            "富硅高岭石"
+        ]
+    },
+    {
+        "name": "anchieutectic",
+        "trans": [
+            "近底共融的"
+        ]
+    },
+    {
+        "name": "anchimetamorphism",
+        "trans": [
+            "近变质酌"
+        ]
+    },
+    {
+        "name": "anchimonomineralic",
+        "trans": [
+            "近单矿物的"
+        ]
+    },
+    {
+        "name": "anchor ice",
+        "trans": [
+            "底冰"
+        ]
+    },
+    {
+        "name": "ancient channel",
+        "trans": [
+            "古河道"
+        ]
+    },
+    {
+        "name": "ancient elephant",
+        "trans": [
+            "古大象"
+        ]
+    },
+    {
+        "name": "ancient landform",
+        "trans": [
+            "古地形"
+        ]
+    },
+    {
+        "name": "ancylite",
+        "trans": [
+            "菱锶铬矿"
+        ]
+    },
+    {
+        "name": "andalusite",
+        "trans": [
+            "红柱石"
+        ]
+    },
+    {
+        "name": "andersonite",
+        "trans": [
+            "水碳钠钙铀矿"
+        ]
+    },
+    {
+        "name": "andesine",
+        "trans": [
+            "中长石"
+        ]
+    },
+    {
+        "name": "andesite",
+        "trans": [
+            "安山岩"
+        ]
+    },
+    {
+        "name": "andesite line",
+        "trans": [
+            "安山岩线"
+        ]
+    },
+    {
+        "name": "andorite",
+        "trans": [
+            "锑铅银矿"
+        ]
+    },
+    {
+        "name": "andradite",
+        "trans": [
+            "钙铁榴石"
+        ]
+    },
+    {
+        "name": "anemoclastics",
+        "trans": [
+            "风成碎屑岩"
+        ]
+    },
+    {
+        "name": "anemophilous plant",
+        "trans": [
+            "风媒植物"
+        ]
+    },
+    {
+        "name": "anemophily",
+        "trans": [
+            "风媒"
+        ]
+    },
+    {
+        "name": "anemousite",
+        "trans": [
+            "三斜霞石"
+        ]
+    },
+    {
+        "name": "angara flora",
+        "trans": [
+            "安加拉植物群"
+        ]
+    },
+    {
+        "name": "angara shield",
+        "trans": [
+            "安加拉古陆"
+        ]
+    },
+    {
+        "name": "angaraland",
+        "trans": [
+            "安加拉古陆"
+        ]
+    },
+    {
+        "name": "angarides",
+        "trans": [
+            "安加拉古陆"
+        ]
+    },
+    {
+        "name": "angiospermous",
+        "trans": [
+            "被子的"
+        ]
+    },
+    {
+        "name": "angiosperms",
+        "trans": [
+            "被子植物"
+        ]
+    },
+    {
+        "name": "angle of contact",
+        "trans": [
+            "接触角"
+        ]
+    },
+    {
+        "name": "angle of draw",
+        "trans": [
+            "陷落角"
+        ]
+    },
+    {
+        "name": "angle of incidence",
+        "trans": [
+            "入射角"
+        ]
+    },
+    {
+        "name": "angle of inclination",
+        "trans": [
+            "倾斜角"
+        ]
+    },
+    {
+        "name": "angle of internal friction",
+        "trans": [
+            "内摩擦角"
+        ]
+    },
+    {
+        "name": "angle of reflection",
+        "trans": [
+            "反射角"
+        ]
+    },
+    {
+        "name": "angle of refraction",
+        "trans": [
+            "折射角"
+        ]
+    },
+    {
+        "name": "angle of repose",
+        "trans": [
+            "休止角"
+        ]
+    },
+    {
+        "name": "angle of strike",
+        "trans": [
+            "走向角度"
+        ]
+    },
+    {
+        "name": "angle of subsidence",
+        "trans": [
+            "陷落角"
+        ]
+    },
+    {
+        "name": "anglesite",
+        "trans": [
+            "硫酸铅矿"
+        ]
+    },
+    {
+        "name": "angrite",
+        "trans": [
+            "钛辉无球粒陨石"
+        ]
+    },
+    {
+        "name": "angular",
+        "trans": [
+            "有角的"
+        ]
+    },
+    {
+        "name": "angular discordance",
+        "trans": [
+            "斜交不整合"
+        ]
+    },
+    {
+        "name": "angular unconformity",
+        "trans": [
+            "钭文不整合"
+        ]
+    },
+    {
+        "name": "angularity",
+        "trans": [
+            "有角"
+        ]
+    },
+    {
+        "name": "angustifoliate",
+        "trans": [
+            "狭叶的"
+        ]
+    },
+    {
+        "name": "anhedral",
+        "trans": [
+            "他形的"
+        ]
+    },
+    {
+        "name": "anhydration",
+        "trans": [
+            "脱水"
+        ]
+    },
+    {
+        "name": "anhydride",
+        "trans": [
+            "无水物"
+        ]
+    },
+    {
+        "name": "anhydrite",
+        "trans": [
+            "硬石膏"
+        ]
+    },
+    {
+        "name": "anhydrite formation",
+        "trans": [
+            "硬石膏层"
+        ]
+    },
+    {
+        "name": "anhysteretic remanent magnetiazation",
+        "trans": [
+            "非滞后剩余磁化"
+        ]
+    },
+    {
+        "name": "animal charcoal",
+        "trans": [
+            "动物煤"
+        ]
+    },
+    {
+        "name": "animal debris",
+        "trans": [
+            "动物残余"
+        ]
+    },
+    {
+        "name": "animal theory",
+        "trans": [
+            "动物成因论"
+        ]
+    },
+    {
+        "name": "animikie system",
+        "trans": [
+            "安尼迷基系"
+        ]
+    },
+    {
+        "name": "animikite",
+        "trans": [
+            "铅银砷镍矿"
+        ]
+    },
+    {
+        "name": "anisian",
+        "trans": [
+            "安尼巫"
+        ]
+    },
+    {
+        "name": "anisodesmic structure",
+        "trans": [
+            "蛤稳变异构造"
+        ]
+    },
+    {
+        "name": "anisometric",
+        "trans": [
+            "非等轴的"
+        ]
+    },
+    {
+        "name": "anisophyllous",
+        "trans": [
+            "不等叶的"
+        ]
+    },
+    {
+        "name": "anisotrophism",
+        "trans": [
+            "蛤异性"
+        ]
+    },
+    {
+        "name": "anisotropic",
+        "trans": [
+            "非均质的"
+        ]
+    },
+    {
+        "name": "anisotropic fabric",
+        "trans": [
+            "蛤异性组构"
+        ]
+    },
+    {
+        "name": "anisotropy",
+        "trans": [
+            "蛤异性"
+        ]
+    },
+    {
+        "name": "anisotropy of crystals",
+        "trans": [
+            "晶体蛤异性"
+        ]
+    },
+    {
+        "name": "ankaramite",
+        "trans": [
+            "钭长辉石岩"
+        ]
+    },
+    {
+        "name": "ankaratrite",
+        "trans": [
+            "橄霞玄武岩"
+        ]
+    },
+    {
+        "name": "ankerite",
+        "trans": [
+            "铁白云石"
+        ]
+    },
+    {
+        "name": "annabergite",
+        "trans": [
+            "镍华"
+        ]
+    },
+    {
+        "name": "annealing recrystallization",
+        "trans": [
+            "退火重结晶酌"
+        ]
+    },
+    {
+        "name": "annelids",
+        "trans": [
+            "环节动物"
+        ]
+    },
+    {
+        "name": "annerodite",
+        "trans": [
+            "铌钇铀矿"
+        ]
+    },
+    {
+        "name": "annite",
+        "trans": [
+            "羟铁云母"
+        ]
+    },
+    {
+        "name": "annivite",
+        "trans": [
+            "铋铜矿"
+        ]
+    },
+    {
+        "name": "annual",
+        "trans": [
+            "年刊"
+        ]
+    },
+    {
+        "name": "annual amount of precipitation",
+        "trans": [
+            "年降水量"
+        ]
+    },
+    {
+        "name": "annual plant",
+        "trans": [
+            "一年生植物"
+        ]
+    },
+    {
+        "name": "annual ring",
+        "trans": [
+            "年轮"
+        ]
+    },
+    {
+        "name": "annular",
+        "trans": [
+            "环状的"
+        ]
+    },
+    {
+        "name": "annulation",
+        "trans": [
+            "环"
+        ]
+    },
+    {
+        "name": "annulus",
+        "trans": [
+            "体环"
+        ]
+    },
+    {
+        "name": "anomalous electric field",
+        "trans": [
+            "异常电场"
+        ]
+    },
+    {
+        "name": "anomalous extinction",
+        "trans": [
+            "异常消光"
+        ]
+    },
+    {
+        "name": "anomalous interference color",
+        "trans": [
+            "异常干涉色"
+        ]
+    },
+    {
+        "name": "anomalous lead",
+        "trans": [
+            "异常铅"
+        ]
+    },
+    {
+        "name": "anomalous upheaval",
+        "trans": [
+            "异常隆起"
+        ]
+    },
+    {
+        "name": "anomaly",
+        "trans": [
+            "异常"
+        ]
+    },
+    {
+        "name": "anomite",
+        "trans": [
+            "褐云母"
+        ]
+    },
+    {
+        "name": "anonymous",
+        "trans": [
+            "不具名的"
+        ]
+    },
+    {
+        "name": "anorogenic period",
+        "trans": [
+            "非造山期"
+        ]
+    },
+    {
+        "name": "anorogenic time",
+        "trans": [
+            "非造山期"
+        ]
+    },
+    {
+        "name": "anorthite",
+        "trans": [
+            "钙长石"
+        ]
+    },
+    {
+        "name": "anorthitite",
+        "trans": [
+            "钙长岩"
+        ]
+    },
+    {
+        "name": "anorthoclase",
+        "trans": [
+            "歪长石"
+        ]
+    },
+    {
+        "name": "anorthosite",
+        "trans": [
+            "斜长岩"
+        ]
+    },
+    {
+        "name": "antagonism",
+        "trans": [
+            "对抗酌"
+        ]
+    },
+    {
+        "name": "antarctic",
+        "trans": [
+            "南极"
+        ]
+    },
+    {
+        "name": "antarctica",
+        "trans": [
+            "南极大陆"
+        ]
+    },
+    {
+        "name": "antecedent",
+        "trans": [
+            "先行的"
+        ]
+    },
+    {
+        "name": "antecedent precipitation index",
+        "trans": [
+            "前期降雨指标"
+        ]
+    },
+    {
+        "name": "antecedent river",
+        "trans": [
+            "先成河"
+        ]
+    },
+    {
+        "name": "antecedent valley",
+        "trans": [
+            "先成谷"
+        ]
+    },
+    {
+        "name": "anteclise",
+        "trans": [
+            "台背斜"
+        ]
+    },
+    {
+        "name": "antegenetic river",
+        "trans": [
+            "原生河"
+        ]
+    },
+    {
+        "name": "antenna",
+        "trans": [
+            "触角"
+        ]
+    },
+    {
+        "name": "antennule",
+        "trans": [
+            "第一触角"
+        ]
+    },
+    {
+        "name": "anther",
+        "trans": [
+            "药"
+        ]
+    },
+    {
+        "name": "antheridium",
+        "trans": [
+            "精子囊"
+        ]
+    },
+    {
+        "name": "antholite",
+        "trans": [
+            "直闪石"
+        ]
+    },
+    {
+        "name": "anthophyllite",
+        "trans": [
+            "直闪石"
+        ]
+    },
+    {
+        "name": "anthozoa",
+        "trans": [
+            "珊烘类"
+        ]
+    },
+    {
+        "name": "anthracite",
+        "trans": [
+            "无烟煤"
+        ]
+    },
+    {
+        "name": "anthracite coal",
+        "trans": [
+            "无烟煤"
+        ]
+    },
+    {
+        "name": "anthraconite",
+        "trans": [
+            "沥青灰岩"
+        ]
+    },
+    {
+        "name": "anthraxolite",
+        "trans": [
+            "碳沥青"
+        ]
+    },
+    {
+        "name": "anthraxylon",
+        "trans": [
+            "纯木煤"
+        ]
+    },
+    {
+        "name": "anthropogenic factor",
+        "trans": [
+            "人为因素"
+        ]
+    },
+    {
+        "name": "anthropogeography",
+        "trans": [
+            "人类地理学"
+        ]
+    },
+    {
+        "name": "anthropoid",
+        "trans": [
+            "类人猿"
+        ]
+    },
+    {
+        "name": "anthropoid apes ape",
+        "trans": [
+            "类人猿"
+        ]
+    },
+    {
+        "name": "anthropology",
+        "trans": [
+            "人类学"
+        ]
+    },
+    {
+        "name": "anthropophyte",
+        "trans": [
+            "人为植物"
+        ]
+    },
+    {
+        "name": "anthropostratigraphy",
+        "trans": [
+            "人类地层学"
+        ]
+    },
+    {
+        "name": "antibonding electron",
+        "trans": [
+            "反键电子"
+        ]
+    },
+    {
+        "name": "anticathode",
+        "trans": [
+            "对阴极"
+        ]
+    },
+    {
+        "name": "anticlinal",
+        "trans": [
+            "背钭的"
+        ]
+    },
+    {
+        "name": "anticlinal axis",
+        "trans": [
+            "背斜轴"
+        ]
+    },
+    {
+        "name": "anticlinal bend",
+        "trans": [
+            "背斜弯曲"
+        ]
+    },
+    {
+        "name": "anticlinal dome",
+        "trans": [
+            "背斜隆起"
+        ]
+    },
+    {
+        "name": "anticlinal fault",
+        "trans": [
+            "背斜断层"
+        ]
+    },
+    {
+        "name": "anticlinal fold",
+        "trans": [
+            "背斜"
+        ]
+    },
+    {
+        "name": "anticlinal limb",
+        "trans": [
+            "背斜翼"
+        ]
+    },
+    {
+        "name": "anticlinal mountain",
+        "trans": [
+            "背斜脊"
+        ]
+    },
+    {
+        "name": "anticlinal ridge",
+        "trans": [
+            "背斜脊"
+        ]
+    },
+    {
+        "name": "anticlinal theory",
+        "trans": [
+            "背斜理论"
+        ]
+    },
+    {
+        "name": "anticlinal trap",
+        "trans": [
+            "背斜圈闭"
+        ]
+    },
+    {
+        "name": "anticlinal valley",
+        "trans": [
+            "背斜谷"
+        ]
+    },
+    {
+        "name": "anticlinal zone",
+        "trans": [
+            "背斜带"
+        ]
+    },
+    {
+        "name": "anticline",
+        "trans": [
+            "背斜"
+        ]
+    },
+    {
+        "name": "anticlinorium",
+        "trans": [
+            "复背斜"
+        ]
+    },
+    {
+        "name": "anticlise",
+        "trans": [
+            "台背斜"
+        ]
+    },
+    {
+        "name": "anticlockwise",
+        "trans": [
+            "反时针方向的"
+        ]
+    },
+    {
+        "name": "anticoincidence",
+        "trans": [
+            "反符合"
+        ]
+    },
+    {
+        "name": "antidune",
+        "trans": [
+            "反沙丘"
+        ]
+    },
+    {
+        "name": "antiferromagnetism",
+        "trans": [
+            "反铁磁性"
+        ]
+    },
+    {
+        "name": "antifluorite structure",
+        "trans": [
+            "反萤石结构"
+        ]
+    },
+    {
+        "name": "antiform",
+        "trans": [
+            "背斜型构造"
+        ]
+    },
+    {
+        "name": "antiformal syncline",
+        "trans": [
+            "背斜型向斜"
+        ]
+    },
+    {
+        "name": "antigorite",
+        "trans": [
+            "叶蛇纹石"
+        ]
+    },
+    {
+        "name": "antimonite",
+        "trans": [
+            "辉锑矿"
+        ]
+    },
+    {
+        "name": "antimony",
+        "trans": [
+            "锑"
+        ]
+    },
+    {
+        "name": "antimony bloom",
+        "trans": [
+            "锑华"
+        ]
+    },
+    {
+        "name": "antipathy",
+        "trans": [
+            "不相容"
+        ]
+    },
+    {
+        "name": "antipertite",
+        "trans": [
+            "反纹长石"
+        ]
+    },
+    {
+        "name": "antiseismic",
+        "trans": [
+            "抗震的"
+        ]
+    },
+    {
+        "name": "antiseptic",
+        "trans": [
+            "防腐剂"
+        ]
+    },
+    {
+        "name": "antistress mineral",
+        "trans": [
+            "反应力矿物"
+        ]
+    },
+    {
+        "name": "antisymmetrization",
+        "trans": [
+            "反对称化"
+        ]
+    },
+    {
+        "name": "antithetic fault",
+        "trans": [
+            "反向断层"
+        ]
+    },
+    {
+        "name": "antlerite",
+        "trans": [
+            "块铜矾"
+        ]
+    },
+    {
+        "name": "antofagastite",
+        "trans": [
+            "水氯铜矿"
+        ]
+    },
+    {
+        "name": "anulus",
+        "trans": [
+            "体环"
+        ]
+    },
+    {
+        "name": "apachite",
+        "trans": [
+            "闪辉响岩"
+        ]
+    },
+    {
+        "name": "apatite",
+        "trans": [
+            "磷灰石"
+        ]
+    },
+    {
+        "name": "aperiodicity",
+        "trans": [
+            "非周期性"
+        ]
+    },
+    {
+        "name": "aperture",
+        "trans": [
+            "孔"
+        ]
+    },
+    {
+        "name": "apex",
+        "trans": [
+            "背斜顶"
+        ]
+    },
+    {
+        "name": "apex of shell",
+        "trans": [
+            "壳顶"
+        ]
+    },
+    {
+        "name": "aphanic",
+        "trans": [
+            "显衡隐晶质的"
+        ]
+    },
+    {
+        "name": "aphaniphyric",
+        "trans": [
+            "隐晶斑状"
+        ]
+    },
+    {
+        "name": "aphanite",
+        "trans": [
+            "隐晶岩"
+        ]
+    },
+    {
+        "name": "aphanitic texture",
+        "trans": [
+            "隐晶结构"
+        ]
+    },
+    {
+        "name": "aphanitic variolitic texture",
+        "trans": [
+            "隐晶球颗结构"
+        ]
+    },
+    {
+        "name": "aphotic zone",
+        "trans": [
+            "无光带"
+        ]
+    },
+    {
+        "name": "aphrosiderite",
+        "trans": [
+            "铁华绿泥石"
+        ]
+    },
+    {
+        "name": "aphthalose",
+        "trans": [
+            "钾芒硝"
+        ]
+    },
+    {
+        "name": "aphthitalite",
+        "trans": [
+            "钾芒硝"
+        ]
+    },
+    {
+        "name": "aphthonite",
+        "trans": [
+            "银铜矿"
+        ]
+    },
+    {
+        "name": "aphyric",
+        "trans": [
+            "无斑隐晶质的"
+        ]
+    },
+    {
+        "name": "apical disk",
+        "trans": [
+            "顶系"
+        ]
+    },
+    {
+        "name": "apical system",
+        "trans": [
+            "顶系"
+        ]
+    },
+    {
+        "name": "apjohnite",
+        "trans": [
+            "锰茂"
+        ]
+    },
+    {
+        "name": "aplite",
+        "trans": [
+            "细晶岩"
+        ]
+    },
+    {
+        "name": "aplitic",
+        "trans": [
+            "细晶状的"
+        ]
+    },
+    {
+        "name": "aplitic facies",
+        "trans": [
+            "细晶岩相"
+        ]
+    },
+    {
+        "name": "aplitic texture",
+        "trans": [
+            "细晶岩构造"
+        ]
+    },
+    {
+        "name": "aplogranite",
+        "trans": [
+            "淡色花岗岩"
+        ]
+    },
+    {
+        "name": "apoandesite",
+        "trans": [
+            "脱玻安山岩"
+        ]
+    },
+    {
+        "name": "apobasalt",
+        "trans": [
+            "脱玻玄武岩"
+        ]
+    },
+    {
+        "name": "apogee",
+        "trans": [
+            "远地点"
+        ]
+    },
+    {
+        "name": "apogranite",
+        "trans": [
+            "变花岗岩"
+        ]
+    },
+    {
+        "name": "apolar adsorption",
+        "trans": [
+            "非极性吸附"
+        ]
+    },
+    {
+        "name": "apomagmatic",
+        "trans": [
+            "外岩浆的"
+        ]
+    },
+    {
+        "name": "apomagmatic deposit",
+        "trans": [
+            "外岩浆矿床"
+        ]
+    },
+    {
+        "name": "apophyllite",
+        "trans": [
+            "鱼眼石"
+        ]
+    },
+    {
+        "name": "apophyse",
+        "trans": [
+            "岩枝"
+        ]
+    },
+    {
+        "name": "apophysis",
+        "trans": [
+            "岩枝"
+        ]
+    },
+    {
+        "name": "apospory",
+        "trans": [
+            "无孢生殖"
+        ]
+    },
+    {
+        "name": "apparent",
+        "trans": [
+            "外观上的"
+        ]
+    },
+    {
+        "name": "apparent density",
+        "trans": [
+            "视密度"
+        ]
+    },
+    {
+        "name": "apparent dip",
+        "trans": [
+            "视倾斜"
+        ]
+    },
+    {
+        "name": "apparent heave",
+        "trans": [
+            "视横断距"
+        ]
+    },
+    {
+        "name": "apparent resistivity",
+        "trans": [
+            "视电阻率"
+        ]
+    },
+    {
+        "name": "apparent resistivity curve",
+        "trans": [
+            "视电阻率曲线"
+        ]
+    },
+    {
+        "name": "apparent resistivity map",
+        "trans": [
+            "视电阻率图"
+        ]
+    },
+    {
+        "name": "apparent specific gravity",
+        "trans": [
+            "表观比重"
+        ]
+    },
+    {
+        "name": "apparent velocity",
+        "trans": [
+            "视速度"
+        ]
+    },
+    {
+        "name": "apperance of crystal",
+        "trans": [
+            "结晶外貌"
+        ]
+    },
+    {
+        "name": "apple coal",
+        "trans": [
+            "软煤"
+        ]
+    },
+    {
+        "name": "applied geochemistry",
+        "trans": [
+            "应用地球化学"
+        ]
+    },
+    {
+        "name": "applied geology",
+        "trans": [
+            "应用地质学"
+        ]
+    },
+    {
+        "name": "applied geomorphology",
+        "trans": [
+            "应用地形学"
+        ]
+    },
+    {
+        "name": "applied geothermics",
+        "trans": [
+            "应用地热学"
+        ]
+    },
+    {
+        "name": "applied geothermy",
+        "trans": [
+            "应用地热学"
+        ]
+    },
+    {
+        "name": "applied palaeontology",
+        "trans": [
+            "应用古生物学"
+        ]
+    },
+    {
+        "name": "applied seismology",
+        "trans": [
+            "应用地震学"
+        ]
+    },
+    {
+        "name": "appraisement",
+        "trans": [
+            "评价"
+        ]
+    },
+    {
+        "name": "apron reef",
+        "trans": [
+            "石中住裙礁"
+        ]
+    },
+    {
+        "name": "aptian",
+        "trans": [
+            "阿普第阶"
+        ]
+    },
+    {
+        "name": "aptian stage",
+        "trans": [
+            "阿普第阶"
+        ]
+    },
+    {
+        "name": "aqua regia",
+        "trans": [
+            "王水"
+        ]
+    },
+    {
+        "name": "aquamarine",
+        "trans": [
+            "海蓝宝石"
+        ]
+    },
+    {
+        "name": "aquatic",
+        "trans": [
+            "水生的"
+        ]
+    },
+    {
+        "name": "aquatic animals",
+        "trans": [
+            "水栖动物"
+        ]
+    },
+    {
+        "name": "aqueduct",
+        "trans": [
+            "沟渠"
+        ]
+    },
+    {
+        "name": "aqueous deposit",
+        "trans": [
+            "水成沉积"
+        ]
+    },
+    {
+        "name": "aqueous rock",
+        "trans": [
+            "水成岩"
+        ]
+    },
+    {
+        "name": "aqueous soil",
+        "trans": [
+            "水成土"
+        ]
+    },
+    {
+        "name": "aqueous solution",
+        "trans": [
+            "水溶液"
+        ]
+    },
+    {
+        "name": "aquiclude",
+        "trans": [
+            "隔水层"
+        ]
+    },
+    {
+        "name": "aquifer",
+        "trans": [
+            "含水层"
+        ]
+    },
+    {
+        "name": "aquifer loss",
+        "trans": [
+            "含水层损失"
+        ]
+    },
+    {
+        "name": "aquifer storage",
+        "trans": [
+            "合水层储水"
+        ]
+    },
+    {
+        "name": "aquifer test",
+        "trans": [
+            "含水层试验"
+        ]
+    },
+    {
+        "name": "aquiferous",
+        "trans": [
+            "含水的"
+        ]
+    },
+    {
+        "name": "aquifuge",
+        "trans": [
+            "不透水层"
+        ]
+    },
+    {
+        "name": "aquitanian stage",
+        "trans": [
+            "阿启坦阶"
+        ]
+    },
+    {
+        "name": "aquitard",
+        "trans": [
+            "弱含水层"
+        ]
+    },
+    {
+        "name": "arachnidea",
+        "trans": [
+            "蛛形类"
+        ]
+    },
+    {
+        "name": "araeoxene",
+        "trans": [
+            "钒铅锌矿"
+        ]
+    },
+    {
+        "name": "aragonite",
+        "trans": [
+            "文石"
+        ]
+    },
+    {
+        "name": "arakawaite",
+        "trans": [
+            "磷锌铜矿"
+        ]
+    },
+    {
+        "name": "aramayoite",
+        "trans": [
+            "硫铋锑银矿"
+        ]
+    },
+    {
+        "name": "arandisite",
+        "trans": [
+            "硅锡矿"
+        ]
+    },
+    {
+        "name": "arborescent",
+        "trans": [
+            "被状"
+        ]
+    },
+    {
+        "name": "arc of compression",
+        "trans": [
+            "褶皱弧"
+        ]
+    },
+    {
+        "name": "arc of folding",
+        "trans": [
+            "压缩弧"
+        ]
+    },
+    {
+        "name": "arch",
+        "trans": [
+            "背斜"
+        ]
+    },
+    {
+        "name": "archaean era",
+        "trans": [
+            "太古代"
+        ]
+    },
+    {
+        "name": "archaeocyte",
+        "trans": [
+            "原始细胞"
+        ]
+    },
+    {
+        "name": "archaeogeology",
+        "trans": [
+            "考古地质学"
+        ]
+    },
+    {
+        "name": "archaeopteris flora",
+        "trans": [
+            "古蔽属植物群"
+        ]
+    },
+    {
+        "name": "archaeopteryx",
+        "trans": [
+            "始祖鸟属"
+        ]
+    },
+    {
+        "name": "archaeozoic",
+        "trans": [
+            "太古代的"
+        ]
+    },
+    {
+        "name": "archaian",
+        "trans": [
+            "太古代的"
+        ]
+    },
+    {
+        "name": "archbend",
+        "trans": [
+            "褶皱头部"
+        ]
+    },
+    {
+        "name": "archean",
+        "trans": [
+            "太古代"
+        ]
+    },
+    {
+        "name": "archean greenstone belt",
+        "trans": [
+            "太古代绿岩带"
+        ]
+    },
+    {
+        "name": "arched structure",
+        "trans": [
+            "隆起构造"
+        ]
+    },
+    {
+        "name": "archegone",
+        "trans": [
+            "颈卵器"
+        ]
+    },
+    {
+        "name": "archegonium",
+        "trans": [
+            "颈卵器"
+        ]
+    },
+    {
+        "name": "archeomagnetism",
+        "trans": [
+            "太古磁性"
+        ]
+    },
+    {
+        "name": "archeophytic era",
+        "trans": [
+            "太古植物代"
+        ]
+    },
+    {
+        "name": "archeozoic era",
+        "trans": [
+            "太古代"
+        ]
+    },
+    {
+        "name": "archetype",
+        "trans": [
+            "原始型"
+        ]
+    },
+    {
+        "name": "archipelagic apron",
+        "trans": [
+            "群岛沿边漫坡海底"
+        ]
+    },
+    {
+        "name": "archipelago",
+        "trans": [
+            "群岛"
+        ]
+    },
+    {
+        "name": "arcogenesis",
+        "trans": [
+            "地穹运动"
+        ]
+    },
+    {
+        "name": "arcogeny",
+        "trans": [
+            "地穹运动"
+        ]
+    },
+    {
+        "name": "arctic",
+        "trans": [
+            "北极圈"
+        ]
+    },
+    {
+        "name": "arctic air mass",
+        "trans": [
+            "北极气团"
+        ]
+    },
+    {
+        "name": "arctic front",
+        "trans": [
+            "北极锋"
+        ]
+    },
+    {
+        "name": "arctic plants",
+        "trans": [
+            "北极植物"
+        ]
+    },
+    {
+        "name": "arctic subregion",
+        "trans": [
+            "北极亚区"
+        ]
+    },
+    {
+        "name": "arctoalpine",
+        "trans": [
+            "北极高山的"
+        ]
+    },
+    {
+        "name": "arcuate",
+        "trans": [
+            "弓形的"
+        ]
+    },
+    {
+        "name": "arcuate delta",
+        "trans": [
+            "弓形三角洲"
+        ]
+    },
+    {
+        "name": "ardealite",
+        "trans": [
+            "磷石膏"
+        ]
+    },
+    {
+        "name": "ardennite",
+        "trans": [
+            "锰硅铝矿"
+        ]
+    },
+    {
+        "name": "area",
+        "trans": [
+            "分布区"
+        ]
+    },
+    {
+        "name": "area of artesian flow",
+        "trans": [
+            "自廉区"
+        ]
+    },
+    {
+        "name": "area of influence",
+        "trans": [
+            "影响区域"
+        ]
+    },
+    {
+        "name": "areal eruption",
+        "trans": [
+            "区域喷溢"
+        ]
+    },
+    {
+        "name": "arenaceous",
+        "trans": [
+            "砂屑的"
+        ]
+    },
+    {
+        "name": "arenaceous rock",
+        "trans": [
+            "砂质岩"
+        ]
+    },
+    {
+        "name": "arenaceous texture",
+        "trans": [
+            "砂质结构"
+        ]
+    },
+    {
+        "name": "arenes",
+        "trans": [
+            "粗砂"
+        ]
+    },
+    {
+        "name": "arenopelitic",
+        "trans": [
+            "砂泥质的"
+        ]
+    },
+    {
+        "name": "arenose",
+        "trans": [
+            "粗砂质的"
+        ]
+    },
+    {
+        "name": "arfvedsonite",
+        "trans": [
+            "钠钙闪石"
+        ]
+    },
+    {
+        "name": "argentiferous",
+        "trans": [
+            "含银的"
+        ]
+    },
+    {
+        "name": "argentite",
+        "trans": [
+            "辉银矿"
+        ]
+    },
+    {
+        "name": "argentobismutite",
+        "trans": [
+            "硫银铋矿"
+        ]
+    },
+    {
+        "name": "argentojarosite",
+        "trans": [
+            "辉银黄钾铁矾"
+        ]
+    },
+    {
+        "name": "argentopyrite",
+        "trans": [
+            "含银黄铁矿"
+        ]
+    },
+    {
+        "name": "argil",
+        "trans": [
+            "白粘土"
+        ]
+    },
+    {
+        "name": "argillaceous",
+        "trans": [
+            "泥质的"
+        ]
+    },
+    {
+        "name": "argillaceous limestone",
+        "trans": [
+            "泥质灰岩"
+        ]
+    },
+    {
+        "name": "argillite",
+        "trans": [
+            "泥岩"
+        ]
+    },
+    {
+        "name": "argillization",
+        "trans": [
+            "泥化"
+        ]
+    },
+    {
+        "name": "argon",
+        "trans": [
+            "氩"
+        ]
+    },
+    {
+        "name": "argyrodite",
+        "trans": [
+            "硫银锗矿"
+        ]
+    },
+    {
+        "name": "arid basin",
+        "trans": [
+            "干燥盆地"
+        ]
+    },
+    {
+        "name": "arid landform",
+        "trans": [
+            "干旱地形"
+        ]
+    },
+    {
+        "name": "arid peneplain",
+        "trans": [
+            "干旱准平原"
+        ]
+    },
+    {
+        "name": "arid zone",
+        "trans": [
+            "干旱带"
+        ]
+    },
+    {
+        "name": "aridity coefficient",
+        "trans": [
+            "干燥系数"
+        ]
+    },
+    {
+        "name": "aridity index",
+        "trans": [
+            "干燥指数"
+        ]
+    },
+    {
+        "name": "ariegite",
+        "trans": [
+            "尖榴辉岩"
+        ]
+    },
+    {
+        "name": "arithmetical averaging grade",
+        "trans": [
+            "算术平均品位"
+        ]
+    },
+    {
+        "name": "arithmetical averaging thickness",
+        "trans": [
+            "算术平均厚度"
+        ]
+    },
+    {
+        "name": "arizonite",
+        "trans": [
+            "红钛铁矿"
+        ]
+    },
+    {
+        "name": "arkite",
+        "trans": [
+            "白榴霞斑岩"
+        ]
+    },
+    {
+        "name": "arkose",
+        "trans": [
+            "长石石英岩"
+        ]
+    },
+    {
+        "name": "arkosic sandstone",
+        "trans": [
+            "长石石英岩"
+        ]
+    },
+    {
+        "name": "armangite",
+        "trans": [
+            "砷锰矿"
+        ]
+    },
+    {
+        "name": "armored cone",
+        "trans": [
+            "熔壳火山锥"
+        ]
+    },
+    {
+        "name": "armored fishes",
+        "trans": [
+            "甲胄鱼纲"
+        ]
+    },
+    {
+        "name": "aromatic base crude oil",
+        "trans": [
+            "芳香基原油"
+        ]
+    },
+    {
+        "name": "arrangement",
+        "trans": [
+            "配置"
+        ]
+    },
+    {
+        "name": "arroyo",
+        "trans": [
+            "干谷"
+        ]
+    },
+    {
+        "name": "arsenate",
+        "trans": [
+            "砷酸盐"
+        ]
+    },
+    {
+        "name": "arsenic",
+        "trans": [
+            "砷"
+        ]
+    },
+    {
+        "name": "arseniopleite",
+        "trans": [
+            "红砷铁矿"
+        ]
+    },
+    {
+        "name": "arseniosiderite",
+        "trans": [
+            "钙砷铁矿"
+        ]
+    },
+    {
+        "name": "arsenite",
+        "trans": [
+            "砷华"
+        ]
+    },
+    {
+        "name": "arsenoclasite",
+        "trans": [
+            "水砷锰石"
+        ]
+    },
+    {
+        "name": "arsenolite",
+        "trans": [
+            "砷华"
+        ]
+    },
+    {
+        "name": "arsenomiargyrite",
+        "trans": [
+            "砷辉锑银矿"
+        ]
+    },
+    {
+        "name": "arsenopyrite",
+        "trans": [
+            "毒砂"
+        ]
+    },
+    {
+        "name": "arterite",
+        "trans": [
+            "层混合岩"
+        ]
+    },
+    {
+        "name": "artesian aquifer",
+        "trans": [
+            "自廉层"
+        ]
+    },
+    {
+        "name": "artesian basin",
+        "trans": [
+            "自廉盆地"
+        ]
+    },
+    {
+        "name": "artesian ground water",
+        "trans": [
+            "自霖下水"
+        ]
+    },
+    {
+        "name": "artesian pressure head",
+        "trans": [
+            "承压水位"
+        ]
+    },
+    {
+        "name": "artesian spring",
+        "trans": [
+            "自联"
+        ]
+    },
+    {
+        "name": "artesian water",
+        "trans": [
+            "自廉"
+        ]
+    },
+    {
+        "name": "artesian well",
+        "trans": [
+            "自廉"
+        ]
+    },
+    {
+        "name": "arthropoda",
+        "trans": [
+            "节肢动物"
+        ]
+    },
+    {
+        "name": "artic front",
+        "trans": [
+            "北极峰"
+        ]
+    },
+    {
+        "name": "articulation",
+        "trans": [
+            "关节"
+        ]
+    },
+    {
+        "name": "artificial",
+        "trans": [
+            "人为的"
+        ]
+    },
+    {
+        "name": "artificial classification",
+        "trans": [
+            "人为分类"
+        ]
+    },
+    {
+        "name": "artificial crystal",
+        "trans": [
+            "人造晶体"
+        ]
+    },
+    {
+        "name": "artificial diamond",
+        "trans": [
+            "人造金刚石"
+        ]
+    },
+    {
+        "name": "artificial discharge",
+        "trans": [
+            "人工排泄"
+        ]
+    },
+    {
+        "name": "artificial earth's satellite",
+        "trans": [
+            "人造地球卫星"
+        ]
+    },
+    {
+        "name": "artificial earthquake",
+        "trans": [
+            "人为地震"
+        ]
+    },
+    {
+        "name": "artificial ground water",
+        "trans": [
+            "人工地下水"
+        ]
+    },
+    {
+        "name": "artificial hypocenter",
+        "trans": [
+            "人工震源"
+        ]
+    },
+    {
+        "name": "artificial mineral",
+        "trans": [
+            "人造矿物"
+        ]
+    },
+    {
+        "name": "artificial radio element",
+        "trans": [
+            "人工放射元素"
+        ]
+    },
+    {
+        "name": "artificial radioactivity",
+        "trans": [
+            "人工放射性"
+        ]
+    },
+    {
+        "name": "artificial recharge",
+        "trans": [
+            "人工补给"
+        ]
+    },
+    {
+        "name": "artificial satellite",
+        "trans": [
+            "人造卫星"
+        ]
+    },
+    {
+        "name": "artificial seismic source",
+        "trans": [
+            "人工震源"
+        ]
+    },
+    {
+        "name": "artificial selection",
+        "trans": [
+            "人工淘汰"
+        ]
+    },
+    {
+        "name": "artinite",
+        "trans": [
+            "纡维菱镁矿"
+        ]
+    },
+    {
+        "name": "artinsk stage",
+        "trans": [
+            "阿丁斯克阶"
+        ]
+    },
+    {
+        "name": "artinskian",
+        "trans": [
+            "阿丁斯克阶"
+        ]
+    },
+    {
+        "name": "asbestos",
+        "trans": [
+            "石棉"
+        ]
+    },
+    {
+        "name": "asbestus",
+        "trans": [
+            "石棉"
+        ]
+    },
+    {
+        "name": "asbolane",
+        "trans": [
+            "钴土矿"
+        ]
+    },
+    {
+        "name": "asbolite",
+        "trans": [
+            "钴土矿"
+        ]
+    },
+    {
+        "name": "ascending development",
+        "trans": [
+            "上升发育"
+        ]
+    },
+    {
+        "name": "ascension theory",
+        "trans": [
+            "上升说"
+        ]
+    },
+    {
+        "name": "ascent curve",
+        "trans": [
+            "上升曲线"
+        ]
+    },
+    {
+        "name": "aschaffite",
+        "trans": [
+            "云英钭煌岩"
+        ]
+    },
+    {
+        "name": "ascharite",
+        "trans": [
+            "硼镁石"
+        ]
+    },
+    {
+        "name": "aschistic",
+        "trans": [
+            "岩浆同质的"
+        ]
+    },
+    {
+        "name": "aschistic dike",
+        "trans": [
+            "未分异岩脉"
+        ]
+    },
+    {
+        "name": "aschistic dyke",
+        "trans": [
+            "未分异岩脉"
+        ]
+    },
+    {
+        "name": "aschistite",
+        "trans": [
+            "未分异岩"
+        ]
+    },
+    {
+        "name": "ascon type",
+        "trans": [
+            "单沟型"
+        ]
+    },
+    {
+        "name": "ascospore",
+        "trans": [
+            "子囊孢子"
+        ]
+    },
+    {
+        "name": "ascus",
+        "trans": [
+            "子囊"
+        ]
+    },
+    {
+        "name": "aseismic",
+        "trans": [
+            "无震的"
+        ]
+    },
+    {
+        "name": "asexual generation",
+        "trans": [
+            "无性世代"
+        ]
+    },
+    {
+        "name": "asexual reproduction",
+        "trans": [
+            "无性生殖"
+        ]
+    },
+    {
+        "name": "ash bed",
+        "trans": [
+            "火山灰层"
+        ]
+    },
+    {
+        "name": "ash cloud",
+        "trans": [
+            "灰云"
+        ]
+    },
+    {
+        "name": "ash cone",
+        "trans": [
+            "火山灰丘"
+        ]
+    },
+    {
+        "name": "ash content of coal",
+        "trans": [
+            "煤灰分"
+        ]
+    },
+    {
+        "name": "ash fall",
+        "trans": [
+            "降落灰"
+        ]
+    },
+    {
+        "name": "ash flow",
+        "trans": [
+            "火山灰流"
+        ]
+    },
+    {
+        "name": "ash free",
+        "trans": [
+            "无灰分的"
+        ]
+    },
+    {
+        "name": "ash shower",
+        "trans": [
+            "降落灰"
+        ]
+    },
+    {
+        "name": "ash structure",
+        "trans": [
+            "火山灰构造"
+        ]
+    },
+    {
+        "name": "ashgillian stage",
+        "trans": [
+            "阿石极阶"
+        ]
+    },
+    {
+        "name": "ashing",
+        "trans": [
+            "灰化"
+        ]
+    },
+    {
+        "name": "asmanite",
+        "trans": [
+            "陨鳞石英"
+        ]
+    },
+    {
+        "name": "asparagolite",
+        "trans": [
+            "黄绿磷灰石"
+        ]
+    },
+    {
+        "name": "asparagus stone",
+        "trans": [
+            "黄绿磷灰石"
+        ]
+    },
+    {
+        "name": "asperite",
+        "trans": [
+            "玻质英安岩"
+        ]
+    },
+    {
+        "name": "asphalt",
+        "trans": [
+            "地沥青"
+        ]
+    },
+    {
+        "name": "asphalt sealing trap",
+        "trans": [
+            "沥青塞圈闭"
+        ]
+    },
+    {
+        "name": "asphaltenes",
+        "trans": [
+            "沥青质"
+        ]
+    },
+    {
+        "name": "asphaltic base crude oil",
+        "trans": [
+            "沥青基原油"
+        ]
+    },
+    {
+        "name": "asphaltic pyrobitumen",
+        "trans": [
+            "焦性沥青"
+        ]
+    },
+    {
+        "name": "asphaltite",
+        "trans": [
+            "沥青岩"
+        ]
+    },
+    {
+        "name": "asphaltum",
+        "trans": [
+            "地沥青"
+        ]
+    },
+    {
+        "name": "aspite",
+        "trans": [
+            "盾状火山"
+        ]
+    },
+    {
+        "name": "asporous",
+        "trans": [
+            "无孢子的"
+        ]
+    },
+    {
+        "name": "assay",
+        "trans": [
+            "试金"
+        ]
+    },
+    {
+        "name": "assay balance",
+        "trans": [
+            "试金天平"
+        ]
+    },
+    {
+        "name": "assay map",
+        "trans": [
+            "采样平面图"
+        ]
+    },
+    {
+        "name": "assaying",
+        "trans": [
+            "试料分析"
+        ]
+    },
+    {
+        "name": "assessment well",
+        "trans": [
+            "估价井"
+        ]
+    },
+    {
+        "name": "assimilate",
+        "trans": [
+            "同化"
+        ]
+    },
+    {
+        "name": "assimilation",
+        "trans": [
+            "岩浆的同化酌"
+        ]
+    },
+    {
+        "name": "associate",
+        "trans": [
+            "使联合"
+        ]
+    },
+    {
+        "name": "associate species",
+        "trans": [
+            "伴生种"
+        ]
+    },
+    {
+        "name": "associate structure",
+        "trans": [
+            "伴生构造"
+        ]
+    },
+    {
+        "name": "associated mineral",
+        "trans": [
+            "伴生矿物"
+        ]
+    },
+    {
+        "name": "associated ore",
+        "trans": [
+            "伴生矿"
+        ]
+    },
+    {
+        "name": "association",
+        "trans": [
+            "联合"
+        ]
+    },
+    {
+        "name": "association of elements",
+        "trans": [
+            "元素的共生组合"
+        ]
+    },
+    {
+        "name": "assyntite",
+        "trans": [
+            "钛辉方钠正长岩"
+        ]
+    },
+    {
+        "name": "assypite",
+        "trans": [
+            "钠橄辉长岩"
+        ]
+    },
+    {
+        "name": "astable",
+        "trans": [
+            "不稳定的"
+        ]
+    },
+    {
+        "name": "astatic",
+        "trans": [
+            "无定向的"
+        ]
+    },
+    {
+        "name": "astatic magnetometer",
+        "trans": [
+            "无定向磁力仪"
+        ]
+    },
+    {
+        "name": "astaticism",
+        "trans": [
+            "无定向性"
+        ]
+    },
+    {
+        "name": "astatine",
+        "trans": [
+            "砹"
+        ]
+    },
+    {
+        "name": "astatisation",
+        "trans": [
+            "无定向化"
+        ]
+    },
+    {
+        "name": "asteroid",
+        "trans": [
+            "小行星"
+        ]
+    },
+    {
+        "name": "asthenosphere",
+        "trans": [
+            "软力"
+        ]
+    },
+    {
+        "name": "astian stage",
+        "trans": [
+            "阿斯蒂阶"
+        ]
+    },
+    {
+        "name": "astite",
+        "trans": [
+            "红柱角页岩"
+        ]
+    },
+    {
+        "name": "astrakhanite",
+        "trans": [
+            "白钠镁矾"
+        ]
+    },
+    {
+        "name": "astroblem",
+        "trans": [
+            "古陨挥"
+        ]
+    },
+    {
+        "name": "astrogeology",
+        "trans": [
+            "天体地质学"
+        ]
+    },
+    {
+        "name": "astrophyllite",
+        "trans": [
+            "星叶石"
+        ]
+    },
+    {
+        "name": "asymmetric",
+        "trans": [
+            "不对称的"
+        ]
+    },
+    {
+        "name": "asymmetric carbon atom",
+        "trans": [
+            "不对称碳原子"
+        ]
+    },
+    {
+        "name": "asymmetric dispersion",
+        "trans": [
+            "不对称色散"
+        ]
+    },
+    {
+        "name": "asymmetric fold",
+        "trans": [
+            "不对称褶皱"
+        ]
+    },
+    {
+        "name": "asymmetrical",
+        "trans": [
+            "不对称的"
+        ]
+    },
+    {
+        "name": "asymmetrical anticline",
+        "trans": [
+            "不对称背斜"
+        ]
+    },
+    {
+        "name": "asymmetrical crystal monochromator",
+        "trans": [
+            "不对称结晶单色仪"
+        ]
+    },
+    {
+        "name": "asymmetrical ridge",
+        "trans": [
+            "不对称山脊"
+        ]
+    },
+    {
+        "name": "asymmetry",
+        "trans": [
+            "非对称"
+        ]
+    },
+    {
+        "name": "asynchronous",
+        "trans": [
+            "异步的"
+        ]
+    },
+    {
+        "name": "atacamite",
+        "trans": [
+            "氯铜矿"
+        ]
+    },
+    {
+        "name": "atatschite",
+        "trans": [
+            "线玻正斑岩"
+        ]
+    },
+    {
+        "name": "atavism",
+        "trans": [
+            "返祖"
+        ]
+    },
+    {
+        "name": "ataxic mineral deposit",
+        "trans": [
+            "不成层矿床"
+        ]
+    },
+    {
+        "name": "ataxite",
+        "trans": [
+            "角砾斑杂岩"
+        ]
+    },
+    {
+        "name": "ataxitic",
+        "trans": [
+            "角砾斑杂状的"
+        ]
+    },
+    {
+        "name": "atectonic",
+        "trans": [
+            "非构造的"
+        ]
+    },
+    {
+        "name": "atelestite",
+        "trans": [
+            "砷酸铋矿"
+        ]
+    },
+    {
+        "name": "atlantic ocean",
+        "trans": [
+            "大误"
+        ]
+    },
+    {
+        "name": "atlantic suite",
+        "trans": [
+            "大误岩套"
+        ]
+    },
+    {
+        "name": "atlasspat",
+        "trans": [
+            "纤维石"
+        ]
+    },
+    {
+        "name": "atmoclast",
+        "trans": [
+            "气碎岩"
+        ]
+    },
+    {
+        "name": "atmoclastic rock",
+        "trans": [
+            "气碎岩"
+        ]
+    },
+    {
+        "name": "atmoclastics",
+        "trans": [
+            "气碎岩"
+        ]
+    },
+    {
+        "name": "atmogenic metamorphism",
+        "trans": [
+            "气生变质"
+        ]
+    },
+    {
+        "name": "atmometer",
+        "trans": [
+            "蒸发表"
+        ]
+    },
+    {
+        "name": "atmophile element",
+        "trans": [
+            "亲气元素"
+        ]
+    },
+    {
+        "name": "atmosphere",
+        "trans": [
+            "大气圈"
+        ]
+    },
+    {
+        "name": "atmospheric pressure",
+        "trans": [
+            "气压"
+        ]
+    },
+    {
+        "name": "atmospheric rock",
+        "trans": [
+            "气成岩"
+        ]
+    },
+    {
+        "name": "atmospheric weathering",
+        "trans": [
+            "大气风化"
+        ]
+    },
+    {
+        "name": "atmospheric window",
+        "trans": [
+            "大气窗口"
+        ]
+    },
+    {
+        "name": "atmospheric windows",
+        "trans": [
+            "大气窗口"
+        ]
+    },
+    {
+        "name": "atoll",
+        "trans": [
+            "环礁"
+        ]
+    },
+    {
+        "name": "atoll lake",
+        "trans": [
+            "环礁湖"
+        ]
+    },
+    {
+        "name": "atoll texture",
+        "trans": [
+            "环礁结构"
+        ]
+    },
+    {
+        "name": "atomic binding",
+        "trans": [
+            "原子键"
+        ]
+    },
+    {
+        "name": "atomic bond",
+        "trans": [
+            "原子键"
+        ]
+    },
+    {
+        "name": "atomic disintegration",
+        "trans": [
+            "原子衰变"
+        ]
+    },
+    {
+        "name": "atomic energy level",
+        "trans": [
+            "原子能级"
+        ]
+    },
+    {
+        "name": "atomic mass unit",
+        "trans": [
+            "原子质量单位"
+        ]
+    },
+    {
+        "name": "atomic ratio",
+        "trans": [
+            "原子比"
+        ]
+    },
+    {
+        "name": "atomic size",
+        "trans": [
+            "原子大小"
+        ]
+    },
+    {
+        "name": "atomic spectrum",
+        "trans": [
+            "原子光谱"
+        ]
+    },
+    {
+        "name": "atomic unit",
+        "trans": [
+            "原子单位"
+        ]
+    },
+    {
+        "name": "atomic volume",
+        "trans": [
+            "原子体积"
+        ]
+    },
+    {
+        "name": "atomistics",
+        "trans": [
+            "原子论"
+        ]
+    },
+    {
+        "name": "atrio",
+        "trans": [
+            "火口原"
+        ]
+    },
+    {
+        "name": "atrio lake",
+        "trans": [
+            "火口原湖"
+        ]
+    },
+    {
+        "name": "atriopore",
+        "trans": [
+            "围鳃腔"
+        ]
+    },
+    {
+        "name": "atrium",
+        "trans": [
+            "围鳃腔"
+        ]
+    },
+    {
+        "name": "attenuation",
+        "trans": [
+            "衰减"
+        ]
+    },
+    {
+        "name": "attenuation constant",
+        "trans": [
+            "衰减常数"
+        ]
+    },
+    {
+        "name": "attenuation factor",
+        "trans": [
+            "衰减常数"
+        ]
+    },
+    {
+        "name": "attraction",
+        "trans": [
+            "引力"
+        ]
+    },
+    {
+        "name": "attribute",
+        "trans": [
+            "属性"
+        ]
+    },
+    {
+        "name": "attrition",
+        "trans": [
+            "磨损"
+        ]
+    },
+    {
+        "name": "attritus",
+        "trans": [
+            "碎集煤"
+        ]
+    },
+    {
+        "name": "atypical",
+        "trans": [
+            "非典型的"
+        ]
+    },
+    {
+        "name": "aubrite",
+        "trans": [
+            "顽火辉石无球粒陨石"
+        ]
+    },
+    {
+        "name": "auerlite",
+        "trans": [
+            "磷钍矿"
+        ]
+    },
+    {
+        "name": "augelite",
+        "trans": [
+            "光彩石"
+        ]
+    },
+    {
+        "name": "augen structure",
+        "trans": [
+            "眼状构造"
+        ]
+    },
+    {
+        "name": "augengneiss",
+        "trans": [
+            "眼环片麻岩"
+        ]
+    },
+    {
+        "name": "auger",
+        "trans": [
+            "螺旋钻"
+        ]
+    },
+    {
+        "name": "auger drill",
+        "trans": [
+            "螺旋钻"
+        ]
+    },
+    {
+        "name": "augite",
+        "trans": [
+            "辉石"
+        ]
+    },
+    {
+        "name": "augitite",
+        "trans": [
+            "辉石岩"
+        ]
+    },
+    {
+        "name": "aulacogene",
+        "trans": [
+            "古断槽"
+        ]
+    },
+    {
+        "name": "aureole",
+        "trans": [
+            "接触圈"
+        ]
+    },
+    {
+        "name": "aurichalcite",
+        "trans": [
+            "绿铜锌矿"
+        ]
+    },
+    {
+        "name": "auriferous",
+        "trans": [
+            "含金的"
+        ]
+    },
+    {
+        "name": "auriferous conglomerate",
+        "trans": [
+            "含金砾岩"
+        ]
+    },
+    {
+        "name": "auripigment",
+        "trans": [
+            "雌黄"
+        ]
+    },
+    {
+        "name": "aurora",
+        "trans": [
+            "极光"
+        ]
+    },
+    {
+        "name": "auroral zone",
+        "trans": [
+            "极光地带"
+        ]
+    },
+    {
+        "name": "australite",
+        "trans": [
+            "澳洲似黑曜岩"
+        ]
+    },
+    {
+        "name": "authigene",
+        "trans": [
+            "自生的"
+        ]
+    },
+    {
+        "name": "authigenesis",
+        "trans": [
+            "自生酌"
+        ]
+    },
+    {
+        "name": "authigenic",
+        "trans": [
+            "自生的"
+        ]
+    },
+    {
+        "name": "authigenic element",
+        "trans": [
+            "自生元素"
+        ]
+    },
+    {
+        "name": "authigenic mineral",
+        "trans": [
+            "自生矿物"
+        ]
+    },
+    {
+        "name": "authigenous",
+        "trans": [
+            "自生的"
+        ]
+    },
+    {
+        "name": "auto injection",
+        "trans": [
+            "自注入"
+        ]
+    },
+    {
+        "name": "autobreccia",
+        "trans": [
+            "同生角砾岩"
+        ]
+    },
+    {
+        "name": "autobreccited lava",
+        "trans": [
+            "同生角砾岩熔岩"
+        ]
+    },
+    {
+        "name": "autocatalysis",
+        "trans": [
+            "自动催化"
+        ]
+    },
+    {
+        "name": "autochthone",
+        "trans": [
+            "原地岩体"
+        ]
+    },
+    {
+        "name": "autochthonous",
+        "trans": [
+            "原地的"
+        ]
+    },
+    {
+        "name": "autochthonous coal",
+        "trans": [
+            "原地生成煤"
+        ]
+    },
+    {
+        "name": "autochthonous deposit",
+        "trans": [
+            "原地沉积"
+        ]
+    },
+    {
+        "name": "autochthonous fold",
+        "trans": [
+            "原地褶皱"
+        ]
+    },
+    {
+        "name": "autochthonous granite",
+        "trans": [
+            "原地花岗岩"
+        ]
+    },
+    {
+        "name": "autochthonous limestone",
+        "trans": [
+            "原地灰岩"
+        ]
+    },
+    {
+        "name": "autoclases",
+        "trans": [
+            "自碎"
+        ]
+    },
+    {
+        "name": "autoclast",
+        "trans": [
+            "自碎岩"
+        ]
+    },
+    {
+        "name": "autoclastic",
+        "trans": [
+            "自碎的"
+        ]
+    },
+    {
+        "name": "autoclastic rock",
+        "trans": [
+            "自碎岩"
+        ]
+    },
+    {
+        "name": "autoclave",
+        "trans": [
+            "压热器高压锅"
+        ]
+    },
+    {
+        "name": "autocorrelation function",
+        "trans": [
+            "自相关函数"
+        ]
+    },
+    {
+        "name": "autogenic succession",
+        "trans": [
+            "自发演替"
+        ]
+    },
+    {
+        "name": "autogeny",
+        "trans": [
+            "自生"
+        ]
+    },
+    {
+        "name": "autogeosyncline",
+        "trans": [
+            "自地槽"
+        ]
+    },
+    {
+        "name": "autointrusion",
+        "trans": [
+            "自侵入"
+        ]
+    },
+    {
+        "name": "autolith",
+        "trans": [
+            "同源包体"
+        ]
+    },
+    {
+        "name": "autometamorphism",
+        "trans": [
+            "自变质酌"
+        ]
+    },
+    {
+        "name": "autometasomatism",
+        "trans": [
+            "自交代酌"
+        ]
+    },
+    {
+        "name": "automolite",
+        "trans": [
+            "铁锌晶石"
+        ]
+    },
+    {
+        "name": "automorphic",
+        "trans": [
+            "自形的"
+        ]
+    },
+    {
+        "name": "autopneumatolysis",
+        "trans": [
+            "自气化酌"
+        ]
+    },
+    {
+        "name": "autoradiography",
+        "trans": [
+            "自动射线照相术"
+        ]
+    },
+    {
+        "name": "autotrophism",
+        "trans": [
+            "自养"
+        ]
+    },
+    {
+        "name": "autotrophy",
+        "trans": [
+            "自养"
+        ]
+    },
+    {
+        "name": "autotype",
+        "trans": [
+            "自型"
+        ]
+    },
+    {
+        "name": "autunite",
+        "trans": [
+            "钙铀云母"
+        ]
+    },
+    {
+        "name": "auversian stage",
+        "trans": [
+            "奥伯斯阶"
+        ]
+    },
+    {
+        "name": "auxiliary curve",
+        "trans": [
+            "辅助曲线"
+        ]
+    },
+    {
+        "name": "auxiliary fault",
+        "trans": [
+            "副断层"
+        ]
+    },
+    {
+        "name": "auxiliary joint",
+        "trans": [
+            "副节理"
+        ]
+    },
+    {
+        "name": "auxiliary mineral",
+        "trans": [
+            "副矿物"
+        ]
+    },
+    {
+        "name": "available relief",
+        "trans": [
+            "有效起伏"
+        ]
+    },
+    {
+        "name": "available water",
+        "trans": [
+            "可利用的水"
+        ]
+    },
+    {
+        "name": "avalanche",
+        "trans": [
+            "雪崩"
+        ]
+    },
+    {
+        "name": "avalanche breccia",
+        "trans": [
+            "岩崩角砾岩"
+        ]
+    },
+    {
+        "name": "aven",
+        "trans": [
+            "落水洞"
+        ]
+    },
+    {
+        "name": "aventurine",
+        "trans": [
+            "砂金石"
+        ]
+    },
+    {
+        "name": "average life",
+        "trans": [
+            "平均寿命"
+        ]
+    },
+    {
+        "name": "avezacite",
+        "trans": [
+            "钛铁辉闪脉岩"
+        ]
+    },
+    {
+        "name": "avicennite",
+        "trans": [
+            "褐铊矿"
+        ]
+    },
+    {
+        "name": "aviolite",
+        "trans": [
+            "堇云角页岩"
+        ]
+    },
+    {
+        "name": "avogadrite",
+        "trans": [
+            "氟硼钾石"
+        ]
+    },
+    {
+        "name": "awaruite",
+        "trans": [
+            "铁镍矿"
+        ]
+    },
+    {
+        "name": "axe stone",
+        "trans": [
+            "软玉"
+        ]
+    },
+    {
+        "name": "axial",
+        "trans": [
+            "轴的"
+        ]
+    },
+    {
+        "name": "axial angle",
+        "trans": [
+            "光轴角"
+        ]
+    },
+    {
+        "name": "axial colour",
+        "trans": [
+            "轴色"
+        ]
+    },
+    {
+        "name": "axial distribution analysis",
+        "trans": [
+            "轴向分布分析"
+        ]
+    },
+    {
+        "name": "axial plane",
+        "trans": [
+            "轴面"
+        ]
+    },
+    {
+        "name": "axial plane cleavage",
+        "trans": [
+            "轴面劈理"
+        ]
+    },
+    {
+        "name": "axial plane folding",
+        "trans": [
+            "轴面褶皱"
+        ]
+    },
+    {
+        "name": "axial plane foliation",
+        "trans": [
+            "轴面叶理构造"
+        ]
+    },
+    {
+        "name": "axial plane schistosity",
+        "trans": [
+            "轴面片理"
+        ]
+    },
+    {
+        "name": "axial ratio",
+        "trans": [
+            "轴率"
+        ]
+    },
+    {
+        "name": "axial section",
+        "trans": [
+            "轴向剖面"
+        ]
+    },
+    {
+        "name": "axial skeleton",
+        "trans": [
+            "轴骨"
+        ]
+    },
+    {
+        "name": "axial trace",
+        "trans": [
+            "轴迹"
+        ]
+    },
+    {
+        "name": "axillary",
+        "trans": [
+            "腋生的"
+        ]
+    },
+    {
+        "name": "axillary bud",
+        "trans": [
+            "腋芽"
+        ]
+    },
+    {
+        "name": "axinite",
+        "trans": [
+            "斧石"
+        ]
+    },
+    {
+        "name": "axinitization",
+        "trans": [
+            "斧石化"
+        ]
+    },
+    {
+        "name": "axiolite",
+        "trans": [
+            "椭球粒"
+        ]
+    },
+    {
+        "name": "axiolith",
+        "trans": [
+            "椭球粒"
+        ]
+    },
+    {
+        "name": "axiolitic",
+        "trans": [
+            "椭球粒状的"
+        ]
+    },
+    {
+        "name": "axis",
+        "trans": [
+            "轴"
+        ]
+    },
+    {
+        "name": "axis of rotation",
+        "trans": [
+            "旋转轴"
+        ]
+    },
+    {
+        "name": "axis of rotatory reflection",
+        "trans": [
+            "回转反射轴"
+        ]
+    },
+    {
+        "name": "axis of symmetry",
+        "trans": [
+            "对称轴"
+        ]
+    },
+    {
+        "name": "axis plane",
+        "trans": [
+            "轴面"
+        ]
+    },
+    {
+        "name": "azeotrope",
+        "trans": [
+            "共沸混合物"
+        ]
+    },
+    {
+        "name": "azeotropy",
+        "trans": [
+            "共沸性"
+        ]
+    },
+    {
+        "name": "azilian age",
+        "trans": [
+            "阿齐尔时代"
+        ]
+    },
+    {
+        "name": "azimuth",
+        "trans": [
+            "方位角"
+        ]
+    },
+    {
+        "name": "azimuthal equal area projection",
+        "trans": [
+            "等积方位投影"
+        ]
+    },
+    {
+        "name": "azimuthal equidistant projection",
+        "trans": [
+            "等距方位投影"
+        ]
+    },
+    {
+        "name": "azimuthal orthomorphic",
+        "trans": [
+            "正形方位投影"
+        ]
+    },
+    {
+        "name": "azimuthal projection",
+        "trans": [
+            "方位投影"
+        ]
+    },
+    {
+        "name": "azimuthal quantum number",
+        "trans": [
+            "方位角量子数"
+        ]
+    },
+    {
+        "name": "azoic era",
+        "trans": [
+            "无生代"
+        ]
+    },
+    {
+        "name": "azurite",
+        "trans": [
+            "蓝铜矿"
+        ]
+    }
+]

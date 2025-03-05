@@ -1,0 +1,4610 @@
+[
+    {
+        "name": "gabbro",
+        "trans": [
+            "辉长岩"
+        ]
+    },
+    {
+        "name": "gabbro norite",
+        "trans": [
+            "辉长苏长岩"
+        ]
+    },
+    {
+        "name": "gabbroid",
+        "trans": [
+            "辉长岩状"
+        ]
+    },
+    {
+        "name": "gabbronite",
+        "trans": [
+            "硅铍钇矿"
+        ]
+    },
+    {
+        "name": "gacial stade",
+        "trans": [
+            "亚冰期"
+        ]
+    },
+    {
+        "name": "gadding machine",
+        "trans": [
+            "平行钻孔钻架"
+        ]
+    },
+    {
+        "name": "gadolinite",
+        "trans": [
+            "硅铍钇矿"
+        ]
+    },
+    {
+        "name": "gadolinium",
+        "trans": [
+            "钇"
+        ]
+    },
+    {
+        "name": "gagate",
+        "trans": [
+            "煤精"
+        ]
+    },
+    {
+        "name": "gage",
+        "trans": [
+            "量规"
+        ]
+    },
+    {
+        "name": "gage pressure",
+        "trans": [
+            "计示压力"
+        ]
+    },
+    {
+        "name": "gage well",
+        "trans": [
+            "测定井"
+        ]
+    },
+    {
+        "name": "gageite",
+        "trans": [
+            "水硅锰镁锌矿"
+        ]
+    },
+    {
+        "name": "gaging station",
+        "trans": [
+            "水文观测站"
+        ]
+    },
+    {
+        "name": "gahnite",
+        "trans": [
+            "锌尖晶石"
+        ]
+    },
+    {
+        "name": "gain",
+        "trans": [
+            "放大"
+        ]
+    },
+    {
+        "name": "gain control",
+        "trans": [
+            "增益蝶"
+        ]
+    },
+    {
+        "name": "gain of antenna",
+        "trans": [
+            "天线增益"
+        ]
+    },
+    {
+        "name": "gaining stream",
+        "trans": [
+            "潜水补给河"
+        ]
+    },
+    {
+        "name": "gal",
+        "trans": [
+            "伽"
+        ]
+    },
+    {
+        "name": "galaxite",
+        "trans": [
+            "铁尖晶石"
+        ]
+    },
+    {
+        "name": "galena",
+        "trans": [
+            "方铅矿"
+        ]
+    },
+    {
+        "name": "galenite",
+        "trans": [
+            "方铅矿"
+        ]
+    },
+    {
+        "name": "galenobismuthite",
+        "trans": [
+            "辉铅铋矿"
+        ]
+    },
+    {
+        "name": "galery",
+        "trans": [
+            "巷道"
+        ]
+    },
+    {
+        "name": "gallium",
+        "trans": [
+            "镓"
+        ]
+    },
+    {
+        "name": "galvanometer",
+        "trans": [
+            "电疗"
+        ]
+    },
+    {
+        "name": "gamagarite",
+        "trans": [
+            "水钒钡石"
+        ]
+    },
+    {
+        "name": "gamete",
+        "trans": [
+            "配子"
+        ]
+    },
+    {
+        "name": "gamma",
+        "trans": [
+            "伽马"
+        ]
+    },
+    {
+        "name": "gamma activity",
+        "trans": [
+            "放射性"
+        ]
+    },
+    {
+        "name": "gamma background",
+        "trans": [
+            "本底"
+        ]
+    },
+    {
+        "name": "gamma contour map",
+        "trans": [
+            "伽马等值线图"
+        ]
+    },
+    {
+        "name": "伽马测井  gamma gamma logging",
+        "trans": [
+            "伽马"
+        ]
+    },
+    {
+        "name": "gamma log",
+        "trans": [
+            "伽马测井剖面"
+        ]
+    },
+    {
+        "name": "中子测井剖面  gamma neutron log",
+        "trans": [
+            "伽马"
+        ]
+    },
+    {
+        "name": "中子测井  gamma neutron logging",
+        "trans": [
+            "伽马"
+        ]
+    },
+    {
+        "name": "gamma quantum",
+        "trans": [
+            "量子"
+        ]
+    },
+    {
+        "name": "gamma radiator",
+        "trans": [
+            "辐射体"
+        ]
+    },
+    {
+        "name": "gamma radiography",
+        "trans": [
+            "照相术"
+        ]
+    },
+    {
+        "name": "gamma ray logging",
+        "trans": [
+            "伽马线测井"
+        ]
+    },
+    {
+        "name": "gamma ray source",
+        "trans": [
+            "伽马源"
+        ]
+    },
+    {
+        "name": "gamma ray spectroscopy",
+        "trans": [
+            "谱学"
+        ]
+    },
+    {
+        "name": "gamma spectrometer",
+        "trans": [
+            "伽马能谱仪"
+        ]
+    },
+    {
+        "name": "gamma spectrometry",
+        "trans": [
+            "伽马能谱测定法"
+        ]
+    },
+    {
+        "name": "gang condensers",
+        "trans": [
+            "同轴电容器"
+        ]
+    },
+    {
+        "name": "gang switch",
+        "trans": [
+            "联动开关"
+        ]
+    },
+    {
+        "name": "ganged capacitors",
+        "trans": [
+            "同轴电容器"
+        ]
+    },
+    {
+        "name": "gangue",
+        "trans": [
+            "脉石"
+        ]
+    },
+    {
+        "name": "gangue mineral",
+        "trans": [
+            "脉石矿物"
+        ]
+    },
+    {
+        "name": "gangue rock",
+        "trans": [
+            "脉石岩"
+        ]
+    },
+    {
+        "name": "ganister",
+        "trans": [
+            "致密硅岩"
+        ]
+    },
+    {
+        "name": "ganoid scale",
+        "trans": [
+            "硬鳞"
+        ]
+    },
+    {
+        "name": "ganomalite",
+        "trans": [
+            "硅钙铅矿"
+        ]
+    },
+    {
+        "name": "ganophyllite",
+        "trans": [
+            "辉叶石"
+        ]
+    },
+    {
+        "name": "gap",
+        "trans": [
+            "峡谷;间隙;海谷"
+        ]
+    },
+    {
+        "name": "gap in the succession of strata",
+        "trans": [
+            "地层间断"
+        ]
+    },
+    {
+        "name": "gaping fault",
+        "trans": [
+            "张开断层"
+        ]
+    },
+    {
+        "name": "garble",
+        "trans": [
+            "畸变"
+        ]
+    },
+    {
+        "name": "garnet",
+        "trans": [
+            "石榴石"
+        ]
+    },
+    {
+        "name": "garnierite",
+        "trans": [
+            "硅镍矿"
+        ]
+    },
+    {
+        "name": "gas",
+        "trans": [
+            "瓦斯"
+        ]
+    },
+    {
+        "name": "gas absorption",
+        "trans": [
+            "气体吸收"
+        ]
+    },
+    {
+        "name": "gas amplification",
+        "trans": [
+            "气体电离放大"
+        ]
+    },
+    {
+        "name": "gas bearing",
+        "trans": [
+            "含气的"
+        ]
+    },
+    {
+        "name": "gas bearing petroleum",
+        "trans": [
+            "含气石油"
+        ]
+    },
+    {
+        "name": "gas chromatograph",
+        "trans": [
+            "气体色谱仪"
+        ]
+    },
+    {
+        "name": "gas coal",
+        "trans": [
+            "气煤"
+        ]
+    },
+    {
+        "name": "gas constant",
+        "trans": [
+            "气体常数"
+        ]
+    },
+    {
+        "name": "gas cushion",
+        "trans": [
+            "瓦斯垫层"
+        ]
+    },
+    {
+        "name": "gas deposit",
+        "trans": [
+            "气体矿床"
+        ]
+    },
+    {
+        "name": "gas exchange",
+        "trans": [
+            "气体交换"
+        ]
+    },
+    {
+        "name": "gas explosion",
+        "trans": [
+            "瓦斯爆炸"
+        ]
+    },
+    {
+        "name": "gas field",
+        "trans": [
+            "气田"
+        ]
+    },
+    {
+        "name": "gas flame coal",
+        "trans": [
+            "长焰煤"
+        ]
+    },
+    {
+        "name": "gas injection",
+        "trans": [
+            "注气法"
+        ]
+    },
+    {
+        "name": "gas of mud volcano",
+        "trans": [
+            "泥火山气"
+        ]
+    },
+    {
+        "name": "gas oil ratio",
+        "trans": [
+            "油气比"
+        ]
+    },
+    {
+        "name": "gas pipe line",
+        "trans": [
+            "输气管道"
+        ]
+    },
+    {
+        "name": "gas reservoir",
+        "trans": [
+            "气藏"
+        ]
+    },
+    {
+        "name": "gas trap",
+        "trans": [
+            "气体收集器"
+        ]
+    },
+    {
+        "name": "gaseous",
+        "trans": [
+            "气状的"
+        ]
+    },
+    {
+        "name": "gaseous inclusion",
+        "trans": [
+            "气体包裹体"
+        ]
+    },
+    {
+        "name": "gash vein",
+        "trans": [
+            "裂缝脉"
+        ]
+    },
+    {
+        "name": "gasification",
+        "trans": [
+            "气化"
+        ]
+    },
+    {
+        "name": "gasify",
+        "trans": [
+            "煤气化"
+        ]
+    },
+    {
+        "name": "gasket",
+        "trans": [
+            "衬垫"
+        ]
+    },
+    {
+        "name": "gastral cavity",
+        "trans": [
+            "胃腔"
+        ]
+    },
+    {
+        "name": "gastropods",
+        "trans": [
+            "腹足类"
+        ]
+    },
+    {
+        "name": "gate",
+        "trans": [
+            "门电路"
+        ]
+    },
+    {
+        "name": "gate amplifier",
+        "trans": [
+            "选通放大器"
+        ]
+    },
+    {
+        "name": "gate opener",
+        "trans": [
+            "开路"
+        ]
+    },
+    {
+        "name": "gate pulse",
+        "trans": [
+            "门脉冲"
+        ]
+    },
+    {
+        "name": "gate valve",
+        "trans": [
+            "制水阀"
+        ]
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "乐取"
+        ]
+    },
+    {
+        "name": "gauss",
+        "trans": [
+            "高斯"
+        ]
+    },
+    {
+        "name": "gaussian curve",
+        "trans": [
+            "高斯曲线"
+        ]
+    },
+    {
+        "name": "gaussian distribution",
+        "trans": [
+            "正态分布"
+        ]
+    },
+    {
+        "name": "gaylussite",
+        "trans": [
+            "单斜钠钙石"
+        ]
+    },
+    {
+        "name": "geanticline",
+        "trans": [
+            "地背斜"
+        ]
+    },
+    {
+        "name": "gear pump",
+        "trans": [
+            "齿轮泵"
+        ]
+    },
+    {
+        "name": "gedinnian stage",
+        "trans": [
+            "吉丁尼阶"
+        ]
+    },
+    {
+        "name": "gedrite",
+        "trans": [
+            "铝直闪石"
+        ]
+    },
+    {
+        "name": "gehlenite",
+        "trans": [
+            "钙铝黄长石"
+        ]
+    },
+    {
+        "name": "弥勒计数管  geiger muller counter",
+        "trans": [
+            "盖革"
+        ]
+    },
+    {
+        "name": "geikielite",
+        "trans": [
+            "镁钛矿"
+        ]
+    },
+    {
+        "name": "gel",
+        "trans": [
+            "凝胶"
+        ]
+    },
+    {
+        "name": "gel structure",
+        "trans": [
+            "凝胶构造"
+        ]
+    },
+    {
+        "name": "gelatinate",
+        "trans": [
+            "使胶凝"
+        ]
+    },
+    {
+        "name": "gelatination",
+        "trans": [
+            "胶凝"
+        ]
+    },
+    {
+        "name": "gelatine",
+        "trans": [
+            "煤"
+        ]
+    },
+    {
+        "name": "gelatinize",
+        "trans": [
+            "使胶凝"
+        ]
+    },
+    {
+        "name": "gelatinous microcomponent",
+        "trans": [
+            "凝胶化组分"
+        ]
+    },
+    {
+        "name": "gelation",
+        "trans": [
+            "软胶化"
+        ]
+    },
+    {
+        "name": "gem",
+        "trans": [
+            "宝石"
+        ]
+    },
+    {
+        "name": "gemmule",
+        "trans": [
+            "芽球"
+        ]
+    },
+    {
+        "name": "gemology",
+        "trans": [
+            "宝石学"
+        ]
+    },
+    {
+        "name": "gena",
+        "trans": [
+            "颊"
+        ]
+    },
+    {
+        "name": "genal spine",
+        "trans": [
+            "颊刺"
+        ]
+    },
+    {
+        "name": "genealogical tree",
+        "trans": [
+            "系统树"
+        ]
+    },
+    {
+        "name": "genealogy",
+        "trans": [
+            "系统学"
+        ]
+    },
+    {
+        "name": "general geology",
+        "trans": [
+            "普通地质学"
+        ]
+    },
+    {
+        "name": "general stratigraphic column",
+        "trans": [
+            "综合地层柱状剖面图"
+        ]
+    },
+    {
+        "name": "general term",
+        "trans": [
+            "普通项"
+        ]
+    },
+    {
+        "name": "general trend",
+        "trans": [
+            "一般走向"
+        ]
+    },
+    {
+        "name": "generating plant",
+        "trans": [
+            "发电设备"
+        ]
+    },
+    {
+        "name": "generation",
+        "trans": [
+            "世代"
+        ]
+    },
+    {
+        "name": "generation of mineralization",
+        "trans": [
+            "矿化世代"
+        ]
+    },
+    {
+        "name": "generation of structure",
+        "trans": [
+            "构造世代"
+        ]
+    },
+    {
+        "name": "genesis",
+        "trans": [
+            "发生"
+        ]
+    },
+    {
+        "name": "genetic mineralogy",
+        "trans": [
+            "成因矿物学"
+        ]
+    },
+    {
+        "name": "genetic relationship",
+        "trans": [
+            "亲缘关系"
+        ]
+    },
+    {
+        "name": "genetic type of ore deposit",
+        "trans": [
+            "矿床成因类型"
+        ]
+    },
+    {
+        "name": "genetic types of coal",
+        "trans": [
+            "煤成因类型"
+        ]
+    },
+    {
+        "name": "geniculate",
+        "trans": [
+            "膝状的"
+        ]
+    },
+    {
+        "name": "geniculated twin",
+        "trans": [
+            "膝状双晶"
+        ]
+    },
+    {
+        "name": "genoholotype",
+        "trans": [
+            "属完模"
+        ]
+    },
+    {
+        "name": "genotype",
+        "trans": [
+            "属型"
+        ]
+    },
+    {
+        "name": "genthite",
+        "trans": [
+            "镍水蛇纹石"
+        ]
+    },
+    {
+        "name": "genus",
+        "trans": [
+            "属"
+        ]
+    },
+    {
+        "name": "geoanticline",
+        "trans": [
+            "地背斜"
+        ]
+    },
+    {
+        "name": "geoarchaeology",
+        "trans": [
+            "地质考古学"
+        ]
+    },
+    {
+        "name": "geoastronomy",
+        "trans": [
+            "宇宙地质学"
+        ]
+    },
+    {
+        "name": "geobarometer",
+        "trans": [
+            "地质压力计"
+        ]
+    },
+    {
+        "name": "geobasin",
+        "trans": [
+            "地盆"
+        ]
+    },
+    {
+        "name": "geobiochemical circulation",
+        "trans": [
+            "地球生物化学的循环"
+        ]
+    },
+    {
+        "name": "geobiochemistry",
+        "trans": [
+            "地球生物化学"
+        ]
+    },
+    {
+        "name": "geobotanical prospecting",
+        "trans": [
+            "地植物勘探"
+        ]
+    },
+    {
+        "name": "geobotany",
+        "trans": [
+            "地植物学"
+        ]
+    },
+    {
+        "name": "geocentric",
+        "trans": [
+            "地心的"
+        ]
+    },
+    {
+        "name": "geocentric latitude",
+        "trans": [
+            "地心纬度"
+        ]
+    },
+    {
+        "name": "geochemical",
+        "trans": [
+            "地球化学的"
+        ]
+    },
+    {
+        "name": "geochemical anomaly",
+        "trans": [
+            "地球化学异常"
+        ]
+    },
+    {
+        "name": "geochemical balance",
+        "trans": [
+            "地球化学均衡"
+        ]
+    },
+    {
+        "name": "geochemical behavior",
+        "trans": [
+            "地球化学性状"
+        ]
+    },
+    {
+        "name": "geochemical behaviour of elements",
+        "trans": [
+            "元素的地球化学性状"
+        ]
+    },
+    {
+        "name": "geochemical classification",
+        "trans": [
+            "地球化学分类"
+        ]
+    },
+    {
+        "name": "geochemical cycle of elements",
+        "trans": [
+            "地球化学的元素循环"
+        ]
+    },
+    {
+        "name": "geochemical differentiation",
+        "trans": [
+            "地球化学分异酌"
+        ]
+    },
+    {
+        "name": "geochemical facies",
+        "trans": [
+            "地球化学相"
+        ]
+    },
+    {
+        "name": "geochemical geothermometer",
+        "trans": [
+            "地球化学地热温标"
+        ]
+    },
+    {
+        "name": "geochemical landscape",
+        "trans": [
+            "地球化学景观"
+        ]
+    },
+    {
+        "name": "geochemical leading elements",
+        "trans": [
+            "地球化学标准元素"
+        ]
+    },
+    {
+        "name": "geochemical map",
+        "trans": [
+            "地球化学图"
+        ]
+    },
+    {
+        "name": "geochemical migration of elements",
+        "trans": [
+            "地球化学的元素迁移"
+        ]
+    },
+    {
+        "name": "geochemical process",
+        "trans": [
+            "地球化学酌"
+        ]
+    },
+    {
+        "name": "geochemical prospecting",
+        "trans": [
+            "地球化学勘探"
+        ]
+    },
+    {
+        "name": "geochemical province",
+        "trans": [
+            "地球化学区"
+        ]
+    },
+    {
+        "name": "geochemistry",
+        "trans": [
+            "地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the atmosphere",
+        "trans": [
+            "大气地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the biosphere",
+        "trans": [
+            "生物地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the hydrosphere",
+        "trans": [
+            "水圈地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the landscape",
+        "trans": [
+            "景观地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the lithosphere",
+        "trans": [
+            "岩石圈地球化学"
+        ]
+    },
+    {
+        "name": "geochemistry of the soil",
+        "trans": [
+            "土壤地球化学"
+        ]
+    },
+    {
+        "name": "geochron",
+        "trans": [
+            "地质时期间程"
+        ]
+    },
+    {
+        "name": "geochronic geology",
+        "trans": [
+            "地史学"
+        ]
+    },
+    {
+        "name": "geochronologic unit",
+        "trans": [
+            "地质年代单位"
+        ]
+    },
+    {
+        "name": "geochronology",
+        "trans": [
+            "地质年代学"
+        ]
+    },
+    {
+        "name": "geochronometry",
+        "trans": [
+            "地质年代测定法"
+        ]
+    },
+    {
+        "name": "geocinetics",
+        "trans": [
+            "地壳运动学"
+        ]
+    },
+    {
+        "name": "geocline",
+        "trans": [
+            "地形差型"
+        ]
+    },
+    {
+        "name": "geocorona",
+        "trans": [
+            "地冕"
+        ]
+    },
+    {
+        "name": "geocronite",
+        "trans": [
+            "斜方硫锑铅矿"
+        ]
+    },
+    {
+        "name": "geocryology",
+        "trans": [
+            "地质低温学"
+        ]
+    },
+    {
+        "name": "geode",
+        "trans": [
+            "异质晶旋"
+        ]
+    },
+    {
+        "name": "geodepression theory",
+        "trans": [
+            "地洼学说"
+        ]
+    },
+    {
+        "name": "geodesic",
+        "trans": [
+            "测地的"
+        ]
+    },
+    {
+        "name": "geodesy",
+        "trans": [
+            "测量学"
+        ]
+    },
+    {
+        "name": "geodetic surveying",
+        "trans": [
+            "大地测量"
+        ]
+    },
+    {
+        "name": "geodome",
+        "trans": [
+            "地穹"
+        ]
+    },
+    {
+        "name": "geodynamics",
+        "trans": [
+            "地质力学"
+        ]
+    },
+    {
+        "name": "geogeny",
+        "trans": [
+            "地球成因学"
+        ]
+    },
+    {
+        "name": "geognosy",
+        "trans": [
+            "地球构造学"
+        ]
+    },
+    {
+        "name": "geogony",
+        "trans": [
+            "地球成因学"
+        ]
+    },
+    {
+        "name": "geographic",
+        "trans": [
+            "地理的"
+        ]
+    },
+    {
+        "name": "geographical",
+        "trans": [
+            "地理的"
+        ]
+    },
+    {
+        "name": "geographical cycle",
+        "trans": [
+            "地理旋回"
+        ]
+    },
+    {
+        "name": "geographical distribution",
+        "trans": [
+            "地理分布"
+        ]
+    },
+    {
+        "name": "geographical isolation",
+        "trans": [
+            "地理隔离"
+        ]
+    },
+    {
+        "name": "geographical landscape",
+        "trans": [
+            "地理景观"
+        ]
+    },
+    {
+        "name": "geographical latitude",
+        "trans": [
+            "地理纬度"
+        ]
+    },
+    {
+        "name": "geographical longitude",
+        "trans": [
+            "地理经度"
+        ]
+    },
+    {
+        "name": "geographical map",
+        "trans": [
+            "地图"
+        ]
+    },
+    {
+        "name": "geographical unconformity",
+        "trans": [
+            "地理不整合"
+        ]
+    },
+    {
+        "name": "geographical variation",
+        "trans": [
+            "地理的变异"
+        ]
+    },
+    {
+        "name": "geography",
+        "trans": [
+            "地理"
+        ]
+    },
+    {
+        "name": "geography of landscape",
+        "trans": [
+            "景观学"
+        ]
+    },
+    {
+        "name": "geohydrology",
+        "trans": [
+            "地质水文学"
+        ]
+    },
+    {
+        "name": "geoid",
+        "trans": [
+            "地球体"
+        ]
+    },
+    {
+        "name": "geoisotherm",
+        "trans": [
+            "等地温线"
+        ]
+    },
+    {
+        "name": "geologic analogy method",
+        "trans": [
+            "地质学的类比法"
+        ]
+    },
+    {
+        "name": "geologic barometer",
+        "trans": [
+            "地质压力计"
+        ]
+    },
+    {
+        "name": "geologic body",
+        "trans": [
+            "地质体"
+        ]
+    },
+    {
+        "name": "geologic control",
+        "trans": [
+            "地质学的控制"
+        ]
+    },
+    {
+        "name": "geologic dynamic simulation",
+        "trans": [
+            "地质动态模拟"
+        ]
+    },
+    {
+        "name": "geologic hazard",
+        "trans": [
+            "地质灾害"
+        ]
+    },
+    {
+        "name": "geologic log",
+        "trans": [
+            "地质测井记录"
+        ]
+    },
+    {
+        "name": "geologic setting",
+        "trans": [
+            "地质构造"
+        ]
+    },
+    {
+        "name": "geologic thermometer",
+        "trans": [
+            "地质温度表"
+        ]
+    },
+    {
+        "name": "geologic time",
+        "trans": [
+            "地质年代"
+        ]
+    },
+    {
+        "name": "geological aerosurveying",
+        "trans": [
+            "地质航空勘测"
+        ]
+    },
+    {
+        "name": "geological age",
+        "trans": [
+            "地质时代"
+        ]
+    },
+    {
+        "name": "geological background",
+        "trans": [
+            "地质背景"
+        ]
+    },
+    {
+        "name": "geological boundary",
+        "trans": [
+            "地质界线"
+        ]
+    },
+    {
+        "name": "geological college",
+        "trans": [
+            "地质学院"
+        ]
+    },
+    {
+        "name": "geological column",
+        "trans": [
+            "地质柱状剖面"
+        ]
+    },
+    {
+        "name": "geological compass",
+        "trans": [
+            "地质罗盘"
+        ]
+    },
+    {
+        "name": "geological conditions",
+        "trans": [
+            "地质条件"
+        ]
+    },
+    {
+        "name": "geological correlation",
+        "trans": [
+            "地质学的对比"
+        ]
+    },
+    {
+        "name": "geological cycle",
+        "trans": [
+            "地质旋回"
+        ]
+    },
+    {
+        "name": "geological environment",
+        "trans": [
+            "地质环境"
+        ]
+    },
+    {
+        "name": "geological formation",
+        "trans": [
+            "地质建造"
+        ]
+    },
+    {
+        "name": "geological hammer",
+        "trans": [
+            "地质锤"
+        ]
+    },
+    {
+        "name": "geological map",
+        "trans": [
+            "地质图"
+        ]
+    },
+    {
+        "name": "geological map of the moon",
+        "trans": [
+            "月球地质图"
+        ]
+    },
+    {
+        "name": "geological processes",
+        "trans": [
+            "地质酌"
+        ]
+    },
+    {
+        "name": "geological profile",
+        "trans": [
+            "地质剖面图"
+        ]
+    },
+    {
+        "name": "geological promising",
+        "trans": [
+            "地质前途"
+        ]
+    },
+    {
+        "name": "geological province",
+        "trans": [
+            "地质区域"
+        ]
+    },
+    {
+        "name": "geological record",
+        "trans": [
+            "地质编录"
+        ]
+    },
+    {
+        "name": "geological remote sensing",
+        "trans": [
+            "地质遥感"
+        ]
+    },
+    {
+        "name": "geological reserves",
+        "trans": [
+            "地质储量"
+        ]
+    },
+    {
+        "name": "geological science",
+        "trans": [
+            "地球科学"
+        ]
+    },
+    {
+        "name": "geological section",
+        "trans": [
+            "地质剖面"
+        ]
+    },
+    {
+        "name": "geological static simulation",
+        "trans": [
+            "地质静态模拟"
+        ]
+    },
+    {
+        "name": "geological structure",
+        "trans": [
+            "地质构造"
+        ]
+    },
+    {
+        "name": "geological survey",
+        "trans": [
+            "地质勘查"
+        ]
+    },
+    {
+        "name": "geological surveying party",
+        "trans": [
+            "勘探隧"
+        ]
+    },
+    {
+        "name": "geological suryey",
+        "trans": [
+            "地质甸所"
+        ]
+    },
+    {
+        "name": "geologicl engineering",
+        "trans": [
+            "工程地质学"
+        ]
+    },
+    {
+        "name": "geologist",
+        "trans": [
+            "地质学者"
+        ]
+    },
+    {
+        "name": "geology",
+        "trans": [
+            "地质学"
+        ]
+    },
+    {
+        "name": "geology of the moon",
+        "trans": [
+            "月球地质学"
+        ]
+    },
+    {
+        "name": "geomagnetic axis",
+        "trans": [
+            "地磁轴"
+        ]
+    },
+    {
+        "name": "geomagnetic field",
+        "trans": [
+            "地磁场"
+        ]
+    },
+    {
+        "name": "geomagnetic latitude",
+        "trans": [
+            "地磁纬度"
+        ]
+    },
+    {
+        "name": "geomagnetic polarity time scale",
+        "trans": [
+            "古地磁极性年代表"
+        ]
+    },
+    {
+        "name": "geomagnetic pole",
+        "trans": [
+            "地磁极"
+        ]
+    },
+    {
+        "name": "geomagnetic reversal",
+        "trans": [
+            "地磁逆转"
+        ]
+    },
+    {
+        "name": "geomagnetis daily variation",
+        "trans": [
+            "地磁日变化"
+        ]
+    },
+    {
+        "name": "geomagnetism",
+        "trans": [
+            "地磁"
+        ]
+    },
+    {
+        "name": "geomathematics",
+        "trans": [
+            "地质数学"
+        ]
+    },
+    {
+        "name": "geomechanics",
+        "trans": [
+            "地质力学"
+        ]
+    },
+    {
+        "name": "geometric crystallography",
+        "trans": [
+            "几何结晶学"
+        ]
+    },
+    {
+        "name": "geometric factor",
+        "trans": [
+            "几何因子"
+        ]
+    },
+    {
+        "name": "geometric mean",
+        "trans": [
+            "几何平均"
+        ]
+    },
+    {
+        "name": "geometric similarity",
+        "trans": [
+            "几何相似"
+        ]
+    },
+    {
+        "name": "geometrical structure factor",
+        "trans": [
+            "几何构造因素"
+        ]
+    },
+    {
+        "name": "geomicrobiology",
+        "trans": [
+            "地球微生物学"
+        ]
+    },
+    {
+        "name": "geomorphic profile",
+        "trans": [
+            "地貌剖面图"
+        ]
+    },
+    {
+        "name": "geomorphic survey",
+        "trans": [
+            "地貌甸"
+        ]
+    },
+    {
+        "name": "geomorphic type",
+        "trans": [
+            "地貌类型"
+        ]
+    },
+    {
+        "name": "geomorphic unit",
+        "trans": [
+            "地貌单元"
+        ]
+    },
+    {
+        "name": "geomorphogeny",
+        "trans": [
+            "地貌成因学"
+        ]
+    },
+    {
+        "name": "geomorphologic agent",
+        "trans": [
+            "地貌营力"
+        ]
+    },
+    {
+        "name": "geomorphologic division",
+        "trans": [
+            "地貌区划"
+        ]
+    },
+    {
+        "name": "geomorphologic landscape",
+        "trans": [
+            "地貌景观"
+        ]
+    },
+    {
+        "name": "geomorphological map",
+        "trans": [
+            "地貌图"
+        ]
+    },
+    {
+        "name": "geomorphological structure",
+        "trans": [
+            "地貌构造"
+        ]
+    },
+    {
+        "name": "geomorphology",
+        "trans": [
+            "地貌学"
+        ]
+    },
+    {
+        "name": "geonomy",
+        "trans": [
+            "地球学"
+        ]
+    },
+    {
+        "name": "geopedology",
+        "trans": [
+            "地质土壤学"
+        ]
+    },
+    {
+        "name": "geophone",
+        "trans": [
+            "地震检波器"
+        ]
+    },
+    {
+        "name": "geophysical exploration",
+        "trans": [
+            "地球物理勘探"
+        ]
+    },
+    {
+        "name": "geophysical prospecting",
+        "trans": [
+            "地球物理勘探"
+        ]
+    },
+    {
+        "name": "geophysicist",
+        "trans": [
+            "地球物理学者"
+        ]
+    },
+    {
+        "name": "geophysics",
+        "trans": [
+            "地球物理学"
+        ]
+    },
+    {
+        "name": "geophyte",
+        "trans": [
+            "地下芽植物"
+        ]
+    },
+    {
+        "name": "geoplanetology",
+        "trans": [
+            "行星地质学"
+        ]
+    },
+    {
+        "name": "geopotential",
+        "trans": [
+            "重力势"
+        ]
+    },
+    {
+        "name": "georceixite",
+        "trans": [
+            "钡磷铝石"
+        ]
+    },
+    {
+        "name": "geoscience",
+        "trans": [
+            "地球科学"
+        ]
+    },
+    {
+        "name": "geosphere",
+        "trans": [
+            "岩石圈"
+        ]
+    },
+    {
+        "name": "geostatic pressure",
+        "trans": [
+            "地静压力"
+        ]
+    },
+    {
+        "name": "geostatics",
+        "trans": [
+            "刚体动力学"
+        ]
+    },
+    {
+        "name": "geostatistics",
+        "trans": [
+            "地质统计学"
+        ]
+    },
+    {
+        "name": "geostrophic wind",
+        "trans": [
+            "地转风"
+        ]
+    },
+    {
+        "name": "geosynclinal bicouple",
+        "trans": [
+            "地槽双对偶"
+        ]
+    },
+    {
+        "name": "geosynclinal block",
+        "trans": [
+            "地槽块"
+        ]
+    },
+    {
+        "name": "geosynclinal concave",
+        "trans": [
+            "地槽凹"
+        ]
+    },
+    {
+        "name": "geosynclinal convex",
+        "trans": [
+            "地槽凸"
+        ]
+    },
+    {
+        "name": "geosynclinal couple",
+        "trans": [
+            "地槽对偶"
+        ]
+    },
+    {
+        "name": "geosynclinal subside",
+        "trans": [
+            "地槽陷"
+        ]
+    },
+    {
+        "name": "geosynclinal uprise",
+        "trans": [
+            "地槽隆"
+        ]
+    },
+    {
+        "name": "geosyncline",
+        "trans": [
+            "地槽"
+        ]
+    },
+    {
+        "name": "geosyncline close",
+        "trans": [
+            "地槽封闭"
+        ]
+    },
+    {
+        "name": "geotechnics",
+        "trans": [
+            "地质工学"
+        ]
+    },
+    {
+        "name": "geotectocline",
+        "trans": [
+            "大地构造槽"
+        ]
+    },
+    {
+        "name": "geotectology",
+        "trans": [
+            "大地构造学"
+        ]
+    },
+    {
+        "name": "geotectonic geology",
+        "trans": [
+            "大地构造学"
+        ]
+    },
+    {
+        "name": "geotectonic map",
+        "trans": [
+            "大地构造图"
+        ]
+    },
+    {
+        "name": "geotectonics",
+        "trans": [
+            "大地构造学"
+        ]
+    },
+    {
+        "name": "geothermal anomalous area",
+        "trans": [
+            "地热异常区"
+        ]
+    },
+    {
+        "name": "geothermal borehole",
+        "trans": [
+            "地热钻孔"
+        ]
+    },
+    {
+        "name": "geothermal brine",
+        "trans": [
+            "地热卤水"
+        ]
+    },
+    {
+        "name": "geothermal electric power generation",
+        "trans": [
+            "地热发电"
+        ]
+    },
+    {
+        "name": "geothermal field",
+        "trans": [
+            "地热田"
+        ]
+    },
+    {
+        "name": "geothermal fluid",
+        "trans": [
+            "地热铃"
+        ]
+    },
+    {
+        "name": "geothermal geochemistry",
+        "trans": [
+            "地热地球化学"
+        ]
+    },
+    {
+        "name": "geothermal gradient",
+        "trans": [
+            "地温增加率"
+        ]
+    },
+    {
+        "name": "geothermal metamorphism",
+        "trans": [
+            "地热变质"
+        ]
+    },
+    {
+        "name": "geothermal power plant",
+        "trans": [
+            "地热电站"
+        ]
+    },
+    {
+        "name": "geothermal power production",
+        "trans": [
+            "地热发电"
+        ]
+    },
+    {
+        "name": "geothermal remote semsang",
+        "trans": [
+            "地热遥感"
+        ]
+    },
+    {
+        "name": "geothermal reservoir",
+        "trans": [
+            "地热储集层"
+        ]
+    },
+    {
+        "name": "geothermal resource",
+        "trans": [
+            "地热资源"
+        ]
+    },
+    {
+        "name": "geothermal resource base",
+        "trans": [
+            "地热资源基数"
+        ]
+    },
+    {
+        "name": "geothermal resource of hydrothermal type",
+        "trans": [
+            "水热型地热资源"
+        ]
+    },
+    {
+        "name": "geothermal steam",
+        "trans": [
+            "地热蒸汽"
+        ]
+    },
+    {
+        "name": "geothermal stress",
+        "trans": [
+            "地热应力"
+        ]
+    },
+    {
+        "name": "geothermal survey",
+        "trans": [
+            "地温测量"
+        ]
+    },
+    {
+        "name": "geothermal system",
+        "trans": [
+            "地热系"
+        ]
+    },
+    {
+        "name": "geothermal water",
+        "trans": [
+            "地下热水"
+        ]
+    },
+    {
+        "name": "geothermics",
+        "trans": [
+            "地热学"
+        ]
+    },
+    {
+        "name": "geothermo geologic map",
+        "trans": [
+            "地热地质图"
+        ]
+    },
+    {
+        "name": "geothermometer",
+        "trans": [
+            "地质温度计"
+        ]
+    },
+    {
+        "name": "geothermy",
+        "trans": [
+            "地热"
+        ]
+    },
+    {
+        "name": "geotumour",
+        "trans": [
+            "地瘤"
+        ]
+    },
+    {
+        "name": "gerhardtite",
+        "trans": [
+            "铜硝石"
+        ]
+    },
+    {
+        "name": "germ theory",
+        "trans": [
+            "微生物理论"
+        ]
+    },
+    {
+        "name": "germanite",
+        "trans": [
+            "锗石"
+        ]
+    },
+    {
+        "name": "germanium",
+        "trans": [
+            "锗"
+        ]
+    },
+    {
+        "name": "germanotype orogeny",
+        "trans": [
+            "日耳曼型造山酌"
+        ]
+    },
+    {
+        "name": "gersdorffite",
+        "trans": [
+            "辉砷镍矿"
+        ]
+    },
+    {
+        "name": "gerstleyite",
+        "trans": [
+            "硫砷铊铅矿"
+        ]
+    },
+    {
+        "name": "getter",
+        "trans": [
+            "收气剂"
+        ]
+    },
+    {
+        "name": "gettering",
+        "trans": [
+            "收气"
+        ]
+    },
+    {
+        "name": "geyser",
+        "trans": [
+            "间歇泉"
+        ]
+    },
+    {
+        "name": "geyserite",
+        "trans": [
+            "硅华"
+        ]
+    },
+    {
+        "name": "ghost",
+        "trans": [
+            "双重图像"
+        ]
+    },
+    {
+        "name": "giant's kettle",
+        "trans": [
+            "瓯穴"
+        ]
+    },
+    {
+        "name": "gibbs's distribution",
+        "trans": [
+            "吉布斯分布"
+        ]
+    },
+    {
+        "name": "gibbsite",
+        "trans": [
+            "三水铝矿"
+        ]
+    },
+    {
+        "name": "gibelite",
+        "trans": [
+            "歪长粗面岩"
+        ]
+    },
+    {
+        "name": "gilbert",
+        "trans": [
+            "吉伯"
+        ]
+    },
+    {
+        "name": "gilbert reversed epoch",
+        "trans": [
+            "吉伯逆期"
+        ]
+    },
+    {
+        "name": "gill",
+        "trans": [
+            "鳃"
+        ]
+    },
+    {
+        "name": "gill chamber",
+        "trans": [
+            "鳃室"
+        ]
+    },
+    {
+        "name": "gillespite",
+        "trans": [
+            "硅铁钡矿"
+        ]
+    },
+    {
+        "name": "gillingite",
+        "trans": [
+            "水硅铁矿"
+        ]
+    },
+    {
+        "name": "gilpinite",
+        "trans": [
+            "硫铜铀矿"
+        ]
+    },
+    {
+        "name": "gimlet",
+        "trans": [
+            "螺旋钻"
+        ]
+    },
+    {
+        "name": "gingko",
+        "trans": [
+            "银杏"
+        ]
+    },
+    {
+        "name": "ginkgo",
+        "trans": [
+            "银杏"
+        ]
+    },
+    {
+        "name": "girder",
+        "trans": [
+            "横梁"
+        ]
+    },
+    {
+        "name": "girdle",
+        "trans": [
+            "薄煤层"
+        ]
+    },
+    {
+        "name": "gismondite",
+        "trans": [
+            "多水高岭土"
+        ]
+    },
+    {
+        "name": "glabella",
+        "trans": [
+            "头鞍"
+        ]
+    },
+    {
+        "name": "glacial",
+        "trans": [
+            "冰用的"
+        ]
+    },
+    {
+        "name": "glacial cycle",
+        "trans": [
+            "冰川周期"
+        ]
+    },
+    {
+        "name": "glacial deposit",
+        "trans": [
+            "冰川沉积"
+        ]
+    },
+    {
+        "name": "glacial drift",
+        "trans": [
+            "冰碛"
+        ]
+    },
+    {
+        "name": "glacial epoch",
+        "trans": [
+            "冰期"
+        ]
+    },
+    {
+        "name": "glacial erosion",
+        "trans": [
+            "冰蚀"
+        ]
+    },
+    {
+        "name": "glacial erosion cycle",
+        "trans": [
+            "冰蚀轮回"
+        ]
+    },
+    {
+        "name": "glacial erosion lake",
+        "trans": [
+            "冰蚀湖"
+        ]
+    },
+    {
+        "name": "glacial erratic boulder",
+        "trans": [
+            "冰川漂砾"
+        ]
+    },
+    {
+        "name": "glacial flora",
+        "trans": [
+            "冰川植物群"
+        ]
+    },
+    {
+        "name": "glacial geology",
+        "trans": [
+            "冰川地质学"
+        ]
+    },
+    {
+        "name": "glacial lake",
+        "trans": [
+            "冰川湖"
+        ]
+    },
+    {
+        "name": "glacial period",
+        "trans": [
+            "冰期"
+        ]
+    },
+    {
+        "name": "glacial pot hole",
+        "trans": [
+            "冰川瓯穴"
+        ]
+    },
+    {
+        "name": "glacial scratches",
+        "trans": [
+            "冰川擦痕"
+        ]
+    },
+    {
+        "name": "glacial soil",
+        "trans": [
+            "冰积土"
+        ]
+    },
+    {
+        "name": "glacial substage",
+        "trans": [
+            "亚冰期"
+        ]
+    },
+    {
+        "name": "glacial table",
+        "trans": [
+            "冰台"
+        ]
+    },
+    {
+        "name": "glacial till",
+        "trans": [
+            "冰碛物"
+        ]
+    },
+    {
+        "name": "glacial trough",
+        "trans": [
+            "冰川槽"
+        ]
+    },
+    {
+        "name": "glacial valley",
+        "trans": [
+            "冰蚀谷"
+        ]
+    },
+    {
+        "name": "glacial valley lake",
+        "trans": [
+            "冰蚀谷湖"
+        ]
+    },
+    {
+        "name": "glaciar stadial",
+        "trans": [
+            "亚冰期"
+        ]
+    },
+    {
+        "name": "glaciation",
+        "trans": [
+            "冰川酌"
+        ]
+    },
+    {
+        "name": "glacier",
+        "trans": [
+            "冰川"
+        ]
+    },
+    {
+        "name": "glacier boulder method for prospecting",
+        "trans": [
+            "冰川漂砾法"
+        ]
+    },
+    {
+        "name": "glacier milk",
+        "trans": [
+            "冰川乳浆"
+        ]
+    },
+    {
+        "name": "glacier tongue",
+        "trans": [
+            "冰川舌"
+        ]
+    },
+    {
+        "name": "glacierfall",
+        "trans": [
+            "冰瀑"
+        ]
+    },
+    {
+        "name": "glacierization",
+        "trans": [
+            "冰川酌"
+        ]
+    },
+    {
+        "name": "glaciogeology",
+        "trans": [
+            "冰川地质学"
+        ]
+    },
+    {
+        "name": "glaciology",
+        "trans": [
+            "冰川学"
+        ]
+    },
+    {
+        "name": "glaciometer",
+        "trans": [
+            "冰川临计"
+        ]
+    },
+    {
+        "name": "glaciospeleology",
+        "trans": [
+            "冰川洞穴学"
+        ]
+    },
+    {
+        "name": "gladite",
+        "trans": [
+            "柱硫铋铜铅矿"
+        ]
+    },
+    {
+        "name": "glance coal",
+        "trans": [
+            "辉煤"
+        ]
+    },
+    {
+        "name": "glare",
+        "trans": [
+            "闪光"
+        ]
+    },
+    {
+        "name": "glaserite",
+        "trans": [
+            "钾芒硝"
+        ]
+    },
+    {
+        "name": "glass",
+        "trans": [
+            "玻璃"
+        ]
+    },
+    {
+        "name": "glassy",
+        "trans": [
+            "玻璃质的"
+        ]
+    },
+    {
+        "name": "glassy lustre",
+        "trans": [
+            "玻璃光泽"
+        ]
+    },
+    {
+        "name": "glauberite",
+        "trans": [
+            "钙芒硝"
+        ]
+    },
+    {
+        "name": "glaucocerinite",
+        "trans": [
+            "锌铜矾"
+        ]
+    },
+    {
+        "name": "glaucochroite",
+        "trans": [
+            "绿粒橄集"
+        ]
+    },
+    {
+        "name": "glaucodote",
+        "trans": [
+            "钴硫砷铁矿"
+        ]
+    },
+    {
+        "name": "glauconite",
+        "trans": [
+            "海绿石"
+        ]
+    },
+    {
+        "name": "glauconite sandstone",
+        "trans": [
+            "海绿砂岩"
+        ]
+    },
+    {
+        "name": "glaucophane",
+        "trans": [
+            "蓝闪石"
+        ]
+    },
+    {
+        "name": "glaucophane schist",
+        "trans": [
+            "蓝闪片岩"
+        ]
+    },
+    {
+        "name": "glaucophane schist facies",
+        "trans": [
+            "蓝闪片岩相"
+        ]
+    },
+    {
+        "name": "glaucophanitic metamorphism",
+        "trans": [
+            "蓝闪石变质酌"
+        ]
+    },
+    {
+        "name": "glaucopyrite",
+        "trans": [
+            "钴砷铁矿"
+        ]
+    },
+    {
+        "name": "glaucous",
+        "trans": [
+            "淡灰绿色的"
+        ]
+    },
+    {
+        "name": "glazed frost",
+        "trans": [
+            "雨冰膜"
+        ]
+    },
+    {
+        "name": "glebe",
+        "trans": [
+            "含矿地带"
+        ]
+    },
+    {
+        "name": "glei soil",
+        "trans": [
+            "潜育土"
+        ]
+    },
+    {
+        "name": "gleization",
+        "trans": [
+            "潜育"
+        ]
+    },
+    {
+        "name": "gley soil",
+        "trans": [
+            "潜育土"
+        ]
+    },
+    {
+        "name": "gleying process",
+        "trans": [
+            "潜育"
+        ]
+    },
+    {
+        "name": "gleyzation",
+        "trans": [
+            "潜育"
+        ]
+    },
+    {
+        "name": "glide plane",
+        "trans": [
+            "滑动面"
+        ]
+    },
+    {
+        "name": "glide twin",
+        "trans": [
+            "滑动双晶"
+        ]
+    },
+    {
+        "name": "gliding",
+        "trans": [
+            "滑动酌"
+        ]
+    },
+    {
+        "name": "gliding tectonics",
+        "trans": [
+            "滑动构造学"
+        ]
+    },
+    {
+        "name": "glimmering lustre",
+        "trans": [
+            "微光泽"
+        ]
+    },
+    {
+        "name": "global analysis",
+        "trans": [
+            "总分析"
+        ]
+    },
+    {
+        "name": "global environment",
+        "trans": [
+            "全球环境"
+        ]
+    },
+    {
+        "name": "global radiation",
+        "trans": [
+            "环球辐射"
+        ]
+    },
+    {
+        "name": "global remote sensing",
+        "trans": [
+            "全球遥感"
+        ]
+    },
+    {
+        "name": "global tectonics",
+        "trans": [
+            "全球构造学"
+        ]
+    },
+    {
+        "name": "globe",
+        "trans": [
+            "地球仪"
+        ]
+    },
+    {
+        "name": "globigerina ooze",
+        "trans": [
+            "抱球虫软泥"
+        ]
+    },
+    {
+        "name": "globigerinae",
+        "trans": [
+            "抱球虫类"
+        ]
+    },
+    {
+        "name": "globular",
+        "trans": [
+            "球状的"
+        ]
+    },
+    {
+        "name": "globular jointing",
+        "trans": [
+            "球状节理"
+        ]
+    },
+    {
+        "name": "globular projection",
+        "trans": [
+            "球状投影"
+        ]
+    },
+    {
+        "name": "globular structure",
+        "trans": [
+            "球状构造"
+        ]
+    },
+    {
+        "name": "globulite",
+        "trans": [
+            "球雏晶"
+        ]
+    },
+    {
+        "name": "glomeroblast",
+        "trans": [
+            "聚合变晶"
+        ]
+    },
+    {
+        "name": "glomeroblastic structure",
+        "trans": [
+            "聚合变晶状构造"
+        ]
+    },
+    {
+        "name": "glomeroclastic",
+        "trans": [
+            "聚合碎屑状"
+        ]
+    },
+    {
+        "name": "glomerocryst",
+        "trans": [
+            "聚晶"
+        ]
+    },
+    {
+        "name": "glomerocrystalline",
+        "trans": [
+            "聚合晶簇的"
+        ]
+    },
+    {
+        "name": "glomerogranular",
+        "trans": [
+            "聚合微粒状"
+        ]
+    },
+    {
+        "name": "glomerolepidoblastic",
+        "trans": [
+            "聚合鳞片状变晶的"
+        ]
+    },
+    {
+        "name": "glomerophitic",
+        "trans": [
+            "聚合辉玄岩状的"
+        ]
+    },
+    {
+        "name": "glomeroplasmatic",
+        "trans": [
+            "聚束状的"
+        ]
+    },
+    {
+        "name": "glomeroporphyric",
+        "trans": [
+            "聚合班状的"
+        ]
+    },
+    {
+        "name": "glomerospheric",
+        "trans": [
+            "球粒状的"
+        ]
+    },
+    {
+        "name": "glossy",
+        "trans": [
+            "光泽的"
+        ]
+    },
+    {
+        "name": "glow",
+        "trans": [
+            "辉光"
+        ]
+    },
+    {
+        "name": "glow discharge",
+        "trans": [
+            "辉光放电"
+        ]
+    },
+    {
+        "name": "glower",
+        "trans": [
+            "白炽丝灯"
+        ]
+    },
+    {
+        "name": "glowing avalanche",
+        "trans": [
+            "火山发光云"
+        ]
+    },
+    {
+        "name": "glowing cloud",
+        "trans": [
+            "火山发光云"
+        ]
+    },
+    {
+        "name": "gmelinite",
+        "trans": [
+            "钠菱沸石"
+        ]
+    },
+    {
+        "name": "gnathopod",
+        "trans": [
+            "颚足"
+        ]
+    },
+    {
+        "name": "gneiss",
+        "trans": [
+            "片麻岩"
+        ]
+    },
+    {
+        "name": "gneissic",
+        "trans": [
+            "片麻状的"
+        ]
+    },
+    {
+        "name": "gneissic structure",
+        "trans": [
+            "片麻状构造"
+        ]
+    },
+    {
+        "name": "gneissoid",
+        "trans": [
+            "似片麻岩状"
+        ]
+    },
+    {
+        "name": "gneissoid structure",
+        "trans": [
+            "片麻状构造"
+        ]
+    },
+    {
+        "name": "gneissose",
+        "trans": [
+            "片麻状的"
+        ]
+    },
+    {
+        "name": "gneissose granite",
+        "trans": [
+            "片麻状花岗岩"
+        ]
+    },
+    {
+        "name": "gnomonic projection",
+        "trans": [
+            "球心投影"
+        ]
+    },
+    {
+        "name": "goethite",
+        "trans": [
+            "针铁石"
+        ]
+    },
+    {
+        "name": "goitre zone",
+        "trans": [
+            "甲状腺肿地带"
+        ]
+    },
+    {
+        "name": "gold",
+        "trans": [
+            "金"
+        ]
+    },
+    {
+        "name": "gold bearing",
+        "trans": [
+            "含金的"
+        ]
+    },
+    {
+        "name": "gold ore",
+        "trans": [
+            "金矿"
+        ]
+    },
+    {
+        "name": "gold vein",
+        "trans": [
+            "金脉"
+        ]
+    },
+    {
+        "name": "gondwana",
+        "trans": [
+            "风瓦纳古陆"
+        ]
+    },
+    {
+        "name": "goniometer",
+        "trans": [
+            "测角仪"
+        ]
+    },
+    {
+        "name": "goniometry",
+        "trans": [
+            "测角"
+        ]
+    },
+    {
+        "name": "gonnardite",
+        "trans": [
+            "纤沸石"
+        ]
+    },
+    {
+        "name": "gooseneck",
+        "trans": [
+            "鹅颈谷"
+        ]
+    },
+    {
+        "name": "gorceixite",
+        "trans": [
+            "钡磷铝石"
+        ]
+    },
+    {
+        "name": "gordonite",
+        "trans": [
+            "基性磷铝石"
+        ]
+    },
+    {
+        "name": "gorge",
+        "trans": [
+            "峡"
+        ]
+    },
+    {
+        "name": "gorilla",
+        "trans": [
+            "大猩猩"
+        ]
+    },
+    {
+        "name": "goslarite",
+        "trans": [
+            "皓矾"
+        ]
+    },
+    {
+        "name": "gossan",
+        "trans": [
+            "铁帽"
+        ]
+    },
+    {
+        "name": "gothlandian",
+        "trans": [
+            "哥特兰系"
+        ]
+    },
+    {
+        "name": "gouge",
+        "trans": [
+            "断层泥"
+        ]
+    },
+    {
+        "name": "goyazite",
+        "trans": [
+            "磷铝钙石"
+        ]
+    },
+    {
+        "name": "graben",
+        "trans": [
+            "地堑"
+        ]
+    },
+    {
+        "name": "gradation",
+        "trans": [
+            "均夷酌"
+        ]
+    },
+    {
+        "name": "grade",
+        "trans": [
+            "品位"
+        ]
+    },
+    {
+        "name": "grade of coal",
+        "trans": [
+            "煤级"
+        ]
+    },
+    {
+        "name": "grade of ore",
+        "trans": [
+            "矿石品级"
+        ]
+    },
+    {
+        "name": "grade scale",
+        "trans": [
+            "分级标尺"
+        ]
+    },
+    {
+        "name": "graded bedding",
+        "trans": [
+            "粒级层理"
+        ]
+    },
+    {
+        "name": "graded river",
+        "trans": [
+            "均夷河"
+        ]
+    },
+    {
+        "name": "graded sediment",
+        "trans": [
+            "粒度递变沉积"
+        ]
+    },
+    {
+        "name": "gradient",
+        "trans": [
+            "倾斜度"
+        ]
+    },
+    {
+        "name": "gradient coupling",
+        "trans": [
+            "梯度耦合"
+        ]
+    },
+    {
+        "name": "grading",
+        "trans": [
+            "粒级成层;水准测量;分级"
+        ]
+    },
+    {
+        "name": "grading analysis",
+        "trans": [
+            "粒度分析"
+        ]
+    },
+    {
+        "name": "grading curve",
+        "trans": [
+            "粒度曲线"
+        ]
+    },
+    {
+        "name": "gradiometer",
+        "trans": [
+            "重力陡度计"
+        ]
+    },
+    {
+        "name": "graduated circle",
+        "trans": [
+            "分度弧"
+        ]
+    },
+    {
+        "name": "graduation",
+        "trans": [
+            "分度"
+        ]
+    },
+    {
+        "name": "graftonite",
+        "trans": [
+            "磷铁锰矿"
+        ]
+    },
+    {
+        "name": "grahamite",
+        "trans": [
+            "脆沥青"
+        ]
+    },
+    {
+        "name": "grail",
+        "trans": [
+            "砂砾"
+        ]
+    },
+    {
+        "name": "grain",
+        "trans": [
+            "颗粒"
+        ]
+    },
+    {
+        "name": "grain boundary surface energy",
+        "trans": [
+            "晶粒界面能"
+        ]
+    },
+    {
+        "name": "grain density",
+        "trans": [
+            "颗粒密度"
+        ]
+    },
+    {
+        "name": "grain packing",
+        "trans": [
+            "颗粒充填"
+        ]
+    },
+    {
+        "name": "grain shape",
+        "trans": [
+            "颗粒形状"
+        ]
+    },
+    {
+        "name": "grain size",
+        "trans": [
+            "粒度"
+        ]
+    },
+    {
+        "name": "grain size curve",
+        "trans": [
+            "粒度曲线"
+        ]
+    },
+    {
+        "name": "gram atom",
+        "trans": [
+            "克原子"
+        ]
+    },
+    {
+        "name": "gram equivalent",
+        "trans": [
+            "克当量"
+        ]
+    },
+    {
+        "name": "gram mol",
+        "trans": [
+            "克分子"
+        ]
+    },
+    {
+        "name": "gram molecular volume",
+        "trans": [
+            "克分子体积"
+        ]
+    },
+    {
+        "name": "gram molecule",
+        "trans": [
+            "克分子"
+        ]
+    },
+    {
+        "name": "grance coal",
+        "trans": [
+            "光亮型煤"
+        ]
+    },
+    {
+        "name": "grandidierite",
+        "trans": [
+            "复合矿"
+        ]
+    },
+    {
+        "name": "granite",
+        "trans": [
+            "花岗岩"
+        ]
+    },
+    {
+        "name": "granite pegmatite",
+        "trans": [
+            "花岗伟晶岩"
+        ]
+    },
+    {
+        "name": "granite porphyry",
+        "trans": [
+            "花岗斑岩"
+        ]
+    },
+    {
+        "name": "granite tectonics",
+        "trans": [
+            "花岗岩构造学"
+        ]
+    },
+    {
+        "name": "granitic",
+        "trans": [
+            "花岗状的"
+        ]
+    },
+    {
+        "name": "granitic layer",
+        "trans": [
+            "花岗岩层"
+        ]
+    },
+    {
+        "name": "granitite",
+        "trans": [
+            "黑云花岗岩"
+        ]
+    },
+    {
+        "name": "granitization",
+        "trans": [
+            "花岗岩化"
+        ]
+    },
+    {
+        "name": "granitization granite",
+        "trans": [
+            "混合花岗岩"
+        ]
+    },
+    {
+        "name": "granitization metamorphism",
+        "trans": [
+            "花岗岩化变质"
+        ]
+    },
+    {
+        "name": "granitize",
+        "trans": [
+            "花岗岩化"
+        ]
+    },
+    {
+        "name": "granoblastic",
+        "trans": [
+            "花岗变晶状的"
+        ]
+    },
+    {
+        "name": "granoblastic texture",
+        "trans": [
+            "花岗变晶状结构"
+        ]
+    },
+    {
+        "name": "granodiorite",
+        "trans": [
+            "花岗闪长岩"
+        ]
+    },
+    {
+        "name": "granodolerite",
+        "trans": [
+            "花岗粗玄岩"
+        ]
+    },
+    {
+        "name": "granogabbro",
+        "trans": [
+            "花岗辉长岩"
+        ]
+    },
+    {
+        "name": "granolite",
+        "trans": [
+            "花岗状火成岩"
+        ]
+    },
+    {
+        "name": "granophyre",
+        "trans": [
+            "花斑岩"
+        ]
+    },
+    {
+        "name": "granophyric structure",
+        "trans": [
+            "文象斑状构造"
+        ]
+    },
+    {
+        "name": "granosphaerite",
+        "trans": [
+            "放射聚心球粒"
+        ]
+    },
+    {
+        "name": "granosyenite",
+        "trans": [
+            "花岗正长岩"
+        ]
+    },
+    {
+        "name": "granular",
+        "trans": [
+            "粒状的"
+        ]
+    },
+    {
+        "name": "granular structure",
+        "trans": [
+            "粒状结构"
+        ]
+    },
+    {
+        "name": "granular variation",
+        "trans": [
+            "粒度变异"
+        ]
+    },
+    {
+        "name": "granularity",
+        "trans": [
+            "粒度"
+        ]
+    },
+    {
+        "name": "granulate",
+        "trans": [
+            "使成粒状"
+        ]
+    },
+    {
+        "name": "granulation",
+        "trans": [
+            "粒化酌"
+        ]
+    },
+    {
+        "name": "granule",
+        "trans": [
+            "砂砾"
+        ]
+    },
+    {
+        "name": "granulite facies",
+        "trans": [
+            "麻粒岩相"
+        ]
+    },
+    {
+        "name": "granulitic",
+        "trans": [
+            "粒状的"
+        ]
+    },
+    {
+        "name": "granulo ophitic",
+        "trans": [
+            "粒状辉绿岩状的"
+        ]
+    },
+    {
+        "name": "granulometric analysis",
+        "trans": [
+            "粒度分析"
+        ]
+    },
+    {
+        "name": "granulometric facies",
+        "trans": [
+            "粒度相"
+        ]
+    },
+    {
+        "name": "granulometry",
+        "trans": [
+            "粒度测量"
+        ]
+    },
+    {
+        "name": "graphic granite",
+        "trans": [
+            "文象花岗岩"
+        ]
+    },
+    {
+        "name": "graphic structure",
+        "trans": [
+            "文象构造"
+        ]
+    },
+    {
+        "name": "graphic texture",
+        "trans": [
+            "文象结构"
+        ]
+    },
+    {
+        "name": "graphic well log",
+        "trans": [
+            "钻井剖面图"
+        ]
+    },
+    {
+        "name": "graphite",
+        "trans": [
+            "石墨"
+        ]
+    },
+    {
+        "name": "graphometer",
+        "trans": [
+            "测角器"
+        ]
+    },
+    {
+        "name": "graptolites",
+        "trans": [
+            "笔石类"
+        ]
+    },
+    {
+        "name": "grat",
+        "trans": [
+            "刃岭"
+        ]
+    },
+    {
+        "name": "graticule",
+        "trans": [
+            "标线"
+        ]
+    },
+    {
+        "name": "grating",
+        "trans": [
+            "筛分"
+        ]
+    },
+    {
+        "name": "grating spectrograph",
+        "trans": [
+            "光栅摄谱仪"
+        ]
+    },
+    {
+        "name": "grating spectrometer",
+        "trans": [
+            "光栅光谱仪"
+        ]
+    },
+    {
+        "name": "grating structure",
+        "trans": [
+            "格状构造"
+        ]
+    },
+    {
+        "name": "gravel",
+        "trans": [
+            "砾"
+        ]
+    },
+    {
+        "name": "gravel envelope",
+        "trans": [
+            "砂砾封皮"
+        ]
+    },
+    {
+        "name": "gravel fill",
+        "trans": [
+            "砂砾淤积"
+        ]
+    },
+    {
+        "name": "gravel flow",
+        "trans": [
+            "砾石流"
+        ]
+    },
+    {
+        "name": "gravel packing",
+        "trans": [
+            "砾石充填"
+        ]
+    },
+    {
+        "name": "gravel pit",
+        "trans": [
+            "砾坑"
+        ]
+    },
+    {
+        "name": "gravel soil",
+        "trans": [
+            "砾质土"
+        ]
+    },
+    {
+        "name": "gravell wall",
+        "trans": [
+            "砾石渗透器"
+        ]
+    },
+    {
+        "name": "graver",
+        "trans": [
+            "刻划器"
+        ]
+    },
+    {
+        "name": "gravimeter",
+        "trans": [
+            "重力仪"
+        ]
+    },
+    {
+        "name": "gravimetric analysis",
+        "trans": [
+            "重量分析"
+        ]
+    },
+    {
+        "name": "gravimetric moisture content",
+        "trans": [
+            "重量水容度"
+        ]
+    },
+    {
+        "name": "gravimetric network",
+        "trans": [
+            "重力测网"
+        ]
+    },
+    {
+        "name": "gravimetric survey",
+        "trans": [
+            "重力测量"
+        ]
+    },
+    {
+        "name": "gravimetrical prospecting",
+        "trans": [
+            "重力勘探"
+        ]
+    },
+    {
+        "name": "gravimetry",
+        "trans": [
+            "重力测量"
+        ]
+    },
+    {
+        "name": "gravitation",
+        "trans": [
+            "万有引力"
+        ]
+    },
+    {
+        "name": "gravitation constant",
+        "trans": [
+            "万有引力常数"
+        ]
+    },
+    {
+        "name": "gravitational anomaly",
+        "trans": [
+            "重力异常"
+        ]
+    },
+    {
+        "name": "gravitational differentiation",
+        "trans": [
+            "重力分异"
+        ]
+    },
+    {
+        "name": "gravitational gliding",
+        "trans": [
+            "重力滑动"
+        ]
+    },
+    {
+        "name": "gravitational method",
+        "trans": [
+            "重力法"
+        ]
+    },
+    {
+        "name": "gravitational prospecting",
+        "trans": [
+            "重力勘探"
+        ]
+    },
+    {
+        "name": "gravitational tectonics",
+        "trans": [
+            "重力构造地质学"
+        ]
+    },
+    {
+        "name": "gravitational unit",
+        "trans": [
+            "重力单位"
+        ]
+    },
+    {
+        "name": "gravitational water",
+        "trans": [
+            "重力水"
+        ]
+    },
+    {
+        "name": "gravitational wave",
+        "trans": [
+            "重力波"
+        ]
+    },
+    {
+        "name": "gravitative differentiation",
+        "trans": [
+            "重力分异"
+        ]
+    },
+    {
+        "name": "gravity",
+        "trans": [
+            "重力"
+        ]
+    },
+    {
+        "name": "gravity acceleration",
+        "trans": [
+            "重力加速度"
+        ]
+    },
+    {
+        "name": "gravity anomaly",
+        "trans": [
+            "重力异常"
+        ]
+    },
+    {
+        "name": "gravity collapse structure",
+        "trans": [
+            "塌陷构造"
+        ]
+    },
+    {
+        "name": "gravity component",
+        "trans": [
+            "重力组分"
+        ]
+    },
+    {
+        "name": "gravity concentration",
+        "trans": [
+            "重力选矿"
+        ]
+    },
+    {
+        "name": "gravity correction",
+        "trans": [
+            "重力改正"
+        ]
+    },
+    {
+        "name": "gravity daily variation",
+        "trans": [
+            "重力日变"
+        ]
+    },
+    {
+        "name": "gravity drainage",
+        "trans": [
+            "重力排水"
+        ]
+    },
+    {
+        "name": "gravity field",
+        "trans": [
+            "重力场"
+        ]
+    },
+    {
+        "name": "gravity flow",
+        "trans": [
+            "重力流"
+        ]
+    },
+    {
+        "name": "gravity force",
+        "trans": [
+            "重力"
+        ]
+    },
+    {
+        "name": "gravity height correction",
+        "trans": [
+            "重力高度改正"
+        ]
+    },
+    {
+        "name": "gravity logging",
+        "trans": [
+            "重力测井"
+        ]
+    },
+    {
+        "name": "gravity measurement",
+        "trans": [
+            "重力测量"
+        ]
+    },
+    {
+        "name": "gravity method",
+        "trans": [
+            "重力法"
+        ]
+    },
+    {
+        "name": "gravity potential",
+        "trans": [
+            "重力势"
+        ]
+    },
+    {
+        "name": "gravity prospecting",
+        "trans": [
+            "重力勘探"
+        ]
+    },
+    {
+        "name": "gravity separator",
+        "trans": [
+            "重力分选机"
+        ]
+    },
+    {
+        "name": "gravity solution",
+        "trans": [
+            "重液"
+        ]
+    },
+    {
+        "name": "gravity spring",
+        "trans": [
+            "下降泉"
+        ]
+    },
+    {
+        "name": "gravity survey",
+        "trans": [
+            "重力测量"
+        ]
+    },
+    {
+        "name": "gravity tectonices",
+        "trans": [
+            "重力构造地质学"
+        ]
+    },
+    {
+        "name": "gravity variometer",
+        "trans": [
+            "重力变感器"
+        ]
+    },
+    {
+        "name": "gravity water",
+        "trans": [
+            "重力水"
+        ]
+    },
+    {
+        "name": "gray copper ore",
+        "trans": [
+            "铜矿"
+        ]
+    },
+    {
+        "name": "gray desert soil",
+        "trans": [
+            "灰钙土"
+        ]
+    },
+    {
+        "name": "graywacke",
+        "trans": [
+            "杂砂岩"
+        ]
+    },
+    {
+        "name": "grease spot photometer",
+        "trans": [
+            "油点光度计"
+        ]
+    },
+    {
+        "name": "greasy lustre",
+        "trans": [
+            "脂肪光泽"
+        ]
+    },
+    {
+        "name": "great glacial epoch",
+        "trans": [
+            "大冰期"
+        ]
+    },
+    {
+        "name": "great ice age",
+        "trans": [
+            "大冰期"
+        ]
+    },
+    {
+        "name": "green algae",
+        "trans": [
+            "绿藻类"
+        ]
+    },
+    {
+        "name": "green mud",
+        "trans": [
+            "绿泥"
+        ]
+    },
+    {
+        "name": "green sand",
+        "trans": [
+            "海绿石砂"
+        ]
+    },
+    {
+        "name": "green schist",
+        "trans": [
+            "绿片岩"
+        ]
+    },
+    {
+        "name": "green tuff",
+        "trans": [
+            "绿色凝灰岩"
+        ]
+    },
+    {
+        "name": "green tuff formation",
+        "trans": [
+            "绿色凝灰岩组"
+        ]
+    },
+    {
+        "name": "greenalite",
+        "trans": [
+            "土状硅铁矿"
+        ]
+    },
+    {
+        "name": "greenalite rock",
+        "trans": [
+            "硅铁岩"
+        ]
+    },
+    {
+        "name": "greenockite",
+        "trans": [
+            "硫镉矿"
+        ]
+    },
+    {
+        "name": "greenovite",
+        "trans": [
+            "红榍石"
+        ]
+    },
+    {
+        "name": "greenrock",
+        "trans": [
+            "绿岩"
+        ]
+    },
+    {
+        "name": "greensand",
+        "trans": [
+            "海绿石砂"
+        ]
+    },
+    {
+        "name": "greenschist facies",
+        "trans": [
+            "绿色片岩相"
+        ]
+    },
+    {
+        "name": "greenstone",
+        "trans": [
+            "绿岩"
+        ]
+    },
+    {
+        "name": "greenwich mean time",
+        "trans": [
+            "格林尼治平时"
+        ]
+    },
+    {
+        "name": "greisen",
+        "trans": [
+            "云英岩"
+        ]
+    },
+    {
+        "name": "greisenization",
+        "trans": [
+            "云英岩化"
+        ]
+    },
+    {
+        "name": "grey desert soil",
+        "trans": [
+            "灰钙土"
+        ]
+    },
+    {
+        "name": "greywacke",
+        "trans": [
+            "杂砂岩"
+        ]
+    },
+    {
+        "name": "grid battery",
+        "trans": [
+            "栅偏压电池"
+        ]
+    },
+    {
+        "name": "grid bias voltage",
+        "trans": [
+            "栅压"
+        ]
+    },
+    {
+        "name": "grid circuit",
+        "trans": [
+            "栅极电路"
+        ]
+    },
+    {
+        "name": "grid current detection",
+        "trans": [
+            "栅极检波"
+        ]
+    },
+    {
+        "name": "grid leak",
+        "trans": [
+            "栅漏"
+        ]
+    },
+    {
+        "name": "grid modulation",
+        "trans": [
+            "栅极灯"
+        ]
+    },
+    {
+        "name": "grid potential",
+        "trans": [
+            "栅极电位"
+        ]
+    },
+    {
+        "name": "grid rectification",
+        "trans": [
+            "栅极检波"
+        ]
+    },
+    {
+        "name": "grid sweep",
+        "trans": [
+            "栅极电压动荡"
+        ]
+    },
+    {
+        "name": "grid swing",
+        "trans": [
+            "栅极电压动荡"
+        ]
+    },
+    {
+        "name": "griding plane",
+        "trans": [
+            "滑动面"
+        ]
+    },
+    {
+        "name": "gridy",
+        "trans": [
+            "格子"
+        ]
+    },
+    {
+        "name": "griffithite",
+        "trans": [
+            "绿水金云母"
+        ]
+    },
+    {
+        "name": "grinding",
+        "trans": [
+            "磨"
+        ]
+    },
+    {
+        "name": "gristly",
+        "trans": [
+            "软骨的"
+        ]
+    },
+    {
+        "name": "grit",
+        "trans": [
+            "粗砂岩"
+        ]
+    },
+    {
+        "name": "gritty",
+        "trans": [
+            "砂质"
+        ]
+    },
+    {
+        "name": "groove",
+        "trans": [
+            "细沟"
+        ]
+    },
+    {
+        "name": "grooved",
+        "trans": [
+            "具沟的"
+        ]
+    },
+    {
+        "name": "gross production",
+        "trans": [
+            "总产量"
+        ]
+    },
+    {
+        "name": "grossular",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "grossularite",
+        "trans": [
+            "钙铝榴石"
+        ]
+    },
+    {
+        "name": "grothine",
+        "trans": [
+            "铁榍石"
+        ]
+    },
+    {
+        "name": "ground",
+        "trans": [
+            "地面"
+        ]
+    },
+    {
+        "name": "ground absorption",
+        "trans": [
+            "地面吸收"
+        ]
+    },
+    {
+        "name": "ground aerial",
+        "trans": [
+            "地面天线"
+        ]
+    },
+    {
+        "name": "ground antenna",
+        "trans": [
+            "地面天线"
+        ]
+    },
+    {
+        "name": "ground cable",
+        "trans": [
+            "地下电缆"
+        ]
+    },
+    {
+        "name": "ground connection",
+        "trans": [
+            "接地"
+        ]
+    },
+    {
+        "name": "ground detector",
+        "trans": [
+            "接地指示器"
+        ]
+    },
+    {
+        "name": "ground distance",
+        "trans": [
+            "地面距离"
+        ]
+    },
+    {
+        "name": "ground level",
+        "trans": [
+            "地平面"
+        ]
+    },
+    {
+        "name": "ground moraine",
+        "trans": [
+            "基碛"
+        ]
+    },
+    {
+        "name": "ground movement",
+        "trans": [
+            "地层移动"
+        ]
+    },
+    {
+        "name": "ground potential",
+        "trans": [
+            "地电位"
+        ]
+    },
+    {
+        "name": "ground pressure",
+        "trans": [
+            "地压"
+        ]
+    },
+    {
+        "name": "ground resistance",
+        "trans": [
+            "大地电阻"
+        ]
+    },
+    {
+        "name": "ground rod",
+        "trans": [
+            "接地棒"
+        ]
+    },
+    {
+        "name": "ground slope",
+        "trans": [
+            "地面倾斜"
+        ]
+    },
+    {
+        "name": "ground survey",
+        "trans": [
+            "地面测量"
+        ]
+    },
+    {
+        "name": "ground terminal",
+        "trans": [
+            "接地端"
+        ]
+    },
+    {
+        "name": "ground till",
+        "trans": [
+            "基碛"
+        ]
+    },
+    {
+        "name": "ground water podsol soil",
+        "trans": [
+            "潜育灰化土"
+        ]
+    },
+    {
+        "name": "groundmass",
+        "trans": [
+            "石基"
+        ]
+    },
+    {
+        "name": "groundwater",
+        "trans": [
+            "潜水"
+        ]
+    },
+    {
+        "name": "groundwater artery",
+        "trans": [
+            "地下水干道"
+        ]
+    },
+    {
+        "name": "groundwater barrier",
+        "trans": [
+            "地下水堡坝"
+        ]
+    },
+    {
+        "name": "groundwater basin",
+        "trans": [
+            "地下水盆地"
+        ]
+    },
+    {
+        "name": "groundwater capture",
+        "trans": [
+            "地下水袭夺"
+        ]
+    },
+    {
+        "name": "groundwater cascade",
+        "trans": [
+            "地下水小瀑布"
+        ]
+    },
+    {
+        "name": "groundwater cement",
+        "trans": [
+            "潜水泥"
+        ]
+    },
+    {
+        "name": "groundwater dam",
+        "trans": [
+            "地下水坝"
+        ]
+    },
+    {
+        "name": "groundwater discharge",
+        "trans": [
+            "地下水排泄"
+        ]
+    },
+    {
+        "name": "groundwater divide",
+        "trans": [
+            "地下分水界"
+        ]
+    },
+    {
+        "name": "groundwater flow",
+        "trans": [
+            "地下径流"
+        ]
+    },
+    {
+        "name": "groundwater inventory",
+        "trans": [
+            "地下水总量目录"
+        ]
+    },
+    {
+        "name": "groundwater level",
+        "trans": [
+            "地下水位"
+        ]
+    },
+    {
+        "name": "groundwater mound",
+        "trans": [
+            "地下水土丘"
+        ]
+    },
+    {
+        "name": "groundwater province",
+        "trans": [
+            "地下水区"
+        ]
+    },
+    {
+        "name": "groundwater recession",
+        "trans": [
+            "地下水后退"
+        ]
+    },
+    {
+        "name": "groundwater recession curve",
+        "trans": [
+            "地下水后退曲线"
+        ]
+    },
+    {
+        "name": "groundwater reservoir",
+        "trans": [
+            "地下水储集"
+        ]
+    },
+    {
+        "name": "groundwater runoff",
+        "trans": [
+            "地下径流"
+        ]
+    },
+    {
+        "name": "groundwater simulation",
+        "trans": [
+            "地下模拟"
+        ]
+    },
+    {
+        "name": "groundwater spring",
+        "trans": [
+            "潜水泉"
+        ]
+    },
+    {
+        "name": "groundwater table",
+        "trans": [
+            "地下水位"
+        ]
+    },
+    {
+        "name": "group",
+        "trans": [
+            "群"
+        ]
+    },
+    {
+        "name": "group of oilbearing horizon",
+        "trans": [
+            "可采油层组"
+        ]
+    },
+    {
+        "name": "group reagent",
+        "trans": [
+            "组试剂"
+        ]
+    },
+    {
+        "name": "group verocity",
+        "trans": [
+            "群速度"
+        ]
+    },
+    {
+        "name": "grouping",
+        "trans": [
+            "组合"
+        ]
+    },
+    {
+        "name": "grout",
+        "trans": [
+            "水泥浆"
+        ]
+    },
+    {
+        "name": "grouting",
+        "trans": [
+            "水泥灌浆"
+        ]
+    },
+    {
+        "name": "groutite",
+        "trans": [
+            "锰榍石"
+        ]
+    },
+    {
+        "name": "growing point",
+        "trans": [
+            "生长点"
+        ]
+    },
+    {
+        "name": "growth",
+        "trans": [
+            "生长"
+        ]
+    },
+    {
+        "name": "growth curve",
+        "trans": [
+            "生长曲线"
+        ]
+    },
+    {
+        "name": "growth fault",
+        "trans": [
+            "生长断层"
+        ]
+    },
+    {
+        "name": "growth layer",
+        "trans": [
+            "生长层"
+        ]
+    },
+    {
+        "name": "growth line",
+        "trans": [
+            "生长线"
+        ]
+    },
+    {
+        "name": "growth twin",
+        "trans": [
+            "生长双晶"
+        ]
+    },
+    {
+        "name": "grunerite",
+        "trans": [
+            "铁闪石"
+        ]
+    },
+    {
+        "name": "guadalcazarite",
+        "trans": [
+            "锌黑辰砂"
+        ]
+    },
+    {
+        "name": "guanajuatite",
+        "trans": [
+            "硒铋矿"
+        ]
+    },
+    {
+        "name": "guanite",
+        "trans": [
+            "鸟粪石"
+        ]
+    },
+    {
+        "name": "guano",
+        "trans": [
+            "鸟粪"
+        ]
+    },
+    {
+        "name": "guanovulite",
+        "trans": [
+            "填卵石"
+        ]
+    },
+    {
+        "name": "guard electrode",
+        "trans": [
+            "屏蔽电极"
+        ]
+    },
+    {
+        "name": "guarinite",
+        "trans": [
+            "片榍石"
+        ]
+    },
+    {
+        "name": "gudmundite",
+        "trans": [
+            "硫锑铁矿"
+        ]
+    },
+    {
+        "name": "guide shoe",
+        "trans": [
+            "导管鞋"
+        ]
+    },
+    {
+        "name": "guided wave",
+        "trans": [
+            "被导波"
+        ]
+    },
+    {
+        "name": "guildite",
+        "trans": [
+            "多水铜铁矾"
+        ]
+    },
+    {
+        "name": "gulf",
+        "trans": [
+            "湾"
+        ]
+    },
+    {
+        "name": "gully",
+        "trans": [
+            "冲沟"
+        ]
+    },
+    {
+        "name": "gully erosion",
+        "trans": [
+            "冲沟侵蚀"
+        ]
+    },
+    {
+        "name": "gummite",
+        "trans": [
+            "脂铅铀矿"
+        ]
+    },
+    {
+        "name": "gun perforator",
+        "trans": [
+            "子弹射孔器"
+        ]
+    },
+    {
+        "name": "gutenberg discontinuity",
+        "trans": [
+            "古登堡间断面"
+        ]
+    },
+    {
+        "name": "guyot",
+        "trans": [
+            "平顶海山"
+        ]
+    },
+    {
+        "name": "gyatory breaker",
+        "trans": [
+            "旋回破碎机"
+        ]
+    },
+    {
+        "name": "gymnosperms",
+        "trans": [
+            "裸子植物"
+        ]
+    },
+    {
+        "name": "gynospore",
+        "trans": [
+            "大孢子"
+        ]
+    },
+    {
+        "name": "gyps",
+        "trans": [
+            "石膏"
+        ]
+    },
+    {
+        "name": "gypsum",
+        "trans": [
+            "石膏"
+        ]
+    },
+    {
+        "name": "gypsum plate",
+        "trans": [
+            "石膏板"
+        ]
+    },
+    {
+        "name": "gypsuming",
+        "trans": [
+            "施用石膏"
+        ]
+    },
+    {
+        "name": "gyration",
+        "trans": [
+            "回转"
+        ]
+    },
+    {
+        "name": "gyratory breaker",
+        "trans": [
+            "旋回破碎机"
+        ]
+    },
+    {
+        "name": "gyro inclinometer",
+        "trans": [
+            "陀螺测斜仪"
+        ]
+    },
+    {
+        "name": "gyrocompass",
+        "trans": [
+            "回转罗盘"
+        ]
+    },
+    {
+        "name": "gyroscope",
+        "trans": [
+            "陀螺频率"
+        ]
+    },
+    {
+        "name": "gyttja",
+        "trans": [
+            "腐殖泥"
+        ]
+    },
+    {
+        "name": "gzhelian series",
+        "trans": [
+            "格热尔阶"
+        ]
+    }
+]

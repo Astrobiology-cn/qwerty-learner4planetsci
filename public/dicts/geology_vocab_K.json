@@ -1,0 +1,962 @@
+[
+    {
+        "name": "k wave",
+        "trans": [
+            "波"
+        ]
+    },
+    {
+        "name": "kaersutite",
+        "trans": [
+            "钛角闪石"
+        ]
+    },
+    {
+        "name": "kahlerite",
+        "trans": [
+            "黄砷铀铁矿"
+        ]
+    },
+    {
+        "name": "kainite",
+        "trans": [
+            "钾盐镁矾"
+        ]
+    },
+    {
+        "name": "kainosite",
+        "trans": [
+            "钙钇铒矿"
+        ]
+    },
+    {
+        "name": "kainozoic era",
+        "trans": [
+            "新生代"
+        ]
+    },
+    {
+        "name": "kaiwekite",
+        "trans": [
+            "橄歪粗面岩"
+        ]
+    },
+    {
+        "name": "kakirite",
+        "trans": [
+            "角砾破碎岩"
+        ]
+    },
+    {
+        "name": "kakortokite",
+        "trans": [
+            "条纹霞正长岩"
+        ]
+    },
+    {
+        "name": "kaliborite",
+        "trans": [
+            "硼钾镁石"
+        ]
+    },
+    {
+        "name": "kalicinite",
+        "trans": [
+            "重碳酸钾石"
+        ]
+    },
+    {
+        "name": "kalinite",
+        "trans": [
+            "纤钾茂"
+        ]
+    },
+    {
+        "name": "kaliophilite",
+        "trans": [
+            "钾霞石"
+        ]
+    },
+    {
+        "name": "kalium",
+        "trans": [
+            "钾"
+        ]
+    },
+    {
+        "name": "kalkowskite",
+        "trans": [
+            "铈钇钛铁矿"
+        ]
+    },
+    {
+        "name": "kallaite",
+        "trans": [
+            "绿松石"
+        ]
+    },
+    {
+        "name": "kallilite",
+        "trans": [
+            "杂蓝辉镍矿"
+        ]
+    },
+    {
+        "name": "kalsilite",
+        "trans": [
+            "六方钾霞石"
+        ]
+    },
+    {
+        "name": "kamacite",
+        "trans": [
+            "铁纹石"
+        ]
+    },
+    {
+        "name": "kame",
+        "trans": [
+            "冰砾阜"
+        ]
+    },
+    {
+        "name": "kammererite",
+        "trans": [
+            "铬绿泥石"
+        ]
+    },
+    {
+        "name": "拉普拉斯星云说  kant laplace theory",
+        "trans": [
+            "康德"
+        ]
+    },
+    {
+        "name": "kaolin",
+        "trans": [
+            "高岭土"
+        ]
+    },
+    {
+        "name": "kaolinite",
+        "trans": [
+            "高岭石"
+        ]
+    },
+    {
+        "name": "kaolinization",
+        "trans": [
+            "高岭石化酌"
+        ]
+    },
+    {
+        "name": "kapnicite",
+        "trans": [
+            "银星石"
+        ]
+    },
+    {
+        "name": "kapnite",
+        "trans": [
+            "铁菱锌矿"
+        ]
+    },
+    {
+        "name": "kar",
+        "trans": [
+            "冰斗"
+        ]
+    },
+    {
+        "name": "karat",
+        "trans": [
+            "克拉"
+        ]
+    },
+    {
+        "name": "karite",
+        "trans": [
+            "多英霓细岗岩"
+        ]
+    },
+    {
+        "name": "karren",
+        "trans": [
+            "岩沟"
+        ]
+    },
+    {
+        "name": "karroo",
+        "trans": [
+            "无水亚粘土草原"
+        ]
+    },
+    {
+        "name": "karst",
+        "trans": [
+            "岩溶"
+        ]
+    },
+    {
+        "name": "karst cycle",
+        "trans": [
+            "岩溶旋回"
+        ]
+    },
+    {
+        "name": "karst denudation plane",
+        "trans": [
+            "岩溶剥蚀面"
+        ]
+    },
+    {
+        "name": "karst landform",
+        "trans": [
+            "岩溶地貌"
+        ]
+    },
+    {
+        "name": "karst landscape",
+        "trans": [
+            "岩溶景观"
+        ]
+    },
+    {
+        "name": "karst red earth",
+        "trans": [
+            "岩溶红色土"
+        ]
+    },
+    {
+        "name": "karst region",
+        "trans": [
+            "岩溶地"
+        ]
+    },
+    {
+        "name": "karst topography",
+        "trans": [
+            "岩溶地势"
+        ]
+    },
+    {
+        "name": "karstenite",
+        "trans": [
+            "硬石膏"
+        ]
+    },
+    {
+        "name": "karstification",
+        "trans": [
+            "岩溶酌"
+        ]
+    },
+    {
+        "name": "karyocerite",
+        "trans": [
+            "褐稀土矿"
+        ]
+    },
+    {
+        "name": "kaschin beck disease",
+        "trans": [
+            "大骨节病"
+        ]
+    },
+    {
+        "name": "kasoite",
+        "trans": [
+            "加苏石"
+        ]
+    },
+    {
+        "name": "kasolite",
+        "trans": [
+            "硅铅铀矿"
+        ]
+    },
+    {
+        "name": "kassaite",
+        "trans": [
+            "蓝方闪长斑岩"
+        ]
+    },
+    {
+        "name": "katabatic wind",
+        "trans": [
+            "下降风"
+        ]
+    },
+    {
+        "name": "katagenesis",
+        "trans": [
+            "退化"
+        ]
+    },
+    {
+        "name": "katamorphism",
+        "trans": [
+            "碎裂变质"
+        ]
+    },
+    {
+        "name": "kataphorite",
+        "trans": [
+            "红钠闪石"
+        ]
+    },
+    {
+        "name": "katathermal deposit",
+        "trans": [
+            "深成热液矿床"
+        ]
+    },
+    {
+        "name": "katathermometer",
+        "trans": [
+            "冷却温度表"
+        ]
+    },
+    {
+        "name": "katazone",
+        "trans": [
+            "深变质带"
+        ]
+    },
+    {
+        "name": "katzenbuckelite",
+        "trans": [
+            "方响斑岩"
+        ]
+    },
+    {
+        "name": "kaustobiolite",
+        "trans": [
+            "可燃性生物岩"
+        ]
+    },
+    {
+        "name": "kedabekite",
+        "trans": [
+            "榴钙辉长岩"
+        ]
+    },
+    {
+        "name": "keel",
+        "trans": [
+            "龙骨"
+        ]
+    },
+    {
+        "name": "kehoeite",
+        "trans": [
+            "土磷锌铝石"
+        ]
+    },
+    {
+        "name": "keilhauite",
+        "trans": [
+            "钇榍石"
+        ]
+    },
+    {
+        "name": "kelly",
+        "trans": [
+            "方钻杆"
+        ]
+    },
+    {
+        "name": "kelyphite",
+        "trans": [
+            "绿泥镁铝榴石"
+        ]
+    },
+    {
+        "name": "kelyphite rim",
+        "trans": [
+            "次变边"
+        ]
+    },
+    {
+        "name": "kelyphitic",
+        "trans": [
+            "次变边的"
+        ]
+    },
+    {
+        "name": "kelyphitic border",
+        "trans": [
+            "次变边"
+        ]
+    },
+    {
+        "name": "kempite",
+        "trans": [
+            "氯羟锰矿"
+        ]
+    },
+    {
+        "name": "kentallenite",
+        "trans": [
+            "橄件长岩"
+        ]
+    },
+    {
+        "name": "kentrolite",
+        "trans": [
+            "硅铅锰矿"
+        ]
+    },
+    {
+        "name": "kenyte",
+        "trans": [
+            "霓橄粗面岩"
+        ]
+    },
+    {
+        "name": "keralite",
+        "trans": [
+            "英云角页岩"
+        ]
+    },
+    {
+        "name": "keramohalite",
+        "trans": [
+            "毛矾石"
+        ]
+    },
+    {
+        "name": "keramzit",
+        "trans": [
+            "有孔粘土"
+        ]
+    },
+    {
+        "name": "keratin",
+        "trans": [
+            "角朊"
+        ]
+    },
+    {
+        "name": "keratinization",
+        "trans": [
+            "角质化"
+        ]
+    },
+    {
+        "name": "keratolysis",
+        "trans": [
+            "角层分离"
+        ]
+    },
+    {
+        "name": "keratophyre",
+        "trans": [
+            "角斑岩"
+        ]
+    },
+    {
+        "name": "kermesite",
+        "trans": [
+            "红锑矿"
+        ]
+    },
+    {
+        "name": "kern stone",
+        "trans": [
+            "粗粒砂岩"
+        ]
+    },
+    {
+        "name": "kernel",
+        "trans": [
+            "核"
+        ]
+    },
+    {
+        "name": "kernite",
+        "trans": [
+            "四水硼砂"
+        ]
+    },
+    {
+        "name": "kerogen",
+        "trans": [
+            "油母岩"
+        ]
+    },
+    {
+        "name": "kerrite",
+        "trans": [
+            "黄绿蛭石"
+        ]
+    },
+    {
+        "name": "kersantite",
+        "trans": [
+            "云斜煌岩"
+        ]
+    },
+    {
+        "name": "kerstenite",
+        "trans": [
+            "黄硒铅矿"
+        ]
+    },
+    {
+        "name": "kettle depression",
+        "trans": [
+            "锅状陷落地"
+        ]
+    },
+    {
+        "name": "key bed",
+        "trans": [
+            "标准层"
+        ]
+    },
+    {
+        "name": "key fossil",
+        "trans": [
+            "指示化石"
+        ]
+    },
+    {
+        "name": "keying",
+        "trans": [
+            "键控"
+        ]
+    },
+    {
+        "name": "khagiarite",
+        "trans": [
+            "玻璃粗面岩"
+        ]
+    },
+    {
+        "name": "kibble",
+        "trans": [
+            "吊桶"
+        ]
+    },
+    {
+        "name": "kieselguhr",
+        "trans": [
+            "硅藻土"
+        ]
+    },
+    {
+        "name": "kieserite",
+        "trans": [
+            "水锑矾"
+        ]
+    },
+    {
+        "name": "kimberlite",
+        "trans": [
+            "角砾云母橄家"
+        ]
+    },
+    {
+        "name": "kimmeridgian",
+        "trans": [
+            "基米里支阶"
+        ]
+    },
+    {
+        "name": "kimolite",
+        "trans": [
+            "水土"
+        ]
+    },
+    {
+        "name": "kindling point",
+        "trans": [
+            "燃点"
+        ]
+    },
+    {
+        "name": "kinematic similarity",
+        "trans": [
+            "运动相似性"
+        ]
+    },
+    {
+        "name": "kinescope",
+        "trans": [
+            "显像管"
+        ]
+    },
+    {
+        "name": "kinetic energy",
+        "trans": [
+            "动能"
+        ]
+    },
+    {
+        "name": "kinetic metamorphism",
+        "trans": [
+            "动力变质"
+        ]
+    },
+    {
+        "name": "kinetic theory of liquids",
+        "trans": [
+            "液体的分子运动论"
+        ]
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "界"
+        ]
+    },
+    {
+        "name": "kink",
+        "trans": [
+            "弯曲"
+        ]
+    },
+    {
+        "name": "kink fold",
+        "trans": [
+            "折带褶曲"
+        ]
+    },
+    {
+        "name": "kinzigite",
+        "trans": [
+            "榴云岩"
+        ]
+    },
+    {
+        "name": "kipushite",
+        "trans": [
+            "磷锌铜矿"
+        ]
+    },
+    {
+        "name": "kir",
+        "trans": [
+            "基尔沥青"
+        ]
+    },
+    {
+        "name": "kischtymite",
+        "trans": [
+            "褐氟碳铈矿"
+        ]
+    },
+    {
+        "name": "klaprothite",
+        "trans": [
+            "脆硫铜铋矿"
+        ]
+    },
+    {
+        "name": "klaprotholite",
+        "trans": [
+            "脆硫铜铋矿"
+        ]
+    },
+    {
+        "name": "klastoporphyroid",
+        "trans": [
+            "碎屑残斑岩"
+        ]
+    },
+    {
+        "name": "kleinite",
+        "trans": [
+            "氯铵汞矿"
+        ]
+    },
+    {
+        "name": "klinkenberg effect",
+        "trans": [
+            "克林肯伯格效应"
+        ]
+    },
+    {
+        "name": "klockmannite",
+        "trans": [
+            "蓝硒铜矿"
+        ]
+    },
+    {
+        "name": "knebelite",
+        "trans": [
+            "锰铁橄榄石"
+        ]
+    },
+    {
+        "name": "knickpoint",
+        "trans": [
+            "尼克点"
+        ]
+    },
+    {
+        "name": "knoll",
+        "trans": [
+            "圆丘"
+        ]
+    },
+    {
+        "name": "knopite",
+        "trans": [
+            "铈钙钛矿"
+        ]
+    },
+    {
+        "name": "kochenite",
+        "trans": [
+            "琥珀尸"
+        ]
+    },
+    {
+        "name": "koettigite",
+        "trans": [
+            "红砷锌矿"
+        ]
+    },
+    {
+        "name": "kolm",
+        "trans": [
+            "铀煤"
+        ]
+    },
+    {
+        "name": "komatiite",
+        "trans": [
+            "科磨致岩"
+        ]
+    },
+    {
+        "name": "koninckite",
+        "trans": [
+            "针磷铁矿"
+        ]
+    },
+    {
+        "name": "konite",
+        "trans": [
+            "镁白云石"
+        ]
+    },
+    {
+        "name": "konlite",
+        "trans": [
+            "重碳地蜡"
+        ]
+    },
+    {
+        "name": "koppite",
+        "trans": [
+            "重烧绿石"
+        ]
+    },
+    {
+        "name": "korea augite",
+        "trans": [
+            "朝鲜辉石"
+        ]
+    },
+    {
+        "name": "koreite",
+        "trans": [
+            "寿山石"
+        ]
+    },
+    {
+        "name": "kornerupine",
+        "trans": [
+            "柱晶石"
+        ]
+    },
+    {
+        "name": "kornerupite",
+        "trans": [
+            "柱晶石"
+        ]
+    },
+    {
+        "name": "kosmochlor",
+        "trans": [
+            "宇宙氯辉石"
+        ]
+    },
+    {
+        "name": "koswite",
+        "trans": [
+            "橄榄透辉岩"
+        ]
+    },
+    {
+        "name": "kotoite",
+        "trans": [
+            "小藤石"
+        ]
+    },
+    {
+        "name": "kotschubeite",
+        "trans": [
+            "富铬斜绿泥石"
+        ]
+    },
+    {
+        "name": "koum",
+        "trans": [
+            "库姆砂漠"
+        ]
+    },
+    {
+        "name": "kovar",
+        "trans": [
+            "古伐"
+        ]
+    },
+    {
+        "name": "krablite",
+        "trans": [
+            "透长凝灰岩"
+        ]
+    },
+    {
+        "name": "kragerite",
+        "trans": [
+            "金红钠长细晶岩"
+        ]
+    },
+    {
+        "name": "kramerite",
+        "trans": [
+            "基性硼钠石"
+        ]
+    },
+    {
+        "name": "krantzite",
+        "trans": [
+            "尸石"
+        ]
+    },
+    {
+        "name": "kratogen",
+        "trans": [
+            "稳定地块"
+        ]
+    },
+    {
+        "name": "kraton",
+        "trans": [
+            "稳定地块"
+        ]
+    },
+    {
+        "name": "kraurite",
+        "trans": [
+            "绿磷铁矿"
+        ]
+    },
+    {
+        "name": "krausite",
+        "trans": [
+            "钾铁矾"
+        ]
+    },
+    {
+        "name": "krauskopfite",
+        "trans": [
+            "水硅钡矿"
+        ]
+    },
+    {
+        "name": "kremersite",
+        "trans": [
+            "钾铵铁矿"
+        ]
+    },
+    {
+        "name": "krennerite",
+        "trans": [
+            "白碲金银矿"
+        ]
+    },
+    {
+        "name": "krypton",
+        "trans": [
+            "氪"
+        ]
+    },
+    {
+        "name": "ktenasite",
+        "trans": [
+            "基性铜锌矾"
+        ]
+    },
+    {
+        "name": "kullaite",
+        "trans": [
+            "微斜辉绿岩"
+        ]
+    },
+    {
+        "name": "kum",
+        "trans": [
+            "库姆砂漠"
+        ]
+    },
+    {
+        "name": "kunzite",
+        "trans": [
+            "紫锂辉石"
+        ]
+    },
+    {
+        "name": "kupfferite",
+        "trans": [
+            "镁直闪石"
+        ]
+    },
+    {
+        "name": "kurnakovite",
+        "trans": [
+            "单斜硼镁石"
+        ]
+    },
+    {
+        "name": "kuroko deposit",
+        "trans": [
+            "黑矿型矿床"
+        ]
+    },
+    {
+        "name": "kurskite",
+        "trans": [
+            "氟钠磷灰石"
+        ]
+    },
+    {
+        "name": "kvellite",
+        "trans": [
+            "橄闪正长煌斑岩"
+        ]
+    },
+    {
+        "name": "kyanite",
+        "trans": [
+            "蓝晶石"
+        ]
+    },
+    {
+        "name": "kylite",
+        "trans": [
+            "辉橄霞斜岩"
+        ]
+    },
+    {
+        "name": "kymograph",
+        "trans": [
+            "转筒记录器"
+        ]
+    }
+]

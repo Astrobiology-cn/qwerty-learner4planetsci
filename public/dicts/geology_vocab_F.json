@@ -1,0 +1,3410 @@
+[
+    {
+        "name": "f test",
+        "trans": [
+            "检验"
+        ]
+    },
+    {
+        "name": "fabric",
+        "trans": [
+            "构造"
+        ]
+    },
+    {
+        "name": "fabric analysis of rock",
+        "trans": [
+            "岩石组构解析"
+        ]
+    },
+    {
+        "name": "fabric domain",
+        "trans": [
+            "组构域"
+        ]
+    },
+    {
+        "name": "fabric element",
+        "trans": [
+            "组构要素"
+        ]
+    },
+    {
+        "name": "face",
+        "trans": [
+            "工祖"
+        ]
+    },
+    {
+        "name": "face centered lattice",
+        "trans": [
+            "面心点阵"
+        ]
+    },
+    {
+        "name": "facet eye",
+        "trans": [
+            "复眼"
+        ]
+    },
+    {
+        "name": "faceted pebble",
+        "trans": [
+            "棱石"
+        ]
+    },
+    {
+        "name": "faceted spur",
+        "trans": [
+            "截切山嘴"
+        ]
+    },
+    {
+        "name": "facetted peneplation",
+        "trans": [
+            "交切准平原"
+        ]
+    },
+    {
+        "name": "facial sutures",
+        "trans": [
+            "面线"
+        ]
+    },
+    {
+        "name": "facies",
+        "trans": [
+            "相"
+        ]
+    },
+    {
+        "name": "facies analysis",
+        "trans": [
+            "相分析"
+        ]
+    },
+    {
+        "name": "facies angle",
+        "trans": [
+            "相角"
+        ]
+    },
+    {
+        "name": "facies change",
+        "trans": [
+            "相的变化"
+        ]
+    },
+    {
+        "name": "facies fossil",
+        "trans": [
+            "指相化石"
+        ]
+    },
+    {
+        "name": "facies index",
+        "trans": [
+            "指相化石"
+        ]
+    },
+    {
+        "name": "facies map",
+        "trans": [
+            "相图"
+        ]
+    },
+    {
+        "name": "facies series",
+        "trans": [
+            "相系"
+        ]
+    },
+    {
+        "name": "factor analysis",
+        "trans": [
+            "因子分析"
+        ]
+    },
+    {
+        "name": "fahlband",
+        "trans": [
+            "矿带"
+        ]
+    },
+    {
+        "name": "fahlore",
+        "trans": [
+            "铜矿"
+        ]
+    },
+    {
+        "name": "fahlunite",
+        "trans": [
+            "褐堇青石"
+        ]
+    },
+    {
+        "name": "failure",
+        "trans": [
+            "破坏"
+        ]
+    },
+    {
+        "name": "fairfieldite",
+        "trans": [
+            "磷钙锰石"
+        ]
+    },
+    {
+        "name": "falcate",
+        "trans": [
+            "镰状的"
+        ]
+    },
+    {
+        "name": "falciform",
+        "trans": [
+            "镰状的"
+        ]
+    },
+    {
+        "name": "fall line",
+        "trans": [
+            "瀑布线"
+        ]
+    },
+    {
+        "name": "falling ball viscosimeter",
+        "trans": [
+            "落球粘度计"
+        ]
+    },
+    {
+        "name": "falling off of drill string",
+        "trans": [
+            "跑钻"
+        ]
+    },
+    {
+        "name": "false bedding",
+        "trans": [
+            "假层理"
+        ]
+    },
+    {
+        "name": "false cleavage",
+        "trans": [
+            "假劈理"
+        ]
+    },
+    {
+        "name": "false roof",
+        "trans": [
+            "伪顶"
+        ]
+    },
+    {
+        "name": "faluns",
+        "trans": [
+            "砂质泥灰岩"
+        ]
+    },
+    {
+        "name": "famatinite",
+        "trans": [
+            "脆硫锑铜矿"
+        ]
+    },
+    {
+        "name": "famennian stage",
+        "trans": [
+            "法门阶"
+        ]
+    },
+    {
+        "name": "family",
+        "trans": [
+            "科"
+        ]
+    },
+    {
+        "name": "family of curves",
+        "trans": [
+            "曲线族"
+        ]
+    },
+    {
+        "name": "fan",
+        "trans": [
+            "扇状地"
+        ]
+    },
+    {
+        "name": "fan cleavage",
+        "trans": [
+            "扇状劈理"
+        ]
+    },
+    {
+        "name": "fan delta",
+        "trans": [
+            "扇形三角洲"
+        ]
+    },
+    {
+        "name": "fan fold",
+        "trans": [
+            "扇状褶皱"
+        ]
+    },
+    {
+        "name": "fan shaped",
+        "trans": [
+            "扇形的"
+        ]
+    },
+    {
+        "name": "fan shooting",
+        "trans": [
+            "扇形排列法地震勘探"
+        ]
+    },
+    {
+        "name": "fanglomerate",
+        "trans": [
+            "扇积砾"
+        ]
+    },
+    {
+        "name": "faratsihite",
+        "trans": [
+            "黄高岭石"
+        ]
+    },
+    {
+        "name": "farrisite",
+        "trans": [
+            "闪辉黄煌岩"
+        ]
+    },
+    {
+        "name": "fasibitikite",
+        "trans": [
+            "负异钠花岗岩"
+        ]
+    },
+    {
+        "name": "fasinite",
+        "trans": [
+            "辉霞岩"
+        ]
+    },
+    {
+        "name": "fat cell",
+        "trans": [
+            "脂细胞"
+        ]
+    },
+    {
+        "name": "fat coal",
+        "trans": [
+            "肥煤"
+        ]
+    },
+    {
+        "name": "fathometer",
+        "trans": [
+            "测深仪"
+        ]
+    },
+    {
+        "name": "fatigue",
+        "trans": [
+            "疲劳"
+        ]
+    },
+    {
+        "name": "fatty acid",
+        "trans": [
+            "脂肪酸"
+        ]
+    },
+    {
+        "name": "faujasite",
+        "trans": [
+            "八面沸石"
+        ]
+    },
+    {
+        "name": "fault",
+        "trans": [
+            "断层"
+        ]
+    },
+    {
+        "name": "fault amplitude",
+        "trans": [
+            "垂直断距"
+        ]
+    },
+    {
+        "name": "fault associated with earthquake",
+        "trans": [
+            "地震断层"
+        ]
+    },
+    {
+        "name": "fault basin",
+        "trans": [
+            "断层盆地"
+        ]
+    },
+    {
+        "name": "fault bench",
+        "trans": [
+            "断层阶地"
+        ]
+    },
+    {
+        "name": "fault block",
+        "trans": [
+            "断块"
+        ]
+    },
+    {
+        "name": "fault block reservoirs",
+        "trans": [
+            "断块油气藏"
+        ]
+    },
+    {
+        "name": "fault block tectonism",
+        "trans": [
+            "块断构造酌"
+        ]
+    },
+    {
+        "name": "fault breccia",
+        "trans": [
+            "断层角砾岩"
+        ]
+    },
+    {
+        "name": "fault coal",
+        "trans": [
+            "劣质煤"
+        ]
+    },
+    {
+        "name": "fault creep",
+        "trans": [
+            "断层蠕动"
+        ]
+    },
+    {
+        "name": "fault displacement",
+        "trans": [
+            "断层位移"
+        ]
+    },
+    {
+        "name": "fault effect",
+        "trans": [
+            "断层效应"
+        ]
+    },
+    {
+        "name": "fault escarpment",
+        "trans": [
+            "断层崖"
+        ]
+    },
+    {
+        "name": "fault facet",
+        "trans": [
+            "断层三角面"
+        ]
+    },
+    {
+        "name": "fault fissure",
+        "trans": [
+            "断层裂缝"
+        ]
+    },
+    {
+        "name": "fault fold",
+        "trans": [
+            "断层褶皱"
+        ]
+    },
+    {
+        "name": "fault gouge",
+        "trans": [
+            "断层泥"
+        ]
+    },
+    {
+        "name": "fault graben",
+        "trans": [
+            "地堑"
+        ]
+    },
+    {
+        "name": "fault ledge",
+        "trans": [
+            "断层崖"
+        ]
+    },
+    {
+        "name": "fault line",
+        "trans": [
+            "断层线"
+        ]
+    },
+    {
+        "name": "fault line scarp",
+        "trans": [
+            "断层线崖"
+        ]
+    },
+    {
+        "name": "fault line valley",
+        "trans": [
+            "断层线谷"
+        ]
+    },
+    {
+        "name": "fault mountain",
+        "trans": [
+            "断层山"
+        ]
+    },
+    {
+        "name": "fault plane",
+        "trans": [
+            "断面"
+        ]
+    },
+    {
+        "name": "fault screened reservoir",
+        "trans": [
+            "断层遮挡油气藏"
+        ]
+    },
+    {
+        "name": "fault surface",
+        "trans": [
+            "断面"
+        ]
+    },
+    {
+        "name": "阶地  fault terrace",
+        "trans": [
+            "断层"
+        ]
+    },
+    {
+        "name": "fault trap",
+        "trans": [
+            "断层圈闭"
+        ]
+    },
+    {
+        "name": "fault trough",
+        "trans": [
+            "断层槽"
+        ]
+    },
+    {
+        "name": "fault valley",
+        "trans": [
+            "断层谷"
+        ]
+    },
+    {
+        "name": "fault warp",
+        "trans": [
+            "坳块"
+        ]
+    },
+    {
+        "name": "fault zone",
+        "trans": [
+            "断裂带"
+        ]
+    },
+    {
+        "name": "fauna",
+        "trans": [
+            "动物群"
+        ]
+    },
+    {
+        "name": "faunal remains",
+        "trans": [
+            "动物残余"
+        ]
+    },
+    {
+        "name": "faunule",
+        "trans": [
+            "小动物群"
+        ]
+    },
+    {
+        "name": "fayalite",
+        "trans": [
+            "铁橄集"
+        ]
+    },
+    {
+        "name": "feather",
+        "trans": [
+            "羽饰斑"
+        ]
+    },
+    {
+        "name": "feather tension joints",
+        "trans": [
+            "羽状张节理"
+        ]
+    },
+    {
+        "name": "featherlike drainage pattern",
+        "trans": [
+            "羽毛状水系"
+        ]
+    },
+    {
+        "name": "feathery structure",
+        "trans": [
+            "羽状构造"
+        ]
+    },
+    {
+        "name": "fedorovite",
+        "trans": [
+            "霓透辉石"
+        ]
+    },
+    {
+        "name": "feeding device",
+        "trans": [
+            "加料装置"
+        ]
+    },
+    {
+        "name": "feldspar",
+        "trans": [
+            "长石"
+        ]
+    },
+    {
+        "name": "feldspathoid",
+        "trans": [
+            "似长石"
+        ]
+    },
+    {
+        "name": "felsic magmatism",
+        "trans": [
+            "长英岩浆酌"
+        ]
+    },
+    {
+        "name": "felsic rock",
+        "trans": [
+            "长英质岩"
+        ]
+    },
+    {
+        "name": "felsite",
+        "trans": [
+            "霏细岩"
+        ]
+    },
+    {
+        "name": "felsitic",
+        "trans": [
+            "硅长岩质的"
+        ]
+    },
+    {
+        "name": "felsitic texture",
+        "trans": [
+            "霏细构造"
+        ]
+    },
+    {
+        "name": "felsobanyite",
+        "trans": [
+            "斜方矾石"
+        ]
+    },
+    {
+        "name": "felsophyre",
+        "trans": [
+            "霏细斑岩"
+        ]
+    },
+    {
+        "name": "felty",
+        "trans": [
+            "针状的"
+        ]
+    },
+    {
+        "name": "femic mineral",
+        "trans": [
+            "铁镁质矿物"
+        ]
+    },
+    {
+        "name": "fen",
+        "trans": [
+            "沼泽"
+        ]
+    },
+    {
+        "name": "fen peat",
+        "trans": [
+            "低位泥炭"
+        ]
+    },
+    {
+        "name": "fenite",
+        "trans": [
+            "长霓岩"
+        ]
+    },
+    {
+        "name": "fenster",
+        "trans": [
+            "格状的"
+        ]
+    },
+    {
+        "name": "ferberite",
+        "trans": [
+            "钨铁矿"
+        ]
+    },
+    {
+        "name": "ferghanite",
+        "trans": [
+            "磷矾铀矿"
+        ]
+    },
+    {
+        "name": "fergusite",
+        "trans": [
+            "假白榴等色岩"
+        ]
+    },
+    {
+        "name": "fergusonite",
+        "trans": [
+            "褐钇铌矿"
+        ]
+    },
+    {
+        "name": "fermentation",
+        "trans": [
+            "发酵"
+        ]
+    },
+    {
+        "name": "fermium",
+        "trans": [
+            "镄"
+        ]
+    },
+    {
+        "name": "fermorite",
+        "trans": [
+            "锶磷灰石"
+        ]
+    },
+    {
+        "name": "fernandinite",
+        "trans": [
+            "纤钒钙石"
+        ]
+    },
+    {
+        "name": "ferns",
+        "trans": [
+            "蕨类"
+        ]
+    },
+    {
+        "name": "ferri halloysite",
+        "trans": [
+            "多水铁高岭土"
+        ]
+    },
+    {
+        "name": "ferric oxide",
+        "trans": [
+            "氧化铁"
+        ]
+    },
+    {
+        "name": "ferric sulfide",
+        "trans": [
+            "硫化铁"
+        ]
+    },
+    {
+        "name": "ferrierite",
+        "trans": [
+            "镁碱沸石"
+        ]
+    },
+    {
+        "name": "ferrimolybdite",
+        "trans": [
+            "铁钼华"
+        ]
+    },
+    {
+        "name": "ferrimontmorillonite",
+        "trans": [
+            "高铁蒙脱石"
+        ]
+    },
+    {
+        "name": "ferrisymplesite",
+        "trans": [
+            "纤维砷铁矿"
+        ]
+    },
+    {
+        "name": "ferrite",
+        "trans": [
+            "自然铁"
+        ]
+    },
+    {
+        "name": "ferrite zone",
+        "trans": [
+            "自然铁带"
+        ]
+    },
+    {
+        "name": "ferrithorite",
+        "trans": [
+            "高铁方钍石"
+        ]
+    },
+    {
+        "name": "ferritungstite",
+        "trans": [
+            "高铁钨华"
+        ]
+    },
+    {
+        "name": "ferrocalcite",
+        "trans": [
+            "铁方解石"
+        ]
+    },
+    {
+        "name": "ferrocobaltine",
+        "trans": [
+            "铁辉钴矿"
+        ]
+    },
+    {
+        "name": "ferrocyanide",
+        "trans": [
+            "亚铁氧化物"
+        ]
+    },
+    {
+        "name": "ferrodolomite",
+        "trans": [
+            "铁白云石"
+        ]
+    },
+    {
+        "name": "ferromagnesian component",
+        "trans": [
+            "铁镁组分"
+        ]
+    },
+    {
+        "name": "ferromagnesian mineral",
+        "trans": [
+            "铁镁矿物"
+        ]
+    },
+    {
+        "name": "ferromagnetic",
+        "trans": [
+            "强磁性的"
+        ]
+    },
+    {
+        "name": "ferromagnetic element",
+        "trans": [
+            "铁磁性元素"
+        ]
+    },
+    {
+        "name": "ferromagnetic material",
+        "trans": [
+            "铁磁性材料"
+        ]
+    },
+    {
+        "name": "ferromagnetism",
+        "trans": [
+            "铁磁性"
+        ]
+    },
+    {
+        "name": "ferromangandolomite",
+        "trans": [
+            "低铁锰白云石"
+        ]
+    },
+    {
+        "name": "ferronatrite",
+        "trans": [
+            "针钠铁矾"
+        ]
+    },
+    {
+        "name": "ferroplumbite",
+        "trans": [
+            "磁铅铁矿"
+        ]
+    },
+    {
+        "name": "ferrosilite",
+        "trans": [
+            "斜铁辉石"
+        ]
+    },
+    {
+        "name": "ferrouranothorite",
+        "trans": [
+            "铁铀钍石"
+        ]
+    },
+    {
+        "name": "ferrous metal",
+        "trans": [
+            "黑色金属"
+        ]
+    },
+    {
+        "name": "ferrous sulfide",
+        "trans": [
+            "硫化亚铁"
+        ]
+    },
+    {
+        "name": "ferruginous",
+        "trans": [
+            "含铁的"
+        ]
+    },
+    {
+        "name": "fersmanite",
+        "trans": [
+            "硅钠铌石"
+        ]
+    },
+    {
+        "name": "fersmite",
+        "trans": [
+            "铌钙矿"
+        ]
+    },
+    {
+        "name": "fertile",
+        "trans": [
+            "肥沃的"
+        ]
+    },
+    {
+        "name": "fervanite",
+        "trans": [
+            "水钒铁矿"
+        ]
+    },
+    {
+        "name": "festoon islands",
+        "trans": [
+            "花彩列岛"
+        ]
+    },
+    {
+        "name": "fiber",
+        "trans": [
+            "纤维"
+        ]
+    },
+    {
+        "name": "fibroblastic texture",
+        "trans": [
+            "纤维变晶构造"
+        ]
+    },
+    {
+        "name": "fibroferrite",
+        "trans": [
+            "纤铁矾"
+        ]
+    },
+    {
+        "name": "fibrous",
+        "trans": [
+            "纤维质的"
+        ]
+    },
+    {
+        "name": "fibrous parallel",
+        "trans": [
+            "平行纤维状的;平行纡维状的"
+        ]
+    },
+    {
+        "name": "fibrovascular bundle",
+        "trans": [
+            "维管束"
+        ]
+    },
+    {
+        "name": "ficinite",
+        "trans": [
+            "柴苏辉石"
+        ]
+    },
+    {
+        "name": "fidelity",
+        "trans": [
+            "保真性"
+        ]
+    },
+    {
+        "name": "fiedlerite",
+        "trans": [
+            "水氯铝石"
+        ]
+    },
+    {
+        "name": "field book",
+        "trans": [
+            "野外纪录簿"
+        ]
+    },
+    {
+        "name": "field capacity",
+        "trans": [
+            "土壤毛细含水量"
+        ]
+    },
+    {
+        "name": "field carrying capacity",
+        "trans": [
+            "土壤毛细含水量"
+        ]
+    },
+    {
+        "name": "field check",
+        "trans": [
+            "野外检验"
+        ]
+    },
+    {
+        "name": "field geology",
+        "trans": [
+            "野外地质学"
+        ]
+    },
+    {
+        "name": "field of view",
+        "trans": [
+            "视场"
+        ]
+    },
+    {
+        "name": "field survey",
+        "trans": [
+            "野外测量"
+        ]
+    },
+    {
+        "name": "field work",
+        "trans": [
+            "野外工作现场工作"
+        ]
+    },
+    {
+        "name": "fiery seam",
+        "trans": [
+            "瓦斯煤层"
+        ]
+    },
+    {
+        "name": "filiform",
+        "trans": [
+            "丝状的"
+        ]
+    },
+    {
+        "name": "filiform texture",
+        "trans": [
+            "丝状结构"
+        ]
+    },
+    {
+        "name": "fill",
+        "trans": [
+            "淤积"
+        ]
+    },
+    {
+        "name": "fill terrace",
+        "trans": [
+            "填充阶地"
+        ]
+    },
+    {
+        "name": "filler",
+        "trans": [
+            "填充物"
+        ]
+    },
+    {
+        "name": "fillowite",
+        "trans": [
+            "锰磷矿"
+        ]
+    },
+    {
+        "name": "film",
+        "trans": [
+            "薄膜"
+        ]
+    },
+    {
+        "name": "film water",
+        "trans": [
+            "薄膜水"
+        ]
+    },
+    {
+        "name": "filter",
+        "trans": [
+            "过滤机"
+        ]
+    },
+    {
+        "name": "filter cake",
+        "trans": [
+            "泥饼"
+        ]
+    },
+    {
+        "name": "filter paper",
+        "trans": [
+            "滤纸"
+        ]
+    },
+    {
+        "name": "filtrate",
+        "trans": [
+            "滤液"
+        ]
+    },
+    {
+        "name": "filtration",
+        "trans": [
+            "过滤"
+        ]
+    },
+    {
+        "name": "filtration spring",
+        "trans": [
+            "渗出泉"
+        ]
+    },
+    {
+        "name": "filtration velocity",
+        "trans": [
+            "过滤速度"
+        ]
+    },
+    {
+        "name": "fin ray",
+        "trans": [
+            "条"
+        ]
+    },
+    {
+        "name": "finder",
+        "trans": [
+            "检影器"
+        ]
+    },
+    {
+        "name": "fine coal",
+        "trans": [
+            "细粉煤"
+        ]
+    },
+    {
+        "name": "fine earth",
+        "trans": [
+            "细土"
+        ]
+    },
+    {
+        "name": "fine grain development",
+        "trans": [
+            "微粒显像"
+        ]
+    },
+    {
+        "name": "fine grained sand",
+        "trans": [
+            "细粒砂"
+        ]
+    },
+    {
+        "name": "fine grained texture",
+        "trans": [
+            "细粒结构"
+        ]
+    },
+    {
+        "name": "fine gravel",
+        "trans": [
+            "细砾"
+        ]
+    },
+    {
+        "name": "fine ore",
+        "trans": [
+            "细矿"
+        ]
+    },
+    {
+        "name": "fine porosity",
+        "trans": [
+            "小气孔性"
+        ]
+    },
+    {
+        "name": "fine sand",
+        "trans": [
+            "细砂"
+        ]
+    },
+    {
+        "name": "fine soil",
+        "trans": [
+            "细粒土壤"
+        ]
+    },
+    {
+        "name": "fine structure",
+        "trans": [
+            "精细结构"
+        ]
+    },
+    {
+        "name": "fine texture",
+        "trans": [
+            "细密结构"
+        ]
+    },
+    {
+        "name": "finely porous",
+        "trans": [
+            "细孔质的"
+        ]
+    },
+    {
+        "name": "fines",
+        "trans": [
+            "细粉煤"
+        ]
+    },
+    {
+        "name": "finger veined",
+        "trans": [
+            "掌状脉的"
+        ]
+    },
+    {
+        "name": "finnemanite",
+        "trans": [
+            "砷氯铅矿"
+        ]
+    },
+    {
+        "name": "fiord",
+        "trans": [
+            "峡湾"
+        ]
+    },
+    {
+        "name": "fiorite",
+        "trans": [
+            "硅华"
+        ]
+    },
+    {
+        "name": "fire clay",
+        "trans": [
+            "耐火粘土"
+        ]
+    },
+    {
+        "name": "fire point",
+        "trans": [
+            "坩埚"
+        ]
+    },
+    {
+        "name": "fire pot",
+        "trans": [
+            "坩埚"
+        ]
+    },
+    {
+        "name": "fire refining",
+        "trans": [
+            "火法精炼"
+        ]
+    },
+    {
+        "name": "fire resistance",
+        "trans": [
+            "耐火性"
+        ]
+    },
+    {
+        "name": "firing",
+        "trans": [
+            "点火"
+        ]
+    },
+    {
+        "name": "firn",
+        "trans": [
+            "万年雪"
+        ]
+    },
+    {
+        "name": "fischerite",
+        "trans": [
+            "水磷铝石"
+        ]
+    },
+    {
+        "name": "fishing reef",
+        "trans": [
+            "鱼礁"
+        ]
+    },
+    {
+        "name": "fishtail bit",
+        "trans": [
+            "鱼尾钻头"
+        ]
+    },
+    {
+        "name": "fissile material",
+        "trans": [
+            "可裂变物质"
+        ]
+    },
+    {
+        "name": "fissility",
+        "trans": [
+            "可劈性"
+        ]
+    },
+    {
+        "name": "fission",
+        "trans": [
+            "分裂"
+        ]
+    },
+    {
+        "name": "fission product",
+        "trans": [
+            "核分裂产物"
+        ]
+    },
+    {
+        "name": "fission track method",
+        "trans": [
+            "裂变轨迹年代测定法"
+        ]
+    },
+    {
+        "name": "fissure",
+        "trans": [
+            "裂缝"
+        ]
+    },
+    {
+        "name": "fissure eruption",
+        "trans": [
+            "裂缝喷发;裂缝喷溢"
+        ]
+    },
+    {
+        "name": "fissure of retreat",
+        "trans": [
+            "收缩裂缝"
+        ]
+    },
+    {
+        "name": "fissure spring",
+        "trans": [
+            "裂缝泉"
+        ]
+    },
+    {
+        "name": "fissure volcano",
+        "trans": [
+            "裂隙式火山"
+        ]
+    },
+    {
+        "name": "fissure water",
+        "trans": [
+            "裂隙水"
+        ]
+    },
+    {
+        "name": "fissure zone",
+        "trans": [
+            "裂隙带"
+        ]
+    },
+    {
+        "name": "fixation",
+        "trans": [
+            "固定"
+        ]
+    },
+    {
+        "name": "fixed ash",
+        "trans": [
+            "固定灰分"
+        ]
+    },
+    {
+        "name": "fixed bitumen",
+        "trans": [
+            "束缚沥"
+        ]
+    },
+    {
+        "name": "fixed boundary",
+        "trans": [
+            "固定边界"
+        ]
+    },
+    {
+        "name": "fixed carbon",
+        "trans": [
+            "固定碳"
+        ]
+    },
+    {
+        "name": "fixed drilling platform",
+        "trans": [
+            "固定式钻探平台"
+        ]
+    },
+    {
+        "name": "fixed load",
+        "trans": [
+            "定负载"
+        ]
+    },
+    {
+        "name": "fixed point",
+        "trans": [
+            "固定点"
+        ]
+    },
+    {
+        "name": "fjeld",
+        "trans": [
+            "冰蚀高原"
+        ]
+    },
+    {
+        "name": "fjord",
+        "trans": [
+            "峡湾"
+        ]
+    },
+    {
+        "name": "flabellate",
+        "trans": [
+            "扇形的"
+        ]
+    },
+    {
+        "name": "flabelliform",
+        "trans": [
+            "扇形的"
+        ]
+    },
+    {
+        "name": "flagellates",
+        "trans": [
+            "鞭毛虫类"
+        ]
+    },
+    {
+        "name": "flagellum",
+        "trans": [
+            "鞭毛"
+        ]
+    },
+    {
+        "name": "flake",
+        "trans": [
+            "鳞"
+        ]
+    },
+    {
+        "name": "flaky graphite",
+        "trans": [
+            "鳞片状石墨"
+        ]
+    },
+    {
+        "name": "flaky texture",
+        "trans": [
+            "鳞片状结构"
+        ]
+    },
+    {
+        "name": "flamboyant structure",
+        "trans": [
+            "火焰构造"
+        ]
+    },
+    {
+        "name": "flame assay",
+        "trans": [
+            "火焰试验"
+        ]
+    },
+    {
+        "name": "flame coal",
+        "trans": [
+            "焰煤"
+        ]
+    },
+    {
+        "name": "flame jet drilling",
+        "trans": [
+            "火焰喷出钻井"
+        ]
+    },
+    {
+        "name": "flame like",
+        "trans": [
+            "焰状的"
+        ]
+    },
+    {
+        "name": "flame photometry",
+        "trans": [
+            "火焰光谱法"
+        ]
+    },
+    {
+        "name": "flame reaction",
+        "trans": [
+            "焰色反应"
+        ]
+    },
+    {
+        "name": "flame safety lamp",
+        "trans": [
+            "火焰安全灯"
+        ]
+    },
+    {
+        "name": "flame spectrophotometry",
+        "trans": [
+            "火焰分光光度测定"
+        ]
+    },
+    {
+        "name": "flamy structure",
+        "trans": [
+            "火焰构造"
+        ]
+    },
+    {
+        "name": "flank",
+        "trans": [
+            "翼"
+        ]
+    },
+    {
+        "name": "flank eruption",
+        "trans": [
+            "山侧喷发"
+        ]
+    },
+    {
+        "name": "flank moraine",
+        "trans": [
+            "侧碛石"
+        ]
+    },
+    {
+        "name": "flaser",
+        "trans": [
+            "压扁状的"
+        ]
+    },
+    {
+        "name": "flaser structure",
+        "trans": [
+            "压扁构造"
+        ]
+    },
+    {
+        "name": "flash",
+        "trans": [
+            "闪光"
+        ]
+    },
+    {
+        "name": "flash flood",
+        "trans": [
+            "暴洪"
+        ]
+    },
+    {
+        "name": "flash roaster",
+        "trans": [
+            "悬浮焙烧炉"
+        ]
+    },
+    {
+        "name": "flash spectrum",
+        "trans": [
+            "闪光光谱"
+        ]
+    },
+    {
+        "name": "flat seam",
+        "trans": [
+            "平矿层"
+        ]
+    },
+    {
+        "name": "flat topped fold",
+        "trans": [
+            "箱状褶皱"
+        ]
+    },
+    {
+        "name": "flat wall",
+        "trans": [
+            "下盘"
+        ]
+    },
+    {
+        "name": "flattening",
+        "trans": [
+            "压扁酌"
+        ]
+    },
+    {
+        "name": "flattening plane",
+        "trans": [
+            "压扁面"
+        ]
+    },
+    {
+        "name": "flaw",
+        "trans": [
+            "横推断层"
+        ]
+    },
+    {
+        "name": "flexible hose",
+        "trans": [
+            "软管"
+        ]
+    },
+    {
+        "name": "flexible joint",
+        "trans": [
+            "柔性接头"
+        ]
+    },
+    {
+        "name": "flexural fold",
+        "trans": [
+            "弯曲褶皱"
+        ]
+    },
+    {
+        "name": "flexure",
+        "trans": [
+            "单斜绕褶"
+        ]
+    },
+    {
+        "name": "flexure fault",
+        "trans": [
+            "挠曲断层"
+        ]
+    },
+    {
+        "name": "flexure scarp",
+        "trans": [
+            "弯曲悬崖"
+        ]
+    },
+    {
+        "name": "flinkite",
+        "trans": [
+            "褐水砷锰矿"
+        ]
+    },
+    {
+        "name": "flint",
+        "trans": [
+            "燧石"
+        ]
+    },
+    {
+        "name": "float",
+        "trans": [
+            "转石"
+        ]
+    },
+    {
+        "name": "float gage",
+        "trans": [
+            "浮标"
+        ]
+    },
+    {
+        "name": "floating drilling barge",
+        "trans": [
+            "钻探浮船"
+        ]
+    },
+    {
+        "name": "floating drilling rig",
+        "trans": [
+            "浮动式钻探装置"
+        ]
+    },
+    {
+        "name": "floating island",
+        "trans": [
+            "浮岛"
+        ]
+    },
+    {
+        "name": "floating pan",
+        "trans": [
+            "浮式蒸发仪"
+        ]
+    },
+    {
+        "name": "flocculation",
+        "trans": [
+            "絮凝"
+        ]
+    },
+    {
+        "name": "floe ice",
+        "trans": [
+            "漂冰"
+        ]
+    },
+    {
+        "name": "floeberg",
+        "trans": [
+            "冰山"
+        ]
+    },
+    {
+        "name": "floitite",
+        "trans": [
+            "帘片状岩"
+        ]
+    },
+    {
+        "name": "flood and ebb",
+        "trans": [
+            "潮汐"
+        ]
+    },
+    {
+        "name": "flood area",
+        "trans": [
+            "浸水地"
+        ]
+    },
+    {
+        "name": "flood bassin",
+        "trans": [
+            "泛滥地"
+        ]
+    },
+    {
+        "name": "flood bed",
+        "trans": [
+            "泛滥地"
+        ]
+    },
+    {
+        "name": "flood crest",
+        "trans": [
+            "洪水最高顶"
+        ]
+    },
+    {
+        "name": "flood current",
+        "trans": [
+            "涨潮流"
+        ]
+    },
+    {
+        "name": "flood discharge",
+        "trans": [
+            "洪水量"
+        ]
+    },
+    {
+        "name": "flood plain",
+        "trans": [
+            "泛滥平原"
+        ]
+    },
+    {
+        "name": "flood plain deposit",
+        "trans": [
+            "泛滥平原沉积"
+        ]
+    },
+    {
+        "name": "flood routing",
+        "trans": [
+            "洪水推测"
+        ]
+    },
+    {
+        "name": "flood water",
+        "trans": [
+            "洪水"
+        ]
+    },
+    {
+        "name": "flood zone",
+        "trans": [
+            "泛滥带"
+        ]
+    },
+    {
+        "name": "floodcontrol",
+        "trans": [
+            "防洪"
+        ]
+    },
+    {
+        "name": "flooding",
+        "trans": [
+            "泛滥"
+        ]
+    },
+    {
+        "name": "flooding method",
+        "trans": [
+            "洪水法"
+        ]
+    },
+    {
+        "name": "floodway",
+        "trans": [
+            "排水渠"
+        ]
+    },
+    {
+        "name": "floor",
+        "trans": [
+            "底盘"
+        ]
+    },
+    {
+        "name": "floor of coal seam",
+        "trans": [
+            "煤层底板"
+        ]
+    },
+    {
+        "name": "flora",
+        "trans": [
+            "植物群"
+        ]
+    },
+    {
+        "name": "florencite",
+        "trans": [
+            "磷铝铈石"
+        ]
+    },
+    {
+        "name": "floristic region",
+        "trans": [
+            "植物区"
+        ]
+    },
+    {
+        "name": "flotation",
+        "trans": [
+            "浮选"
+        ]
+    },
+    {
+        "name": "flotation concentrate",
+        "trans": [
+            "浮选精矿"
+        ]
+    },
+    {
+        "name": "flotation process",
+        "trans": [
+            "浮选法"
+        ]
+    },
+    {
+        "name": "flotation tailings",
+        "trans": [
+            "浮选尾矿"
+        ]
+    },
+    {
+        "name": "flow",
+        "trans": [
+            "流量;涨潮"
+        ]
+    },
+    {
+        "name": "flow cleavage",
+        "trans": [
+            "咙理"
+        ]
+    },
+    {
+        "name": "flow duration curve",
+        "trans": [
+            "量历时曲线"
+        ]
+    },
+    {
+        "name": "flow fold",
+        "trans": [
+            "赁皱"
+        ]
+    },
+    {
+        "name": "flow line",
+        "trans": [
+            "吝"
+        ]
+    },
+    {
+        "name": "flow mass curve",
+        "trans": [
+            "量累积曲线"
+        ]
+    },
+    {
+        "name": "flow of ground water",
+        "trans": [
+            "地下水流"
+        ]
+    },
+    {
+        "name": "flow rate",
+        "trans": [
+            "临"
+        ]
+    },
+    {
+        "name": "flow regime",
+        "trans": [
+            "连"
+        ]
+    },
+    {
+        "name": "flow structure",
+        "trans": [
+            "怜结构"
+        ]
+    },
+    {
+        "name": "flow test",
+        "trans": [
+            "怜试验"
+        ]
+    },
+    {
+        "name": "flow till",
+        "trans": [
+            "运动冰碛"
+        ]
+    },
+    {
+        "name": "flowage",
+        "trans": [
+            "怜"
+        ]
+    },
+    {
+        "name": "flowering plants",
+        "trans": [
+            "显花植物"
+        ]
+    },
+    {
+        "name": "flowers of sulfur",
+        "trans": [
+            "硫华"
+        ]
+    },
+    {
+        "name": "flowing artesian well",
+        "trans": [
+            "自喷井"
+        ]
+    },
+    {
+        "name": "flowing pressure",
+        "trans": [
+            "动水压力"
+        ]
+    },
+    {
+        "name": "flowing water",
+        "trans": [
+            "廉"
+        ]
+    },
+    {
+        "name": "flowmeter",
+        "trans": [
+            "量计"
+        ]
+    },
+    {
+        "name": "flowsheet",
+        "trans": [
+            "撂图"
+        ]
+    },
+    {
+        "name": "flowsheet of mill",
+        "trans": [
+            "选矿撂图"
+        ]
+    },
+    {
+        "name": "fluctuation",
+        "trans": [
+            "起伏"
+        ]
+    },
+    {
+        "name": "fluid",
+        "trans": [
+            "铃"
+        ]
+    },
+    {
+        "name": "fluid inclusion",
+        "trans": [
+            "液体包体"
+        ]
+    },
+    {
+        "name": "fluid inclusion geothermometer",
+        "trans": [
+            "液包体地质温度计"
+        ]
+    },
+    {
+        "name": "fluid phase",
+        "trans": [
+            "拎"
+        ]
+    },
+    {
+        "name": "fluidal",
+        "trans": [
+            "疗状的"
+        ]
+    },
+    {
+        "name": "fluidal structure",
+        "trans": [
+            "怜结构"
+        ]
+    },
+    {
+        "name": "fluidity",
+        "trans": [
+            "怜性"
+        ]
+    },
+    {
+        "name": "flume",
+        "trans": [
+            "沟底川"
+        ]
+    },
+    {
+        "name": "fluoborite",
+        "trans": [
+            "氟硼镁石"
+        ]
+    },
+    {
+        "name": "fluocerite",
+        "trans": [
+            "氟铈矿"
+        ]
+    },
+    {
+        "name": "fluorescence",
+        "trans": [
+            "荧光"
+        ]
+    },
+    {
+        "name": "fluorescence microscope",
+        "trans": [
+            "荧光显微镜"
+        ]
+    },
+    {
+        "name": "fluorescent bitument",
+        "trans": [
+            "荧光沥青"
+        ]
+    },
+    {
+        "name": "fluorescent screen",
+        "trans": [
+            "荧光屏"
+        ]
+    },
+    {
+        "name": "x 线分析  fluorescent x ray analysis",
+        "trans": [
+            "荧光"
+        ]
+    },
+    {
+        "name": "fluoridation",
+        "trans": [
+            "加氟酌"
+        ]
+    },
+    {
+        "name": "fluorimeter",
+        "trans": [
+            "荧光计"
+        ]
+    },
+    {
+        "name": "fluorine",
+        "trans": [
+            "氟"
+        ]
+    },
+    {
+        "name": "fluorine dating",
+        "trans": [
+            "氟年代测定法"
+        ]
+    },
+    {
+        "name": "fluorine metasomatism",
+        "trans": [
+            "氟素交代酌"
+        ]
+    },
+    {
+        "name": "fluorite",
+        "trans": [
+            "萤石"
+        ]
+    },
+    {
+        "name": "fluorography",
+        "trans": [
+            "荧光照相术"
+        ]
+    },
+    {
+        "name": "fluorometer",
+        "trans": [
+            "荧光计"
+        ]
+    },
+    {
+        "name": "fluosolid roaster",
+        "trans": [
+            "沸腾焙烧炉"
+        ]
+    },
+    {
+        "name": "flush drilling",
+        "trans": [
+            "环陵井"
+        ]
+    },
+    {
+        "name": "flushed zone",
+        "trans": [
+            "冲洗带"
+        ]
+    },
+    {
+        "name": "flushing",
+        "trans": [
+            "湿法充填"
+        ]
+    },
+    {
+        "name": "flushing fluid",
+        "trans": [
+            "冲洗液"
+        ]
+    },
+    {
+        "name": "fluvial deposit",
+        "trans": [
+            "河成沉积"
+        ]
+    },
+    {
+        "name": "fluvial erosion",
+        "trans": [
+            "河蚀"
+        ]
+    },
+    {
+        "name": "fluvial geomorphology",
+        "trans": [
+            "河霖貌学"
+        ]
+    },
+    {
+        "name": "fluvial landform",
+        "trans": [
+            "河成地貌"
+        ]
+    },
+    {
+        "name": "fluvial process of rivers",
+        "trans": [
+            "河霖质酌"
+        ]
+    },
+    {
+        "name": "fluvial type",
+        "trans": [
+            "河拎型"
+        ]
+    },
+    {
+        "name": "fluviatile facies",
+        "trans": [
+            "河相"
+        ]
+    },
+    {
+        "name": "fluviatile gravel",
+        "trans": [
+            "河砾石"
+        ]
+    },
+    {
+        "name": "fluviation",
+        "trans": [
+            "河水酌"
+        ]
+    },
+    {
+        "name": "fluvioglacial deposit",
+        "trans": [
+            "冰水沉积"
+        ]
+    },
+    {
+        "name": "fluvioglacial terrace",
+        "trans": [
+            "冰水阶地"
+        ]
+    },
+    {
+        "name": "fluviolacustrine",
+        "trans": [
+            "河湖的"
+        ]
+    },
+    {
+        "name": "flux",
+        "trans": [
+            "焙剂"
+        ]
+    },
+    {
+        "name": "fluxion structure",
+        "trans": [
+            "怜结构"
+        ]
+    },
+    {
+        "name": "flysch",
+        "trans": [
+            "复理层"
+        ]
+    },
+    {
+        "name": "flysh",
+        "trans": [
+            "复理层"
+        ]
+    },
+    {
+        "name": "foam",
+        "trans": [
+            "泡沫"
+        ]
+    },
+    {
+        "name": "foamy structure",
+        "trans": [
+            "多泡构造"
+        ]
+    },
+    {
+        "name": "focal mechanism",
+        "trans": [
+            "震源机构"
+        ]
+    },
+    {
+        "name": "fold",
+        "trans": [
+            "褶皱"
+        ]
+    },
+    {
+        "name": "fold fault",
+        "trans": [
+            "褶皱断层"
+        ]
+    },
+    {
+        "name": "fold fissures",
+        "trans": [
+            "褶皱裂隙"
+        ]
+    },
+    {
+        "name": "fold nappe",
+        "trans": [
+            "褶皱推复"
+        ]
+    },
+    {
+        "name": "fold of sedimentary cover",
+        "trans": [
+            "盖层褶皱"
+        ]
+    },
+    {
+        "name": "fold zone",
+        "trans": [
+            "褶皱带"
+        ]
+    },
+    {
+        "name": "folded mountain",
+        "trans": [
+            "褶皱山"
+        ]
+    },
+    {
+        "name": "folded zone",
+        "trans": [
+            "褶皱带"
+        ]
+    },
+    {
+        "name": "folding",
+        "trans": [
+            "褶皱酌"
+        ]
+    },
+    {
+        "name": "folding fissures",
+        "trans": [
+            "褶皱裂隙"
+        ]
+    },
+    {
+        "name": "foliaceous",
+        "trans": [
+            "叶状的"
+        ]
+    },
+    {
+        "name": "foliaceous structure",
+        "trans": [
+            "叶片状构造"
+        ]
+    },
+    {
+        "name": "foliate",
+        "trans": [
+            "叶理状的"
+        ]
+    },
+    {
+        "name": "foliated coal",
+        "trans": [
+            "层状煤"
+        ]
+    },
+    {
+        "name": "foliated structure",
+        "trans": [
+            "叶片状构造"
+        ]
+    },
+    {
+        "name": "foliation",
+        "trans": [
+            "剥理"
+        ]
+    },
+    {
+        "name": "foot",
+        "trans": [
+            "山脚"
+        ]
+    },
+    {
+        "name": "foot of hole",
+        "trans": [
+            "钻孔底部"
+        ]
+    },
+    {
+        "name": "foot valve",
+        "trans": [
+            "底阀"
+        ]
+    },
+    {
+        "name": "foot wall",
+        "trans": [
+            "下盘"
+        ]
+    },
+    {
+        "name": "footeite",
+        "trans": [
+            "绿盐铜矿"
+        ]
+    },
+    {
+        "name": "foraminifera",
+        "trans": [
+            "有孔虫类"
+        ]
+    },
+    {
+        "name": "foraminiferal zonation",
+        "trans": [
+            "有孔虫成带现象"
+        ]
+    },
+    {
+        "name": "forbesite",
+        "trans": [
+            "纤砷钴镍矿"
+        ]
+    },
+    {
+        "name": "forced oscillation",
+        "trans": [
+            "强迫振荡"
+        ]
+    },
+    {
+        "name": "fore deep",
+        "trans": [
+            "前渊"
+        ]
+    },
+    {
+        "name": "fore wing",
+        "trans": [
+            "前翅"
+        ]
+    },
+    {
+        "name": "forecast",
+        "trans": [
+            "预报"
+        ]
+    },
+    {
+        "name": "foreign inclusion",
+        "trans": [
+            "外来包体"
+        ]
+    },
+    {
+        "name": "foreland",
+        "trans": [
+            "前沿地"
+        ]
+    },
+    {
+        "name": "forerunning phenomena",
+        "trans": [
+            "火山喷发前兆"
+        ]
+    },
+    {
+        "name": "foreset bed",
+        "trans": [
+            "前积层"
+        ]
+    },
+    {
+        "name": "foreshaft",
+        "trans": [
+            "井口"
+        ]
+    },
+    {
+        "name": "foreshore",
+        "trans": [
+            "前滨"
+        ]
+    },
+    {
+        "name": "forest peat",
+        "trans": [
+            "木质泥炭"
+        ]
+    },
+    {
+        "name": "form factor",
+        "trans": [
+            "形态因子"
+        ]
+    },
+    {
+        "name": "formal fabric",
+        "trans": [
+            "形态组构"
+        ]
+    },
+    {
+        "name": "formanite",
+        "trans": [
+            "钽钇铌矿"
+        ]
+    },
+    {
+        "name": "formation",
+        "trans": [
+            "建造;群系;形成"
+        ]
+    },
+    {
+        "name": "formation factor",
+        "trans": [
+            "地层因素"
+        ]
+    },
+    {
+        "name": "formation heat",
+        "trans": [
+            "形成热"
+        ]
+    },
+    {
+        "name": "formation resistivity factor",
+        "trans": [
+            "地层电阻率系数"
+        ]
+    },
+    {
+        "name": "formation temperature",
+        "trans": [
+            "地层温度"
+        ]
+    },
+    {
+        "name": "formic acid",
+        "trans": [
+            "甲酸"
+        ]
+    },
+    {
+        "name": "formless",
+        "trans": [
+            "无形状的"
+        ]
+    },
+    {
+        "name": "forsterite",
+        "trans": [
+            "镁橄榄石"
+        ]
+    },
+    {
+        "name": "fossil",
+        "trans": [
+            "化石"
+        ]
+    },
+    {
+        "name": "fossil delta",
+        "trans": [
+            "古三角洲"
+        ]
+    },
+    {
+        "name": "fossil erosion surface",
+        "trans": [
+            "化石侵蚀面"
+        ]
+    },
+    {
+        "name": "fossil fernes",
+        "trans": [
+            "化石蕨"
+        ]
+    },
+    {
+        "name": "fossil fuel",
+        "trans": [
+            "化石燃料"
+        ]
+    },
+    {
+        "name": "fossil men",
+        "trans": [
+            "化石人类"
+        ]
+    },
+    {
+        "name": "fossil peneplain",
+        "trans": [
+            "古准平原"
+        ]
+    },
+    {
+        "name": "fossil plant",
+        "trans": [
+            "化石植物"
+        ]
+    },
+    {
+        "name": "fossil pollen",
+        "trans": [
+            "古花粉"
+        ]
+    },
+    {
+        "name": "fossil pteridophytes",
+        "trans": [
+            "化石蕨"
+        ]
+    },
+    {
+        "name": "fossil resin",
+        "trans": [
+            "琥珀"
+        ]
+    },
+    {
+        "name": "fossil water",
+        "trans": [
+            "化石水"
+        ]
+    },
+    {
+        "name": "fossilbearing",
+        "trans": [
+            "含化石的"
+        ]
+    },
+    {
+        "name": "fossiliferous",
+        "trans": [
+            "含化石的"
+        ]
+    },
+    {
+        "name": "fossilification",
+        "trans": [
+            "化石化"
+        ]
+    },
+    {
+        "name": "fossilizaiton",
+        "trans": [
+            "化石化"
+        ]
+    },
+    {
+        "name": "fossilize",
+        "trans": [
+            "变成化石"
+        ]
+    },
+    {
+        "name": "fossilogy",
+        "trans": [
+            "化石学"
+        ]
+    },
+    {
+        "name": "foundational fault",
+        "trans": [
+            "基底断裂"
+        ]
+    },
+    {
+        "name": "foundry sand",
+        "trans": [
+            "铸造用砂"
+        ]
+    },
+    {
+        "name": "fountain",
+        "trans": [
+            "喷泉"
+        ]
+    },
+    {
+        "name": "fouqueite",
+        "trans": [
+            "绿帘石"
+        ]
+    },
+    {
+        "name": "four groove drill",
+        "trans": [
+            "十字钻头"
+        ]
+    },
+    {
+        "name": "fourmarierite",
+        "trans": [
+            "红铀矿"
+        ]
+    },
+    {
+        "name": "fowlerite",
+        "trans": [
+            "锌锰辉石"
+        ]
+    },
+    {
+        "name": "foyaite",
+        "trans": [
+            "良正长岩"
+        ]
+    },
+    {
+        "name": "fraction",
+        "trans": [
+            "分数"
+        ]
+    },
+    {
+        "name": "fractional",
+        "trans": [
+            "分级的"
+        ]
+    },
+    {
+        "name": "fractional crystallization",
+        "trans": [
+            "分离结晶"
+        ]
+    },
+    {
+        "name": "fractional precipitation",
+        "trans": [
+            "分级沉淀"
+        ]
+    },
+    {
+        "name": "fractionation",
+        "trans": [
+            "分级"
+        ]
+    },
+    {
+        "name": "fractionation factor",
+        "trans": [
+            "分离系数"
+        ]
+    },
+    {
+        "name": "fracture",
+        "trans": [
+            "断口;断裂"
+        ]
+    },
+    {
+        "name": "fracture cleavage",
+        "trans": [
+            "破劈理"
+        ]
+    },
+    {
+        "name": "fracture spring",
+        "trans": [
+            "裂缝泉"
+        ]
+    },
+    {
+        "name": "fracture zone",
+        "trans": [
+            "断裂带"
+        ]
+    },
+    {
+        "name": "fracturing",
+        "trans": [
+            "断裂酌"
+        ]
+    },
+    {
+        "name": "fragility",
+        "trans": [
+            "脆性"
+        ]
+    },
+    {
+        "name": "fragment",
+        "trans": [
+            "碎屑"
+        ]
+    },
+    {
+        "name": "fragment cone",
+        "trans": [
+            "碎屑锥"
+        ]
+    },
+    {
+        "name": "fragmental",
+        "trans": [
+            "碎屑状的"
+        ]
+    },
+    {
+        "name": "fragmental texture",
+        "trans": [
+            "碎屑结构"
+        ]
+    },
+    {
+        "name": "frame",
+        "trans": [
+            "框架"
+        ]
+    },
+    {
+        "name": "framework",
+        "trans": [
+            "构架"
+        ]
+    },
+    {
+        "name": "framework silicate",
+        "trans": [
+            "网硅酸盐"
+        ]
+    },
+    {
+        "name": "francium",
+        "trans": [
+            "钫"
+        ]
+    },
+    {
+        "name": "franckeite",
+        "trans": [
+            "辉锑锡铅矿"
+        ]
+    },
+    {
+        "name": "francolite",
+        "trans": [
+            "细晶磷灰石"
+        ]
+    },
+    {
+        "name": "franklinite",
+        "trans": [
+            "锌铁尖晶石"
+        ]
+    },
+    {
+        "name": "free bitumen",
+        "trans": [
+            "游离沥青"
+        ]
+    },
+    {
+        "name": "free energy",
+        "trans": [
+            "自由能"
+        ]
+    },
+    {
+        "name": "free energy of activation",
+        "trans": [
+            "自由活化能"
+        ]
+    },
+    {
+        "name": "free energy of formation",
+        "trans": [
+            "生成的自由能"
+        ]
+    },
+    {
+        "name": "free gas",
+        "trans": [
+            "游离气"
+        ]
+    },
+    {
+        "name": "free meander",
+        "trans": [
+            "自由曲流"
+        ]
+    },
+    {
+        "name": "free oxide",
+        "trans": [
+            "游离氧化物"
+        ]
+    },
+    {
+        "name": "free radical",
+        "trans": [
+            "自由基"
+        ]
+    },
+    {
+        "name": "free state",
+        "trans": [
+            "游离状态"
+        ]
+    },
+    {
+        "name": "free surface energy",
+        "trans": [
+            "自由表面能"
+        ]
+    },
+    {
+        "name": "free valence",
+        "trans": [
+            "自由价"
+        ]
+    },
+    {
+        "name": "free water",
+        "trans": [
+            "自由水"
+        ]
+    },
+    {
+        "name": "freezing hole",
+        "trans": [
+            "冻结钻孔"
+        ]
+    },
+    {
+        "name": "freezing nuclei",
+        "trans": [
+            "凝固核"
+        ]
+    },
+    {
+        "name": "freezing point",
+        "trans": [
+            "凝固点"
+        ]
+    },
+    {
+        "name": "freibergite",
+        "trans": [
+            "银铜矿"
+        ]
+    },
+    {
+        "name": "fremontite",
+        "trans": [
+            "叶双晶石"
+        ]
+    },
+    {
+        "name": "frenzelite",
+        "trans": [
+            "硒铋矿"
+        ]
+    },
+    {
+        "name": "frequency",
+        "trans": [
+            "频率"
+        ]
+    },
+    {
+        "name": "frequency curve",
+        "trans": [
+            "频率曲线"
+        ]
+    },
+    {
+        "name": "frequency distribution",
+        "trans": [
+            "频率分布"
+        ]
+    },
+    {
+        "name": "frequency of joints",
+        "trans": [
+            "节理频度"
+        ]
+    },
+    {
+        "name": "frequency spectrum",
+        "trans": [
+            "频谱"
+        ]
+    },
+    {
+        "name": "fresh water",
+        "trans": [
+            "淡水"
+        ]
+    },
+    {
+        "name": "fresh water animals",
+        "trans": [
+            "淡水动物"
+        ]
+    },
+    {
+        "name": "fresh water barrier",
+        "trans": [
+            "淡水障壁"
+        ]
+    },
+    {
+        "name": "fresh water lake",
+        "trans": [
+            "淡湖"
+        ]
+    },
+    {
+        "name": "fresh water lens",
+        "trans": [
+            "淡水透镜体"
+        ]
+    },
+    {
+        "name": "freyalite",
+        "trans": [
+            "硬硅铈钍矿"
+        ]
+    },
+    {
+        "name": "friable",
+        "trans": [
+            "易碎的"
+        ]
+    },
+    {
+        "name": "friable rocks",
+        "trans": [
+            "易碎岩石"
+        ]
+    },
+    {
+        "name": "friable state",
+        "trans": [
+            "适碎性"
+        ]
+    },
+    {
+        "name": "friction",
+        "trans": [
+            "摩擦"
+        ]
+    },
+    {
+        "name": "friction breccia",
+        "trans": [
+            "擦碎角砾岩"
+        ]
+    },
+    {
+        "name": "friction coefficient",
+        "trans": [
+            "摩擦系数"
+        ]
+    },
+    {
+        "name": "friction head",
+        "trans": [
+            "摩擦水头"
+        ]
+    },
+    {
+        "name": "friction layer",
+        "trans": [
+            "摩擦层"
+        ]
+    },
+    {
+        "name": "friedelite",
+        "trans": [
+            "红锰铁矿"
+        ]
+    },
+    {
+        "name": "frieseite",
+        "trans": [
+            "富硫银铁矿"
+        ]
+    },
+    {
+        "name": "fringing reef",
+        "trans": [
+            "裾礁"
+        ]
+    },
+    {
+        "name": "fritting",
+        "trans": [
+            "烧结"
+        ]
+    },
+    {
+        "name": "fritzscheite",
+        "trans": [
+            "磷锰铀矿"
+        ]
+    },
+    {
+        "name": "frondelite",
+        "trans": [
+            "锰绿铁矿"
+        ]
+    },
+    {
+        "name": "front",
+        "trans": [
+            "工祖"
+        ]
+    },
+    {
+        "name": "front range",
+        "trans": [
+            "前山"
+        ]
+    },
+    {
+        "name": "frontal apron",
+        "trans": [
+            "冰水沉积平原"
+        ]
+    },
+    {
+        "name": "frontal arc",
+        "trans": [
+            "前驯;正面弧"
+        ]
+    },
+    {
+        "name": "frontal bone",
+        "trans": [
+            "额骨"
+        ]
+    },
+    {
+        "name": "frontier",
+        "trans": [
+            "境界"
+        ]
+    },
+    {
+        "name": "frost in the soil",
+        "trans": [
+            "土壤结冰"
+        ]
+    },
+    {
+        "name": "frost line",
+        "trans": [
+            "冻深线"
+        ]
+    },
+    {
+        "name": "frost weathering",
+        "trans": [
+            "寒冻风化"
+        ]
+    },
+    {
+        "name": "froth",
+        "trans": [
+            "泡沫"
+        ]
+    },
+    {
+        "name": "frother",
+        "trans": [
+            "起泡剂"
+        ]
+    },
+    {
+        "name": "frothering agent",
+        "trans": [
+            "起泡剂"
+        ]
+    },
+    {
+        "name": "frozen soil",
+        "trans": [
+            "冻土"
+        ]
+    },
+    {
+        "name": "fuchsite",
+        "trans": [
+            "铬云母"
+        ]
+    },
+    {
+        "name": "fuel gas",
+        "trans": [
+            "气态燃料"
+        ]
+    },
+    {
+        "name": "fugacity",
+        "trans": [
+            "逸散能"
+        ]
+    },
+    {
+        "name": "fuggerite",
+        "trans": [
+            "弹性地腊"
+        ]
+    },
+    {
+        "name": "full hole drilling",
+        "trans": [
+            "孔底全部钻井"
+        ]
+    },
+    {
+        "name": "fuller's earth",
+        "trans": [
+            "漂白土"
+        ]
+    },
+    {
+        "name": "fulloppite",
+        "trans": [
+            "柱硫锑铅矿"
+        ]
+    },
+    {
+        "name": "fulvic acid",
+        "trans": [
+            "富里酸"
+        ]
+    },
+    {
+        "name": "fumarole",
+        "trans": [
+            "气孔"
+        ]
+    },
+    {
+        "name": "fumarolic gas",
+        "trans": [
+            "火山气"
+        ]
+    },
+    {
+        "name": "fume",
+        "trans": [
+            "灰云"
+        ]
+    },
+    {
+        "name": "functional fabric",
+        "trans": [
+            "函数组构"
+        ]
+    },
+    {
+        "name": "fundamental inequality",
+        "trans": [
+            "基本不等式"
+        ]
+    },
+    {
+        "name": "fungi",
+        "trans": [
+            "真菌"
+        ]
+    },
+    {
+        "name": "fungiform",
+        "trans": [
+            "蘑菇状的"
+        ]
+    },
+    {
+        "name": "funiform",
+        "trans": [
+            "绳状的"
+        ]
+    },
+    {
+        "name": "funnel",
+        "trans": [
+            "漏斗"
+        ]
+    },
+    {
+        "name": "funnel shaped",
+        "trans": [
+            "漏斗形的"
+        ]
+    },
+    {
+        "name": "furrow",
+        "trans": [
+            "沟"
+        ]
+    },
+    {
+        "name": "furrowed",
+        "trans": [
+            "有沟痕的"
+        ]
+    },
+    {
+        "name": "fusain",
+        "trans": [
+            "丝炭"
+        ]
+    },
+    {
+        "name": "fuse",
+        "trans": [
+            "导火线"
+        ]
+    },
+    {
+        "name": "fusibility",
+        "trans": [
+            "可熔性"
+        ]
+    },
+    {
+        "name": "fusiform",
+        "trans": [
+            "纺锤形"
+        ]
+    },
+    {
+        "name": "fusing agent",
+        "trans": [
+            "焙剂"
+        ]
+    },
+    {
+        "name": "fusinite",
+        "trans": [
+            "丝质体"
+        ]
+    },
+    {
+        "name": "fusion crust",
+        "trans": [
+            "熔壳"
+        ]
+    },
+    {
+        "name": "fusion piercing drill",
+        "trans": [
+            "熔化钻机"
+        ]
+    },
+    {
+        "name": "fusite",
+        "trans": [
+            "丝炭"
+        ]
+    },
+    {
+        "name": "future reserves",
+        "trans": [
+            "远景储量"
+        ]
+    },
+    {
+        "name": "fuze",
+        "trans": [
+            "导火线"
+        ]
+    }
+]

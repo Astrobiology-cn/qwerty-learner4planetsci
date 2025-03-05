@@ -1,0 +1,7952 @@
+[
+    {
+        "name": "s type granite",
+        "trans": [
+            "类型花岗岩"
+        ]
+    },
+    {
+        "name": "s wave",
+        "trans": [
+            "波"
+        ]
+    },
+    {
+        "name": "sabugalite",
+        "trans": [
+            "铝铀云母"
+        ]
+    },
+    {
+        "name": "sac shaped",
+        "trans": [
+            "囊状的"
+        ]
+    },
+    {
+        "name": "saccharoidal",
+        "trans": [
+            "砂糖状的"
+        ]
+    },
+    {
+        "name": "saddle",
+        "trans": [
+            "鞍"
+        ]
+    },
+    {
+        "name": "saddle pebble",
+        "trans": [
+            "马鞍石"
+        ]
+    },
+    {
+        "name": "safe yield",
+        "trans": [
+            "可靠产量"
+        ]
+    },
+    {
+        "name": "safe yield of stream",
+        "trans": [
+            "河的安全给水量"
+        ]
+    },
+    {
+        "name": "safety appliance",
+        "trans": [
+            "保险装置"
+        ]
+    },
+    {
+        "name": "safety factor",
+        "trans": [
+            "安全系数"
+        ]
+    },
+    {
+        "name": "safety joint",
+        "trans": [
+            "安全接头"
+        ]
+    },
+    {
+        "name": "safety valve",
+        "trans": [
+            "安全阀"
+        ]
+    },
+    {
+        "name": "safety zone",
+        "trans": [
+            "安全地带"
+        ]
+    },
+    {
+        "name": "safflorite",
+        "trans": [
+            "斜方砷钴矿"
+        ]
+    },
+    {
+        "name": "sag",
+        "trans": [
+            "凹陷"
+        ]
+    },
+    {
+        "name": "sag pond",
+        "trans": [
+            "断陷湖"
+        ]
+    },
+    {
+        "name": "sagenite",
+        "trans": [
+            "网金红石"
+        ]
+    },
+    {
+        "name": "sagvandite",
+        "trans": [
+            "菱镁古铜岩"
+        ]
+    },
+    {
+        "name": "sahlinite",
+        "trans": [
+            "黄砷氯铅矿"
+        ]
+    },
+    {
+        "name": "sahlite",
+        "trans": [
+            "次透辉石"
+        ]
+    },
+    {
+        "name": "sakmarian",
+        "trans": [
+            "萨克马林阶"
+        ]
+    },
+    {
+        "name": "salammonite",
+        "trans": [
+            "卤砂"
+        ]
+    },
+    {
+        "name": "salband",
+        "trans": [
+            "近围岩岩脉"
+        ]
+    },
+    {
+        "name": "salcrete",
+        "trans": [
+            "煮盐的沉渣"
+        ]
+    },
+    {
+        "name": "saleite",
+        "trans": [
+            "镁磷铀云母"
+        ]
+    },
+    {
+        "name": "salesite",
+        "trans": [
+            "碘铜矿"
+        ]
+    },
+    {
+        "name": "salic mineral",
+        "trans": [
+            "硅铝质矿物"
+        ]
+    },
+    {
+        "name": "salicylaldoxime",
+        "trans": [
+            "水杨醛肟"
+        ]
+    },
+    {
+        "name": "salicylic acid",
+        "trans": [
+            "水杨酸"
+        ]
+    },
+    {
+        "name": "salient",
+        "trans": [
+            "扇形地背斜轴"
+        ]
+    },
+    {
+        "name": "saliferous rock leaching",
+        "trans": [
+            "含盐岩淋滤"
+        ]
+    },
+    {
+        "name": "salification",
+        "trans": [
+            "成盐酌"
+        ]
+    },
+    {
+        "name": "salina",
+        "trans": [
+            "盐碱滩"
+        ]
+    },
+    {
+        "name": "saline lake deposit",
+        "trans": [
+            "盐湖矿床"
+        ]
+    },
+    {
+        "name": "saline meadow",
+        "trans": [
+            "盐化草原"
+        ]
+    },
+    {
+        "name": "saline soil",
+        "trans": [
+            "盐土"
+        ]
+    },
+    {
+        "name": "saline solution mud fluid",
+        "trans": [
+            "盐水泥浆"
+        ]
+    },
+    {
+        "name": "saline spring",
+        "trans": [
+            "盐泉"
+        ]
+    },
+    {
+        "name": "saline water",
+        "trans": [
+            "咸水"
+        ]
+    },
+    {
+        "name": "salinity",
+        "trans": [
+            "盐度"
+        ]
+    },
+    {
+        "name": "salinity of lake water",
+        "trans": [
+            "湖水盐度"
+        ]
+    },
+    {
+        "name": "salinity stratification",
+        "trans": [
+            "盐水成层"
+        ]
+    },
+    {
+        "name": "salinization",
+        "trans": [
+            "盐化酌"
+        ]
+    },
+    {
+        "name": "salinometer",
+        "trans": [
+            "盐液密度计"
+        ]
+    },
+    {
+        "name": "salite",
+        "trans": [
+            "次透辉石"
+        ]
+    },
+    {
+        "name": "salmonsite",
+        "trans": [
+            "黄磷锰铁矿"
+        ]
+    },
+    {
+        "name": "salse",
+        "trans": [
+            "泥火山"
+        ]
+    },
+    {
+        "name": "salt",
+        "trans": [
+            "盐"
+        ]
+    },
+    {
+        "name": "salt balance",
+        "trans": [
+            "盐分平衡"
+        ]
+    },
+    {
+        "name": "salt content of lake water",
+        "trans": [
+            "湖水含盐量"
+        ]
+    },
+    {
+        "name": "salt crust",
+        "trans": [
+            "盐结皮"
+        ]
+    },
+    {
+        "name": "salt dome",
+        "trans": [
+            "盐丘"
+        ]
+    },
+    {
+        "name": "salt dome reservoir",
+        "trans": [
+            "盐丘油藏"
+        ]
+    },
+    {
+        "name": "salt lake",
+        "trans": [
+            "盐湖"
+        ]
+    },
+    {
+        "name": "salt marsh",
+        "trans": [
+            "咸沼;盐沼"
+        ]
+    },
+    {
+        "name": "salt resistance",
+        "trans": [
+            "抗盐性"
+        ]
+    },
+    {
+        "name": "salt secretion",
+        "trans": [
+            "盐分泌"
+        ]
+    },
+    {
+        "name": "salt steppe",
+        "trans": [
+            "盐土草原"
+        ]
+    },
+    {
+        "name": "salt tectonic",
+        "trans": [
+            "盐构造"
+        ]
+    },
+    {
+        "name": "salt water",
+        "trans": [
+            "盐水"
+        ]
+    },
+    {
+        "name": "salt water lake",
+        "trans": [
+            "盐湖"
+        ]
+    },
+    {
+        "name": "salt water plankton",
+        "trans": [
+            "咸水浮游生物"
+        ]
+    },
+    {
+        "name": "saltation",
+        "trans": [
+            "跳跃搬运;突变"
+        ]
+    },
+    {
+        "name": "saltation load",
+        "trans": [
+            "跳跃搬运物"
+        ]
+    },
+    {
+        "name": "saltiness",
+        "trans": [
+            "含盐性"
+        ]
+    },
+    {
+        "name": "samarium",
+        "trans": [
+            "钐"
+        ]
+    },
+    {
+        "name": "samarium neodymium method",
+        "trans": [
+            "钕法"
+        ]
+    },
+    {
+        "name": "samarskite",
+        "trans": [
+            "铌钇矿"
+        ]
+    },
+    {
+        "name": "samiresite",
+        "trans": [
+            "铌钛铀铅矿"
+        ]
+    },
+    {
+        "name": "sample",
+        "trans": [
+            "样品"
+        ]
+    },
+    {
+        "name": "sample for reference",
+        "trans": [
+            "检查样品"
+        ]
+    },
+    {
+        "name": "sample man",
+        "trans": [
+            "采样工"
+        ]
+    },
+    {
+        "name": "sample mean and variance",
+        "trans": [
+            "样本平均值与方差"
+        ]
+    },
+    {
+        "name": "sample preparation",
+        "trans": [
+            "样品加工"
+        ]
+    },
+    {
+        "name": "sample splitting",
+        "trans": [
+            "样品缩分"
+        ]
+    },
+    {
+        "name": "sampleite",
+        "trans": [
+            "氯磷钠铜矿"
+        ]
+    },
+    {
+        "name": "sampler",
+        "trans": [
+            "取样器"
+        ]
+    },
+    {
+        "name": "sampling",
+        "trans": [
+            "取样"
+        ]
+    },
+    {
+        "name": "sampling area",
+        "trans": [
+            "取样区"
+        ]
+    },
+    {
+        "name": "sampling method",
+        "trans": [
+            "采样法"
+        ]
+    },
+    {
+        "name": "sampling point",
+        "trans": [
+            "取样点"
+        ]
+    },
+    {
+        "name": "samsonite",
+        "trans": [
+            "硫锑锰银矿"
+        ]
+    },
+    {
+        "name": "sanbornite",
+        "trans": [
+            "硅钡石"
+        ]
+    },
+    {
+        "name": "sand",
+        "trans": [
+            "砂"
+        ]
+    },
+    {
+        "name": "sand bank",
+        "trans": [
+            "沙滩"
+        ]
+    },
+    {
+        "name": "sand bar",
+        "trans": [
+            "沙滩"
+        ]
+    },
+    {
+        "name": "sand calcite",
+        "trans": [
+            "沙方解石"
+        ]
+    },
+    {
+        "name": "sand dune plants",
+        "trans": [
+            "沙丘植物"
+        ]
+    },
+    {
+        "name": "sand hill",
+        "trans": [
+            "砂丘"
+        ]
+    },
+    {
+        "name": "sand line",
+        "trans": [
+            "钢丝绳"
+        ]
+    },
+    {
+        "name": "sand model",
+        "trans": [
+            "砂模式"
+        ]
+    },
+    {
+        "name": "sand pit",
+        "trans": [
+            "砂坑"
+        ]
+    },
+    {
+        "name": "sand pump",
+        "trans": [
+            "抽砂泵"
+        ]
+    },
+    {
+        "name": "sand separator",
+        "trans": [
+            "砂分离器"
+        ]
+    },
+    {
+        "name": "sandbergerite",
+        "trans": [
+            "锌铜矿"
+        ]
+    },
+    {
+        "name": "sandflow",
+        "trans": [
+            "沙流"
+        ]
+    },
+    {
+        "name": "sandglass structure",
+        "trans": [
+            "沙钟构造"
+        ]
+    },
+    {
+        "name": "sandr",
+        "trans": [
+            "冰碛平原"
+        ]
+    },
+    {
+        "name": "sandstone",
+        "trans": [
+            "砂岩"
+        ]
+    },
+    {
+        "name": "sandstone soil",
+        "trans": [
+            "砂岩土"
+        ]
+    },
+    {
+        "name": "sandstorm",
+        "trans": [
+            "沙暴"
+        ]
+    },
+    {
+        "name": "sandy",
+        "trans": [
+            "砂屑的"
+        ]
+    },
+    {
+        "name": "sandy soil",
+        "trans": [
+            "砂土"
+        ]
+    },
+    {
+        "name": "sanidine",
+        "trans": [
+            "透长石"
+        ]
+    },
+    {
+        "name": "sanidinite",
+        "trans": [
+            "透长岩"
+        ]
+    },
+    {
+        "name": "sanmartinite",
+        "trans": [
+            "钨锌矿"
+        ]
+    },
+    {
+        "name": "sanpaltonite",
+        "trans": [
+            "上八洞石"
+        ]
+    },
+    {
+        "name": "sanson flamsteed projection",
+        "trans": [
+            "散生投影"
+        ]
+    },
+    {
+        "name": "sanson projection",
+        "trans": [
+            "散生投影;散生投映"
+        ]
+    },
+    {
+        "name": "santonian stage",
+        "trans": [
+            "桑托阶"
+        ]
+    },
+    {
+        "name": "santorinite",
+        "trans": [
+            "钠长苏安岩"
+        ]
+    },
+    {
+        "name": "sanukite",
+        "trans": [
+            "赞岐岩"
+        ]
+    },
+    {
+        "name": "saponite",
+        "trans": [
+            "皂石"
+        ]
+    },
+    {
+        "name": "sapphire",
+        "trans": [
+            "蓝宝石"
+        ]
+    },
+    {
+        "name": "sapphirine",
+        "trans": [
+            "假蓝宝石"
+        ]
+    },
+    {
+        "name": "saprocol",
+        "trans": [
+            "硬腐泥"
+        ]
+    },
+    {
+        "name": "saprocollite",
+        "trans": [
+            "灰质腐泥煤岩"
+        ]
+    },
+    {
+        "name": "saprogenic",
+        "trans": [
+            "腐败的"
+        ]
+    },
+    {
+        "name": "saprolite",
+        "trans": [
+            "腐泥土"
+        ]
+    },
+    {
+        "name": "sapropel",
+        "trans": [
+            "腐殖泥"
+        ]
+    },
+    {
+        "name": "sapropelic coal",
+        "trans": [
+            "腐泥煤"
+        ]
+    },
+    {
+        "name": "sapropelic groundmass",
+        "trans": [
+            "腐泥基质"
+        ]
+    },
+    {
+        "name": "sapropelite",
+        "trans": [
+            "腐泥岩"
+        ]
+    },
+    {
+        "name": "sapropelites",
+        "trans": [
+            "腐泥岩"
+        ]
+    },
+    {
+        "name": "sapropelitic group",
+        "trans": [
+            "腐泥化组"
+        ]
+    },
+    {
+        "name": "saprophages",
+        "trans": [
+            "腐生物"
+        ]
+    },
+    {
+        "name": "saprophytes",
+        "trans": [
+            "腐生物"
+        ]
+    },
+    {
+        "name": "sapropsammite",
+        "trans": [
+            "砂质腐泥"
+        ]
+    },
+    {
+        "name": "sarcolite",
+        "trans": [
+            "肉色柱石"
+        ]
+    },
+    {
+        "name": "sarcoplasm",
+        "trans": [
+            "肌质"
+        ]
+    },
+    {
+        "name": "sarcopsid",
+        "trans": [
+            "磷钙铁锰矿"
+        ]
+    },
+    {
+        "name": "sarcopsite",
+        "trans": [
+            "磷钙铁锰矿"
+        ]
+    },
+    {
+        "name": "sarcostyle",
+        "trans": [
+            "囊胞体"
+        ]
+    },
+    {
+        "name": "sard",
+        "trans": [
+            "肉红玉髓"
+        ]
+    },
+    {
+        "name": "sardonyx",
+        "trans": [
+            "缠丝玛瑙"
+        ]
+    },
+    {
+        "name": "sarkinite",
+        "trans": [
+            "红砷锰矿"
+        ]
+    },
+    {
+        "name": "sarmientite",
+        "trans": [
+            "砷铁矾"
+        ]
+    },
+    {
+        "name": "sartorite",
+        "trans": [
+            "脆硫砷铅矿"
+        ]
+    },
+    {
+        "name": "sassolite",
+        "trans": [
+            "天然硼酸"
+        ]
+    },
+    {
+        "name": "satellite geodesy",
+        "trans": [
+            "卫星大地测量学"
+        ]
+    },
+    {
+        "name": "satellite remote sensing",
+        "trans": [
+            "卫星遥感"
+        ]
+    },
+    {
+        "name": "satellite spot",
+        "trans": [
+            "卫星斑点"
+        ]
+    },
+    {
+        "name": "saturated adiabatic lapse rate",
+        "trans": [
+            "饱和绝热递减率"
+        ]
+    },
+    {
+        "name": "saturated air",
+        "trans": [
+            "饱和空气"
+        ]
+    },
+    {
+        "name": "saturated flow",
+        "trans": [
+            "饱和怜"
+        ]
+    },
+    {
+        "name": "saturated rock",
+        "trans": [
+            "饱和岩"
+        ]
+    },
+    {
+        "name": "saturated solution",
+        "trans": [
+            "饱和溶液"
+        ]
+    },
+    {
+        "name": "saturation",
+        "trans": [
+            "饱和"
+        ]
+    },
+    {
+        "name": "saturation deficiency",
+        "trans": [
+            "饱和差"
+        ]
+    },
+    {
+        "name": "saturation deficit",
+        "trans": [
+            "饱和差"
+        ]
+    },
+    {
+        "name": "saturation distribution",
+        "trans": [
+            "饱和分布"
+        ]
+    },
+    {
+        "name": "saturation magnetization",
+        "trans": [
+            "饱和磁化"
+        ]
+    },
+    {
+        "name": "saturation point",
+        "trans": [
+            "饱和点"
+        ]
+    },
+    {
+        "name": "saturation pressure",
+        "trans": [
+            "饱和压力"
+        ]
+    },
+    {
+        "name": "saturation regime",
+        "trans": [
+            "饱和情况"
+        ]
+    },
+    {
+        "name": "sauconite",
+        "trans": [
+            "锌蒙脱石"
+        ]
+    },
+    {
+        "name": "sauropsida",
+        "trans": [
+            "蜥形类"
+        ]
+    },
+    {
+        "name": "sausage structure",
+        "trans": [
+            "香肠构造"
+        ]
+    },
+    {
+        "name": "saussurit",
+        "trans": [
+            "糟化石"
+        ]
+    },
+    {
+        "name": "saussuritization",
+        "trans": [
+            "钠帘化酌"
+        ]
+    },
+    {
+        "name": "saussuritize",
+        "trans": [
+            "钠帘石化"
+        ]
+    },
+    {
+        "name": "savanna",
+        "trans": [
+            "稀噬草原"
+        ]
+    },
+    {
+        "name": "savodinskite",
+        "trans": [
+            "铈银矿"
+        ]
+    },
+    {
+        "name": "saxonian",
+        "trans": [
+            "萨克森阶"
+        ]
+    },
+    {
+        "name": "scacchite",
+        "trans": [
+            "氯锰矿"
+        ]
+    },
+    {
+        "name": "scaffold",
+        "trans": [
+            "脚手架"
+        ]
+    },
+    {
+        "name": "scale",
+        "trans": [
+            "度盘"
+        ]
+    },
+    {
+        "name": "scale factor",
+        "trans": [
+            "标度因数"
+        ]
+    },
+    {
+        "name": "scale model",
+        "trans": [
+            "比例模型"
+        ]
+    },
+    {
+        "name": "scalenohedron",
+        "trans": [
+            "偏三角面体"
+        ]
+    },
+    {
+        "name": "scaler",
+        "trans": [
+            "定标器计数器"
+        ]
+    },
+    {
+        "name": "scaling factor",
+        "trans": [
+            "换算系数"
+        ]
+    },
+    {
+        "name": "scaling law",
+        "trans": [
+            "比例法则"
+        ]
+    },
+    {
+        "name": "scaling ratio",
+        "trans": [
+            "换算系数"
+        ]
+    },
+    {
+        "name": "scaly",
+        "trans": [
+            "有鳞的"
+        ]
+    },
+    {
+        "name": "scaly structure",
+        "trans": [
+            "鳞片状结构"
+        ]
+    },
+    {
+        "name": "scan",
+        "trans": [
+            "扫描"
+        ]
+    },
+    {
+        "name": "scandium",
+        "trans": [
+            "钪"
+        ]
+    },
+    {
+        "name": "scanner",
+        "trans": [
+            "扫描设备"
+        ]
+    },
+    {
+        "name": "scanning",
+        "trans": [
+            "扫描"
+        ]
+    },
+    {
+        "name": "scanning angle",
+        "trans": [
+            "扫描角"
+        ]
+    },
+    {
+        "name": "scanning area",
+        "trans": [
+            "扫描面积"
+        ]
+    },
+    {
+        "name": "scanning beam",
+        "trans": [
+            "扫描射束"
+        ]
+    },
+    {
+        "name": "scanning electron microscope",
+        "trans": [
+            "扫描电子显微镜"
+        ]
+    },
+    {
+        "name": "scanning speed",
+        "trans": [
+            "扫描速度"
+        ]
+    },
+    {
+        "name": "scape",
+        "trans": [
+            "羽轴"
+        ]
+    },
+    {
+        "name": "scaphopods",
+        "trans": [
+            "掘足类"
+        ]
+    },
+    {
+        "name": "scapolite",
+        "trans": [
+            "方柱石"
+        ]
+    },
+    {
+        "name": "scapular",
+        "trans": [
+            "肩羽"
+        ]
+    },
+    {
+        "name": "scarp",
+        "trans": [
+            "悬崖"
+        ]
+    },
+    {
+        "name": "scattered boulder",
+        "trans": [
+            "散布漂石"
+        ]
+    },
+    {
+        "name": "scattered radiation",
+        "trans": [
+            "散射辐射"
+        ]
+    },
+    {
+        "name": "scattering",
+        "trans": [
+            "散射"
+        ]
+    },
+    {
+        "name": "scattering angle",
+        "trans": [
+            "散射角"
+        ]
+    },
+    {
+        "name": "scattering coefficient",
+        "trans": [
+            "散射系数"
+        ]
+    },
+    {
+        "name": "scattering cross section",
+        "trans": [
+            "散射截面"
+        ]
+    },
+    {
+        "name": "scattering power",
+        "trans": [
+            "散射本领"
+        ]
+    },
+    {
+        "name": "scavenging machine",
+        "trans": [
+            "再选浮选机"
+        ]
+    },
+    {
+        "name": "scawtite",
+        "trans": [
+            "碳硅钙石"
+        ]
+    },
+    {
+        "name": "schafarzikite",
+        "trans": [
+            "正方磷铁矿"
+        ]
+    },
+    {
+        "name": "schairerite",
+        "trans": [
+            "硫酸齿钠石"
+        ]
+    },
+    {
+        "name": "schalenblende",
+        "trans": [
+            "块闪锌矿"
+        ]
+    },
+    {
+        "name": "schallerite",
+        "trans": [
+            "砷硅锰矿"
+        ]
+    },
+    {
+        "name": "schank",
+        "trans": [
+            "褶皱翼"
+        ]
+    },
+    {
+        "name": "scheelite",
+        "trans": [
+            "白钨矿"
+        ]
+    },
+    {
+        "name": "schefferite",
+        "trans": [
+            "锰钙辉石"
+        ]
+    },
+    {
+        "name": "schillerization",
+        "trans": [
+            "闪光现象"
+        ]
+    },
+    {
+        "name": "schirmerite",
+        "trans": [
+            "块辉铅铋银矿"
+        ]
+    },
+    {
+        "name": "schist",
+        "trans": [
+            "片岩"
+        ]
+    },
+    {
+        "name": "schistosity",
+        "trans": [
+            "片理"
+        ]
+    },
+    {
+        "name": "schizolite",
+        "trans": [
+            "斜锰针钠钙石"
+        ]
+    },
+    {
+        "name": "schlieren",
+        "trans": [
+            "条纹"
+        ]
+    },
+    {
+        "name": "schneebergite",
+        "trans": [
+            "铁锑钙石"
+        ]
+    },
+    {
+        "name": "schoenite",
+        "trans": [
+            "软钾镁矾"
+        ]
+    },
+    {
+        "name": "schoepite",
+        "trans": [
+            "柱铀矿"
+        ]
+    },
+    {
+        "name": "schorenbergite",
+        "trans": [
+            "白霓霞斑岩"
+        ]
+    },
+    {
+        "name": "schorl",
+        "trans": [
+            "黑电气石"
+        ]
+    },
+    {
+        "name": "schorlite",
+        "trans": [
+            "黑电气石"
+        ]
+    },
+    {
+        "name": "schorlomite",
+        "trans": [
+            "钛榴石"
+        ]
+    },
+    {
+        "name": "schroeckingerite",
+        "trans": [
+            "硫铀钠钙石"
+        ]
+    },
+    {
+        "name": "schrotterite",
+        "trans": [
+            "蛋白铝英石"
+        ]
+    },
+    {
+        "name": "schuilingite",
+        "trans": [
+            "铜铅霰石"
+        ]
+    },
+    {
+        "name": "schulzenite",
+        "trans": [
+            "铜钙矿"
+        ]
+    },
+    {
+        "name": "schwartzembergite",
+        "trans": [
+            "氯碘铅矿"
+        ]
+    },
+    {
+        "name": "schwatzite",
+        "trans": [
+            "黑铜矿"
+        ]
+    },
+    {
+        "name": "scientific name",
+        "trans": [
+            "学名"
+        ]
+    },
+    {
+        "name": "scintillating medium",
+        "trans": [
+            "闪烁体"
+        ]
+    },
+    {
+        "name": "scintillation",
+        "trans": [
+            "闪烁"
+        ]
+    },
+    {
+        "name": "scintillation counter",
+        "trans": [
+            "闪烁计数管"
+        ]
+    },
+    {
+        "name": "scintillator",
+        "trans": [
+            "闪烁体"
+        ]
+    },
+    {
+        "name": "scintillometer",
+        "trans": [
+            "闪烁计数管"
+        ]
+    },
+    {
+        "name": "sciophyte",
+        "trans": [
+            "阴地植物"
+        ]
+    },
+    {
+        "name": "sclerenchyma",
+        "trans": [
+            "厚壁组织"
+        ]
+    },
+    {
+        "name": "sclerometer",
+        "trans": [
+            "硬度计"
+        ]
+    },
+    {
+        "name": "sclerophyte",
+        "trans": [
+            "硬叶植物"
+        ]
+    },
+    {
+        "name": "scleroscope",
+        "trans": [
+            "硬度计"
+        ]
+    },
+    {
+        "name": "sclerotinite",
+        "trans": [
+            "菌核体"
+        ]
+    },
+    {
+        "name": "scolecite",
+        "trans": [
+            "钙沸石"
+        ]
+    },
+    {
+        "name": "scoria",
+        "trans": [
+            "火山渣"
+        ]
+    },
+    {
+        "name": "scoria cone",
+        "trans": [
+            "火山渣锥"
+        ]
+    },
+    {
+        "name": "scoria flow",
+        "trans": [
+            "火山渣流"
+        ]
+    },
+    {
+        "name": "scoria tuff",
+        "trans": [
+            "火山渣凝灰岩"
+        ]
+    },
+    {
+        "name": "scoriaceous",
+        "trans": [
+            "渣状的"
+        ]
+    },
+    {
+        "name": "scorodite",
+        "trans": [
+            "臭葱石"
+        ]
+    },
+    {
+        "name": "scorzalite",
+        "trans": [
+            "多铁天蓝石"
+        ]
+    },
+    {
+        "name": "scour",
+        "trans": [
+            "淘刷"
+        ]
+    },
+    {
+        "name": "scovillite",
+        "trans": [
+            "磷铈钇矿"
+        ]
+    },
+    {
+        "name": "screen",
+        "trans": [
+            "筛子"
+        ]
+    },
+    {
+        "name": "screen grid",
+        "trans": [
+            "帘栅极"
+        ]
+    },
+    {
+        "name": "screen mesh",
+        "trans": [
+            "筛眼"
+        ]
+    },
+    {
+        "name": "screen pipe",
+        "trans": [
+            "滤管"
+        ]
+    },
+    {
+        "name": "screen size",
+        "trans": [
+            "筛号"
+        ]
+    },
+    {
+        "name": "screen sizing",
+        "trans": [
+            "筛分"
+        ]
+    },
+    {
+        "name": "screening",
+        "trans": [
+            "筛分"
+        ]
+    },
+    {
+        "name": "screening plant",
+        "trans": [
+            "筛分装置"
+        ]
+    },
+    {
+        "name": "screw axis",
+        "trans": [
+            "螺旋轴"
+        ]
+    },
+    {
+        "name": "screw dislocation",
+        "trans": [
+            "螺旋变位"
+        ]
+    },
+    {
+        "name": "scrub",
+        "trans": [
+            "灌木丛"
+        ]
+    },
+    {
+        "name": "sculpture",
+        "trans": [
+            "纹饰"
+        ]
+    },
+    {
+        "name": "scyelite",
+        "trans": [
+            "闪云橄家"
+        ]
+    },
+    {
+        "name": "scyphomedusa",
+        "trans": [
+            "钵水母"
+        ]
+    },
+    {
+        "name": "scythian",
+        "trans": [
+            "斯基甫阶"
+        ]
+    },
+    {
+        "name": "scythic stage",
+        "trans": [
+            "斯基甫阶"
+        ]
+    },
+    {
+        "name": "sea beach placer",
+        "trans": [
+            "海滨砂矿"
+        ]
+    },
+    {
+        "name": "sea cave",
+        "trans": [
+            "海蚀洞"
+        ]
+    },
+    {
+        "name": "sea cliff",
+        "trans": [
+            "海崖"
+        ]
+    },
+    {
+        "name": "sea floor",
+        "trans": [
+            "海底"
+        ]
+    },
+    {
+        "name": "sea floor deposit",
+        "trans": [
+            "海底矿床"
+        ]
+    },
+    {
+        "name": "sea floor spreading theory",
+        "trans": [
+            "海底扩张说"
+        ]
+    },
+    {
+        "name": "sea gravimeter",
+        "trans": [
+            "海重力仪"
+        ]
+    },
+    {
+        "name": "sea level",
+        "trans": [
+            "海平面"
+        ]
+    },
+    {
+        "name": "sea level fluctuation",
+        "trans": [
+            "海面升降"
+        ]
+    },
+    {
+        "name": "sea lilies",
+        "trans": [
+            "海百合类"
+        ]
+    },
+    {
+        "name": "sea mile",
+        "trans": [
+            "涅"
+        ]
+    },
+    {
+        "name": "sea urehins",
+        "trans": [
+            "海胆类"
+        ]
+    },
+    {
+        "name": "sea water",
+        "trans": [
+            "海水"
+        ]
+    },
+    {
+        "name": "sea water intrusion",
+        "trans": [
+            "海水浸入"
+        ]
+    },
+    {
+        "name": "sea water temperature",
+        "trans": [
+            "海水温度"
+        ]
+    },
+    {
+        "name": "seabeach",
+        "trans": [
+            "海岸"
+        ]
+    },
+    {
+        "name": "seaice",
+        "trans": [
+            "海冰"
+        ]
+    },
+    {
+        "name": "sealing trap",
+        "trans": [
+            "密封圈闭"
+        ]
+    },
+    {
+        "name": "seam",
+        "trans": [
+            "层"
+        ]
+    },
+    {
+        "name": "seam floor",
+        "trans": [
+            "底盘"
+        ]
+    },
+    {
+        "name": "seam roof",
+        "trans": [
+            "顶盖岩"
+        ]
+    },
+    {
+        "name": "seam thickness",
+        "trans": [
+            "层厚"
+        ]
+    },
+    {
+        "name": "seamless pipe",
+        "trans": [
+            "无缝管"
+        ]
+    },
+    {
+        "name": "seamount",
+        "trans": [
+            "海山"
+        ]
+    },
+    {
+        "name": "seapeak",
+        "trans": [
+            "海峰"
+        ]
+    },
+    {
+        "name": "seaquake",
+        "trans": [
+            "海震"
+        ]
+    },
+    {
+        "name": "searlesite",
+        "trans": [
+            "硅硼钠石"
+        ]
+    },
+    {
+        "name": "seasonal migration",
+        "trans": [
+            "季节性迁移"
+        ]
+    },
+    {
+        "name": "seasonal periodicity",
+        "trans": [
+            "季节周期性"
+        ]
+    },
+    {
+        "name": "seasonal variation",
+        "trans": [
+            "季节变化"
+        ]
+    },
+    {
+        "name": "seastars",
+        "trans": [
+            "海星类"
+        ]
+    },
+    {
+        "name": "seaweeds",
+        "trans": [
+            "海藻"
+        ]
+    },
+    {
+        "name": "sebastianite",
+        "trans": [
+            "黑云钙长岩"
+        ]
+    },
+    {
+        "name": "seclusion",
+        "trans": [
+            "闭塞"
+        ]
+    },
+    {
+        "name": "second boiling point",
+        "trans": [
+            "第二沸点"
+        ]
+    },
+    {
+        "name": "secondaries",
+        "trans": [
+            "次波"
+        ]
+    },
+    {
+        "name": "secondary cleavage",
+        "trans": [
+            "次生劈理"
+        ]
+    },
+    {
+        "name": "secondary community",
+        "trans": [
+            "次生群落"
+        ]
+    },
+    {
+        "name": "secondary concretion",
+        "trans": [
+            "次生结核"
+        ]
+    },
+    {
+        "name": "secondary cycle",
+        "trans": [
+            "次旋回"
+        ]
+    },
+    {
+        "name": "secondary deposit",
+        "trans": [
+            "次生矿床"
+        ]
+    },
+    {
+        "name": "secondary depression",
+        "trans": [
+            "副低压"
+        ]
+    },
+    {
+        "name": "secondary enrichment",
+        "trans": [
+            "次生富集"
+        ]
+    },
+    {
+        "name": "secondary enrichment zone",
+        "trans": [
+            "次生富集带"
+        ]
+    },
+    {
+        "name": "secondary fault",
+        "trans": [
+            "小断层"
+        ]
+    },
+    {
+        "name": "secondary fold",
+        "trans": [
+            "小褶曲"
+        ]
+    },
+    {
+        "name": "secondary fossil",
+        "trans": [
+            "次生化石"
+        ]
+    },
+    {
+        "name": "secondary fumarole",
+        "trans": [
+            "次生喷气孔"
+        ]
+    },
+    {
+        "name": "secondary hydrothermal deposit",
+        "trans": [
+            "次生热液矿床"
+        ]
+    },
+    {
+        "name": "secondary interstice",
+        "trans": [
+            "次生裂隙"
+        ]
+    },
+    {
+        "name": "secondary joint",
+        "trans": [
+            "小节理"
+        ]
+    },
+    {
+        "name": "secondary mineral",
+        "trans": [
+            "次生矿物"
+        ]
+    },
+    {
+        "name": "secondary ore",
+        "trans": [
+            "次生矿"
+        ]
+    },
+    {
+        "name": "secondary oxidized ore",
+        "trans": [
+            "次生氧化矿"
+        ]
+    },
+    {
+        "name": "secondary porosity",
+        "trans": [
+            "次生孔隙率"
+        ]
+    },
+    {
+        "name": "secondary recovery",
+        "trans": [
+            "二次开采"
+        ]
+    },
+    {
+        "name": "secondary recrystallization",
+        "trans": [
+            "次生重结晶"
+        ]
+    },
+    {
+        "name": "secondary rocks",
+        "trans": [
+            "二次岩层"
+        ]
+    },
+    {
+        "name": "secondary salt effect",
+        "trans": [
+            "副盐效应"
+        ]
+    },
+    {
+        "name": "secondary structural elements",
+        "trans": [
+            "再次构造"
+        ]
+    },
+    {
+        "name": "secondary structure",
+        "trans": [
+            "次生构造"
+        ]
+    },
+    {
+        "name": "secondary succession",
+        "trans": [
+            "次生演替"
+        ]
+    },
+    {
+        "name": "secondary wave",
+        "trans": [
+            "次波"
+        ]
+    },
+    {
+        "name": "secondary xylem",
+        "trans": [
+            "次生木质部"
+        ]
+    },
+    {
+        "name": "secretion",
+        "trans": [
+            "分泌"
+        ]
+    },
+    {
+        "name": "secretion theory",
+        "trans": [
+            "分泌说"
+        ]
+    },
+    {
+        "name": "secretion vein",
+        "trans": [
+            "分泌脉"
+        ]
+    },
+    {
+        "name": "secretory",
+        "trans": [
+            "分泌的"
+        ]
+    },
+    {
+        "name": "section",
+        "trans": [
+            "薄片"
+        ]
+    },
+    {
+        "name": "secular equilibrium",
+        "trans": [
+            "久期平衡"
+        ]
+    },
+    {
+        "name": "secular subsidence",
+        "trans": [
+            "缓慢沉陷"
+        ]
+    },
+    {
+        "name": "secular upheaval",
+        "trans": [
+            "缓慢隆起"
+        ]
+    },
+    {
+        "name": "secular variation",
+        "trans": [
+            "世纪变化"
+        ]
+    },
+    {
+        "name": "sedentary soil",
+        "trans": [
+            "原地土壤"
+        ]
+    },
+    {
+        "name": "sediment",
+        "trans": [
+            "沉积"
+        ]
+    },
+    {
+        "name": "sediment tube",
+        "trans": [
+            "取粉管"
+        ]
+    },
+    {
+        "name": "sedimentary complex",
+        "trans": [
+            "沉积杂层"
+        ]
+    },
+    {
+        "name": "sedimentary cover",
+        "trans": [
+            "沉积盖层"
+        ]
+    },
+    {
+        "name": "sedimentary cycle",
+        "trans": [
+            "沉积旋回"
+        ]
+    },
+    {
+        "name": "sedimentary deposit",
+        "trans": [
+            "沉积矿床"
+        ]
+    },
+    {
+        "name": "sedimentary formation",
+        "trans": [
+            "沉积建造"
+        ]
+    },
+    {
+        "name": "sedimentary gneiss",
+        "trans": [
+            "沉积片麻岩"
+        ]
+    },
+    {
+        "name": "sedimentary mantle",
+        "trans": [
+            "沉积盖层"
+        ]
+    },
+    {
+        "name": "sedimentary model of coal",
+        "trans": [
+            "煤沉积模式"
+        ]
+    },
+    {
+        "name": "sedimentary nappe",
+        "trans": [
+            "沉积推复体"
+        ]
+    },
+    {
+        "name": "sedimentary petrography",
+        "trans": [
+            "沉积岩石学"
+        ]
+    },
+    {
+        "name": "sedimentary petrology",
+        "trans": [
+            "沉积岩石学"
+        ]
+    },
+    {
+        "name": "sedimentary rock",
+        "trans": [
+            "沉积岩"
+        ]
+    },
+    {
+        "name": "sedimentary structure",
+        "trans": [
+            "沉积构造"
+        ]
+    },
+    {
+        "name": "sedimentary system",
+        "trans": [
+            "沉积体系"
+        ]
+    },
+    {
+        "name": "sedimentation",
+        "trans": [
+            "沉积酌"
+        ]
+    },
+    {
+        "name": "sedimentation basin",
+        "trans": [
+            "沉积盆地"
+        ]
+    },
+    {
+        "name": "sedimentation rate",
+        "trans": [
+            "沉淀速度"
+        ]
+    },
+    {
+        "name": "sedimentogenesis",
+        "trans": [
+            "沉积成因"
+        ]
+    },
+    {
+        "name": "sedimentology",
+        "trans": [
+            "沉积学"
+        ]
+    },
+    {
+        "name": "sedimentometer",
+        "trans": [
+            "沉积计"
+        ]
+    },
+    {
+        "name": "sedimentometry",
+        "trans": [
+            "沉积测量法"
+        ]
+    },
+    {
+        "name": "seebachite",
+        "trans": [
+            "碱菱沸石"
+        ]
+    },
+    {
+        "name": "seed plants",
+        "trans": [
+            "种子植物"
+        ]
+    },
+    {
+        "name": "seepage",
+        "trans": [
+            "渗透"
+        ]
+    },
+    {
+        "name": "seepage spring",
+        "trans": [
+            "渗出泉"
+        ]
+    },
+    {
+        "name": "seepage surface",
+        "trans": [
+            "渗出面"
+        ]
+    },
+    {
+        "name": "seepage velocity",
+        "trans": [
+            "达钨度"
+        ]
+    },
+    {
+        "name": "seet erosion",
+        "trans": [
+            "表面侵蚀"
+        ]
+    },
+    {
+        "name": "seger cone",
+        "trans": [
+            "标准锥"
+        ]
+    },
+    {
+        "name": "segregated vein",
+        "trans": [
+            "分凝脉"
+        ]
+    },
+    {
+        "name": "segregation",
+        "trans": [
+            "分凝"
+        ]
+    },
+    {
+        "name": "segregation banding",
+        "trans": [
+            "分结条带"
+        ]
+    },
+    {
+        "name": "seiches",
+        "trans": [
+            "湖面波动"
+        ]
+    },
+    {
+        "name": "seism",
+        "trans": [
+            "地震"
+        ]
+    },
+    {
+        "name": "seismic detector",
+        "trans": [
+            "地震检波器"
+        ]
+    },
+    {
+        "name": "seismic filtering",
+        "trans": [
+            "地震滤波"
+        ]
+    },
+    {
+        "name": "seismic hazard",
+        "trans": [
+            "地震灾害"
+        ]
+    },
+    {
+        "name": "seismic intensity",
+        "trans": [
+            "地震强度"
+        ]
+    },
+    {
+        "name": "seismic interface",
+        "trans": [
+            "地震界面"
+        ]
+    },
+    {
+        "name": "seismic intesity scale",
+        "trans": [
+            "地震强度计"
+        ]
+    },
+    {
+        "name": "seismic marker horizon",
+        "trans": [
+            "地震标准层"
+        ]
+    },
+    {
+        "name": "seismic moment",
+        "trans": [
+            "地震矩"
+        ]
+    },
+    {
+        "name": "seismic oscillation",
+        "trans": [
+            "地震动"
+        ]
+    },
+    {
+        "name": "seismic profile",
+        "trans": [
+            "地震剖面"
+        ]
+    },
+    {
+        "name": "seismic prospecting",
+        "trans": [
+            "地震勘探"
+        ]
+    },
+    {
+        "name": "seismic ray",
+        "trans": [
+            "震线"
+        ]
+    },
+    {
+        "name": "seismic reflection",
+        "trans": [
+            "地震波反射"
+        ]
+    },
+    {
+        "name": "seismic refraction",
+        "trans": [
+            "地震波折射"
+        ]
+    },
+    {
+        "name": "seismic seawave",
+        "trans": [
+            "海震"
+        ]
+    },
+    {
+        "name": "seismic stratigraphy",
+        "trans": [
+            "地震地层学"
+        ]
+    },
+    {
+        "name": "seismic structural map",
+        "trans": [
+            "地震构造图"
+        ]
+    },
+    {
+        "name": "seismic waves",
+        "trans": [
+            "震波"
+        ]
+    },
+    {
+        "name": "seismic zone",
+        "trans": [
+            "地震带"
+        ]
+    },
+    {
+        "name": "seismicity",
+        "trans": [
+            "地震活动"
+        ]
+    },
+    {
+        "name": "seismogeology",
+        "trans": [
+            "地震地质学"
+        ]
+    },
+    {
+        "name": "seismogram",
+        "trans": [
+            "震波图"
+        ]
+    },
+    {
+        "name": "seismograph",
+        "trans": [
+            "地震仪"
+        ]
+    },
+    {
+        "name": "seismology",
+        "trans": [
+            "地震学"
+        ]
+    },
+    {
+        "name": "seismometer",
+        "trans": [
+            "地震计"
+        ]
+    },
+    {
+        "name": "seismoscope",
+        "trans": [
+            "地震示波仪"
+        ]
+    },
+    {
+        "name": "seismotectonics",
+        "trans": [
+            "地震构造学"
+        ]
+    },
+    {
+        "name": "seladonite",
+        "trans": [
+            "绿鳞石"
+        ]
+    },
+    {
+        "name": "seladonote",
+        "trans": [
+            "绿鳞石"
+        ]
+    },
+    {
+        "name": "selagite",
+        "trans": [
+            "黑云粗面岩"
+        ]
+    },
+    {
+        "name": "selbergite",
+        "trans": [
+            "白霓霞岩"
+        ]
+    },
+    {
+        "name": "selection",
+        "trans": [
+            "选择"
+        ]
+    },
+    {
+        "name": "selective absorption",
+        "trans": [
+            "选择吸收"
+        ]
+    },
+    {
+        "name": "selective body",
+        "trans": [
+            "选择体"
+        ]
+    },
+    {
+        "name": "selective erosion",
+        "trans": [
+            "选择侵蚀"
+        ]
+    },
+    {
+        "name": "伽马测井  selective gamma gamma log",
+        "trans": [
+            "选择伽马"
+        ]
+    },
+    {
+        "name": "selective metamorphism",
+        "trans": [
+            "选择变质"
+        ]
+    },
+    {
+        "name": "selective metasomatism",
+        "trans": [
+            "分别变代"
+        ]
+    },
+    {
+        "name": "selective replacement",
+        "trans": [
+            "选择置换"
+        ]
+    },
+    {
+        "name": "selective weathering",
+        "trans": [
+            "选择风化"
+        ]
+    },
+    {
+        "name": "selectivity",
+        "trans": [
+            "选择性"
+        ]
+    },
+    {
+        "name": "selenite",
+        "trans": [
+            "透石膏"
+        ]
+    },
+    {
+        "name": "selenium",
+        "trans": [
+            "硒"
+        ]
+    },
+    {
+        "name": "selenolite",
+        "trans": [
+            "透石膏岩"
+        ]
+    },
+    {
+        "name": "selenology",
+        "trans": [
+            "月球学"
+        ]
+    },
+    {
+        "name": "self elevating drilling platform",
+        "trans": [
+            "桩脚式钻探平台"
+        ]
+    },
+    {
+        "name": "self potential",
+        "trans": [
+            "自然电位"
+        ]
+    },
+    {
+        "name": "sellait",
+        "trans": [
+            "氟镁石"
+        ]
+    },
+    {
+        "name": "selvage clay",
+        "trans": [
+            "断层泥"
+        ]
+    },
+    {
+        "name": "selwynite",
+        "trans": [
+            "黄舣"
+        ]
+    },
+    {
+        "name": "semeline",
+        "trans": [
+            "榍石"
+        ]
+    },
+    {
+        "name": "semi diurnal wave",
+        "trans": [
+            "半日波"
+        ]
+    },
+    {
+        "name": "semianthracite",
+        "trans": [
+            "半无烟煤"
+        ]
+    },
+    {
+        "name": "semiautomatic",
+        "trans": [
+            "半自动的"
+        ]
+    },
+    {
+        "name": "semibituminous coal",
+        "trans": [
+            "半沥青煤"
+        ]
+    },
+    {
+        "name": "semibright coal",
+        "trans": [
+            "半亮煤"
+        ]
+    },
+    {
+        "name": "semidesert",
+        "trans": [
+            "半荒漠"
+        ]
+    },
+    {
+        "name": "semidull coal",
+        "trans": [
+            "半暗煤"
+        ]
+    },
+    {
+        "name": "semifossil",
+        "trans": [
+            "半化石"
+        ]
+    },
+    {
+        "name": "semifusinite",
+        "trans": [
+            "半丝质体"
+        ]
+    },
+    {
+        "name": "semigelatinous maceral",
+        "trans": [
+            "半凝胶化组分"
+        ]
+    },
+    {
+        "name": "semimetal",
+        "trans": [
+            "半金属"
+        ]
+    },
+    {
+        "name": "semiopal",
+        "trans": [
+            "普通蛋白石"
+        ]
+    },
+    {
+        "name": "semipolar bond",
+        "trans": [
+            "半极性键"
+        ]
+    },
+    {
+        "name": "semiprecious stone",
+        "trans": [
+            "次等宝石"
+        ]
+    },
+    {
+        "name": "semireservoir",
+        "trans": [
+            "半储热层"
+        ]
+    },
+    {
+        "name": "semischist",
+        "trans": [
+            "半片岩"
+        ]
+    },
+    {
+        "name": "semisubmersible drilling platform",
+        "trans": [
+            "半潜式钻探平台"
+        ]
+    },
+    {
+        "name": "semseyite",
+        "trans": [
+            "单斜铅锑矿"
+        ]
+    },
+    {
+        "name": "senaite",
+        "trans": [
+            "铅钛铁矿"
+        ]
+    },
+    {
+        "name": "senarmontite",
+        "trans": [
+            "方锑矿"
+        ]
+    },
+    {
+        "name": "sender",
+        "trans": [
+            "发射机"
+        ]
+    },
+    {
+        "name": "sengierite",
+        "trans": [
+            "水钒铀铜矿"
+        ]
+    },
+    {
+        "name": "senility",
+        "trans": [
+            "老年期"
+        ]
+    },
+    {
+        "name": "senonian",
+        "trans": [
+            "巫阶"
+        ]
+    },
+    {
+        "name": "sensibility",
+        "trans": [
+            "灵敏度"
+        ]
+    },
+    {
+        "name": "sensible heat",
+        "trans": [
+            "可感热"
+        ]
+    },
+    {
+        "name": "sensing device",
+        "trans": [
+            "传感器感受设备"
+        ]
+    },
+    {
+        "name": "sensitivity",
+        "trans": [
+            "灵敏度"
+        ]
+    },
+    {
+        "name": "sensitometry",
+        "trans": [
+            "感光度测定学"
+        ]
+    },
+    {
+        "name": "separation",
+        "trans": [
+            "分选"
+        ]
+    },
+    {
+        "name": "separation energy",
+        "trans": [
+            "分离能量"
+        ]
+    },
+    {
+        "name": "separator",
+        "trans": [
+            "分选机"
+        ]
+    },
+    {
+        "name": "sepiolite",
+        "trans": [
+            "海泡石"
+        ]
+    },
+    {
+        "name": "septa",
+        "trans": [
+            "隔壁"
+        ]
+    },
+    {
+        "name": "septaria",
+        "trans": [
+            "龟甲石"
+        ]
+    },
+    {
+        "name": "septum",
+        "trans": [
+            "隔壁"
+        ]
+    },
+    {
+        "name": "sequence",
+        "trans": [
+            "次序"
+        ]
+    },
+    {
+        "name": "sequence of crystallization",
+        "trans": [
+            "结晶顺序"
+        ]
+    },
+    {
+        "name": "sequential form",
+        "trans": [
+            "后成地形"
+        ]
+    },
+    {
+        "name": "serendibite",
+        "trans": [
+            "蓝硅硼钙石"
+        ]
+    },
+    {
+        "name": "sericite",
+        "trans": [
+            "绢云母"
+        ]
+    },
+    {
+        "name": "sericite schist",
+        "trans": [
+            "绢云片岩"
+        ]
+    },
+    {
+        "name": "sericitization",
+        "trans": [
+            "绢云母化"
+        ]
+    },
+    {
+        "name": "series",
+        "trans": [
+            "统"
+        ]
+    },
+    {
+        "name": "series connection",
+        "trans": [
+            "串联连接"
+        ]
+    },
+    {
+        "name": "serpentine",
+        "trans": [
+            "蛇纹石"
+        ]
+    },
+    {
+        "name": "serpentite",
+        "trans": [
+            "蛇纹石"
+        ]
+    },
+    {
+        "name": "serpierite",
+        "trans": [
+            "锌铜矾"
+        ]
+    },
+    {
+        "name": "serrate",
+        "trans": [
+            "锯齿状的"
+        ]
+    },
+    {
+        "name": "serrate suture",
+        "trans": [
+            "锯状缝"
+        ]
+    },
+    {
+        "name": "service shaft",
+        "trans": [
+            "辅助竖井"
+        ]
+    },
+    {
+        "name": "sessile animals",
+        "trans": [
+            "固着动物"
+        ]
+    },
+    {
+        "name": "sessile leaf",
+        "trans": [
+            "无柄叶"
+        ]
+    },
+    {
+        "name": "seta",
+        "trans": [
+            "刚毛"
+        ]
+    },
+    {
+        "name": "setting",
+        "trans": [
+            "浓缩"
+        ]
+    },
+    {
+        "name": "setting accelerator",
+        "trans": [
+            "速凝剂"
+        ]
+    },
+    {
+        "name": "setting of cement",
+        "trans": [
+            "胶结物凝固"
+        ]
+    },
+    {
+        "name": "setting time",
+        "trans": [
+            "胆时间"
+        ]
+    },
+    {
+        "name": "settlement",
+        "trans": [
+            "沉陷"
+        ]
+    },
+    {
+        "name": "settling",
+        "trans": [
+            "沉陷"
+        ]
+    },
+    {
+        "name": "settling basin",
+        "trans": [
+            "沉淀池"
+        ]
+    },
+    {
+        "name": "settling pond",
+        "trans": [
+            "沉积池"
+        ]
+    },
+    {
+        "name": "settling velocity",
+        "trans": [
+            "下沉速度"
+        ]
+    },
+    {
+        "name": "sewage",
+        "trans": [
+            "阴沟水"
+        ]
+    },
+    {
+        "name": "sewage treatment",
+        "trans": [
+            "污水处理"
+        ]
+    },
+    {
+        "name": "sextant",
+        "trans": [
+            "六分仪"
+        ]
+    },
+    {
+        "name": "sexual generation",
+        "trans": [
+            "有性世代"
+        ]
+    },
+    {
+        "name": "shadow",
+        "trans": [
+            "影"
+        ]
+    },
+    {
+        "name": "shadow effect",
+        "trans": [
+            "阴影效应"
+        ]
+    },
+    {
+        "name": "shadow photometer",
+        "trans": [
+            "影像光度计"
+        ]
+    },
+    {
+        "name": "shaft",
+        "trans": [
+            "竖井"
+        ]
+    },
+    {
+        "name": "shale",
+        "trans": [
+            "页岩"
+        ]
+    },
+    {
+        "name": "shale line",
+        "trans": [
+            "泥岩基线"
+        ]
+    },
+    {
+        "name": "shale soil",
+        "trans": [
+            "页岩土"
+        ]
+    },
+    {
+        "name": "shallow focus earthquake",
+        "trans": [
+            "浅震"
+        ]
+    },
+    {
+        "name": "shallow sea",
+        "trans": [
+            "浅海"
+        ]
+    },
+    {
+        "name": "shallow sea deposit",
+        "trans": [
+            "浅海沉积"
+        ]
+    },
+    {
+        "name": "shallow well",
+        "trans": [
+            "浅水井"
+        ]
+    },
+    {
+        "name": "shaly sand",
+        "trans": [
+            "页岩状沙"
+        ]
+    },
+    {
+        "name": "shank",
+        "trans": [
+            "钎尾"
+        ]
+    },
+    {
+        "name": "shape function",
+        "trans": [
+            "形态函数"
+        ]
+    },
+    {
+        "name": "sharp tuning",
+        "trans": [
+            "锐党"
+        ]
+    },
+    {
+        "name": "sharpite",
+        "trans": [
+            "七水碳铀矿"
+        ]
+    },
+    {
+        "name": "shastaite",
+        "trans": [
+            "中长英安岩"
+        ]
+    },
+    {
+        "name": "shastalite",
+        "trans": [
+            "安山玻璃"
+        ]
+    },
+    {
+        "name": "shattered fault zone",
+        "trans": [
+            "碎裂断层带"
+        ]
+    },
+    {
+        "name": "shattered zone",
+        "trans": [
+            "碎裂带"
+        ]
+    },
+    {
+        "name": "shattering",
+        "trans": [
+            "震动;破碎"
+        ]
+    },
+    {
+        "name": "shattuckite",
+        "trans": [
+            "单斜硅铜矿"
+        ]
+    },
+    {
+        "name": "shear breccia",
+        "trans": [
+            "扭性构造岩"
+        ]
+    },
+    {
+        "name": "shear cleavage",
+        "trans": [
+            "剪劈理"
+        ]
+    },
+    {
+        "name": "shear deep fracture",
+        "trans": [
+            "剪性深断裂"
+        ]
+    },
+    {
+        "name": "shear failure",
+        "trans": [
+            "剪破裂"
+        ]
+    },
+    {
+        "name": "shear folding",
+        "trans": [
+            "剪褶皱"
+        ]
+    },
+    {
+        "name": "shear joint",
+        "trans": [
+            "剪节理"
+        ]
+    },
+    {
+        "name": "shear modulus",
+        "trans": [
+            "抗剪弹性模量"
+        ]
+    },
+    {
+        "name": "shear plane",
+        "trans": [
+            "剪切面"
+        ]
+    },
+    {
+        "name": "shear strain",
+        "trans": [
+            "剪切变形"
+        ]
+    },
+    {
+        "name": "shear stress",
+        "trans": [
+            "剪应力"
+        ]
+    },
+    {
+        "name": "shear structural system",
+        "trans": [
+            "扭动构造体系"
+        ]
+    },
+    {
+        "name": "shear sturctural plane",
+        "trans": [
+            "扭性结构面"
+        ]
+    },
+    {
+        "name": "shear zone",
+        "trans": [
+            "剪碎带"
+        ]
+    },
+    {
+        "name": "shearing",
+        "trans": [
+            "剪断"
+        ]
+    },
+    {
+        "name": "shearing compressive plane",
+        "trans": [
+            "扭压面"
+        ]
+    },
+    {
+        "name": "shearing force",
+        "trans": [
+            "剪应力"
+        ]
+    },
+    {
+        "name": "shearing stress",
+        "trans": [
+            "切应力"
+        ]
+    },
+    {
+        "name": "sheath",
+        "trans": [
+            "鞘"
+        ]
+    },
+    {
+        "name": "sheave",
+        "trans": [
+            "绳爽轮"
+        ]
+    },
+    {
+        "name": "sheet",
+        "trans": [
+            "岩席"
+        ]
+    },
+    {
+        "name": "sheet erosion",
+        "trans": [
+            "片林蚀"
+        ]
+    },
+    {
+        "name": "sheet flow",
+        "trans": [
+            "片流漫流;席状喷出"
+        ]
+    },
+    {
+        "name": "sheeted deposit",
+        "trans": [
+            "席状矿床"
+        ]
+    },
+    {
+        "name": "sheeted structure",
+        "trans": [
+            "重膜状构造"
+        ]
+    },
+    {
+        "name": "sheeted vein",
+        "trans": [
+            "重膜矿脉"
+        ]
+    },
+    {
+        "name": "sheeted zone",
+        "trans": [
+            "重膜矿带"
+        ]
+    },
+    {
+        "name": "shell",
+        "trans": [
+            "贝壳;甲"
+        ]
+    },
+    {
+        "name": "shell layer",
+        "trans": [
+            "壳质层"
+        ]
+    },
+    {
+        "name": "shell mound",
+        "trans": [
+            "贝冢"
+        ]
+    },
+    {
+        "name": "shell structure",
+        "trans": [
+            "贝壳构造"
+        ]
+    },
+    {
+        "name": "shell zone",
+        "trans": [
+            "介壳带"
+        ]
+    },
+    {
+        "name": "sheridanite",
+        "trans": [
+            "无色绿泥石"
+        ]
+    },
+    {
+        "name": "shield",
+        "trans": [
+            "地盾"
+        ]
+    },
+    {
+        "name": "shield volcano",
+        "trans": [
+            "循形火山"
+        ]
+    },
+    {
+        "name": "shield volcano of the hawaiian type",
+        "trans": [
+            "夏威夷式盾形火山"
+        ]
+    },
+    {
+        "name": "shielding",
+        "trans": [
+            "屏蔽"
+        ]
+    },
+    {
+        "name": "shift",
+        "trans": [
+            "变位"
+        ]
+    },
+    {
+        "name": "shift zone",
+        "trans": [
+            "移动带"
+        ]
+    },
+    {
+        "name": "shinbone",
+        "trans": [
+            "胫骨"
+        ]
+    },
+    {
+        "name": "shingle",
+        "trans": [
+            "扁砾石"
+        ]
+    },
+    {
+        "name": "shingle structure",
+        "trans": [
+            "叠瓦构造"
+        ]
+    },
+    {
+        "name": "shiver",
+        "trans": [
+            "页岩"
+        ]
+    },
+    {
+        "name": "shoal",
+        "trans": [
+            "浅滩"
+        ]
+    },
+    {
+        "name": "shock",
+        "trans": [
+            "冲击冲突"
+        ]
+    },
+    {
+        "name": "shock metamorphism",
+        "trans": [
+            "冲讳质酌"
+        ]
+    },
+    {
+        "name": "shock wave",
+        "trans": [
+            "冲花"
+        ]
+    },
+    {
+        "name": "shoestring sandstone",
+        "trans": [
+            "鞋带沙堆"
+        ]
+    },
+    {
+        "name": "shooting",
+        "trans": [
+            "放炮"
+        ]
+    },
+    {
+        "name": "shore",
+        "trans": [
+            "岸"
+        ]
+    },
+    {
+        "name": "shoreline",
+        "trans": [
+            "海岸线"
+        ]
+    },
+    {
+        "name": "shoreline of emergence",
+        "trans": [
+            "上升滨线"
+        ]
+    },
+    {
+        "name": "shoreline of submergence",
+        "trans": [
+            "下沉滨线"
+        ]
+    },
+    {
+        "name": "short flame coal",
+        "trans": [
+            "短焰煤"
+        ]
+    },
+    {
+        "name": "short range order",
+        "trans": [
+            "短程序"
+        ]
+    },
+    {
+        "name": "shortite",
+        "trans": [
+            "碳酸钠钙石"
+        ]
+    },
+    {
+        "name": "shoshonite",
+        "trans": [
+            "正边粗玄岩"
+        ]
+    },
+    {
+        "name": "shot drilling",
+        "trans": [
+            "钻粒钻井"
+        ]
+    },
+    {
+        "name": "shot effect",
+        "trans": [
+            "散粒效应"
+        ]
+    },
+    {
+        "name": "shot noise",
+        "trans": [
+            "散粒效应"
+        ]
+    },
+    {
+        "name": "shot point",
+        "trans": [
+            "爆炸点"
+        ]
+    },
+    {
+        "name": "shothole",
+        "trans": [
+            "爆破井"
+        ]
+    },
+    {
+        "name": "shrinkage limit",
+        "trans": [
+            "收缩限度"
+        ]
+    },
+    {
+        "name": "shrinkage of clay",
+        "trans": [
+            "粘土的收缩酌"
+        ]
+    },
+    {
+        "name": "shrinkage stoping",
+        "trans": [
+            "留矿回采"
+        ]
+    },
+    {
+        "name": "shrinkage water",
+        "trans": [
+            "收缩水"
+        ]
+    },
+    {
+        "name": "shunt ratio",
+        "trans": [
+            "分路系数"
+        ]
+    },
+    {
+        "name": "sial",
+        "trans": [
+            "硅铝带"
+        ]
+    },
+    {
+        "name": "siallitization",
+        "trans": [
+            "粘土矿物化"
+        ]
+    },
+    {
+        "name": "sialma",
+        "trans": [
+            "硅铝镁带"
+        ]
+    },
+    {
+        "name": "siberite",
+        "trans": [
+            "紫电气石"
+        ]
+    },
+    {
+        "name": "sicklerite",
+        "trans": [
+            "磷锂锰矿"
+        ]
+    },
+    {
+        "name": "side elevation",
+        "trans": [
+            "侧视图"
+        ]
+    },
+    {
+        "name": "side pressure",
+        "trans": [
+            "侧压力"
+        ]
+    },
+    {
+        "name": "side view",
+        "trans": [
+            "侧视图"
+        ]
+    },
+    {
+        "name": "side wall",
+        "trans": [
+            "侧壁"
+        ]
+    },
+    {
+        "name": "side wall coring gun",
+        "trans": [
+            "射入式取心器井壁取心枪"
+        ]
+    },
+    {
+        "name": "side wall cutting sampler",
+        "trans": [
+            "切割式取心器"
+        ]
+    },
+    {
+        "name": "siderazote",
+        "trans": [
+            "氮铁矿"
+        ]
+    },
+    {
+        "name": "siderazotite",
+        "trans": [
+            "氮铁矿"
+        ]
+    },
+    {
+        "name": "siderite",
+        "trans": [
+            "菱铁矿"
+        ]
+    },
+    {
+        "name": "siderolite",
+        "trans": [
+            "陨铁石"
+        ]
+    },
+    {
+        "name": "sideronatrite",
+        "trans": [
+            "纤钠铁矾"
+        ]
+    },
+    {
+        "name": "sideronitic texture",
+        "trans": [
+            "海绵陨铁结构"
+        ]
+    },
+    {
+        "name": "siderophile elements",
+        "trans": [
+            "亲铁元素"
+        ]
+    },
+    {
+        "name": "siderophyllite",
+        "trans": [
+            "铁叶云母"
+        ]
+    },
+    {
+        "name": "siderophyre",
+        "trans": [
+            "古铜鳞英铁镍陨石"
+        ]
+    },
+    {
+        "name": "sideroplesite",
+        "trans": [
+            "镁菱铁矿"
+        ]
+    },
+    {
+        "name": "siderosphere",
+        "trans": [
+            "铁圈"
+        ]
+    },
+    {
+        "name": "siderotil",
+        "trans": [
+            "铁矾"
+        ]
+    },
+    {
+        "name": "siegenite",
+        "trans": [
+            "碲硫镍钴矿"
+        ]
+    },
+    {
+        "name": "sierozem",
+        "trans": [
+            "灰钙土"
+        ]
+    },
+    {
+        "name": "sieve",
+        "trans": [
+            "筛子"
+        ]
+    },
+    {
+        "name": "sieve analysis",
+        "trans": [
+            "筛分分析"
+        ]
+    },
+    {
+        "name": "sieve opening",
+        "trans": [
+            "筛孔"
+        ]
+    },
+    {
+        "name": "sieving",
+        "trans": [
+            "筛分"
+        ]
+    },
+    {
+        "name": "signal level",
+        "trans": [
+            "信号电平"
+        ]
+    },
+    {
+        "name": "significance level",
+        "trans": [
+            "显著性水平"
+        ]
+    },
+    {
+        "name": "silaonite",
+        "trans": [
+            "多铋硒铅矿"
+        ]
+    },
+    {
+        "name": "silexite",
+        "trans": [
+            "硅石岩"
+        ]
+    },
+    {
+        "name": "silfbergite",
+        "trans": [
+            "锰磁铁矿"
+        ]
+    },
+    {
+        "name": "silica",
+        "trans": [
+            "硅土"
+        ]
+    },
+    {
+        "name": "silica alumina ratio",
+        "trans": [
+            "硅铝比"
+        ]
+    },
+    {
+        "name": "silica brick",
+        "trans": [
+            "硅砖"
+        ]
+    },
+    {
+        "name": "silica geothermometer",
+        "trans": [
+            "二氧化硅地热温标"
+        ]
+    },
+    {
+        "name": "silica sand",
+        "trans": [
+            "硅砂"
+        ]
+    },
+    {
+        "name": "silica sesquioxide ratio",
+        "trans": [
+            "三氧二某化合物比"
+        ]
+    },
+    {
+        "name": "silicastone deposit",
+        "trans": [
+            "硅石矿床"
+        ]
+    },
+    {
+        "name": "silicate",
+        "trans": [
+            "硅酸盐"
+        ]
+    },
+    {
+        "name": "silicate melt",
+        "trans": [
+            "硅酸盐熔体"
+        ]
+    },
+    {
+        "name": "silicate minerals",
+        "trans": [
+            "硅酸盐矿物"
+        ]
+    },
+    {
+        "name": "silicate rock",
+        "trans": [
+            "硅酸盐岩石"
+        ]
+    },
+    {
+        "name": "siliceous",
+        "trans": [
+            "硅质的"
+        ]
+    },
+    {
+        "name": "siliceous sediments",
+        "trans": [
+            "硅质沉积"
+        ]
+    },
+    {
+        "name": "siliceous sinter",
+        "trans": [
+            "硅华"
+        ]
+    },
+    {
+        "name": "siliceous soil",
+        "trans": [
+            "硅质土壤"
+        ]
+    },
+    {
+        "name": "siliceous sponges",
+        "trans": [
+            "六轴海绵类"
+        ]
+    },
+    {
+        "name": "siliceous wood",
+        "trans": [
+            "硅化木"
+        ]
+    },
+    {
+        "name": "silicic acid",
+        "trans": [
+            "硅酸"
+        ]
+    },
+    {
+        "name": "silicic acid anhydride",
+        "trans": [
+            "无水硅酸"
+        ]
+    },
+    {
+        "name": "silicification",
+        "trans": [
+            "硅化"
+        ]
+    },
+    {
+        "name": "silicified wood",
+        "trans": [
+            "硅化木"
+        ]
+    },
+    {
+        "name": "silicon",
+        "trans": [
+            "硅"
+        ]
+    },
+    {
+        "name": "silky lustre",
+        "trans": [
+            "绢丝光泽"
+        ]
+    },
+    {
+        "name": "sill",
+        "trans": [
+            "底盘"
+        ]
+    },
+    {
+        "name": "sillenite",
+        "trans": [
+            "软铋矿"
+        ]
+    },
+    {
+        "name": "sillimanite",
+        "trans": [
+            "硅线石"
+        ]
+    },
+    {
+        "name": "silt",
+        "trans": [
+            "粉砂"
+        ]
+    },
+    {
+        "name": "silting",
+        "trans": [
+            "淤积"
+        ]
+    },
+    {
+        "name": "siltstone",
+        "trans": [
+            "粉砂岩"
+        ]
+    },
+    {
+        "name": "silurian",
+        "trans": [
+            "志留纪"
+        ]
+    },
+    {
+        "name": "silver",
+        "trans": [
+            "银"
+        ]
+    },
+    {
+        "name": "silver ore",
+        "trans": [
+            "银矿"
+        ]
+    },
+    {
+        "name": "sima",
+        "trans": [
+            "硅镁带"
+        ]
+    },
+    {
+        "name": "similar fold",
+        "trans": [
+            "相似褶皱"
+        ]
+    },
+    {
+        "name": "similigley",
+        "trans": [
+            "假潜育"
+        ]
+    },
+    {
+        "name": "simple conic projection",
+        "trans": [
+            "筒单圆锥投影"
+        ]
+    },
+    {
+        "name": "simple eye",
+        "trans": [
+            "单眼"
+        ]
+    },
+    {
+        "name": "simple folding",
+        "trans": [
+            "筒单褶皱"
+        ]
+    },
+    {
+        "name": "simple leaf",
+        "trans": [
+            "单叶"
+        ]
+    },
+    {
+        "name": "simple pendulum",
+        "trans": [
+            "单摆"
+        ]
+    },
+    {
+        "name": "simple shear",
+        "trans": [
+            "单剪"
+        ]
+    },
+    {
+        "name": "simple tone",
+        "trans": [
+            "单音"
+        ]
+    },
+    {
+        "name": "simple vein",
+        "trans": [
+            "单矿脉"
+        ]
+    },
+    {
+        "name": "simple volcano",
+        "trans": [
+            "单火山"
+        ]
+    },
+    {
+        "name": "simplex",
+        "trans": [
+            "单纯形"
+        ]
+    },
+    {
+        "name": "simpsonite",
+        "trans": [
+            "六方钽铝石"
+        ]
+    },
+    {
+        "name": "simulation",
+        "trans": [
+            "模拟"
+        ]
+    },
+    {
+        "name": "simulator",
+        "trans": [
+            "模拟装置"
+        ]
+    },
+    {
+        "name": "simultaneity",
+        "trans": [
+            "同时性"
+        ]
+    },
+    {
+        "name": "sinemurian",
+        "trans": [
+            "矽缪尔阶"
+        ]
+    },
+    {
+        "name": "singing",
+        "trans": [
+            "鸣震"
+        ]
+    },
+    {
+        "name": "singing point",
+        "trans": [
+            "鸣震点"
+        ]
+    },
+    {
+        "name": "single bond",
+        "trans": [
+            "单键"
+        ]
+    },
+    {
+        "name": "single crystal",
+        "trans": [
+            "单晶体"
+        ]
+    },
+    {
+        "name": "single crystal diffractometer",
+        "trans": [
+            "单晶衍射计"
+        ]
+    },
+    {
+        "name": "single crystal growing",
+        "trans": [
+            "单结晶生长"
+        ]
+    },
+    {
+        "name": "single grain structure",
+        "trans": [
+            "单粒结构"
+        ]
+    },
+    {
+        "name": "sinhalite",
+        "trans": [
+            "硼铝镁石"
+        ]
+    },
+    {
+        "name": "sinian system",
+        "trans": [
+            "震旦系"
+        ]
+    },
+    {
+        "name": "sinian trend",
+        "trans": [
+            "震旦方向"
+        ]
+    },
+    {
+        "name": "sink hole",
+        "trans": [
+            "灰岩坑"
+        ]
+    },
+    {
+        "name": "sink lake",
+        "trans": [
+            "落水洞湖"
+        ]
+    },
+    {
+        "name": "sinking",
+        "trans": [
+            "下沉"
+        ]
+    },
+    {
+        "name": "sino korean massif",
+        "trans": [
+            "中朝地块"
+        ]
+    },
+    {
+        "name": "sinter",
+        "trans": [
+            "泉华"
+        ]
+    },
+    {
+        "name": "sinter cone",
+        "trans": [
+            "泉华丘"
+        ]
+    },
+    {
+        "name": "sintering",
+        "trans": [
+            "烧结"
+        ]
+    },
+    {
+        "name": "sintering coal",
+        "trans": [
+            "粘结性煤"
+        ]
+    },
+    {
+        "name": "sintering temperature",
+        "trans": [
+            "烧结温度"
+        ]
+    },
+    {
+        "name": "sinuosity",
+        "trans": [
+            "曲折度"
+        ]
+    },
+    {
+        "name": "sinusoidal projection",
+        "trans": [
+            "正弦投影"
+        ]
+    },
+    {
+        "name": "sinusoidal structure",
+        "trans": [
+            "正弦状构造"
+        ]
+    },
+    {
+        "name": "siphon",
+        "trans": [
+            "水管"
+        ]
+    },
+    {
+        "name": "siphonostele",
+        "trans": [
+            "管状中柱"
+        ]
+    },
+    {
+        "name": "sismondinite",
+        "trans": [
+            "镁硬绿泥片岩"
+        ]
+    },
+    {
+        "name": "sitaparite",
+        "trans": [
+            "方锰铁矿"
+        ]
+    },
+    {
+        "name": "site",
+        "trans": [
+            "地点"
+        ]
+    },
+    {
+        "name": "sizing",
+        "trans": [
+            "分级"
+        ]
+    },
+    {
+        "name": "sizing analysis",
+        "trans": [
+            "粒度分析"
+        ]
+    },
+    {
+        "name": "sjogrenite",
+        "trans": [
+            "水镁铁石"
+        ]
+    },
+    {
+        "name": "skarn",
+        "trans": [
+            "夕卡岩"
+        ]
+    },
+    {
+        "name": "skarn mineral",
+        "trans": [
+            "夕卡岩矿物"
+        ]
+    },
+    {
+        "name": "skeletal soil",
+        "trans": [
+            "粗骨土"
+        ]
+    },
+    {
+        "name": "skeleton",
+        "trans": [
+            "骨"
+        ]
+    },
+    {
+        "name": "skeleton crystal",
+        "trans": [
+            "骸晶"
+        ]
+    },
+    {
+        "name": "skeleton soil",
+        "trans": [
+            "粗骨土"
+        ]
+    },
+    {
+        "name": "skeleton texture",
+        "trans": [
+            "骸晶构造"
+        ]
+    },
+    {
+        "name": "skewness",
+        "trans": [
+            "非对称性"
+        ]
+    },
+    {
+        "name": "skin",
+        "trans": [
+            "表皮"
+        ]
+    },
+    {
+        "name": "skin effect",
+        "trans": [
+            "琼效应"
+        ]
+    },
+    {
+        "name": "skip hoisting",
+        "trans": [
+            "箕斗提升"
+        ]
+    },
+    {
+        "name": "skip winding",
+        "trans": [
+            "箕斗提升"
+        ]
+    },
+    {
+        "name": "skip zone",
+        "trans": [
+            "跳越区"
+        ]
+    },
+    {
+        "name": "sklodowskite",
+        "trans": [
+            "硅镁铀矿"
+        ]
+    },
+    {
+        "name": "skomerite",
+        "trans": [
+            "橄辉钠长斑岩"
+        ]
+    },
+    {
+        "name": "slag",
+        "trans": [
+            "炉渣"
+        ]
+    },
+    {
+        "name": "slag brick",
+        "trans": [
+            "矿渣砖"
+        ]
+    },
+    {
+        "name": "slaggy",
+        "trans": [
+            "渣状的"
+        ]
+    },
+    {
+        "name": "slaking",
+        "trans": [
+            "消化"
+        ]
+    },
+    {
+        "name": "slate",
+        "trans": [
+            "板岩"
+        ]
+    },
+    {
+        "name": "slaty",
+        "trans": [
+            "板状的"
+        ]
+    },
+    {
+        "name": "slaty clay",
+        "trans": [
+            "片状粘土"
+        ]
+    },
+    {
+        "name": "slaty cleavage",
+        "trans": [
+            "板劈理"
+        ]
+    },
+    {
+        "name": "slaty soil",
+        "trans": [
+            "板岩土壤"
+        ]
+    },
+    {
+        "name": "slavikite",
+        "trans": [
+            "菱镁铁矾"
+        ]
+    },
+    {
+        "name": "slicer",
+        "trans": [
+            "双向限制器"
+        ]
+    },
+    {
+        "name": "slickenside",
+        "trans": [
+            "滑面"
+        ]
+    },
+    {
+        "name": "slide",
+        "trans": [
+            "滑动"
+        ]
+    },
+    {
+        "name": "slide fault",
+        "trans": [
+            "滑动断裂"
+        ]
+    },
+    {
+        "name": "slide mark",
+        "trans": [
+            "滑痕"
+        ]
+    },
+    {
+        "name": "sliding",
+        "trans": [
+            "滑动"
+        ]
+    },
+    {
+        "name": "sliding structure",
+        "trans": [
+            "滑动构造"
+        ]
+    },
+    {
+        "name": "sliding surface",
+        "trans": [
+            "滑面"
+        ]
+    },
+    {
+        "name": "slime",
+        "trans": [
+            "淤泥"
+        ]
+    },
+    {
+        "name": "slime layer",
+        "trans": [
+            "粘液层"
+        ]
+    },
+    {
+        "name": "slime molds",
+        "trans": [
+            "粘菌类"
+        ]
+    },
+    {
+        "name": "slime water",
+        "trans": [
+            "泥浆水"
+        ]
+    },
+    {
+        "name": "slimy gley soil",
+        "trans": [
+            "淤泥潜育土"
+        ]
+    },
+    {
+        "name": "slip",
+        "trans": [
+            "滑动"
+        ]
+    },
+    {
+        "name": "slip band",
+        "trans": [
+            "滑动带"
+        ]
+    },
+    {
+        "name": "slip block",
+        "trans": [
+            "滑块"
+        ]
+    },
+    {
+        "name": "slip cleavage",
+        "trans": [
+            "滑劈理"
+        ]
+    },
+    {
+        "name": "slip fault",
+        "trans": [
+            "滑断层"
+        ]
+    },
+    {
+        "name": "slip folding",
+        "trans": [
+            "剪褶皱"
+        ]
+    },
+    {
+        "name": "slip mass",
+        "trans": [
+            "滑体"
+        ]
+    },
+    {
+        "name": "slip off slope",
+        "trans": [
+            "滑走坡"
+        ]
+    },
+    {
+        "name": "slip plane",
+        "trans": [
+            "滑动面"
+        ]
+    },
+    {
+        "name": "slip sheet",
+        "trans": [
+            "滑片"
+        ]
+    },
+    {
+        "name": "slips",
+        "trans": [
+            "下瓦"
+        ]
+    },
+    {
+        "name": "slope",
+        "trans": [
+            "坡度"
+        ]
+    },
+    {
+        "name": "slotted pipe",
+        "trans": [
+            "割缝管子"
+        ]
+    },
+    {
+        "name": "sludge pump",
+        "trans": [
+            "泥浆泵"
+        ]
+    },
+    {
+        "name": "slump",
+        "trans": [
+            "滑移"
+        ]
+    },
+    {
+        "name": "slump fold",
+        "trans": [
+            "滑动褶皱"
+        ]
+    },
+    {
+        "name": "slump structure",
+        "trans": [
+            "滑移构造"
+        ]
+    },
+    {
+        "name": "slumping",
+        "trans": [
+            "海底滑动"
+        ]
+    },
+    {
+        "name": "slurry",
+        "trans": [
+            "粘土悬浮液"
+        ]
+    },
+    {
+        "name": "slush",
+        "trans": [
+            "雪泥"
+        ]
+    },
+    {
+        "name": "slush pit",
+        "trans": [
+            "泥浆坑"
+        ]
+    },
+    {
+        "name": "small circle gridle",
+        "trans": [
+            "小圆环带"
+        ]
+    },
+    {
+        "name": "small diameter hole drilling",
+        "trans": [
+            "小口径钻进"
+        ]
+    },
+    {
+        "name": "small earthquake",
+        "trans": [
+            "微地震"
+        ]
+    },
+    {
+        "name": "small leaved",
+        "trans": [
+            "小叶的"
+        ]
+    },
+    {
+        "name": "small ore",
+        "trans": [
+            "细矿"
+        ]
+    },
+    {
+        "name": "small plate",
+        "trans": [
+            "小板块"
+        ]
+    },
+    {
+        "name": "smaltine",
+        "trans": [
+            "砷钴矿"
+        ]
+    },
+    {
+        "name": "smaragd",
+        "trans": [
+            "祖母绿"
+        ]
+    },
+    {
+        "name": "smaragdite",
+        "trans": [
+            "绿闪石"
+        ]
+    },
+    {
+        "name": "smectite",
+        "trans": [
+            "蒙脱石"
+        ]
+    },
+    {
+        "name": "smithite",
+        "trans": [
+            "单斜硫砷银矿"
+        ]
+    },
+    {
+        "name": "smithsonite",
+        "trans": [
+            "菱锌矿"
+        ]
+    },
+    {
+        "name": "smoke",
+        "trans": [
+            "灰云"
+        ]
+    },
+    {
+        "name": "smoky quartz",
+        "trans": [
+            "烟晶"
+        ]
+    },
+    {
+        "name": "smooth fracture",
+        "trans": [
+            "平坦断口"
+        ]
+    },
+    {
+        "name": "snow",
+        "trans": [
+            "雪"
+        ]
+    },
+    {
+        "name": "snow density",
+        "trans": [
+            "雪密度"
+        ]
+    },
+    {
+        "name": "snow melt",
+        "trans": [
+            "融雪"
+        ]
+    },
+    {
+        "name": "soaked",
+        "trans": [
+            "潜育土"
+        ]
+    },
+    {
+        "name": "soaked soil",
+        "trans": [
+            "潜育土"
+        ]
+    },
+    {
+        "name": "sobralite",
+        "trans": [
+            "铁锰辉石"
+        ]
+    },
+    {
+        "name": "sod",
+        "trans": [
+            "草被"
+        ]
+    },
+    {
+        "name": "sod formation",
+        "trans": [
+            "腐殖层形成酌"
+        ]
+    },
+    {
+        "name": "soda rhyolite",
+        "trans": [
+            "钠疗岩"
+        ]
+    },
+    {
+        "name": "sodalite",
+        "trans": [
+            "方钠石"
+        ]
+    },
+    {
+        "name": "sodalitite",
+        "trans": [
+            "方钠石岩"
+        ]
+    },
+    {
+        "name": "sodalumite",
+        "trans": [
+            "钠茂"
+        ]
+    },
+    {
+        "name": "soddite",
+        "trans": [
+            "硅铀矿"
+        ]
+    },
+    {
+        "name": "soddy podzolic soil",
+        "trans": [
+            "草生灰化土"
+        ]
+    },
+    {
+        "name": "sodic metasomatism",
+        "trans": [
+            "钠质交代酌"
+        ]
+    },
+    {
+        "name": "sodic soil",
+        "trans": [
+            "碱土"
+        ]
+    },
+    {
+        "name": "sodium",
+        "trans": [
+            "钠"
+        ]
+    },
+    {
+        "name": "sodium uranospinite",
+        "trans": [
+            "钠砷钙铀矿"
+        ]
+    },
+    {
+        "name": "soft coal",
+        "trans": [
+            "软煤"
+        ]
+    },
+    {
+        "name": "soft ground",
+        "trans": [
+            "弱土质"
+        ]
+    },
+    {
+        "name": "soft rime",
+        "trans": [
+            "雾淞"
+        ]
+    },
+    {
+        "name": "soft rocks",
+        "trans": [
+            "软岩石"
+        ]
+    },
+    {
+        "name": "soft water",
+        "trans": [
+            "软水"
+        ]
+    },
+    {
+        "name": "soggendalite",
+        "trans": [
+            "多辉粗玄岩"
+        ]
+    },
+    {
+        "name": "soil",
+        "trans": [
+            "潜育土"
+        ]
+    },
+    {
+        "name": "soil color",
+        "trans": [
+            "土色"
+        ]
+    },
+    {
+        "name": "soil constituent",
+        "trans": [
+            "土壤成分"
+        ]
+    },
+    {
+        "name": "soil covering",
+        "trans": [
+            "土壤被复"
+        ]
+    },
+    {
+        "name": "soil creep",
+        "trans": [
+            "土壤蠕动"
+        ]
+    },
+    {
+        "name": "soil density",
+        "trans": [
+            "土壤紧实度"
+        ]
+    },
+    {
+        "name": "soil dressing",
+        "trans": [
+            "撒布肥土"
+        ]
+    },
+    {
+        "name": "soil genesis",
+        "trans": [
+            "成土过程"
+        ]
+    },
+    {
+        "name": "soil geochemistry",
+        "trans": [
+            "土壤地球化学"
+        ]
+    },
+    {
+        "name": "soil geography",
+        "trans": [
+            "土壤地理学"
+        ]
+    },
+    {
+        "name": "soil horizon",
+        "trans": [
+            "土层"
+        ]
+    },
+    {
+        "name": "soil in situ",
+        "trans": [
+            "原地土壤"
+        ]
+    },
+    {
+        "name": "soil layer",
+        "trans": [
+            "土层"
+        ]
+    },
+    {
+        "name": "soil mechanics",
+        "trans": [
+            "土力学"
+        ]
+    },
+    {
+        "name": "soil microbiology",
+        "trans": [
+            "土壤微生物学"
+        ]
+    },
+    {
+        "name": "soil microorganism",
+        "trans": [
+            "土壤微生物"
+        ]
+    },
+    {
+        "name": "soil mineral",
+        "trans": [
+            "土壤矿物"
+        ]
+    },
+    {
+        "name": "soil science",
+        "trans": [
+            "土壤学"
+        ]
+    },
+    {
+        "name": "soil stratification",
+        "trans": [
+            "土壤层序"
+        ]
+    },
+    {
+        "name": "soil stratum",
+        "trans": [
+            "土层"
+        ]
+    },
+    {
+        "name": "soil structure",
+        "trans": [
+            "土壤结构"
+        ]
+    },
+    {
+        "name": "soil survey",
+        "trans": [
+            "土壤甸"
+        ]
+    },
+    {
+        "name": "soil swamping",
+        "trans": [
+            "沼泽化"
+        ]
+    },
+    {
+        "name": "soil swelling",
+        "trans": [
+            "土壤膨胀"
+        ]
+    },
+    {
+        "name": "soil thermometer",
+        "trans": [
+            "土壤温度表"
+        ]
+    },
+    {
+        "name": "soil type",
+        "trans": [
+            "土类"
+        ]
+    },
+    {
+        "name": "soil water",
+        "trans": [
+            "土壤水"
+        ]
+    },
+    {
+        "name": "soilcover",
+        "trans": [
+            "土壤覆盖层"
+        ]
+    },
+    {
+        "name": "soilwater zone",
+        "trans": [
+            "土壤水带"
+        ]
+    },
+    {
+        "name": "solar climate",
+        "trans": [
+            "天文气候"
+        ]
+    },
+    {
+        "name": "solar halo",
+        "trans": [
+            "日晕"
+        ]
+    },
+    {
+        "name": "solar radiation",
+        "trans": [
+            "太阳辐射"
+        ]
+    },
+    {
+        "name": "solar salt",
+        "trans": [
+            "天然蒸馏盐"
+        ]
+    },
+    {
+        "name": "solfatara",
+        "trans": [
+            "硫气孔"
+        ]
+    },
+    {
+        "name": "solfataric alteration",
+        "trans": [
+            "硫气蚀变"
+        ]
+    },
+    {
+        "name": "solid angle",
+        "trans": [
+            "立体角"
+        ]
+    },
+    {
+        "name": "solid colloid",
+        "trans": [
+            "固体胶体"
+        ]
+    },
+    {
+        "name": "solid combustible mineral",
+        "trans": [
+            "固体可燃矿产"
+        ]
+    },
+    {
+        "name": "solid displacement",
+        "trans": [
+            "固态位移"
+        ]
+    },
+    {
+        "name": "solid rainfall",
+        "trans": [
+            "固体降水"
+        ]
+    },
+    {
+        "name": "solid solution",
+        "trans": [
+            "固溶体"
+        ]
+    },
+    {
+        "name": "solidification",
+        "trans": [
+            "凝固"
+        ]
+    },
+    {
+        "name": "solidification point",
+        "trans": [
+            "凝固点"
+        ]
+    },
+    {
+        "name": "solidus",
+        "trans": [
+            "固液相曲线"
+        ]
+    },
+    {
+        "name": "solifluction",
+        "trans": [
+            "泥流"
+        ]
+    },
+    {
+        "name": "solod",
+        "trans": [
+            "脱碱土"
+        ]
+    },
+    {
+        "name": "solonchak",
+        "trans": [
+            "盐土"
+        ]
+    },
+    {
+        "name": "solonetz",
+        "trans": [
+            "碱土"
+        ]
+    },
+    {
+        "name": "solonetzic soil",
+        "trans": [
+            "碱性土"
+        ]
+    },
+    {
+        "name": "solubility",
+        "trans": [
+            "溶度"
+        ]
+    },
+    {
+        "name": "solubility product",
+        "trans": [
+            "溶度积"
+        ]
+    },
+    {
+        "name": "soluble",
+        "trans": [
+            "可溶的"
+        ]
+    },
+    {
+        "name": "solum",
+        "trans": [
+            "土层"
+        ]
+    },
+    {
+        "name": "solute",
+        "trans": [
+            "溶质"
+        ]
+    },
+    {
+        "name": "solution chemistry",
+        "trans": [
+            "溶液化学"
+        ]
+    },
+    {
+        "name": "solution heat",
+        "trans": [
+            "溶解热"
+        ]
+    },
+    {
+        "name": "solution mining",
+        "trans": [
+            "溶液采矿"
+        ]
+    },
+    {
+        "name": "solution principle",
+        "trans": [
+            "溶解原理"
+        ]
+    },
+    {
+        "name": "solvent",
+        "trans": [
+            "溶媒"
+        ]
+    },
+    {
+        "name": "solvent effect",
+        "trans": [
+            "溶剂效应"
+        ]
+    },
+    {
+        "name": "solvolysis",
+        "trans": [
+            "溶剂分解"
+        ]
+    },
+    {
+        "name": "solvsbergite",
+        "trans": [
+            "细碱辉正长岩"
+        ]
+    },
+    {
+        "name": "solvus",
+        "trans": [
+            "固溶体分解曲线"
+        ]
+    },
+    {
+        "name": "somma",
+        "trans": [
+            "外轮山"
+        ]
+    },
+    {
+        "name": "sonar",
+        "trans": [
+            "声纳"
+        ]
+    },
+    {
+        "name": "sonde",
+        "trans": [
+            "探头"
+        ]
+    },
+    {
+        "name": "songrim tectonic disturbance",
+        "trans": [
+            "松林构造运动"
+        ]
+    },
+    {
+        "name": "sordawalite",
+        "trans": [
+            "玄武玻璃"
+        ]
+    },
+    {
+        "name": "sorosilicate",
+        "trans": [
+            "俦硅酸盐"
+        ]
+    },
+    {
+        "name": "sorption",
+        "trans": [
+            "吸着"
+        ]
+    },
+    {
+        "name": "sorus",
+        "trans": [
+            "孢子群"
+        ]
+    },
+    {
+        "name": "sound",
+        "trans": [
+            "海峡"
+        ]
+    },
+    {
+        "name": "sound logging",
+        "trans": [
+            "声波测井"
+        ]
+    },
+    {
+        "name": "sound navigation and ranging",
+        "trans": [
+            "声纳"
+        ]
+    },
+    {
+        "name": "sound velocity",
+        "trans": [
+            "音速"
+        ]
+    },
+    {
+        "name": "sounding",
+        "trans": [
+            "测深"
+        ]
+    },
+    {
+        "name": "sounding balloon",
+        "trans": [
+            "探测气球"
+        ]
+    },
+    {
+        "name": "sounding machine",
+        "trans": [
+            "测深器"
+        ]
+    },
+    {
+        "name": "sour humus",
+        "trans": [
+            "粗腐殖质"
+        ]
+    },
+    {
+        "name": "source",
+        "trans": [
+            "泉"
+        ]
+    },
+    {
+        "name": "source rock",
+        "trans": [
+            "源岩"
+        ]
+    },
+    {
+        "name": "source rock of petroleum",
+        "trans": [
+            "生油岩"
+        ]
+    },
+    {
+        "name": "souzalite",
+        "trans": [
+            "基性磷铝铁石"
+        ]
+    },
+    {
+        "name": "space correction",
+        "trans": [
+            "空间校正"
+        ]
+    },
+    {
+        "name": "space geology",
+        "trans": [
+            "天体地质学"
+        ]
+    },
+    {
+        "name": "space group",
+        "trans": [
+            "空间群"
+        ]
+    },
+    {
+        "name": "space groupoid",
+        "trans": [
+            "空间亚群"
+        ]
+    },
+    {
+        "name": "space lattice",
+        "trans": [
+            "空间点阵"
+        ]
+    },
+    {
+        "name": "space remote sensing",
+        "trans": [
+            "空间遥感"
+        ]
+    },
+    {
+        "name": "space survey",
+        "trans": [
+            "宇宙甸"
+        ]
+    },
+    {
+        "name": "space velocity",
+        "trans": [
+            "空间速度"
+        ]
+    },
+    {
+        "name": "spacegeology",
+        "trans": [
+            "宇宙地质学"
+        ]
+    },
+    {
+        "name": "spacing",
+        "trans": [
+            "间隔"
+        ]
+    },
+    {
+        "name": "spadaite",
+        "trans": [
+            "红硅镁石"
+        ]
+    },
+    {
+        "name": "spallation product",
+        "trans": [
+            "核散裂碎片"
+        ]
+    },
+    {
+        "name": "spallation reaction",
+        "trans": [
+            "核裂反应"
+        ]
+    },
+    {
+        "name": "spalling",
+        "trans": [
+            "脱落"
+        ]
+    },
+    {
+        "name": "spandite",
+        "trans": [
+            "锰钙铁榴石"
+        ]
+    },
+    {
+        "name": "spangolite",
+        "trans": [
+            "氯铜矾"
+        ]
+    },
+    {
+        "name": "spar",
+        "trans": [
+            "晶石"
+        ]
+    },
+    {
+        "name": "sparagmite",
+        "trans": [
+            "破片砂岩"
+        ]
+    },
+    {
+        "name": "spare",
+        "trans": [
+            "备件"
+        ]
+    },
+    {
+        "name": "spate",
+        "trans": [
+            "洪水"
+        ]
+    },
+    {
+        "name": "spatter",
+        "trans": [
+            "火山喷出物"
+        ]
+    },
+    {
+        "name": "speciation",
+        "trans": [
+            "种别形成"
+        ]
+    },
+    {
+        "name": "species",
+        "trans": [
+            "种"
+        ]
+    },
+    {
+        "name": "specific capacity",
+        "trans": [
+            "单位出水量"
+        ]
+    },
+    {
+        "name": "specific charge",
+        "trans": [
+            "比电荷"
+        ]
+    },
+    {
+        "name": "specific density",
+        "trans": [
+            "比密度"
+        ]
+    },
+    {
+        "name": "specific discharge",
+        "trans": [
+            "达钨度"
+        ]
+    },
+    {
+        "name": "specific drawdown",
+        "trans": [
+            "比液面下降"
+        ]
+    },
+    {
+        "name": "specific electrical conductance",
+        "trans": [
+            "比电导率"
+        ]
+    },
+    {
+        "name": "specific gravity",
+        "trans": [
+            "比重"
+        ]
+    },
+    {
+        "name": "specific heat",
+        "trans": [
+            "比热"
+        ]
+    },
+    {
+        "name": "specific ionization",
+        "trans": [
+            "比电离"
+        ]
+    },
+    {
+        "name": "specific reaction",
+        "trans": [
+            "特殊反应"
+        ]
+    },
+    {
+        "name": "specific retention",
+        "trans": [
+            "持水能"
+        ]
+    },
+    {
+        "name": "specific surface",
+        "trans": [
+            "表面系数"
+        ]
+    },
+    {
+        "name": "specific volume",
+        "trans": [
+            "比容"
+        ]
+    },
+    {
+        "name": "specific yield",
+        "trans": [
+            "单位廉量"
+        ]
+    },
+    {
+        "name": "specimen",
+        "trans": [
+            "标本"
+        ]
+    },
+    {
+        "name": "spectral line",
+        "trans": [
+            "光谱线"
+        ]
+    },
+    {
+        "name": "spectral line width",
+        "trans": [
+            "光谱线宽度"
+        ]
+    },
+    {
+        "name": "spectral series",
+        "trans": [
+            "光谱系"
+        ]
+    },
+    {
+        "name": "spectrochemical analysis",
+        "trans": [
+            "光谱化学分析"
+        ]
+    },
+    {
+        "name": "spectrogram",
+        "trans": [
+            "光谱图"
+        ]
+    },
+    {
+        "name": "spectrograph",
+        "trans": [
+            "摄谱仪"
+        ]
+    },
+    {
+        "name": "spectrographic analysis",
+        "trans": [
+            "光谱分析"
+        ]
+    },
+    {
+        "name": "spectrography",
+        "trans": [
+            "摄谱术"
+        ]
+    },
+    {
+        "name": "spectrometry",
+        "trans": [
+            "光谱测定"
+        ]
+    },
+    {
+        "name": "spectrophotometer",
+        "trans": [
+            "分光光度计"
+        ]
+    },
+    {
+        "name": "spectrophotometry",
+        "trans": [
+            "分光光度测定"
+        ]
+    },
+    {
+        "name": "spectropolarimeter",
+        "trans": [
+            "分光偏振计"
+        ]
+    },
+    {
+        "name": "spectroscope",
+        "trans": [
+            "谱线分析器分光镜"
+        ]
+    },
+    {
+        "name": "spectrum",
+        "trans": [
+            "光谱"
+        ]
+    },
+    {
+        "name": "spectrum analyzer",
+        "trans": [
+            "谱线分析器"
+        ]
+    },
+    {
+        "name": "spectrum of sparks",
+        "trans": [
+            "闪光光谱"
+        ]
+    },
+    {
+        "name": "specularite",
+        "trans": [
+            "镜铁矿"
+        ]
+    },
+    {
+        "name": "speed control",
+        "trans": [
+            "速度控制"
+        ]
+    },
+    {
+        "name": "speed of propagation",
+        "trans": [
+            "传播速度"
+        ]
+    },
+    {
+        "name": "speise",
+        "trans": [
+            "黄渣"
+        ]
+    },
+    {
+        "name": "speiss",
+        "trans": [
+            "黄渣"
+        ]
+    },
+    {
+        "name": "spelebiology",
+        "trans": [
+            "洞穴生物学"
+        ]
+    },
+    {
+        "name": "speleochronology",
+        "trans": [
+            "洞穴年代学"
+        ]
+    },
+    {
+        "name": "speleology",
+        "trans": [
+            "洞穴学"
+        ]
+    },
+    {
+        "name": "spencerite",
+        "trans": [
+            "单斜磷锌矿"
+        ]
+    },
+    {
+        "name": "spencite",
+        "trans": [
+            "硅硼钙钇矿"
+        ]
+    },
+    {
+        "name": "spermatophytes",
+        "trans": [
+            "种子植物"
+        ]
+    },
+    {
+        "name": "sperrylite",
+        "trans": [
+            "砷铂矿"
+        ]
+    },
+    {
+        "name": "spessartine",
+        "trans": [
+            "锰铝榴石;闪斜煌斑岩"
+        ]
+    },
+    {
+        "name": "spessartite",
+        "trans": [
+            "闪斜煌斑岩"
+        ]
+    },
+    {
+        "name": "sphaerite",
+        "trans": [
+            "菱磷铝石"
+        ]
+    },
+    {
+        "name": "sphagnum bog",
+        "trans": [
+            "水藓沼泽"
+        ]
+    },
+    {
+        "name": "sphagnum peat",
+        "trans": [
+            "水藓泥炭"
+        ]
+    },
+    {
+        "name": "sphalerite",
+        "trans": [
+            "闪锌矿"
+        ]
+    },
+    {
+        "name": "sphene",
+        "trans": [
+            "榍石"
+        ]
+    },
+    {
+        "name": "sphenoid",
+        "trans": [
+            "楔状"
+        ]
+    },
+    {
+        "name": "sphenoidal class",
+        "trans": [
+            "轴双面晶类"
+        ]
+    },
+    {
+        "name": "sphenolith",
+        "trans": [
+            "岩楔"
+        ]
+    },
+    {
+        "name": "sphere ore",
+        "trans": [
+            "环状矿石"
+        ]
+    },
+    {
+        "name": "spherical crystal",
+        "trans": [
+            "球状晶体"
+        ]
+    },
+    {
+        "name": "spherical surface",
+        "trans": [
+            "球面"
+        ]
+    },
+    {
+        "name": "spherical symmetry",
+        "trans": [
+            "球状对称"
+        ]
+    },
+    {
+        "name": "spherocobaltite",
+        "trans": [
+            "菱钴矿"
+        ]
+    },
+    {
+        "name": "spheroid",
+        "trans": [
+            "椭球体"
+        ]
+    },
+    {
+        "name": "spheroidal",
+        "trans": [
+            "球状的"
+        ]
+    },
+    {
+        "name": "spheroidal joint",
+        "trans": [
+            "球状节理"
+        ]
+    },
+    {
+        "name": "spheroidal jointing",
+        "trans": [
+            "球状节理"
+        ]
+    },
+    {
+        "name": "spheroidal structure",
+        "trans": [
+            "球状构造"
+        ]
+    },
+    {
+        "name": "spheroidal weathering",
+        "trans": [
+            "球状风化"
+        ]
+    },
+    {
+        "name": "spherolitic",
+        "trans": [
+            "球粒状的"
+        ]
+    },
+    {
+        "name": "spherosiderite",
+        "trans": [
+            "球菱铁矿"
+        ]
+    },
+    {
+        "name": "spherulite",
+        "trans": [
+            "球粒"
+        ]
+    },
+    {
+        "name": "spherulitic",
+        "trans": [
+            "球粒状的"
+        ]
+    },
+    {
+        "name": "spiauterite",
+        "trans": [
+            "纤维锌矿"
+        ]
+    },
+    {
+        "name": "spicule",
+        "trans": [
+            "骨针"
+        ]
+    },
+    {
+        "name": "spiculite",
+        "trans": [
+            "锤雏晶"
+        ]
+    },
+    {
+        "name": "spike",
+        "trans": [
+            "示踪物"
+        ]
+    },
+    {
+        "name": "spiking",
+        "trans": [
+            "添加同位素示踪剂"
+        ]
+    },
+    {
+        "name": "spilite",
+        "trans": [
+            "细碧岩"
+        ]
+    },
+    {
+        "name": "spilosite",
+        "trans": [
+            "绿点板岩"
+        ]
+    },
+    {
+        "name": "spinal cord",
+        "trans": [
+            "脊髓"
+        ]
+    },
+    {
+        "name": "spindle",
+        "trans": [
+            "纺锤体"
+        ]
+    },
+    {
+        "name": "spindle shaped bomb",
+        "trans": [
+            "纺锤形火山弹"
+        ]
+    },
+    {
+        "name": "spindle type drill",
+        "trans": [
+            "立轴式钻机"
+        ]
+    },
+    {
+        "name": "spine",
+        "trans": [
+            "火山碑"
+        ]
+    },
+    {
+        "name": "spinell",
+        "trans": [
+            "尖晶石"
+        ]
+    },
+    {
+        "name": "spiny",
+        "trans": [
+            "具刺的"
+        ]
+    },
+    {
+        "name": "spiral growth",
+        "trans": [
+            "螺旋生长"
+        ]
+    },
+    {
+        "name": "spiral wall",
+        "trans": [
+            "螺旋壁"
+        ]
+    },
+    {
+        "name": "spire",
+        "trans": [
+            "螺线"
+        ]
+    },
+    {
+        "name": "spiroffite",
+        "trans": [
+            "碲锌锰矿"
+        ]
+    },
+    {
+        "name": "spit",
+        "trans": [
+            "沙嘴"
+        ]
+    },
+    {
+        "name": "splay structure",
+        "trans": [
+            "分支构造"
+        ]
+    },
+    {
+        "name": "split",
+        "trans": [
+            "裂口"
+        ]
+    },
+    {
+        "name": "splitting",
+        "trans": [
+            "裂距"
+        ]
+    },
+    {
+        "name": "spodiophyllite",
+        "trans": [
+            "叶石"
+        ]
+    },
+    {
+        "name": "spodiosite",
+        "trans": [
+            "氟磷钙石"
+        ]
+    },
+    {
+        "name": "spodumene",
+        "trans": [
+            "锂辉石"
+        ]
+    },
+    {
+        "name": "spoil",
+        "trans": [
+            "废石"
+        ]
+    },
+    {
+        "name": "sponges",
+        "trans": [
+            "海绵动物"
+        ]
+    },
+    {
+        "name": "spongin",
+        "trans": [
+            "海绵硬朊"
+        ]
+    },
+    {
+        "name": "sponginess",
+        "trans": [
+            "孔隙度"
+        ]
+    },
+    {
+        "name": "spongy parenchyma",
+        "trans": [
+            "海绵组织"
+        ]
+    },
+    {
+        "name": "spongy spicule",
+        "trans": [
+            "海绵骨针"
+        ]
+    },
+    {
+        "name": "spongy structure",
+        "trans": [
+            "海绵构造"
+        ]
+    },
+    {
+        "name": "spontaneous combustion of coal",
+        "trans": [
+            "煤自燃发火"
+        ]
+    },
+    {
+        "name": "spontaneous fission",
+        "trans": [
+            "自然分裂"
+        ]
+    },
+    {
+        "name": "spontaneous generation",
+        "trans": [
+            "自然发生"
+        ]
+    },
+    {
+        "name": "spontaneous magnetization",
+        "trans": [
+            "自动磁化"
+        ]
+    },
+    {
+        "name": "spontaneous polarization",
+        "trans": [
+            "自发极化"
+        ]
+    },
+    {
+        "name": "spontaneous polarization method",
+        "trans": [
+            "自然极化法"
+        ]
+    },
+    {
+        "name": "spontaneous potential",
+        "trans": [
+            "自然电位"
+        ]
+    },
+    {
+        "name": "spontaneous potential logging",
+        "trans": [
+            "自然电位测井"
+        ]
+    },
+    {
+        "name": "sporangiophore",
+        "trans": [
+            "孢囊柄"
+        ]
+    },
+    {
+        "name": "sporangium",
+        "trans": [
+            "孢子囊"
+        ]
+    },
+    {
+        "name": "spore",
+        "trans": [
+            "孢子"
+        ]
+    },
+    {
+        "name": "spore bearing plants",
+        "trans": [
+            "孢子植物"
+        ]
+    },
+    {
+        "name": "spore coal",
+        "trans": [
+            "孢子煤"
+        ]
+    },
+    {
+        "name": "spore coat",
+        "trans": [
+            "孢壁"
+        ]
+    },
+    {
+        "name": "sporinite",
+        "trans": [
+            "孢子体"
+        ]
+    },
+    {
+        "name": "sporinitic liptobiolith",
+        "trans": [
+            "孢子残殖煤"
+        ]
+    },
+    {
+        "name": "sporocarp",
+        "trans": [
+            "孢子果"
+        ]
+    },
+    {
+        "name": "sporogon",
+        "trans": [
+            "孢子体"
+        ]
+    },
+    {
+        "name": "sporophyll",
+        "trans": [
+            "孢子叶"
+        ]
+    },
+    {
+        "name": "sporophyte",
+        "trans": [
+            "孢子体"
+        ]
+    },
+    {
+        "name": "sporozoa",
+        "trans": [
+            "孢子虫类"
+        ]
+    },
+    {
+        "name": "spot",
+        "trans": [
+            "地点"
+        ]
+    },
+    {
+        "name": "spot analysis",
+        "trans": [
+            "点滴分析"
+        ]
+    },
+    {
+        "name": "spotted",
+        "trans": [
+            "有斑点的"
+        ]
+    },
+    {
+        "name": "spotted ore",
+        "trans": [
+            "斑点矿"
+        ]
+    },
+    {
+        "name": "spotted slate",
+        "trans": [
+            "斑点板岩"
+        ]
+    },
+    {
+        "name": "spotted structure",
+        "trans": [
+            "斑点状构造"
+        ]
+    },
+    {
+        "name": "spread",
+        "trans": [
+            "散布"
+        ]
+    },
+    {
+        "name": "spreading",
+        "trans": [
+            "扩张"
+        ]
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "泉"
+        ]
+    },
+    {
+        "name": "spring tide",
+        "trans": [
+            "大潮"
+        ]
+    },
+    {
+        "name": "spring water",
+        "trans": [
+            "泉水"
+        ]
+    },
+    {
+        "name": "spudder",
+        "trans": [
+            "铲凿"
+        ]
+    },
+    {
+        "name": "spur",
+        "trans": [
+            "支脉"
+        ]
+    },
+    {
+        "name": "spurrite",
+        "trans": [
+            "灰硅钙石"
+        ]
+    },
+    {
+        "name": "squall",
+        "trans": [
+            "飑"
+        ]
+    },
+    {
+        "name": "squall line",
+        "trans": [
+            "飑线"
+        ]
+    },
+    {
+        "name": "square cylindrical projection",
+        "trans": [
+            "方格投影"
+        ]
+    },
+    {
+        "name": "squeeze up",
+        "trans": [
+            "溶岩挤出部"
+        ]
+    },
+    {
+        "name": "squeezing",
+        "trans": [
+            "挤出酌"
+        ]
+    },
+    {
+        "name": "stability of magnets",
+        "trans": [
+            "磁稳定性"
+        ]
+    },
+    {
+        "name": "stabilized grain structure",
+        "trans": [
+            "稳定粒状结构"
+        ]
+    },
+    {
+        "name": "stable continental margin",
+        "trans": [
+            "大陆稳定边缘"
+        ]
+    },
+    {
+        "name": "stable element",
+        "trans": [
+            "稳定元素"
+        ]
+    },
+    {
+        "name": "stable humus",
+        "trans": [
+            "稳定腐植质"
+        ]
+    },
+    {
+        "name": "stable isotope",
+        "trans": [
+            "稳定同位素"
+        ]
+    },
+    {
+        "name": "stable stratification",
+        "trans": [
+            "稳定层结"
+        ]
+    },
+    {
+        "name": "stadia surveying",
+        "trans": [
+            "视距测量"
+        ]
+    },
+    {
+        "name": "staff gage",
+        "trans": [
+            "量杆"
+        ]
+    },
+    {
+        "name": "staffelite",
+        "trans": [
+            "深绿磷灰石"
+        ]
+    },
+    {
+        "name": "stage",
+        "trans": [
+            "阶"
+        ]
+    },
+    {
+        "name": "stage discharge relation",
+        "trans": [
+            "排出量关系"
+        ]
+    },
+    {
+        "name": "stage indicator",
+        "trans": [
+            "级指示剂"
+        ]
+    },
+    {
+        "name": "stage of old age",
+        "trans": [
+            "老年期"
+        ]
+    },
+    {
+        "name": "stage of youth",
+        "trans": [
+            "地形发层幼年期"
+        ]
+    },
+    {
+        "name": "stagnant water",
+        "trans": [
+            "积水"
+        ]
+    },
+    {
+        "name": "stagnation",
+        "trans": [
+            "停滞"
+        ]
+    },
+    {
+        "name": "stagnation point",
+        "trans": [
+            "滞止点"
+        ]
+    },
+    {
+        "name": "stainierite",
+        "trans": [
+            "水钴矿"
+        ]
+    },
+    {
+        "name": "stainless steel",
+        "trans": [
+            "不锈钢"
+        ]
+    },
+    {
+        "name": "staircase",
+        "trans": [
+            "阶状脉"
+        ]
+    },
+    {
+        "name": "stalactite",
+        "trans": [
+            "钟乳石"
+        ]
+    },
+    {
+        "name": "stalagmite",
+        "trans": [
+            "石笋"
+        ]
+    },
+    {
+        "name": "stamen",
+        "trans": [
+            "雄蕊"
+        ]
+    },
+    {
+        "name": "standard",
+        "trans": [
+            "标准"
+        ]
+    },
+    {
+        "name": "standard boring tool",
+        "trans": [
+            "标准钻开工具"
+        ]
+    },
+    {
+        "name": "standard cell",
+        "trans": [
+            "标准电池"
+        ]
+    },
+    {
+        "name": "standard contour",
+        "trans": [
+            "首曲线"
+        ]
+    },
+    {
+        "name": "standard deviation",
+        "trans": [
+            "标准偏差"
+        ]
+    },
+    {
+        "name": "standard electric logging",
+        "trans": [
+            "标准电测井"
+        ]
+    },
+    {
+        "name": "standard isobaric surfaces",
+        "trans": [
+            "标准等压面"
+        ]
+    },
+    {
+        "name": "standard penetration test",
+        "trans": [
+            "标准穿插试验"
+        ]
+    },
+    {
+        "name": "standard sample",
+        "trans": [
+            "标准样品"
+        ]
+    },
+    {
+        "name": "standard solution",
+        "trans": [
+            "标准溶液"
+        ]
+    },
+    {
+        "name": "standard thermometer",
+        "trans": [
+            "标准温度表"
+        ]
+    },
+    {
+        "name": "standardization",
+        "trans": [
+            "标定"
+        ]
+    },
+    {
+        "name": "standing water",
+        "trans": [
+            "静水"
+        ]
+    },
+    {
+        "name": "standing wave",
+        "trans": [
+            "驻波"
+        ]
+    },
+    {
+        "name": "stanniferous",
+        "trans": [
+            "含锡的"
+        ]
+    },
+    {
+        "name": "stannine",
+        "trans": [
+            "黄锡矿"
+        ]
+    },
+    {
+        "name": "stannite",
+        "trans": [
+            "黄锡矿"
+        ]
+    },
+    {
+        "name": "stannolite",
+        "trans": [
+            "锡石"
+        ]
+    },
+    {
+        "name": "stannopalladinite",
+        "trans": [
+            "锡钯矿"
+        ]
+    },
+    {
+        "name": "stannous",
+        "trans": [
+            "含锡的"
+        ]
+    },
+    {
+        "name": "stannum",
+        "trans": [
+            "锡"
+        ]
+    },
+    {
+        "name": "star ruby",
+        "trans": [
+            "星彩红宝石"
+        ]
+    },
+    {
+        "name": "star sapphire",
+        "trans": [
+            "星彩蓝宝石"
+        ]
+    },
+    {
+        "name": "starfishes",
+        "trans": [
+            "海星类"
+        ]
+    },
+    {
+        "name": "starolite",
+        "trans": [
+            "星石英"
+        ]
+    },
+    {
+        "name": "static metamorphism",
+        "trans": [
+            "静力变质"
+        ]
+    },
+    {
+        "name": "static stability",
+        "trans": [
+            "静力稳定"
+        ]
+    },
+    {
+        "name": "statics correction",
+        "trans": [
+            "静校正"
+        ]
+    },
+    {
+        "name": "station",
+        "trans": [
+            "测点"
+        ]
+    },
+    {
+        "name": "stationary state",
+        "trans": [
+            "定态平衡状态"
+        ]
+    },
+    {
+        "name": "statistical analysis",
+        "trans": [
+            "统计分析"
+        ]
+    },
+    {
+        "name": "statistical method",
+        "trans": [
+            "统计法"
+        ]
+    },
+    {
+        "name": "statistical seismology",
+        "trans": [
+            "统计地震学"
+        ]
+    },
+    {
+        "name": "staurolite",
+        "trans": [
+            "十字石"
+        ]
+    },
+    {
+        "name": "steady flow",
+        "trans": [
+            "稳定流"
+        ]
+    },
+    {
+        "name": "steam coal",
+        "trans": [
+            "锅炉煤"
+        ]
+    },
+    {
+        "name": "steam explosion",
+        "trans": [
+            "蒸汽爆发"
+        ]
+    },
+    {
+        "name": "steam pressure",
+        "trans": [
+            "蒸汽压力"
+        ]
+    },
+    {
+        "name": "steatite",
+        "trans": [
+            "块滑石"
+        ]
+    },
+    {
+        "name": "steatitization",
+        "trans": [
+            "块滑石化"
+        ]
+    },
+    {
+        "name": "steenstrupine",
+        "trans": [
+            "斯担硅石"
+        ]
+    },
+    {
+        "name": "steep bed",
+        "trans": [
+            "急倾斜层"
+        ]
+    },
+    {
+        "name": "steep coast",
+        "trans": [
+            "陡崖海岸"
+        ]
+    },
+    {
+        "name": "steep dipping beds",
+        "trans": [
+            "陡立地层带"
+        ]
+    },
+    {
+        "name": "steep fault",
+        "trans": [
+            "陡角断层"
+        ]
+    },
+    {
+        "name": "steep slope",
+        "trans": [
+            "高倾斜"
+        ]
+    },
+    {
+        "name": "steepness",
+        "trans": [
+            "陡度"
+        ]
+    },
+    {
+        "name": "stegocephalians",
+        "trans": [
+            "坚头类"
+        ]
+    },
+    {
+        "name": "stegosauria",
+        "trans": [
+            "剑龙类"
+        ]
+    },
+    {
+        "name": "steinheilite",
+        "trans": [
+            "董青石"
+        ]
+    },
+    {
+        "name": "stele",
+        "trans": [
+            "中心柱"
+        ]
+    },
+    {
+        "name": "stellerite",
+        "trans": [
+            "淡红沸石"
+        ]
+    },
+    {
+        "name": "stemflow",
+        "trans": [
+            "茎流"
+        ]
+    },
+    {
+        "name": "stemma",
+        "trans": [
+            "侧单眼"
+        ]
+    },
+    {
+        "name": "stenonite",
+        "trans": [
+            "斯特奴矿"
+        ]
+    },
+    {
+        "name": "stenophyllous",
+        "trans": [
+            "狭叶的"
+        ]
+    },
+    {
+        "name": "step cut",
+        "trans": [
+            "阶梯型琢磨花样"
+        ]
+    },
+    {
+        "name": "step fault scarp",
+        "trans": [
+            "阶状断层崖"
+        ]
+    },
+    {
+        "name": "step faults",
+        "trans": [
+            "阶状断层"
+        ]
+    },
+    {
+        "name": "stephanite",
+        "trans": [
+            "脆银矿"
+        ]
+    },
+    {
+        "name": "steppe",
+        "trans": [
+            "草原"
+        ]
+    },
+    {
+        "name": "stercorite",
+        "trans": [
+            "磷钠铵石"
+        ]
+    },
+    {
+        "name": "stereochemistry",
+        "trans": [
+            "立体化学"
+        ]
+    },
+    {
+        "name": "stereocomparator",
+        "trans": [
+            "立体坐标量测仪"
+        ]
+    },
+    {
+        "name": "stereogram",
+        "trans": [
+            "立体图"
+        ]
+    },
+    {
+        "name": "stereographic projection",
+        "trans": [
+            "立体投影"
+        ]
+    },
+    {
+        "name": "stereography",
+        "trans": [
+            "立体平画法"
+        ]
+    },
+    {
+        "name": "stereomicroscope",
+        "trans": [
+            "立体显微镜"
+        ]
+    },
+    {
+        "name": "stereopair",
+        "trans": [
+            "立体像对"
+        ]
+    },
+    {
+        "name": "stereophotogrammetry",
+        "trans": [
+            "立体摄影测量学"
+        ]
+    },
+    {
+        "name": "stereophotography",
+        "trans": [
+            "立体摄影术"
+        ]
+    },
+    {
+        "name": "stereophototopography",
+        "trans": [
+            "立体摄影地形测量学"
+        ]
+    },
+    {
+        "name": "stereoscope",
+        "trans": [
+            "立体镜"
+        ]
+    },
+    {
+        "name": "stereoscopic photiography",
+        "trans": [
+            "立体摄影术"
+        ]
+    },
+    {
+        "name": "stereoscopic vision",
+        "trans": [
+            "立体视力"
+        ]
+    },
+    {
+        "name": "stereoscopy",
+        "trans": [
+            "体视学"
+        ]
+    },
+    {
+        "name": "sternbergite",
+        "trans": [
+            "硫银铁矿"
+        ]
+    },
+    {
+        "name": "sternite",
+        "trans": [
+            "腹片"
+        ]
+    },
+    {
+        "name": "stevensite",
+        "trans": [
+            "硅镁石"
+        ]
+    },
+    {
+        "name": "stewartite",
+        "trans": [
+            "斜磷锰矿"
+        ]
+    },
+    {
+        "name": "stibiconite",
+        "trans": [
+            "黄锑华"
+        ]
+    },
+    {
+        "name": "stibiocolumbite",
+        "trans": [
+            "锑铌矿"
+        ]
+    },
+    {
+        "name": "stibiopalladinite",
+        "trans": [
+            "锑钯矿"
+        ]
+    },
+    {
+        "name": "stibiotantalite",
+        "trans": [
+            "锑钽矿"
+        ]
+    },
+    {
+        "name": "stibium",
+        "trans": [
+            "锑"
+        ]
+    },
+    {
+        "name": "stibnite",
+        "trans": [
+            "辉锑矿"
+        ]
+    },
+    {
+        "name": "stichtite",
+        "trans": [
+            "碳酸镁铬矿"
+        ]
+    },
+    {
+        "name": "stick slip",
+        "trans": [
+            "粘着滑动"
+        ]
+    },
+    {
+        "name": "stiff soil",
+        "trans": [
+            "粘结性土壤"
+        ]
+    },
+    {
+        "name": "stigma",
+        "trans": [
+            "柱头"
+        ]
+    },
+    {
+        "name": "stilbite",
+        "trans": [
+            "束沸石"
+        ]
+    },
+    {
+        "name": "stilling well",
+        "trans": [
+            "静水井"
+        ]
+    },
+    {
+        "name": "stilpnomelane",
+        "trans": [
+            "黑硬绿泥石"
+        ]
+    },
+    {
+        "name": "stinkkalk",
+        "trans": [
+            "臭灰岩"
+        ]
+    },
+    {
+        "name": "stinkstone",
+        "trans": [
+            "臭灰岩"
+        ]
+    },
+    {
+        "name": "stipule",
+        "trans": [
+            "托叶"
+        ]
+    },
+    {
+        "name": "stishovite",
+        "trans": [
+            "超石英"
+        ]
+    },
+    {
+        "name": "stock",
+        "trans": [
+            "岩株"
+        ]
+    },
+    {
+        "name": "stock farming",
+        "trans": [
+            "养畜业"
+        ]
+    },
+    {
+        "name": "stockwork",
+        "trans": [
+            "网状脉"
+        ]
+    },
+    {
+        "name": "stockwork deposit",
+        "trans": [
+            "网状脉矿床"
+        ]
+    },
+    {
+        "name": "stoichiometry",
+        "trans": [
+            "化学计量学"
+        ]
+    },
+    {
+        "name": "stokesite",
+        "trans": [
+            "硅钙锡石"
+        ]
+    },
+    {
+        "name": "stolzite",
+        "trans": [
+            "钨铅矿"
+        ]
+    },
+    {
+        "name": "stoma",
+        "trans": [
+            "气孔"
+        ]
+    },
+    {
+        "name": "stomach stone",
+        "trans": [
+            "胃石"
+        ]
+    },
+    {
+        "name": "stomatal transpiration",
+        "trans": [
+            "气孔蒸腾"
+        ]
+    },
+    {
+        "name": "stone desert",
+        "trans": [
+            "石漠"
+        ]
+    },
+    {
+        "name": "stone fields",
+        "trans": [
+            "岩海"
+        ]
+    },
+    {
+        "name": "stone forest",
+        "trans": [
+            "石林"
+        ]
+    },
+    {
+        "name": "stone pit",
+        "trans": [
+            "采石场"
+        ]
+    },
+    {
+        "name": "stony",
+        "trans": [
+            "多石的"
+        ]
+    },
+    {
+        "name": "stony iron",
+        "trans": [
+            "陨铁石"
+        ]
+    },
+    {
+        "name": "stony soil",
+        "trans": [
+            "石质土"
+        ]
+    },
+    {
+        "name": "stony tundra",
+        "trans": [
+            "石质冻原"
+        ]
+    },
+    {
+        "name": "stope",
+        "trans": [
+            "回采工祖"
+        ]
+    },
+    {
+        "name": "stoping",
+        "trans": [
+            "回采"
+        ]
+    },
+    {
+        "name": "stoping face",
+        "trans": [
+            "回采工祖"
+        ]
+    },
+    {
+        "name": "stopper",
+        "trans": [
+            "伸缩式凿岩机"
+        ]
+    },
+    {
+        "name": "stopper circuit",
+        "trans": [
+            "带除滤波电路"
+        ]
+    },
+    {
+        "name": "stopping potential",
+        "trans": [
+            "遏止电位"
+        ]
+    },
+    {
+        "name": "storage",
+        "trans": [
+            "蓄水量"
+        ]
+    },
+    {
+        "name": "storage capacity",
+        "trans": [
+            "储水能力"
+        ]
+    },
+    {
+        "name": "storage coefficient",
+        "trans": [
+            "储水系数"
+        ]
+    },
+    {
+        "name": "storage in depressions",
+        "trans": [
+            "洼地储水"
+        ]
+    },
+    {
+        "name": "storm sample",
+        "trans": [
+            "风暴样品"
+        ]
+    },
+    {
+        "name": "straight extinction",
+        "trans": [
+            "直消光"
+        ]
+    },
+    {
+        "name": "straight river",
+        "trans": [
+            "顺直性河流"
+        ]
+    },
+    {
+        "name": "strain",
+        "trans": [
+            "应变"
+        ]
+    },
+    {
+        "name": "strain discontinuity",
+        "trans": [
+            "应变不连续"
+        ]
+    },
+    {
+        "name": "strain ellipsoid",
+        "trans": [
+            "变形椭球体"
+        ]
+    },
+    {
+        "name": "strain facies",
+        "trans": [
+            "应变相"
+        ]
+    },
+    {
+        "name": "strain pattern",
+        "trans": [
+            "应变图像"
+        ]
+    },
+    {
+        "name": "strain slip cleavage",
+        "trans": [
+            "应变滑劈理"
+        ]
+    },
+    {
+        "name": "strait",
+        "trans": [
+            "海峡"
+        ]
+    },
+    {
+        "name": "strand deposits",
+        "trans": [
+            "沿滨沉积"
+        ]
+    },
+    {
+        "name": "strand line",
+        "trans": [
+            "海岸线"
+        ]
+    },
+    {
+        "name": "strata",
+        "trans": [
+            "地层"
+        ]
+    },
+    {
+        "name": "strath terrace",
+        "trans": [
+            "宽谷阶地"
+        ]
+    },
+    {
+        "name": "stratification",
+        "trans": [
+            "层理"
+        ]
+    },
+    {
+        "name": "stratification plane",
+        "trans": [
+            "层面"
+        ]
+    },
+    {
+        "name": "stratified",
+        "trans": [
+            "成层的"
+        ]
+    },
+    {
+        "name": "stratified ore deposit",
+        "trans": [
+            "成层矿床"
+        ]
+    },
+    {
+        "name": "stratified rock",
+        "trans": [
+            "成层岩"
+        ]
+    },
+    {
+        "name": "stratified structure",
+        "trans": [
+            "层状结构"
+        ]
+    },
+    {
+        "name": "stratified volcano",
+        "trans": [
+            "层状火山"
+        ]
+    },
+    {
+        "name": "stratiform",
+        "trans": [
+            "层状的"
+        ]
+    },
+    {
+        "name": "stratiform ore deposit",
+        "trans": [
+            "层状矿床"
+        ]
+    },
+    {
+        "name": "stratiform water",
+        "trans": [
+            "层状水"
+        ]
+    },
+    {
+        "name": "stratigraphic column",
+        "trans": [
+            "地层剖面"
+        ]
+    },
+    {
+        "name": "stratigraphic correlation",
+        "trans": [
+            "地层对比"
+        ]
+    },
+    {
+        "name": "stratigraphic division",
+        "trans": [
+            "地层区分"
+        ]
+    },
+    {
+        "name": "stratigraphic erosional reservoir",
+        "trans": [
+            "地层剥蚀油气藏"
+        ]
+    },
+    {
+        "name": "stratigraphic geology",
+        "trans": [
+            "地层学"
+        ]
+    },
+    {
+        "name": "stratigraphic heave",
+        "trans": [
+            "地层水平移动"
+        ]
+    },
+    {
+        "name": "stratigraphic overlap",
+        "trans": [
+            "地层超复"
+        ]
+    },
+    {
+        "name": "stratigraphic profile",
+        "trans": [
+            "地层剖面图"
+        ]
+    },
+    {
+        "name": "stratigraphic reservoir",
+        "trans": [
+            "地层油气藏"
+        ]
+    },
+    {
+        "name": "stratigraphic separation",
+        "trans": [
+            "地层离距"
+        ]
+    },
+    {
+        "name": "stratigraphic throw",
+        "trans": [
+            "地层落差"
+        ]
+    },
+    {
+        "name": "stratigraphic trap",
+        "trans": [
+            "地层圈闭"
+        ]
+    },
+    {
+        "name": "stratigraphic unconformity reservoir",
+        "trans": [
+            "地层不整合油气藏"
+        ]
+    },
+    {
+        "name": "stratigraphic unit",
+        "trans": [
+            "地层单位"
+        ]
+    },
+    {
+        "name": "stratigraphical discordance",
+        "trans": [
+            "地层不整合"
+        ]
+    },
+    {
+        "name": "stratigraphical drilling",
+        "trans": [
+            "地层钻探"
+        ]
+    },
+    {
+        "name": "stratigraphical gap",
+        "trans": [
+            "地层间断"
+        ]
+    },
+    {
+        "name": "stratigraphical hiatus",
+        "trans": [
+            "地层间断"
+        ]
+    },
+    {
+        "name": "stratigraphy",
+        "trans": [
+            "地层学"
+        ]
+    },
+    {
+        "name": "strato volcano",
+        "trans": [
+            "层状火山"
+        ]
+    },
+    {
+        "name": "stratosphere",
+        "trans": [
+            "平零"
+        ]
+    },
+    {
+        "name": "stratotype",
+        "trans": [
+            "层型"
+        ]
+    },
+    {
+        "name": "stratovolcano",
+        "trans": [
+            "层状火山"
+        ]
+    },
+    {
+        "name": "stratum",
+        "trans": [
+            "地层"
+        ]
+    },
+    {
+        "name": "stray current",
+        "trans": [
+            "杂散电流"
+        ]
+    },
+    {
+        "name": "streak",
+        "trans": [
+            "条痕"
+        ]
+    },
+    {
+        "name": "stream bed",
+        "trans": [
+            "河床"
+        ]
+    },
+    {
+        "name": "stream channel",
+        "trans": [
+            "河道"
+        ]
+    },
+    {
+        "name": "stream development",
+        "trans": [
+            "河立展度"
+        ]
+    },
+    {
+        "name": "stream flow",
+        "trans": [
+            "河流缓流"
+        ]
+    },
+    {
+        "name": "stream line",
+        "trans": [
+            "吝"
+        ]
+    },
+    {
+        "name": "stream order",
+        "trans": [
+            "河寥级"
+        ]
+    },
+    {
+        "name": "stream outlet",
+        "trans": [
+            "河口"
+        ]
+    },
+    {
+        "name": "stream tin",
+        "trans": [
+            "砂锡"
+        ]
+    },
+    {
+        "name": "streaming potential",
+        "trans": [
+            "怜势能"
+        ]
+    },
+    {
+        "name": "streamtube",
+        "trans": [
+            "廉管道"
+        ]
+    },
+    {
+        "name": "strengite",
+        "trans": [
+            "粉红磷铁矿"
+        ]
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "强度"
+        ]
+    },
+    {
+        "name": "stress analysis",
+        "trans": [
+            "应力分析"
+        ]
+    },
+    {
+        "name": "stress concentration",
+        "trans": [
+            "应力集中"
+        ]
+    },
+    {
+        "name": "stress diagram",
+        "trans": [
+            "应力图"
+        ]
+    },
+    {
+        "name": "stress distribution",
+        "trans": [
+            "应力分布"
+        ]
+    },
+    {
+        "name": "stress free method",
+        "trans": [
+            "应力释放法"
+        ]
+    },
+    {
+        "name": "stress limit",
+        "trans": [
+            "极限应力"
+        ]
+    },
+    {
+        "name": "stress minerals",
+        "trans": [
+            "应力矿物"
+        ]
+    },
+    {
+        "name": "stress relief",
+        "trans": [
+            "应力解除"
+        ]
+    },
+    {
+        "name": "stress strain curve",
+        "trans": [
+            "拉伸曲线"
+        ]
+    },
+    {
+        "name": "stretching",
+        "trans": [
+            "延伸"
+        ]
+    },
+    {
+        "name": "striated",
+        "trans": [
+            "有条纹的"
+        ]
+    },
+    {
+        "name": "striated pebble",
+        "trans": [
+            "擦痕卵石"
+        ]
+    },
+    {
+        "name": "striation",
+        "trans": [
+            "条纹"
+        ]
+    },
+    {
+        "name": "strigovite",
+        "trans": [
+            "柱绿泥石"
+        ]
+    },
+    {
+        "name": "strike",
+        "trans": [
+            "走向"
+        ]
+    },
+    {
+        "name": "strike fault",
+        "trans": [
+            "走向断层"
+        ]
+    },
+    {
+        "name": "strike joint",
+        "trans": [
+            "走向节理"
+        ]
+    },
+    {
+        "name": "strike line",
+        "trans": [
+            "走向线"
+        ]
+    },
+    {
+        "name": "strike separation",
+        "trans": [
+            "走向间距"
+        ]
+    },
+    {
+        "name": "strike slip fault",
+        "trans": [
+            "横冲断层"
+        ]
+    },
+    {
+        "name": "strike valley",
+        "trans": [
+            "走向谷"
+        ]
+    },
+    {
+        "name": "stringer",
+        "trans": [
+            "细脉"
+        ]
+    },
+    {
+        "name": "strip",
+        "trans": [
+            "带"
+        ]
+    },
+    {
+        "name": "stripped peneplain",
+        "trans": [
+            "剥露准平原"
+        ]
+    },
+    {
+        "name": "stripping",
+        "trans": [
+            "剥土探矿"
+        ]
+    },
+    {
+        "name": "strobe",
+        "trans": [
+            "选通脉冲"
+        ]
+    },
+    {
+        "name": "strobing pulse",
+        "trans": [
+            "选通脉冲"
+        ]
+    },
+    {
+        "name": "stromatite",
+        "trans": [
+            "叠层混合岩"
+        ]
+    },
+    {
+        "name": "stromatolite",
+        "trans": [
+            "垫藻岩"
+        ]
+    },
+    {
+        "name": "stromatolithic",
+        "trans": [
+            "迭层状的"
+        ]
+    },
+    {
+        "name": "strombolian type eruption",
+        "trans": [
+            "斯特朗博利型火山喷发"
+        ]
+    },
+    {
+        "name": "stromeyerite",
+        "trans": [
+            "硫铜银矿"
+        ]
+    },
+    {
+        "name": "stromnite",
+        "trans": [
+            "碳酸钡锶矿"
+        ]
+    },
+    {
+        "name": "strong coupling theory",
+        "trans": [
+            "强耦合理论"
+        ]
+    },
+    {
+        "name": "strong earthquake",
+        "trans": [
+            "强震"
+        ]
+    },
+    {
+        "name": "strontianite",
+        "trans": [
+            "菱锶矿"
+        ]
+    },
+    {
+        "name": "strontium",
+        "trans": [
+            "锶"
+        ]
+    },
+    {
+        "name": "strontiumapatite",
+        "trans": [
+            "锶磷灰石"
+        ]
+    },
+    {
+        "name": "strontiumheulandite",
+        "trans": [
+            "锶片沸石"
+        ]
+    },
+    {
+        "name": "structural analysis",
+        "trans": [
+            "结构分析"
+        ]
+    },
+    {
+        "name": "structural discordance",
+        "trans": [
+            "构造不整合"
+        ]
+    },
+    {
+        "name": "structural dome",
+        "trans": [
+            "构造圆丘"
+        ]
+    },
+    {
+        "name": "structural factor",
+        "trans": [
+            "构造因素"
+        ]
+    },
+    {
+        "name": "structural features",
+        "trans": [
+            "构造细部"
+        ]
+    },
+    {
+        "name": "structural geology",
+        "trans": [
+            "构造地质学"
+        ]
+    },
+    {
+        "name": "structural lenticular body",
+        "trans": [
+            "构造透镜体"
+        ]
+    },
+    {
+        "name": "structural map",
+        "trans": [
+            "构造图"
+        ]
+    },
+    {
+        "name": "structural petrology",
+        "trans": [
+            "构造岩石学"
+        ]
+    },
+    {
+        "name": "structural stage",
+        "trans": [
+            "构造层"
+        ]
+    },
+    {
+        "name": "structural terrace",
+        "trans": [
+            "构造阶地"
+        ]
+    },
+    {
+        "name": "structural trap",
+        "trans": [
+            "构造圈闭"
+        ]
+    },
+    {
+        "name": "structural valley",
+        "trans": [
+            "构造谷"
+        ]
+    },
+    {
+        "name": "structural vitrain",
+        "trans": [
+            "结构镜煤"
+        ]
+    },
+    {
+        "name": "structure",
+        "trans": [
+            "构造"
+        ]
+    },
+    {
+        "name": "structure of oil field",
+        "trans": [
+            "油田构造"
+        ]
+    },
+    {
+        "name": "structure of ores",
+        "trans": [
+            "矿石构造"
+        ]
+    },
+    {
+        "name": "structure of sedimentary cover",
+        "trans": [
+            "盖层构造"
+        ]
+    },
+    {
+        "name": "structure polar",
+        "trans": [
+            "构造极地"
+        ]
+    },
+    {
+        "name": "structureless soil",
+        "trans": [
+            "无结构土壤"
+        ]
+    },
+    {
+        "name": "struggle for existence",
+        "trans": [
+            "生存竞争"
+        ]
+    },
+    {
+        "name": "struverite",
+        "trans": [
+            "钛铌钽矿"
+        ]
+    },
+    {
+        "name": "struvite",
+        "trans": [
+            "鸟粪石"
+        ]
+    },
+    {
+        "name": "stubachite",
+        "trans": [
+            "蛇异橄榄岩"
+        ]
+    },
+    {
+        "name": "studtite",
+        "trans": [
+            "铀霞石"
+        ]
+    },
+    {
+        "name": "stuffing box",
+        "trans": [
+            "填料函"
+        ]
+    },
+    {
+        "name": "sturtishes",
+        "trans": [
+            "海星类"
+        ]
+    },
+    {
+        "name": "stutzite",
+        "trans": [
+            "六方碲银矿"
+        ]
+    },
+    {
+        "name": "stylolite",
+        "trans": [
+            "石笔杆"
+        ]
+    },
+    {
+        "name": "stylolitic joint",
+        "trans": [
+            "缝合线节理"
+        ]
+    },
+    {
+        "name": "stylolitic structure",
+        "trans": [
+            "柱状构造"
+        ]
+    },
+    {
+        "name": "stylotypite",
+        "trans": [
+            "柱形石"
+        ]
+    },
+    {
+        "name": "suanite",
+        "trans": [
+            "逐安石"
+        ]
+    },
+    {
+        "name": "subaerial",
+        "trans": [
+            "陆上的"
+        ]
+    },
+    {
+        "name": "subalpine belt",
+        "trans": [
+            "亚高山带"
+        ]
+    },
+    {
+        "name": "subanthracite",
+        "trans": [
+            "亚无烟煤"
+        ]
+    },
+    {
+        "name": "subaqueous",
+        "trans": [
+            "水下的"
+        ]
+    }
+]

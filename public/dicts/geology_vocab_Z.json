@@ -1,0 +1,398 @@
+[
+    {
+        "name": "z shaped fracture system",
+        "trans": [
+            "型断裂体系"
+        ]
+    },
+    {
+        "name": "zaratite",
+        "trans": [
+            "翠镍矿"
+        ]
+    },
+    {
+        "name": "zenithal angle of hole",
+        "trans": [
+            "钻孔顶角"
+        ]
+    },
+    {
+        "name": "zeolite",
+        "trans": [
+            "沸石"
+        ]
+    },
+    {
+        "name": "zeolite facies",
+        "trans": [
+            "沸石相"
+        ]
+    },
+    {
+        "name": "zeolitic water",
+        "trans": [
+            "沸石水"
+        ]
+    },
+    {
+        "name": "zeolitization",
+        "trans": [
+            "沸石化"
+        ]
+    },
+    {
+        "name": "zero adjustment",
+        "trans": [
+            "零位蝶"
+        ]
+    },
+    {
+        "name": "zero datum",
+        "trans": [
+            "零位"
+        ]
+    },
+    {
+        "name": "zeugogeosyncline",
+        "trans": [
+            "联合地槽"
+        ]
+    },
+    {
+        "name": "zeunerite",
+        "trans": [
+            "翠砷铜铀矿"
+        ]
+    },
+    {
+        "name": "zigzag fault",
+        "trans": [
+            "锯齿状断裂"
+        ]
+    },
+    {
+        "name": "zinc",
+        "trans": [
+            "锌"
+        ]
+    },
+    {
+        "name": "zinc melanterite",
+        "trans": [
+            "锌水绿矾"
+        ]
+    },
+    {
+        "name": "zinc ore deposit",
+        "trans": [
+            "锌矿床"
+        ]
+    },
+    {
+        "name": "zincaluminite",
+        "trans": [
+            "锌茂"
+        ]
+    },
+    {
+        "name": "zincblende star",
+        "trans": [
+            "闪锌矿星"
+        ]
+    },
+    {
+        "name": "zincite",
+        "trans": [
+            "红锌矿"
+        ]
+    },
+    {
+        "name": "zinckenite",
+        "trans": [
+            "辉锑铅矿"
+        ]
+    },
+    {
+        "name": "zincosite",
+        "trans": [
+            "锌矾"
+        ]
+    },
+    {
+        "name": "zinnwaldite",
+        "trans": [
+            "铁锂云母"
+        ]
+    },
+    {
+        "name": "zippeite",
+        "trans": [
+            "水铀矾"
+        ]
+    },
+    {
+        "name": "zircon",
+        "trans": [
+            "锆石"
+        ]
+    },
+    {
+        "name": "zirconium",
+        "trans": [
+            "锆"
+        ]
+    },
+    {
+        "name": "zirkelite",
+        "trans": [
+            "钛锆钍矿"
+        ]
+    },
+    {
+        "name": "zobtenite",
+        "trans": [
+            "异剥辉长片麻岩"
+        ]
+    },
+    {
+        "name": "zoisite",
+        "trans": [
+            "帘石"
+        ]
+    },
+    {
+        "name": "zonage",
+        "trans": [
+            "分带"
+        ]
+    },
+    {
+        "name": "zonal",
+        "trans": [
+            "带状的"
+        ]
+    },
+    {
+        "name": "zonal alteration",
+        "trans": [
+            "带状蚀变"
+        ]
+    },
+    {
+        "name": "zonal circulation",
+        "trans": [
+            "纬向环流"
+        ]
+    },
+    {
+        "name": "zonal distribution",
+        "trans": [
+            "分带分布"
+        ]
+    },
+    {
+        "name": "zonal index",
+        "trans": [
+            "纬向指数"
+        ]
+    },
+    {
+        "name": "zonal pegmatite",
+        "trans": [
+            "带状伟晶岩"
+        ]
+    },
+    {
+        "name": "zonal struture",
+        "trans": [
+            "环带构造"
+        ]
+    },
+    {
+        "name": "zonation",
+        "trans": [
+            "带状排列"
+        ]
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "带"
+        ]
+    },
+    {
+        "name": "zone fossil",
+        "trans": [
+            "分带化石"
+        ]
+    },
+    {
+        "name": "zone melting",
+        "trans": [
+            "区域熔融"
+        ]
+    },
+    {
+        "name": "zone melting method",
+        "trans": [
+            "区域熔融法"
+        ]
+    },
+    {
+        "name": "zone of accumulation",
+        "trans": [
+            "淀积层"
+        ]
+    },
+    {
+        "name": "zone of contact",
+        "trans": [
+            "接触变质带"
+        ]
+    },
+    {
+        "name": "zone of faulting",
+        "trans": [
+            "断裂带"
+        ]
+    },
+    {
+        "name": "zone of fracture",
+        "trans": [
+            "破裂带"
+        ]
+    },
+    {
+        "name": "zone of investigation",
+        "trans": [
+            "甸区域"
+        ]
+    },
+    {
+        "name": "zone of leaching",
+        "trans": [
+            "淋滤带"
+        ]
+    },
+    {
+        "name": "zone of rainfall",
+        "trans": [
+            "降雨带"
+        ]
+    },
+    {
+        "name": "zone of rock flowage",
+        "trans": [
+            "岩柳"
+        ]
+    },
+    {
+        "name": "zone of rock fracture",
+        "trans": [
+            "岩石裂隙带"
+        ]
+    },
+    {
+        "name": "zone of saturation",
+        "trans": [
+            "饱水带"
+        ]
+    },
+    {
+        "name": "zone of subsidence",
+        "trans": [
+            "沉降带"
+        ]
+    },
+    {
+        "name": "zone of weathering",
+        "trans": [
+            "风化带"
+        ]
+    },
+    {
+        "name": "zoning",
+        "trans": [
+            "分带"
+        ]
+    },
+    {
+        "name": "zoobenthos",
+        "trans": [
+            "水底动物"
+        ]
+    },
+    {
+        "name": "zoogenic rock",
+        "trans": [
+            "动物岩"
+        ]
+    },
+    {
+        "name": "zooid",
+        "trans": [
+            "个体"
+        ]
+    },
+    {
+        "name": "zoolith",
+        "trans": [
+            "动物岩"
+        ]
+    },
+    {
+        "name": "zoology",
+        "trans": [
+            "动物学"
+        ]
+    },
+    {
+        "name": "zooplankton",
+        "trans": [
+            "浮游动物"
+        ]
+    },
+    {
+        "name": "zoospore",
+        "trans": [
+            "游动孢子"
+        ]
+    },
+    {
+        "name": "zunyite",
+        "trans": [
+            "氯黄晶"
+        ]
+    },
+    {
+        "name": "zwiesellite",
+        "trans": [
+            "铁磷灰石"
+        ]
+    },
+    {
+        "name": "zwitter ion",
+        "trans": [
+            "两性离子"
+        ]
+    },
+    {
+        "name": "zygomorphous",
+        "trans": [
+            "两侧对称的"
+        ]
+    },
+    {
+        "name": "zygospore",
+        "trans": [
+            "接合孢子"
+        ]
+    },
+    {
+        "name": "zygote",
+        "trans": [
+            "合子"
+        ]
+    }
+]
